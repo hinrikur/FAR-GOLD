@@ -1,0 +1,30 @@
+MIM-GOLD_0.9
+
+Gullstaðallinn útg. 0,9:
+Í útgáfu 0,9 af Gullstaðlinum eru 13 skrár með mörkuðum textum sem voru valdir með úrtaki úr 13 textaflokkum úr 25 milljón orða Markaðri íslenskri málheild (MIM, http://malfong.is/?pg=mim). 
+Textarnir voru hreinsaðir og síðan markaðir með sjálfvirkum aðferðum og síðan var mörkun leiðrétt með hálfsjálfvirkum og handvirkum aðferðum. Þessi útgáfa var gefin út árið 2013. 
+Gert er ráð fyrir að málheildin verði notuð sem gullstaðall fyrir þjálfun námfúsra markara. 
+
+Nánari upplýsingar um mörkun og leiðréttingar eru á http://www.malfong.is/index.php?lang=is&pg=gull.
+
+Þegar birtar eru niðurstöður sem eru fengnar með því að nota gögn Gullstaðalins vinsamlegast vitnið í: 
+
+Hrafn Loftsson, Jökull H. Yngvason, Sigrún Helgadóttir og Eiríkur Rögnvaldsson. 2010. Developing a PoS-tagged corpus using existing tools.. Sarasola, Kepa, Francis M. Tyers og Mikel L. Forcada (ritstj.): 7th SaLTMiL Workshop on Creation and Use of Basic Lexical Resources for Less-Resourced Languages, LREC 2010, pp. 53-60. Valetta, Möltu. 
+
+Textaskrárnar eru í Linux-sniði og notuð er UTF-8 stafatafla. Snið skránna er þannig að í hverri línu er eitt orð ásamt marki. Orðið er fremst í línu síðan kemur dálkmerki (tab) og þá mark. Setningar eru aðgreindar með auðri línu. 
+
+Til þess að nota Gullstaðalinn þurfa notendur að samþykkja leyfi sem byggist á leyfi fyrir Markaða íslenska málheild þar sem textar Gullstaðalsins eru teknir úr MÍM. 
+Texti leyfisins fylgir þessum pakka í pfd-skjali. 
+
+MIM-GOLD version 0.9
+The MIM-GOLD corpus version 0.9 consists of 13 files with tagged Icelandic text that has been sampled from 13 domains of texts of the 25 million word Tagged Icelandic Corpus (MIM) (http://www.malfong.is/index.php?lang=en&pg=mim).
+The texts were cleaned extensively and then run through an automatic tagging process. The tags were then semi-manually and manually corrected. This version was published in 2013. The corpus is intended for the training of data-drvien taggers for Icelandic. 
+For further information about the compilation of the corpus see http://www.malfong.is/index.php?lang=en&pg=gull.
+
+When publishing results based on the texts in MIM-GOLD please refer to: 
+
+Hrafn Loftsson, Jökull H. Yngvason, Sigrún Helgadóttir and Eiríkur Rögnvaldsson. 2010. Developing a PoS-tagged corpus using existing tools. Sarasola, Kepa, Francis M. Tyers og Mikel L. Forcada (eds.): 7th SaLTMiL Workshop on Creation and Use of Basic Lexical Resources for Less-Resourced Languages, LREC 2010, pp. 53-60. Valetta, Malta. 
+
+The text files are encoded in UTF-8 and Linux format. The format of the files is one token per line, each line consists of the word, followed by a tab and then the tag. Sentences are separated by empty lines. 
+
+The corpus is licensed under a proprietary license based on the license for MIM since the texts of MIM-GOLD are sampled from MIM. The text of the license is a part of the package as a pdf-file.

@@ -1,0 +1,1407 @@
+<corpus id="fts" part="fts_1998-01-06"><text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26a5e18a4-26ca3ae0a">
+<w pos="N" msd="Prop.Sg.Acc" lemma="Jákup" ref="1" dephead="2" deprel="MOD">Jákup</w>
+<w pos="N" msd="Prop.Sg.Acc" lemma="Mørkøre" ref="2" dephead="3" deprel="OBJ">Mørkøre</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="verða" ref="3" dephead="0" deprel="+MV">varð</w>
+<w pos="V*" msd="PrfPrc.A.Msc.Sg.Nom.Indef" lemma="seta" ref="4" dephead="5" deprel="MOD">settur</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="stjóri" ref="5" dephead="3" deprel="SBJ">stjóri</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="6" dephead="3" deprel="ADV">frá</w>
+<w pos="N" msd="Msc.Sg" lemma="mars" ref="7" dephead="0" deprel="X">mars</w>
+<w pos="Num" msd="Dat" lemma="1997" ref="8" dephead="0" deprel="X">1997</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="9" dephead="8" deprel="_U_">,</w>
+<w pos="Pr" msd="__UNDEF__" lemma="eftir" ref="10" dephead="16" deprel="ADV">eftir</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="11" dephead="15" deprel="CVP">at</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Leivur" ref="12" dephead="13" deprel="MOD">Leivur</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Michelsen" ref="13" dephead="15" deprel="SBJ">Michelsen</w>
+<w pos="Adv" msd="__UNDEF__" lemma="fyribils" ref="14" dephead="16" deprel="ADV">fyribils</w>
+<w pos="V" msd="Ind.Prt.Sg" lemma="hava" ref="15" dephead="3" deprel="OBJ">hevði</w>
+<w pos="N" msd="Fem.Sg.Acc.Indef" lemma="røkt" ref="16" dephead="15" deprel="OBJ">røkt</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="stjórastarvið" ref="17" dephead="17" deprel="_U_">stjórastarvið</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="18" dephead="16" deprel="ADV">frá</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="ársbyrjan" ref="19" dephead="18" deprel="MOD">ársbyrjan</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="20" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26d044651-26b6847d7">
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="40" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26d89931a-263eed93d">
+<w pos="CS" msd="__UNDEF__" lemma="um" ref="1" dephead="3" deprel="CVP">Um</w>
+<w pos="N" msd="Neu.Pl.Nom.Def" lemma="hjún" ref="2" dephead="3" deprel="SBJ">hjúnini</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="hava" ref="3" dephead="0" deprel="ADV">hava</w>
+<w pos="A" msd="Fem.Sg.Acc.Indef" lemma="skattskyldugur" ref="4" dephead="3" deprel="MOD">skattskylduga</w>
+<w pos="N" msd="Fem.Sg.Acc.Indef" lemma="inntøka" ref="5" dephead="3" deprel="OBJ">inntøku</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="6" dephead="1" deprel="_U_">,</w>
+<w pos="&lt;cs&gt;" msd="Rel" lemma="sum" ref="7" dephead="8" deprel="CVP">sum</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="stava" ref="8" dephead="5" deprel="+V">stavar</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="9" dephead="8" deprel="ADV">frá</w>
+<w pos="N" msd="Fem.Pl.Dat.Indef" lemma="ogn" ref="10" dephead="9" deprel="MOD">ognum</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="11" dephead="8" deprel="ADV">í</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="hjúnarbandinum" ref="12" dephead="12" deprel="_U_">hjúnarbandinum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="13" dephead="7" deprel="_U_">,</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="skula" ref="14" dephead="8" deprel="+AV">skal</w>
+<w pos="Pron" msd="Interr.Fem.Sg.Nom" lemma="hvør" ref="15" dephead="0" deprel="X">hvør</w>
+<w pos="Pron" msd="Pers.Pl.Gen" lemma="hon" ref="16" dephead="0" deprel="X">teirra</w>
+<w pos="V" msd="Inf" lemma="taka" ref="17" dephead="14" deprel="-MV">taka</w>
+<w pos="Pr" msd="__UNDEF__" lemma="við" ref="18" dephead="17" deprel="ADV">við</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="19" dephead="17" deprel="ADV">í</w>
+<w pos="A" msd="Fem.Sg.Acc.Def" lemma="skattskyldugur" ref="20" dephead="21" deprel="MOD">skattskyldugu</w>
+<w pos="N" msd="Fem.Sg.Acc.Def" lemma="inntøkuuppgerð" ref="21" dephead="19" deprel="MOD">inntøkuuppgerðina</w>
+<w pos="Det" msd="Fem.Sg.Acc" lemma="tann" ref="22" dephead="17" deprel="MOD">ta</w>
+<w pos="N" msd="Fem.Sg.Acc.Indef" lemma="inntøka" ref="23" dephead="0" deprel="X">inntøku</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="24" dephead="7" deprel="_U_">,</w>
+<w pos="&lt;cs&gt;" msd="Rel" lemma="ið" ref="25" dephead="26" deprel="CVP">ið</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="stava" ref="26" dephead="17" deprel="+V">stavar</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="27" dephead="26" deprel="ADV">frá</w>
+<w pos="A" msd="Fem.Pl.Dat.Indef" lemma="egin" ref="28" dephead="29" deprel="MOD">egnum</w>
+<w pos="N" msd="Fem.Pl.Dat.Indef" lemma="ogn" ref="29" dephead="27" deprel="MOD">ognum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="30" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="269a6d166-268cd2338">
+<w pos="Pr" msd="__UNDEF__" lemma="eftir" ref="1" dephead="7" deprel="ADV">Eftir</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="síðsta" ref="2" dephead="1" deprel="MOD">síðstu</w>
+<w pos="N" msd="Fem.Pl.Dat.Def" lemma="broyting" ref="3" dephead="7" deprel="OBJ">broytingunum</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="4" dephead="3" deprel="MOD">í</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="skattalóg" ref="5" dephead="4" deprel="MOD">skattalógini</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="6" dephead="5" deprel="_U_">,</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="verða" ref="7" dephead="0" deprel="+MV">verða</w>
+<w pos="N" msd="Msc.Pl.Nom.Indef" lemma="hjúnafelagi" ref="8" dephead="0" deprel="SBJ">hjúnafelagar</w>
+<w pos="A*" msd="Msc.Pl.Adv" lemma="nevniligur" ref="9" dephead="7" deprel="ADV">nevniliga</w>
+<w pos="V*" msd="PrfPrc.A.Msc.Pl.Nom.Indef" lemma="skatta" ref="10" dephead="0" deprel="X">skattaðir</w>
+<w pos="Pron" msd="Interr.Fem.Sg.Nom" lemma="hvør" ref="11" dephead="0" deprel="X">hvør</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="síggja" ref="12" dephead="7" deprel="+MV">sær</w>
+<w pos="Pr" msd="__UNDEF__" lemma="av" ref="13" dephead="12" deprel="ADV">av</w>
+<w pos="N" msd="Neu.Pl.Dat.Indef" lemma="inntak" ref="14" dephead="13" deprel="MOD">inntøkum</w>
+<w pos="Det" msd="Poss.Neu.Pl.Dat" lemma="sín" ref="15" dephead="14" deprel="MOD">sínum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="16" dephead="7" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="265f01924-26bad4db1">
+<w pos="Adv" msd="__UNDEF__" lemma="umsíðir" ref="1" dephead="5" deprel="ADV">Umsíðir</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="kunna" ref="2" dephead="0" deprel="+AV">kann</w>
+<w pos="Det" msd="Msc.Sg.Nom" lemma="ein" ref="3" dephead="4" deprel="MOD">ein</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="bakari" ref="4" dephead="2" deprel="SBJ">bakari</w>
+<w pos="V" msd="Inf" lemma="geva" ref="5" dephead="2" deprel="-MV">geva</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="kona" ref="6" dephead="5" deprel="OBJ">konuni</w>
+<w pos="N" msd="Fem.Sg.Nom.Indef" lemma="løn" ref="7" dephead="10" deprel="SBJ">løn</w>
+<w pos="Pr" msd="__UNDEF__" lemma="um" ref="8" dephead="8" deprel="ADV">um</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hon" ref="9" dephead="10" deprel="SBJ">hon</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="hjálpa" ref="10" dephead="2" deprel="+MV">hjálpir</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="11" dephead="10" deprel="ADV">til</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="12" dephead="10" deprel="ADV">í</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="bakarí" ref="13" dephead="12" deprel="MOD">bakarínum</w>
+<w pos="Pr" msd="__UNDEF__" lemma="hjá" ref="14" dephead="10" deprel="ADV">hjá</w>
+<w pos="N" msd="Msc.Sg.Dat.Def" lemma="maður" ref="15" dephead="14" deprel="MOD">manninum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="16" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26e2e0169-26c72dc14">
+<w pos="N" msd="Prop.Sg.Nom" lemma="Jákup" ref="1" dephead="2" deprel="MOD">Jákup</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Mørkøre" ref="2" dephead="3" deprel="SBJ">Mørkøre</w>
+<w pos="V" msd="Ind.Prt.Sg" lemma="villa" ref="3" dephead="0" deprel="+MV">vildi</w>
+<w pos="Adv" msd="__UNDEF__" lemma="ikki" ref="4" dephead="3" deprel="ADV">ikki</w>
+<w pos="V" msd="Inf" lemma="siga" ref="5" dephead="3" deprel="-MV">siga</w>
+<w pos="N" msd="Fem.Sg.Nom.Indef" lemma="dimmalætting" ref="6" dephead="13" deprel="SBJ">Dimmalætting</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="7" dephead="7" deprel="ADV">í</w>
+<w pos="N" msd="Acc" lemma="gjár" ref="8" dephead="7" deprel="MOD">gjár</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="9" dephead="20" deprel="_U_">,</w>
+<w pos="Pr" msd="__UNDEF__" lemma="um" ref="10" dephead="14" deprel="ADV">um</w>
+<w pos="Pron" msd="Pers.Sg.Acc" lemma="hann" ref="11" dephead="10" deprel="MOD">hann</w>
+<w pos="A" msd="Msc.Sg.Nom.Indef" lemma="sjálvur" ref="12" dephead="0" deprel="X">sjálvur</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="hava" ref="13" dephead="3" deprel="+AV">hevur</w>
+<w pos="V" msd="Sup" lemma="siga" ref="14" dephead="13" deprel="-MV">sagt</w>
+<w pos="Adv" msd="__UNDEF__" lemma="upp" ref="15" dephead="14" deprel="ADV">upp</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="16" dephead="17" deprel="_U_">,</w>
+<w pos="CC" msd="__UNDEF__" lemma="ella" ref="17" dephead="15" deprel="CNP">ella</w>
+<w pos="CS" msd="__UNDEF__" lemma="um" ref="18" dephead="20" deprel="CVP">um</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hann" ref="19" dephead="20" deprel="SBJ">hann</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="vera" ref="20" dephead="14" deprel="ADV">var</w>
+<w pos="V*" msd="PrfPrc.A.Msc.Sg.Nom.Indef" lemma="biðja" ref="21" dephead="20" deprel="SPR">biðin</w>
+<w pos="IM" msd="__UNDEF__" lemma="at" ref="22" dephead="23" deprel="_U_">at</w>
+<w pos="V" msd="Inf" lemma="fara" ref="23" dephead="13" deprel="-MV">fara</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="24" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="261577740-26532fb01">
+<w pos="A" msd="Msc.Sg.Nom.Def" lemma="rættur" ref="37" dephead="38" deprel="MOD">rætti</w>
+<w pos="N" msd="Msc.Sg.Nom.Def" lemma="maður" ref="38" dephead="0" deprel="X">maðurin</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="261befb7b-26e998dc4">
+<w pos="N" msd="Prop.Sg.Nom" lemma="Sverri" ref="1" dephead="2" deprel="MOD">Sverri</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Hansen" ref="2" dephead="3" deprel="SBJ">Hansen</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="siga" ref="3" dephead="0" deprel="+MV">sigur</w>
+<w pos="Pr" msd="__UNDEF__" lemma="við" ref="4" dephead="3" deprel="ADV">við</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="dimmalætting" ref="5" dephead="4" deprel="MOD">Dimmalætting</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="6" dephead="7" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="7" dephead="10" deprel="CVP">at</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Jákup" ref="8" dephead="9" deprel="MOD">Jákup</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Mørkøre" ref="9" dephead="10" deprel="SBJ">Mørkøre</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="10" dephead="3" deprel="ADV">er</w>
+<w pos="V*" msd="PrfPrc.A.Fem.Sg.Nom.Indef" lemma="fara" ref="11" dephead="10" deprel="SPR">farin</w>
+<w pos="A" msd="Msc.Sg.Nom.Indef" lemma="sjálvboðin" ref="12" dephead="0" deprel="X">sjálvboðin</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="13" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26aa55b20-26cb72c02">
+<w pos="A" msd="Cmp.Fem.Sg.Acc.Def" lemma="mangur" ref="1" dephead="2" deprel="MOD">Fleiri</w>
+<w pos="N" msd="Neu.Sg.Nom.Indef" lemma="høvd" ref="2" dephead="0" deprel="FRG">høvd</w>
+<w pos="N" msd="Msc.Sg.Nom.Def" lemma="framtaksgrunnur" ref="3" dephead="0" deprel="SBJ">Framtaksgrunnurin</w>
+<w pos="N" msd="Fem.Pl.Nom.Indef" lemma="eiga" ref="4" dephead="0" deprel="SBJ">eigur</w>
+<w pos="Det" msd="Msc.Sg.Acc.Indef" lemma="allur" ref="5" dephead="5" deprel="OBJ">allan</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="eginpeningin" ref="6" dephead="6" deprel="_U_">eginpeningin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="7" dephead="0" deprel="X">í</w>
+<w pos="V*" msd="PrfPrc.A.Fem.Sg.Acc.Indef" lemma="endurstovna" ref="8" dephead="9" deprel="MOD">endurstovnaða</w>
+<w pos="N" msd="Fem.Sg.Acc.Indef" lemma="fiskavirking" ref="9" dephead="7" deprel="MOD">Fiskavirking</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="10" dephead="9" deprel="CNP">og</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="fiskasøla" ref="11" dephead="9" deprel="MOD">Fiskasøluni</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="12" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="2699ac073-26eb0166b">
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="tað" ref="1" dephead="2" deprel="SBJ">Tað</w>
+<w pos="V" msd="Ind.Prt.Pl" lemma="skula" ref="2" dephead="0" deprel="+AV">skuldu</w>
+<w pos="V" msd="Inf" lemma="ganga" ref="3" dephead="2" deprel="-MV">ganga</w>
+<w pos="Num" msd="Msc.Sg.Nom" lemma="trý" ref="4" dephead="5" deprel="MOD">tríggir</w>
+<w pos="N" msd="Msc.Pl.Acc.Indef" lemma="dagur" ref="5" dephead="3" deprel="OBJ">dagar</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="6" dephead="19" deprel="_U_">,</w>
+<w pos="Num" msd="Nom" lemma="13" ref="7" dephead="8" deprel="MOD">13</w>
+<w pos="N" msd="Msc.Pl.Nom.Indef" lemma="tími" ref="8" dephead="5" deprel="SBJ">tímar</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="9" dephead="2" deprel="CVP">og</w>
+<w pos="Num" msd="Dat" lemma="7" ref="10" dephead="11" deprel="MOD">7</w>
+<w pos="N" msd="Msc.Pl.Acc.Indef" lemma="minuttur" ref="11" dephead="19" deprel="OBJ">minuttir</w>
+<w pos="Pr" msd="__UNDEF__" lemma="av" ref="12" dephead="19" deprel="ADV">av</w>
+<w pos="A" msd="Neu.Sg.Dat.Def" lemma="nýggjur" ref="13" dephead="14" deprel="MOD">nýggja</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="ár" ref="14" dephead="12" deprel="MOD">árinum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="15" dephead="16" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="áðrenn" ref="16" dephead="19" deprel="CVP">áðrenn</w>
+<w pos="A" msd="Msc.Sg.Nom.Def" lemma="fyrsti" ref="17" dephead="18" deprel="MOD">fyrsti</w>
+<w pos="N" msd="Msc.Sg.Nom.Def" lemma="nýføðingur" ref="18" dephead="19" deprel="SBJ">nýføðingurin</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="síggja" ref="19" dephead="3" deprel="ADV">sá</w>
+<w pos="N" msd="Msc.Sg.Gen.Def" lemma="dagur" ref="20" dephead="21" deprel="MOD">dagsins</w>
+<w pos="N" msd="Neu.Sg.Acc.Indef" lemma="ljós" ref="21" dephead="19" deprel="OBJ">ljós</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="22" dephead="19" deprel="ADV">á</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="føðideild" ref="23" dephead="22" deprel="MOD">føðideildini</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="24" dephead="19" deprel="ADV">í</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="landssjúkrahús" ref="25" dephead="24" deprel="MOD">Landssjúkrahúsinum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="26" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26b810079-265ddb219">
+<w pos="N" msd="Msc.Sg.Nom.Def" lemma="landsstýrismaður" ref="1" dephead="12" deprel="SBJ">Landsstýrismaðurin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="2" dephead="1" deprel="MOD">í</w>
+<w pos="N" msd="Neu.Pl.Dat.Indef" lemma="skattamál" ref="3" dephead="2" deprel="MOD">skattamálum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="4" dephead="5" deprel="_U_">,</w>
+<w pos="&lt;cs&gt;" msd="Rel" lemma="sum" ref="5" dephead="8" deprel="CVP">sum</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="6" dephead="8" deprel="ADV">í</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="løta" ref="7" dephead="6" deprel="MOD">løtuni</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="8" dephead="3" deprel="+V">er</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="Annfinn" ref="9" dephead="9" deprel="_U_">Annfinn</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Kallsberg" ref="10" dephead="8" deprel="SBJ">Kallsberg</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="11" dephead="5" deprel="_U_">,</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="fáa" ref="12" dephead="0" deprel="+MV">fær</w>
+<w pos="Pr" msd="__UNDEF__" lemma="sambært" ref="13" dephead="12" deprel="ADV">sambært</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="lógabroytingini" ref="14" dephead="14" deprel="_U_">lógabroytingini</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="heimild" ref="15" dephead="13" deprel="MOD">heimild</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="16" dephead="12" deprel="ADV">til</w>
+<w pos="Pr" msd="__UNDEF__" lemma="við" ref="17" dephead="12" deprel="ADV">við</w>
+<w pos="N" msd="Fem.Pl.Dat.Indef" lemma="kunngerð" ref="18" dephead="17" deprel="MOD">kunngerðum</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="19" dephead="22" deprel="CVP">at</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="fyriskriva" ref="20" dephead="20" deprel="_U_">fyriskriva</w>
+<w pos="A" msd="Fem.Sg.Dat.Indef" lemma="neyvur" ref="21" dephead="22" deprel="OBJ">neyvari</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="regla" ref="22" dephead="17" deprel="+MV">reglar</w>
+<w pos="Pr" msd="__UNDEF__" lemma="fyri" ref="23" dephead="22" deprel="ADV">fyri</w>
+<w pos="Adv" msd="__UNDEF__" lemma="hvussu" ref="24" dephead="22" deprel="ADV">hvussu</w>
+<w pos="N" msd="Fem.Sg.Nom.Def" lemma="uppgerð" ref="25" dephead="29" deprel="SBJ">uppgerðin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="av" ref="26" dephead="22" deprel="ADV">av</w>
+<w pos="A" msd="Msc.Pl.Dat.Indef" lemma="sambúgvandi" ref="27" dephead="28" deprel="MOD">sambúgvandi</w>
+<w pos="N" msd="Msc.Pl.Dat.Indef" lemma="hjúnafelagi" ref="28" dephead="26" deprel="MOD">hjúnafeløgum</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="verða" ref="29" dephead="12" deprel="+AV">verður</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="framd" ref="30" dephead="30" deprel="_U_">framd</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="31" dephead="12" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26d92a62d-2604d549c">
+<w pos="&lt;cs&gt;" msd="Rel" lemma="sum" ref="1" dephead="2" deprel="CVP">Sum</w>
+<w pos="V" msd="Imp.Sg.Pass" lemma="skilja" ref="2" dephead="0" deprel="+V">skilst</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="hava" ref="3" dephead="2" deprel="+AV">hevur</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hann" ref="4" dephead="3" deprel="SBJ">hann</w>
+<w pos="V" msd="Sup" lemma="hava" ref="5" dephead="3" deprel="-AV">havt</w>
+<w pos="A" msd="Neu.Sg.Dat.Def" lemma="góður" ref="6" dephead="2" deprel="MOD">góða</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="tíð" ref="7" dephead="2" deprel="OBJ">tíð</w>
+<w pos="IM" msd="__UNDEF__" lemma="at" ref="8" dephead="9" deprel="_U_">at</w>
+<w pos="V" msd="Inf" lemma="tøma" ref="9" dephead="5" deprel="-MV">tøma</w>
+<w pos="N" msd="Fem.Pl.Acc.Def" lemma="skuffa" ref="10" dephead="9" deprel="OBJ">skuffurnar</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="11" dephead="3" deprel="CVP">og</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="rudda" ref="12" dephead="3" deprel="+MV">rudda</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="skrivaraborðið" ref="13" dephead="13" deprel="_U_">skrivaraborðið</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="14" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="262aab0df-26342965d">
+<w pos="Pr" msd="__UNDEF__" lemma="eftir" ref="1" dephead="22" deprel="ADV">Eftir</w>
+<w pos="Pr" msd="__UNDEF__" lemma="at" ref="2" dephead="22" deprel="ADV">at</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="løgting" ref="3" dephead="2" deprel="MOD">løgtingið</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="samtykti" ref="4" dephead="4" deprel="_U_">samtykti</w>
+<w pos="N" msd="Fem.Pl.Acc.Indef" lemma="viðtøkubroyting" ref="5" dephead="5" deprel="OBJ">viðtøkubroytingar</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="6" dephead="5" deprel="MOD">í</w>
+<w pos="N" msd="Msc.Sg.Dat.Def" lemma="framtaksgrunnur" ref="7" dephead="6" deprel="MOD">Framtaksgrunninum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="8" dephead="11" deprel="_U_">,</w>
+<w pos="Adv" msd="__UNDEF__" lemma="tá" ref="9" dephead="11" deprel="ADV">tá</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="tað" ref="10" dephead="11" deprel="SBJ">tað</w>
+<w pos="V" msd="Ind.Prt.Sg" lemma="bjarga" ref="11" dephead="0" deprel="ADV">bjargaði</w>
+<w pos="N" msd="Msc.Sg.Dat.Def" lemma="gruður" ref="12" dephead="11" deprel="OBJ">grunninum</w>
+<w pos="Pr" msd="__UNDEF__" lemma="undan" ref="13" dephead="11" deprel="ADV">undan</w>
+<w pos="IM" msd="__UNDEF__" lemma="at" ref="14" dephead="15" deprel="_U_">at</w>
+<w pos="V" msd="Inf" lemma="fara" ref="15" dephead="13" deprel="_U_">fara</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="16" dephead="15" deprel="ADV">á</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="húsagangur" ref="17" dephead="16" deprel="MOD">húsagang</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="18" dephead="17" deprel="_U_">,</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="verða" ref="19" dephead="11" deprel="+AV">verður</w>
+<w pos="Adv" msd="__UNDEF__" lemma="ikki" ref="20" dephead="11" deprel="ADV">ikki</w>
+<w pos="N" msd="Fem.Pl.Nom.Indef" lemma="longa" ref="21" dephead="22" deprel="SBJ">longur</w>
+<w pos="V" msd="Sup" lemma="loyva" ref="22" dephead="19" deprel="-MV">loyvt</w>
+<w pos="N" msd="Prop.Sg.Acc" lemma="Sverri" ref="23" dephead="24" deprel="MOD">Sverra</w>
+<w pos="N" msd="Prop.Sg.Acc" lemma="Hansen" ref="24" dephead="22" deprel="OBJ">Hansen</w>
+<w pos="IM" msd="__UNDEF__" lemma="at" ref="25" dephead="26" deprel="_U_">at</w>
+<w pos="V" msd="Inf" lemma="sita" ref="26" dephead="19" deprel="-MV">sita</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="27" dephead="27" deprel="ADV">í</w>
+<w pos="N" msd="Fem.Pl.Dat.Indef" lemma="nevnd" ref="28" dephead="27" deprel="MOD">nevndum</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="29" dephead="29" deprel="ADV">í</w>
+<w pos="N" msd="Neu.Pl.Dat.Def" lemma="dótturfelag" ref="30" dephead="29" deprel="MOD">dótturfeløgunum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="31" dephead="11" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="267efa264-26a0574e6">
+<w pos="N" msd="Msc.Sg.Nom.Def" lemma="stjóri" ref="1" dephead="7" deprel="SBJ">Stjórin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="2" dephead="1" deprel="MOD">í</w>
+<w pos="N" msd="Prop.Fem.Pl.Gen.Indef" lemma="Føroyar" ref="3" dephead="4" deprel="MOD">Føroya</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="fiskavirking" ref="4" dephead="2" deprel="MOD">Fiskavirking</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Jákup" ref="5" dephead="6" deprel="MOD">Jákup</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Mørkøre" ref="6" dephead="7" deprel="SBJ">Mørkøre</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="hava" ref="7" dephead="0" deprel="+AV">hevur</w>
+<w pos="V" msd="Sup" lemma="siga" ref="8" dephead="7" deprel="-MV">sagt</w>
+<w pos="Pron" msd="Refl.Acc" lemma="seg" ref="9" dephead="8" deprel="OBJ">seg</w>
+<w pos="Pr" msd="__UNDEF__" lemma="úr" ref="10" dephead="8" deprel="ADV">úr</w>
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="starv" ref="11" dephead="10" deprel="MOD">starvi</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="12" dephead="7" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26a72d9d7-26431bf0e">
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hann" ref="1" dephead="2" deprel="SBJ">Hann</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="taka" ref="2" dephead="0" deprel="+MV">tók</w>
+<w pos="Pr" msd="__UNDEF__" lemma="við" ref="3" dephead="2" deprel="ADV">við</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="4" dephead="3" deprel="_U_">,</w>
+<w pos="Det" msd="Fem.Sg.Dat" lemma="tann" ref="5" dephead="6" deprel="MOD">tí</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Bjarti" ref="6" dephead="7" deprel="MOD">Bjarti</w>
+<w pos="N" msd="Prop.Sg.Acc" lemma="Mohr" ref="7" dephead="0" deprel="X">Mohr</w>
+<w pos="A" msd="Msc.Sg.Nom.Def" lemma="sleptur" ref="8" dephead="0" deprel="X">slepti</w>
+<w pos="A" msd="Neu.Sg.Dat.Def" lemma="heitur" ref="9" dephead="10" deprel="MOD">heita</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="leðursæti" ref="10" dephead="10" deprel="OBJ">leðursætinum</w>
+<w pos="A" msd="Ord" lemma="31" ref="11" dephead="0" deprel="X">31.</w>
+<w pos="N" msd="Msc.Sg" lemma="desember" ref="12" dephead="0" deprel="X">desember</w>
+<w pos="Num" msd="Dat" lemma="1996" ref="13" dephead="13" deprel="OBJ">1996</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="14" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26f36c8a6-26d61698e">
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="1" dephead="3" deprel="ADV">Á</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="mynd" ref="2" dephead="1" deprel="MOD">myndini</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vísa" ref="3" dephead="0" deprel="+MV">vísir</w>
+<w pos="N" msd="Fem.Sg.Nom.Indef" lemma="tann" ref="4" dephead="3" deprel="SBJ">tann</w>
+<w pos="A" msd="Fem.Sg.Nom.Def" lemma="stoltur" ref="5" dephead="6" deprel="MOD">stolta</w>
+<w pos="N" msd="Fem.Sg.Nom.Def" lemma="mamma" ref="6" dephead="0" deprel="X">mamman</w>
+<w pos="Adv" msd="__UNDEF__" lemma="fram" ref="7" dephead="3" deprel="ADV">fram</w>
+<w pos="N" msd="Neu.Sg.Acc.Indef" lemma="barn" ref="8" dephead="3" deprel="OBJ">barn</w>
+<w pos="Det" msd="Poss.Neu.Sg.Acc" lemma="sín" ref="9" dephead="8" deprel="MOD">sítt</w>
+<w pos="Pr" msd="__UNDEF__" lemma="fyri" ref="10" dephead="3" deprel="ADV">fyri</w>
+<w pos="N" msd="Msc.Sg.Dat.Indef" lemma="myndamaður" ref="11" dephead="10" deprel="MOD">myndamanni</w>
+<w pos="Pron" msd="Pers.Pl.Gen" lemma="eg" ref="12" dephead="11" deprel="MOD">okkara</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="13" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="2648e91ed-265c170e8">
+<w pos="N" msd="Prop.Sg.Nom" lemma="Sverri" ref="1" dephead="2" deprel="MOD">Sverri</w>
+<w pos="N" msd="Prop.Sg.Acc" lemma="Hansen" ref="2" dephead="10" deprel="OBJ">Hansen</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="3" dephead="4" deprel="_U_">,</w>
+<w pos="&lt;cs&gt;" msd="Rel" lemma="sum" ref="4" dephead="5" deprel="CVP">sum</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="5" dephead="2" deprel="+V">er</w>
+<w pos="V*" msd="PrfPrc.A.Msc.Sg.Nom.Indef" lemma="forma" ref="6" dephead="5" deprel="SPR">formaður</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="7" dephead="5" deprel="ADV">í</w>
+<w pos="N" msd="Msc.Sg.Dat.Def" lemma="framtaksgrunnur" ref="8" dephead="7" deprel="MOD">Framtaksgrunninum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="9" dephead="4" deprel="_U_">,</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="10" dephead="0" deprel="+MV">er</w>
+<w pos="Adv" msd="__UNDEF__" lemma="eisini" ref="11" dephead="10" deprel="ADV">eisini</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="nevndarformaður" ref="12" dephead="10" deprel="SPR">nevndarformaður</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="13" dephead="10" deprel="ADV">í</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="fiskavirking" ref="14" dephead="13" deprel="MOD">Fiskavirking</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="15" dephead="14" deprel="CNP">og</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="fiskasøla" ref="16" dephead="14" deprel="MOD">Fiskasøluni</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="17" dephead="10" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26b0cf397-269e94c2f">
+<w pos="CS" msd="__UNDEF__" lemma="tí" ref="1" dephead="2" deprel="CVP">Tí</w>
+<w pos="N" msd="Neu.Sg.Acc.Indef" lemma="ber" ref="2" dephead="11" deprel="OBJ">ber</w>
+<w pos="Adv" msd="__UNDEF__" lemma="ikki" ref="3" dephead="2" deprel="ADV">ikki</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="4" dephead="2" deprel="ADV">til</w>
+<w pos="IM" msd="__UNDEF__" lemma="at" ref="5" dephead="6" deprel="_U_">at</w>
+<w pos="V" msd="Inf" lemma="arbeiða" ref="6" dephead="0" deprel="_U_">arbeiða</w>
+<w pos="Pr" msd="__UNDEF__" lemma="við" ref="7" dephead="6" deprel="ADV">við</w>
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="viðlíkahald" ref="8" dephead="7" deprel="MOD">viðlíkahaldi</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="9" dephead="8" deprel="CNP">og</w>
+<w pos="IM" msd="__UNDEF__" lemma="at" ref="10" dephead="11" deprel="_U_">at</w>
+<w pos="V" msd="Inf" lemma="hava" ref="11" dephead="6" deprel="-MV">hava</w>
+<w pos="N" msd="Fem.Sg.Acc.Def" lemma="ferðsla" ref="12" dephead="11" deprel="OBJ">ferðsluna</w>
+<w pos="V*" msd="PrsPrc.A.Msc.Pl.Nom.Indef" lemma="ganga" ref="13" dephead="11" deprel="_U_">gangandi</w>
+<w pos="Pr" msd="__UNDEF__" lemma="gjøgnum" ref="14" dephead="14" deprel="ADV">gjøgnum</w>
+<w pos="Pron" msd="Dem.Neu.Sg.Acc" lemma="hesin" ref="15" dephead="0" deprel="X">hetta</w>
+<w pos="Pr" msd="__UNDEF__" lemma="um" ref="16" dephead="16" deprel="ADV">um</w>
+<w pos="A" msd="Fem.Pl.Nom.Def" lemma="samur" ref="17" dephead="18" deprel="MOD">somu</w>
+<w pos="N" msd="Fem.Sg.Nom.Indef" lemma="tíð" ref="18" dephead="0" deprel="X">tíð</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="19" dephead="6" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26f5ed4c5-260917907">
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="1" dephead="3" deprel="ADV">Til</w>
+<w pos="N" msd="Neu.Sg.Gen.Indef" lemma="dømi" ref="2" dephead="1" deprel="MOD">dømis</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="nytta" ref="3" dephead="0" deprel="+MV">nyttar</w>
+<w pos="A*" msd="Adv" lemma="lítil" ref="4" dephead="3" deprel="ADV">lítið</w>
+<w pos="Pr" msd="__UNDEF__" lemma="hjá" ref="5" dephead="3" deprel="ADV">hjá</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="kona" ref="6" dephead="5" deprel="MOD">konuni</w>
+<w pos="IM" msd="__UNDEF__" lemma="at" ref="7" dephead="8" deprel="_U_">at</w>
+<w pos="V" msd="Inf" lemma="skriva" ref="8" dephead="3" deprel="-MV">skriva</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="rokning" ref="9" dephead="8" deprel="OBJ">rokning</w>
+<w pos="Pr" msd="__UNDEF__" lemma="fyri" ref="10" dephead="10" deprel="ADV">fyri</w>
+<w pos="IM" msd="__UNDEF__" lemma="at" ref="11" dephead="12" deprel="_U_">at</w>
+<w pos="V" msd="Inf" lemma="leggja" ref="12" dephead="10" deprel="_U_">leggja</w>
+<w pos="N" msd="Msc.Pl.Acc.Indef" lemma="buksurni" ref="13" dephead="12" deprel="OBJ">buksurnar</w>
+<w pos="Adv" msd="__UNDEF__" lemma="upp" ref="14" dephead="12" deprel="ADV">upp</w>
+<w pos="Pr" msd="__UNDEF__" lemma="hjá" ref="15" dephead="12" deprel="ADV">hjá</w>
+<w pos="N" msd="Msc.Sg.Dat.Def" lemma="maður" ref="16" dephead="15" deprel="MOD">manninum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="17" dephead="16" deprel="_U_">,</w>
+<w pos="Pron" msd="Dem.Neu.Sg.Dat" lemma="tað" ref="18" dephead="0" deprel="X">tí</w>
+<w pos="Pron" msd="Dem.Neu.Sg.Nom" lemma="hesin" ref="19" dephead="0" deprel="X">hetta</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="verða" ref="20" dephead="3" deprel="+AV">verður</w>
+<w pos="Adv" msd="__UNDEF__" lemma="neyvan" ref="21" dephead="8" deprel="ADV">neyvan</w>
+<w pos="V" msd="Sup" lemma="góðtaka" ref="22" dephead="20" deprel="-MV">góðtikið</w>
+<w pos="Pr" msd="__UNDEF__" lemma="sum" ref="23" dephead="22" deprel="ADV">sum</w>
+<w pos="A" msd="Neu.Sg.Acc.Indef" lemma="vinnuligur" ref="24" dephead="0" deprel="X">vinnuligt</w>
+<w pos="Pr" msd="__UNDEF__" lemma="av" ref="25" dephead="22" deprel="ADV">av</w>
+<w pos="N" msd="Msc.Pl.Dat.Def" lemma="skattamyndugleiki" ref="26" dephead="25" deprel="MOD">skattamyndugleikunum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="27" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="2619351c5-26df823b3">
+<w pos="N" msd="Neu.Pl.Nom.Indef" lemma="heimatíðindi" ref="1" dephead="0" deprel="FRG">Heimatíðindi</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="2" dephead="1" deprel="_U_">,</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="s." ref="3" dephead="3" deprel="_U_">s.</w>
+<w pos="Num" msd="Acc" lemma="4" ref="4" dephead="0" deprel="X">4</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="262cc168f-26d74ed2e">
+<w pos="N" msd="Fem.Sg.Nom.Indef" lemma="grein" ref="1" dephead="5" deprel="SBJ">Grein</w>
+<w pos="Num" msd="Dat" lemma="4" ref="2" dephead="1" deprel="OBJ">4</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="3" dephead="1" deprel="ADV">í</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="skatttalógini" ref="4" dephead="4" deprel="_U_">skatttalógini</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="siga" ref="5" dephead="0" deprel="+MV">sigur</w>
+<w pos="Adv" msd="__UNDEF__" lemma="nú" ref="6" dephead="5" deprel="ADV">nú</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="7" dephead="8" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="8" dephead="10" deprel="CVP">at</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="hjúnarfelagar" ref="9" dephead="9" deprel="_U_">hjúnarfelagar</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="verða" ref="10" dephead="3" deprel="+MV">verða</w>
+<w pos="Pron" msd="Interr.Fem.Sg.Nom" lemma="hvør" ref="11" dephead="0" deprel="X">hvør</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="síggja" ref="12" dephead="3" deprel="+MV">sær</w>
+<w pos="V*" msd="PrfPrc.A.Msc.Pl.Nom.Indef" lemma="seta" ref="13" dephead="0" deprel="X">settir</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="14" dephead="12" deprel="ADV">í</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="skattur" ref="15" dephead="14" deprel="MOD">skatt</w>
+<w pos="Pr" msd="__UNDEF__" lemma="av" ref="16" dephead="12" deprel="ADV">av</w>
+<w pos="N" msd="Neu.Pl.Dat.Indef" lemma="inntak" ref="17" dephead="16" deprel="MOD">inntøkum</w>
+<w pos="Det" msd="Poss.Neu.Pl.Dat" lemma="sín" ref="18" dephead="17" deprel="MOD">sínum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="19" dephead="5" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26e273e83-261c325f0">
+<w pos="N" msd="Neu.Pl.Nom.Def" lemma="tíðindi" ref="1" dephead="2" deprel="SBJ">Tíðindini</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="vilja" ref="2" dephead="0" deprel="+AV">vilja</w>
+<w pos="V" msd="Inf" lemma="verða" ref="3" dephead="2" deprel="-AV">verða</w>
+<w pos="Pr" msd="__UNDEF__" lemma="við" ref="4" dephead="3" deprel="ADV">við</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="5" dephead="6" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="6" dephead="9" deprel="CVP">at</w>
+<w pos="A" msd="Msc.Nom" lemma="annar" ref="7" dephead="8" deprel="MOD">annar</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="persónur" ref="8" dephead="9" deprel="SBJ">persónur</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="9" dephead="4" deprel="+MV">er</w>
+<w pos="V*" msd="PrfPrc.A.Neu.Pl.Nom.Indef" lemma="finna" ref="10" dephead="9" deprel="SPR">funnin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="11" dephead="9" deprel="ADV">til</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="stjórastarvið" ref="12" dephead="12" deprel="_U_">stjórastarvið</w>
+<w pos="N" msd="Prop.Fem.Pl.Gen.Indef" lemma="Føroyar" ref="13" dephead="14" deprel="MOD">Føroya</w>
+<w pos="N" msd="Fem.Sg.Acc.Indef" lemma="fiskavirking" ref="14" dephead="11" deprel="MOD">Fiskavirking</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="15" dephead="16" deprel="_U_">,</w>
+<w pos="CC" msd="__UNDEF__" lemma="men" ref="16" dephead="14" deprel="CNP">men</w>
+<w pos="Pron" msd="Interr.Fem.Sg.Nom" lemma="hvør" ref="17" dephead="0" deprel="X">hvør</w>
+<w pos="Pron" msd="Dem.Msc.Sg.Nom" lemma="hesin" ref="18" dephead="0" deprel="X">hesin</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="19" dephead="2" deprel="ADV">er</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="20" dephead="6" deprel="_U_">,</w>
+<w pos="V" msd="Ind.Prt.3Sg.Pass" lemma="fáa" ref="21" dephead="19" deprel="ADV">fekst</w>
+<w pos="Adv" msd="__UNDEF__" lemma="ikki" ref="22" dephead="21" deprel="ADV">ikki</w>
+<w pos="IM" msd="__UNDEF__" lemma="at" ref="23" dephead="24" deprel="_U_">at</w>
+<w pos="V" msd="Inf" lemma="vita" ref="24" dephead="3" deprel="-MV">vita</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="25" dephead="25" deprel="ADV">í</w>
+<w pos="N" msd="Acc" lemma="gjár" ref="26" dephead="25" deprel="MOD">gjár</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="27" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="261fdaf12-262b261dc">
+<w pos="Pron" msd="Dem.Neu.Sg.Nom" lemma="hesin" ref="1" dephead="0" deprel="X">Hetta</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="merkja" ref="2" dephead="0" deprel="+MV">merkir</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="3" dephead="4" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="4" dephead="5" deprel="CVP">at</w>
+<w pos="V" msd="Imp.Sg" lemma="ymja" ref="5" dephead="2" deprel="ADV">um</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="maður" ref="6" dephead="5" deprel="SBJ">maður</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="7" dephead="5" deprel="CVP">og</w>
+<w pos="N" msd="Fem.Sg.Nom.Indef" lemma="kona" ref="8" dephead="12" deprel="SBJ">kona</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="9" dephead="5" deprel="ADV">í</w>
+<w pos="A" msd="Msc.Sg.Dat.Def" lemma="samur" ref="10" dephead="0" deprel="X">sama</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="munur" ref="11" dephead="9" deprel="MOD">mun</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="luttaka" ref="12" dephead="2" deprel="+MV">luttaka</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="13" dephead="12" deprel="ADV">í</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="rakstrinum" ref="14" dephead="14" deprel="_U_">rakstrinum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="15" dephead="4" deprel="_U_">,</w>
+<w pos="Adv" msd="__UNDEF__" lemma="so" ref="16" dephead="19" deprel="ADV">so</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="kunna" ref="17" dephead="12" deprel="+AV">kunnu</w>
+<w pos="Pron" msd="Pers.Pl.Nom" lemma="tað" ref="18" dephead="17" deprel="SBJ">tey</w>
+<w pos="V" msd="Inf" lemma="býta" ref="19" dephead="17" deprel="-MV">býta</w>
+<w pos="N" msd="Neu.Sg.Nom.Def" lemma="úrslit" ref="20" dephead="19" deprel="SBJ">úrslitið</w>
+<w pos="Adv" msd="__UNDEF__" lemma="so" ref="21" dephead="21" deprel="ADV">so</w>
+<w pos="Pron" msd="Interr.Fem.Sg.Nom" lemma="hvør" ref="22" dephead="0" deprel="X">hvør</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="hjúnarfelagi" ref="23" dephead="23" deprel="_U_">hjúnarfelagi</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="verða" ref="24" dephead="13" deprel="+MV">verður</w>
+<w pos="V*" msd="PrfPrc.A.Msc.Sg.Nom.Indef" lemma="skatta" ref="25" dephead="24" deprel="SPR">skattaður</w>
+<w pos="Pr" msd="__UNDEF__" lemma="av" ref="26" dephead="24" deprel="ADV">av</w>
+<w pos="Det" msd="Poss.Msc.Sg.Dat" lemma="sín" ref="27" dephead="28" deprel="MOD">sínum</w>
+<w pos="N" msd="Msc.Sg.Dat.Indef" lemma="partur" ref="28" dephead="26" deprel="MOD">parti</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="29" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="262a3cfd8-261e6baf9">
+<w pos="N" msd="Fem.Sg.Nom.Def" lemma="løgtingslóg" ref="1" dephead="2" deprel="SBJ">Løgtingslógin</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="2" dephead="0" deprel="+MV">er</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="3" dephead="2" deprel="ADV">frá</w>
+<w pos="A" msd="Ord" lemma="30" ref="4" dephead="0" deprel="X">30.</w>
+<w pos="N" msd="Msc.Sg" lemma="desember" ref="5" dephead="0" deprel="X">desember</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="6" dephead="2" deprel="ADV">í</w>
+<w pos="N" msd="Acc" lemma="fjør" ref="7" dephead="6" deprel="MOD">fjør</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="8" dephead="2" deprel="CVP">og</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="9" dephead="2" deprel="+MV">er</w>
+<w pos="N" msd="Fem.Sg.Nom.Indef" lemma="broyting" ref="10" dephead="9" deprel="SBJ">broyting</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="11" dephead="9" deprel="ADV">til</w>
+<w pos="N" msd="Fem.Sg.Acc.Indef" lemma="løgtingslóg" ref="12" dephead="11" deprel="MOD">løgtingslóg</w>
+<w pos="Pr" msd="__UNDEF__" lemma="um" ref="13" dephead="9" deprel="ADV">um</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="landsskattur" ref="14" dephead="13" deprel="MOD">landsskatt</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="15" dephead="14" deprel="CNP">og</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="kommunuskattur" ref="16" dephead="14" deprel="MOD">kommunuskatt</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="17" dephead="9" deprel="ADV">frá</w>
+<w pos="A" msd="Ord" lemma="1" ref="18" dephead="0" deprel="X">1.</w>
+<w pos="N" msd="Msc.Sg" lemma="september" ref="19" dephead="0" deprel="X">september</w>
+<w pos="Num" msd="Dat" lemma="1983" ref="20" dephead="0" deprel="X">1983</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="21" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="2662230b9-266b83cea">
+<w pos="N" msd="Prop.Sg.Nom" lemma="Leivur" ref="1" dephead="2" deprel="MOD">Leivur</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Michelsen" ref="2" dephead="3" deprel="SBJ">Michelsen</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="siga" ref="3" dephead="0" deprel="+MV">segði</w>
+<w pos="Pr" msd="__UNDEF__" lemma="við" ref="4" dephead="3" deprel="ADV">við</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="útvarp" ref="5" dephead="4" deprel="MOD">útvarpið</w>
+<w pos="N" msd="Msc.Sg.Acc.Def" lemma="fyrrapartur" ref="6" dephead="0" deprel="X">fyrrapartin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="7" dephead="3" deprel="ADV">í</w>
+<w pos="N" msd="Acc" lemma="gjár" ref="8" dephead="7" deprel="MOD">gjár</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="9" dephead="10" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="10" dephead="13" deprel="CVP">at</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hann" ref="11" dephead="13" deprel="SBJ">hann</w>
+<w pos="Adv" msd="__UNDEF__" lemma="ikki" ref="12" dephead="14" deprel="ADV">ikki</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="hava" ref="13" dephead="3" deprel="OBJ">hevur</w>
+<w pos="V" msd="Sup" lemma="fáa" ref="14" dephead="13" deprel="-MV">fingið</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="boð" ref="15" dephead="13" deprel="OBJ">boðið</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="starv" ref="16" dephead="14" deprel="OBJ">starvið</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="17" dephead="10" deprel="_U_">,</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="18" dephead="13" deprel="CVP">og</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="vera" ref="19" dephead="3" deprel="+MV">eru</w>
+<w pos="N" msd="Neu.Pl.Nom.Def" lemma="tíðindi" ref="20" dephead="19" deprel="_U_">tíðindini</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="sonn" ref="21" dephead="21" deprel="_U_">sonn</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="22" dephead="10" deprel="_U_">,</w>
+<w pos="Pr" msd="__UNDEF__" lemma="um" ref="23" dephead="31" deprel="ADV">um</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="24" dephead="28" deprel="CVP">at</w>
+<w pos="A" msd="Msc.Sg.Nom.Def" lemma="nýggjur" ref="25" dephead="26" deprel="MOD">nýggi</w>
+<w pos="N" msd="Msc.Sg.Nom.Def" lemma="stjóri" ref="26" dephead="28" deprel="SBJ">stjórin</w>
+<w pos="Adv" msd="__UNDEF__" lemma="longu" ref="27" dephead="28" deprel="ADV">longu</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="28" dephead="23" deprel="+MV">er</w>
+<w pos="V*" msd="PrfPrc.A.Msc.Sg.Nom.Indef" lemma="finna" ref="29" dephead="28" deprel="SPR">funnin</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="30" dephead="10" deprel="_U_">,</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="31" dephead="19" deprel="+MV">er</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hann" ref="32" dephead="31" deprel="SBJ">hann</w>
+<w pos="Adv" msd="__UNDEF__" lemma="ikki" ref="33" dephead="31" deprel="ADV">ikki</w>
+<w pos="Det" msd="Msc.Sg.Nom" lemma="tann" ref="34" dephead="38" deprel="MOD">tann</w>
+<w pos="A" msd="Msc.Sg.Nom.Def" lemma="nýggjur" ref="35" dephead="38" deprel="MOD">nýggi</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="2689b8e11-26e3a035b">
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="1" dephead="7" deprel="ADV">Í</w>
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="gjárkvøld" ref="2" dephead="1" deprel="MOD">gjárkvøldi</w>
+<w pos="Abbr" msd="__UNDEF__" lemma="kl" ref="3" dephead="3" deprel="_U_">kl.</w>
+<w pos="Num" msd="Acc" lemma="23" ref="4" dephead="7" deprel="OBJ">23</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="verða" ref="5" dephead="0" deprel="+AV">varð</w>
+<w pos="N" msd="Neu.Sg.Nom.Def" lemma="berghol" ref="6" dephead="5" deprel="SBJ">bergholið</w>
+<w pos="V" msd="Sup" lemma="steingja" ref="7" dephead="5" deprel="-MV">stongt</w>
+<w pos="Pr" msd="__UNDEF__" lemma="fyri" ref="8" dephead="7" deprel="ADV">fyri</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="bilferðslu" ref="9" dephead="9" deprel="_U_">bilferðslu</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="10" dephead="11" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="meðan" ref="11" dephead="13" deprel="CVP">meðan</w>
+<w pos="N" msd="Msc.Pl.Nom.Indef" lemma="arbeiðsmaður" ref="12" dephead="13" deprel="SBJ">arbeiðsmenn</w>
+<w pos="V" msd="Ind.Prt.Pl" lemma="fara" ref="13" dephead="7" deprel="ADV">fóru</w>
+<w pos="Pr" msd="__UNDEF__" lemma="undir" ref="14" dephead="13" deprel="ADV">undir</w>
+<w pos="Adv" msd="__UNDEF__" lemma="aftur" ref="15" dephead="13" deprel="ADV">aftur</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="viðlíkahaldsarbeið" ref="16" dephead="14" deprel="MOD">viðlíkahaldsarbeiðið</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="17" dephead="11" deprel="_U_">,</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="18" dephead="13" deprel="CVP">og</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="vera" ref="19" dephead="5" deprel="+MV">eru</w>
+<w pos="Pron" msd="Pers.Pl.Nom" lemma="hann" ref="20" dephead="0" deprel="SBJ">teir</w>
+<w pos="Adv" msd="__UNDEF__" lemma="nú" ref="21" dephead="19" deprel="ADV">nú</w>
+<w pos="V*" msd="PrfPrc.A.Msc.Pl.Nom.Indef" lemma="koma" ref="22" dephead="25" deprel="MOD">komnir</w>
+<w pos="Num" msd="Fem.Sg.Pl.Nom" lemma="einir" ref="23" dephead="25" deprel="MOD">einar</w>
+<w pos="Num" msd="Nom" lemma="300" ref="24" dephead="25" deprel="MOD">300</w>
+<w pos="N" msd="Msc.Pl.Acc.Indef" lemma="metri" ref="25" dephead="19" deprel="OBJ">metrar</w>
+<w pos="Adv" msd="__UNDEF__" lemma="inn" ref="26" dephead="19" deprel="ADV">inn</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="27" dephead="19" deprel="ADV">í</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="Hvannasundsberghol" ref="28" dephead="27" deprel="MOD">Hvannasundsbergholið</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="sunnaru" ref="29" dephead="29" deprel="_U_">sunnaru</w>
+<w pos="A" msd="Neu.Pl.Acc.Indef" lemma="megin" ref="30" dephead="0" deprel="X">megin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="31" dephead="19" deprel="ADV">frá</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="32" dephead="5" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26f40fb13-26a8d9903">
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="1" dephead="7" deprel="ADV">Í</w>
+<w pos="A" msd="Neu.Dat" lemma="annar" ref="2" dephead="3" deprel="MOD">øðrum</w>
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="stykki" ref="3" dephead="1" deprel="MOD">stykki</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="verða" ref="4" dephead="0" deprel="+AV">verður</w>
+<w pos="Pr" msd="__UNDEF__" lemma="millum" ref="5" dephead="5" deprel="ADV">millum</w>
+<w pos="Pron" msd="Indef.Neu.Acc" lemma="annar" ref="6" dephead="5" deprel="MOD">annað</w>
+<w pos="V" msd="Sup" lemma="siga" ref="7" dephead="4" deprel="-MV">sagt</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="8" dephead="9" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="9" dephead="14" deprel="CVP">at</w>
+<w pos="Pr" msd="__UNDEF__" lemma="um" ref="10" dephead="14" deprel="ADV">um</w>
+<w pos="N" msd="Msc.Pl.Acc.Indef" lemma="hjúnafelagi" ref="11" dephead="10" deprel="MOD">hjúnafelagar</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="12" dephead="14" deprel="ADV">í</w>
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="felag" ref="13" dephead="12" deprel="MOD">felag</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="reki" ref="14" dephead="7" deprel="OBJ">reka</w>
+<w pos="A*" msd="Adv" lemma="sjálvstøðugur" ref="15" dephead="14" deprel="_U_">sjálvstøðugt</w>
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="vinnuvirki" ref="16" dephead="16" deprel="OBJ">vinnuvirki</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="17" dephead="9" deprel="_U_">,</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="skula" ref="18" dephead="16" deprel="+AV">skal</w>
+<w pos="N" msd="Neu.Sg.Nom.Def" lemma="úrslit" ref="19" dephead="18" deprel="SBJ">úrslitið</w>
+<w pos="Pr" msd="__UNDEF__" lemma="av" ref="20" dephead="14" deprel="ADV">av</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="vinnuvirki" ref="21" dephead="20" deprel="MOD">vinnuvirkinum</w>
+<w pos="V" msd="Inf.Pass" lemma="taka" ref="22" dephead="18" deprel="-MV">takast</w>
+<w pos="Pr" msd="__UNDEF__" lemma="við" ref="23" dephead="23" deprel="ADV">við</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="24" dephead="24" deprel="ADV">í</w>
+<w pos="N" msd="Fem.Sg.Acc.Def" lemma="uppgerð" ref="25" dephead="24" deprel="MOD">uppgerðina</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="26" dephead="26" deprel="ADV">í</w>
+<w pos="A" msd="Fem.Sg.Dat.Def" lemma="skattskyldugur" ref="27" dephead="28" deprel="MOD">skattskyldugu</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="inntøka" ref="28" dephead="26" deprel="MOD">inntøkuni</w>
+<w pos="Pr" msd="__UNDEF__" lemma="hjá" ref="29" dephead="29" deprel="ADV">hjá</w>
+<w pos="N" msd="Neu.Pl.Dat.Def" lemma="hjún" ref="30" dephead="29" deprel="MOD">hjúnunum</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="31" dephead="31" deprel="ADV">í</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="munur" ref="32" dephead="31" deprel="MOD">mun</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="33" dephead="33" deprel="ADV">til</w>
+<w pos="N" msd="Fem.Sg.Gen.Indef" lemma="luttøka" ref="34" dephead="33" deprel="MOD">luttøku</w>
+<w pos="Pron" msd="Pers.Pl.Gen" lemma="hon" ref="35" dephead="33" deprel="MOD">teirra</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="36" dephead="36" deprel="ADV">í</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="rakstrinum" ref="37" dephead="37" deprel="_U_">rakstrinum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="38" dephead="4" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="2669bc986-26590cbb2">
+<w pos="Pron" msd="Pers.Pl.Acc" lemma="tað" ref="1" dephead="1" deprel="OBJ">Tey</w>
+<w pos="Det" msd="Indef.Neu.Pl.Acc" lemma="báðir" ref="2" dephead="3" deprel="MOD">bæði</w>
+<w pos="N" msd="Neu.Pl.Acc.Def" lemma="berghol" ref="3" dephead="3" deprel="OBJ">bergholini</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="4" dephead="3" deprel="MOD">á</w>
+<w pos="N" msd="Prop.Fem.Sg.Dat.Def" lemma="Borðoy" ref="5" dephead="4" deprel="MOD">Borðoynni</w>
+<w pos="V" msd="Inf.Pass" lemma="telja" ref="6" dephead="0" deprel="X">teljast</w>
+<w pos="Pr" msd="__UNDEF__" lemma="millum" ref="7" dephead="6" deprel="_U_">millum</w>
+<w pos="Det" msd="Neu.Pl.Nom" lemma="tað" ref="8" dephead="11" deprel="MOD">tey</w>
+<w pos="A" msd="Superl.Fem.Pl.Acc.Def" lemma="gamal" ref="9" dephead="0" deprel="X">elstu</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="10" dephead="6" deprel="_U_">í</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="land" ref="11" dephead="10" deprel="MOD">landinum</w>
+<w pos="PUNCT" msd="__UNDEF__" lemma="-" ref="12" dephead="13" deprel="_U_">-</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="berghol" ref="13" dephead="0" deprel="X">bergholið</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="14" dephead="14" deprel="_U_">til</w>
+<w pos="N" msd="Msc.Sg.Gen.Indef" lemma="Árnafjørður" ref="15" dephead="14" deprel="MOD">Árnafjarðar</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="verða" ref="16" dephead="0" deprel="+AV">varð</w>
+<w pos="A*" msd="Adv" lemma="liðugur" ref="17" dephead="17" deprel="ADV">liðugt</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="18" dephead="18" deprel="ADV">í</w>
+<w pos="Num" msd="Dat" lemma="1965" ref="19" dephead="18" deprel="MOD">1965</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="20" dephead="19" deprel="CNP">og</w>
+<w pos="Pron" msd="Pers.Sg.Acc" lemma="tað" ref="21" dephead="19" deprel="MOD">tað</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="22" dephead="22" deprel="ADV">til</w>
+<w pos="N" msd="Prop.Neu.Sg.Gen.Indef" lemma="Hvannasund" ref="23" dephead="25" deprel="MOD">Hvannasunds</w>
+<w pos="Num" msd="Neu.Sg.Acc" lemma="tvey" ref="24" dephead="25" deprel="MOD">tvey</w>
+<w pos="N" msd="Neu.Pl.Acc.Indef" lemma="ár" ref="25" dephead="22" deprel="MOD">ár</w>
+<w pos="A" msd="Cmp.Msc.Sg.Nom.Indef" lemma="seinur" ref="26" dephead="0" deprel="X">seinni</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="27" dephead="16" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26460e2f5-26bf93d6a">
+<w pos="N" msd="Prop.Sg.Nom" lemma="Ingi" ref="1" dephead="2" deprel="MOD">Ingi</w>
+<w pos="N" msd="Prop.Sg.Acc" lemma="Rasmussen" ref="2" dephead="4" deprel="OBJ">Rasmussen</w>
+<w pos="N" msd="Fem.Pl.Nom.Def" lemma="søga" ref="3" dephead="4" deprel="SBJ">Søgurnar</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="hava" ref="4" dephead="0" deprel="+AV">hava</w>
+<w pos="V" msd="Sup" lemma="vera" ref="5" dephead="4" deprel="-AV">verið</w>
+<w pos="A" msd="Cmp.Fem.Sg.Acc.Def" lemma="mangur" ref="6" dephead="3" deprel="MOD">fleiri</w>
+<w pos="Adv" msd="__UNDEF__" lemma="enn" ref="7" dephead="3" deprel="ADV">enn</w>
+<w pos="N" msd="Fem.Pl.Nom.Def" lemma="viðmerking" ref="8" dephead="0" deprel="SPR">viðmerkingarnar</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="9" dephead="24" deprel="_U_">,</w>
+<w pos="Adv" msd="__UNDEF__" lemma="nú" ref="10" dephead="14" deprel="ADV">nú</w>
+<w pos="Pron" msd="Pers.Sg.Acc" lemma="tað" ref="11" dephead="11" deprel="OBJ">tað</w>
+<w pos="Pr" msd="__UNDEF__" lemma="um" ref="12" dephead="14" deprel="ADV">um</w>
+<w pos="N" msd="Neu.Sg.Nom.Def" lemma="vikuskifti" ref="13" dephead="14" deprel="SBJ">vikuskiftið</w>
+<w pos="V" msd="Ind.Prs.3Sg.Pass" lemma="frætta" ref="14" dephead="4" deprel="+MV">frættist</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="15" dephead="16" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="16" dephead="24" deprel="CVP">at</w>
+<w pos="N" msd="Msc.Sg.Nom.Def" lemma="stjóri" ref="17" dephead="24" deprel="SBJ">stjórin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="18" dephead="24" deprel="ADV">í</w>
+<w pos="N" msd="Prop.Fem.Pl.Gen.Indef" lemma="Føroyar" ref="19" dephead="20" deprel="MOD">Føroya</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="fiskavirking" ref="20" dephead="18" deprel="MOD">Fiskavirking</w>
+<w pos="Adv" msd="__UNDEF__" lemma="síðani" ref="21" dephead="24" deprel="ADV">síðani</w>
+<w pos="N" msd="Msc.Sg" lemma="mars" ref="22" dephead="0" deprel="X">mars</w>
+<w pos="Num" msd="Nom" lemma="1997" ref="23" dephead="0" deprel="X">1997</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="24" dephead="14" deprel="ADV">er</w>
+<w pos="V*" msd="PrfPrc.A.Fem.Sg.Nom.Indef" lemma="fara" ref="25" dephead="24" deprel="SPR">farin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="26" dephead="24" deprel="ADV">frá</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="27" dephead="4" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="2641774df-262d28344">
+<w pos="Adv" msd="__UNDEF__" lemma="ikki" ref="1" dephead="5" deprel="ADV">Ikki</w>
+<w pos="A" msd="Msc.Sg.Nom.Indef" lemma="drúgvur" ref="2" dephead="3" deprel="MOD">drúgvur</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Jákup" ref="3" dephead="4" deprel="MOD">Jákup</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Mørkøre" ref="4" dephead="5" deprel="SBJ">Mørkøre</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="verða" ref="5" dephead="0" deprel="+MV">varð</w>
+<w pos="Adv" msd="__UNDEF__" lemma="ikki" ref="6" dephead="5" deprel="ADV">ikki</w>
+<w pos="A" msd="Msc.Sg.Nom.Indef" lemma="drúgvur" ref="7" dephead="5" deprel="SPR">drúgvur</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="8" dephead="5" deprel="ADV">í</w>
+<w pos="Pron" msd="Dem.Neu.Sg.Dat" lemma="hesin" ref="9" dephead="0" deprel="X">hesum</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="stjórasessinum" ref="10" dephead="10" deprel="_U_">stjórasessinum</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="halda" ref="11" dephead="5" deprel="+MV">heldur</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="12" dephead="5" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26b30db26-264a820bc">
+<w pos="N" msd="Prop.Sg.Nom" lemma="Poul" ref="1" dephead="2" deprel="MOD">Poul</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Michelsen" ref="2" dephead="0" deprel="SBJ">Michelsen</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="3" dephead="18" deprel="_U_">,</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="stjóri" ref="4" dephead="2" deprel="SBJ">stjóri</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="5" dephead="4" deprel="MOD">í</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="fiskasøla" ref="6" dephead="5" deprel="MOD">Fiskasøluni</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="vera" ref="7" dephead="2" deprel="+V">var</w>
+<w pos="Adv" msd="__UNDEF__" lemma="brádliga" ref="8" dephead="7" deprel="ADV">brádliga</w>
+<w pos="V" msd="PrfPrc.Msc.Sg.Nom.Indef" lemma="koyra" ref="9" dephead="0" deprel="X">koyrdur</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="10" dephead="7" deprel="ADV">frá</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="11" dephead="18" deprel="_U_">,</w>
+<w pos="A" msd="Neu.Pl.Acc.Indef" lemma="táur" ref="12" dephead="18" deprel="MOD">tá</w>
+<w pos="A" msd="Neu.Sg.Nom.Def" lemma="vánaligur" ref="13" dephead="14" deprel="MOD">vánaliga</w>
+<w pos="N" msd="Neu.Sg.Nom.Def" lemma="úrslit" ref="14" dephead="18" deprel="SBJ">úrslitið</w>
+<w pos="Pr" msd="__UNDEF__" lemma="hjá" ref="15" dephead="18" deprel="ADV">hjá</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="fiskasøla" ref="16" dephead="15" deprel="MOD">Fiskasøluni</w>
+<w pos="Adv" msd="__UNDEF__" lemma="nærum" ref="17" dephead="18" deprel="ADV">nærum</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="taka" ref="18" dephead="7" deprel="ADV">tók</w>
+<w pos="N" msd="Neu.Sg.Nom.Def" lemma="lív" ref="19" dephead="18" deprel="SBJ">lívið</w>
+<w pos="Pr" msd="__UNDEF__" lemma="av" ref="20" dephead="18" deprel="ADV">av</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="framtak" ref="21" dephead="20" deprel="MOD">Framtakinum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="22" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="2672bd6b1-261cbad48">
+<w pos="N" msd="Fem.Sg.Nom.Def" lemma="lóg" ref="1" dephead="2" deprel="SBJ">Lógin</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="siga" ref="2" dephead="0" deprel="+MV">sigur</w>
+<w pos="Adv" msd="__UNDEF__" lemma="somuleiðis" ref="3" dephead="2" deprel="ADV">somuleiðis</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="4" dephead="5" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="5" dephead="6" deprel="CVP">at</w>
+<w pos="V" msd="Imp.Sg" lemma="ymja" ref="6" dephead="2" deprel="ADV">um</w>
+<w pos="A" msd="Msc.Nom" lemma="annar" ref="7" dephead="0" deprel="X">annar</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="hjúnarfelagin" ref="8" dephead="8" deprel="_U_">hjúnarfelagin</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="9" dephead="2" deprel="+AV">er</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="10" dephead="6" deprel="ADV">í</w>
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="starv" ref="11" dephead="10" deprel="MOD">starvi</w>
+<w pos="Pr" msd="__UNDEF__" lemma="hjá" ref="12" dephead="6" deprel="ADV">hjá</w>
+<w pos="Det" msd="Msc.Sg.Dat" lemma="hin" ref="13" dephead="14" deprel="MOD">hinum</w>
+<w pos="N" msd="Msc.Sg.Dat.Def" lemma="hjúnafelagi" ref="14" dephead="12" deprel="MOD">hjúnafelaganum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="15" dephead="5" deprel="_U_">,</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="verður" ref="16" dephead="26" deprel="SBJ">verður</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="frádrátturin" ref="17" dephead="17" deprel="_U_">frádrátturin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="fyri" ref="18" dephead="16" deprel="ADV">fyri</w>
+<w pos="N" msd="Fem.Pl.Acc.Indef" lemma="lønarútreiðsla" ref="19" dephead="18" deprel="MOD">lønarútreiðslur</w>
+<w pos="A*" msd="Adv" lemma="berur" ref="20" dephead="16" deprel="ADV">bert</w>
+<w pos="V" msd="PrfPrc" lemma="góðkenna" ref="21" dephead="0" deprel="X">góðkendur</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="22" dephead="16" deprel="ADV">í</w>
+<w pos="Det" msd="Msc.Sg.Dat" lemma="tann" ref="23" dephead="24" deprel="MOD">tann</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="munur" ref="24" dephead="22" deprel="MOD">mun</w>
+<w pos="N" msd="Fem.Sg.Nom.Def" lemma="samsýning" ref="25" dephead="26" deprel="SBJ">samsýningin</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="svara" ref="26" dephead="9" deprel="+MV">svarar</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="27" dephead="26" deprel="ADV">til</w>
+<w pos="A" msd="Neu.Sg.Acc.Def" lemma="veruligur" ref="28" dephead="29" deprel="MOD">veruliga</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="arbeiðsavrik" ref="29" dephead="27" deprel="MOD">arbeiðsavrikið</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="30" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26275361e-26550cc0e">
+<w pos="Num" msd="Msc.Sg.Nom" lemma="eitt" ref="1" dephead="4" deprel="SBJ">Ein</w>
+<w pos="Pr" msd="__UNDEF__" lemma="av" ref="2" dephead="4" deprel="ADV">av</w>
+<w pos="N" msd="Fem.Pl.Dat.Def" lemma="avleiðing" ref="3" dephead="2" deprel="MOD">avleiðingunum</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="4" dephead="0" deprel="+MV">er</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="5" dephead="6" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="6" dephead="8" deprel="CVP">at</w>
+<w pos="N" msd="Msc.Pl.Nom.Indef" lemma="hjúnafelagi" ref="7" dephead="8" deprel="SBJ">hjúnafelagar</w>
+<w pos="A" msd="Msc.Pl.Dat.Def" lemma="kunnur" ref="8" dephead="4" deprel="OBJ">kunnu</w>
+<w pos="V" msd="Inf" lemma="geva" ref="9" dephead="8" deprel="-MV">geva</w>
+<w pos="Det" msd="Interr.Fem.Sg.Nom" lemma="hvør" ref="10" dephead="12" deprel="MOD">hvør</w>
+<w pos="A" msd="Fem.Pl.Dat" lemma="annar" ref="11" dephead="12" deprel="MOD">øðrum</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="løn" ref="12" dephead="0" deprel="X">løn</w>
+<w pos="Pr" msd="__UNDEF__" lemma="fyri" ref="13" dephead="9" deprel="ADV">fyri</w>
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="arbeið" ref="14" dephead="13" deprel="MOD">arbeiði</w>
+<w pos="Pr" msd="__UNDEF__" lemma="hjá" ref="15" dephead="9" deprel="ADV">hjá</w>
+<w pos="Det" msd="Msc.Sg.Dat" lemma="hin" ref="16" dephead="17" deprel="MOD">hinum</w>
+<w pos="N" msd="Msc.Sg.Dat.Def" lemma="hjúnafelagi" ref="17" dephead="15" deprel="MOD">hjúnafelaganum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="18" dephead="4" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="2656d7dc2-266c886f5">
+<w pos="Adv" msd="__UNDEF__" lemma="nú" ref="1" dephead="2" deprel="ADV">Nú</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="2" dephead="0" deprel="+MV">er</w>
+<w pos="Adv" msd="__UNDEF__" lemma="munandi" ref="3" dephead="2" deprel="ADV">munandi</w>
+<w pos="A*" msd="Cmp.Adv" lemma="bíligur" ref="4" dephead="2" deprel="ADV">bíligari</w>
+<w pos="IM" msd="__UNDEF__" lemma="at" ref="5" dephead="6" deprel="_U_">at</w>
+<w pos="V" msd="Inf" lemma="keypa" ref="6" dephead="2" deprel="-MV">keypa</w>
+<w pos="N" msd="Msc.Pl.Acc.Indef" lemma="p-bolli" ref="7" dephead="6" deprel="OBJ">p-bollar</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="8" dephead="8" deprel="ADV">á</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="apotek" ref="9" dephead="8" deprel="MOD">apotekinum</w>
+<w pos="Adv" msd="__UNDEF__" lemma="samstundis" ref="10" dephead="10" deprel="ADV">samstundis</w>
+<w pos="Pr" msd="__UNDEF__" lemma="sum" ref="11" dephead="11" deprel="ADV">sum</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="hýturnar" ref="12" dephead="12" deprel="_U_">hýturnar</w>
+<w pos="Adv" msd="__UNDEF__" lemma="enn" ref="13" dephead="13" deprel="ADV">enn</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="vera" ref="14" dephead="2" deprel="+AV">eru</w>
+<w pos="Det" msd="Neu.Sg.Gen" lemma="ein" ref="15" dephead="0" deprel="X">eins</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="dýra" ref="16" dephead="14" deprel="+MV">dýrar</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="17" dephead="16" deprel="CNP">og</w>
+<w pos="Adv" msd="__UNDEF__" lemma="áður" ref="18" dephead="16" deprel="ADV">áður</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="19" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26ef7c3b4-26359521b">
+<w pos="Pron" msd="Dem.Neu.Sg.Nom" lemma="hesin" ref="1" dephead="0" deprel="X">Hetta</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="merkja" ref="2" dephead="0" deprel="+MV">merkir</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="3" dephead="4" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="4" dephead="8" deprel="CVP">at</w>
+<w pos="N" msd="Msc.Pl.Nom.Indef" lemma="hjúnafelagi" ref="5" dephead="8" deprel="SBJ">hjúnafelagar</w>
+<w pos="Adv" msd="__UNDEF__" lemma="nú" ref="6" dephead="9" deprel="ADV">nú</w>
+<w pos="Adv" msd="__UNDEF__" lemma="ikki" ref="7" dephead="9" deprel="ADV">ikki</w>
+<w pos="A" msd="Neu.Pl.Acc.Def" lemma="kunnur" ref="8" dephead="2" deprel="OBJ">kunnu</w>
+<w pos="V" msd="Inf" lemma="skriva" ref="9" dephead="8" deprel="-MV">skriva</w>
+<w pos="N" msd="Fem.Pl.Nom.Indef" lemma="rokning" ref="10" dephead="8" deprel="SBJ">rokningar</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="11" dephead="9" deprel="ADV">til</w>
+<w pos="Det" msd="Msc.Sg.Nom" lemma="hin" ref="12" dephead="13" deprel="MOD">hin</w>
+<w pos="N" msd="Msc.Sg.Nom.Def" lemma="hjúnafelagi" ref="13" dephead="21" deprel="SBJ">hjúnafelagin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="fyri" ref="14" dephead="9" deprel="ADV">fyri</w>
+<w pos="A*" msd="Adv" lemma="líkur" ref="15" dephead="9" deprel="ADV">líkt</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="16" dephead="15" deprel="CNP">og</w>
+<w pos="A*" msd="Adv" lemma="ólíkur" ref="17" dephead="9" deprel="ADV">ólíkt</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="18" dephead="4" deprel="_U_">,</w>
+<w pos="CC" msd="__UNDEF__" lemma="men" ref="19" dephead="8" deprel="_U_">men</w>
+<w pos="N" msd="Neu.Sg.Nom.Def" lemma="avrik" ref="20" dephead="21" deprel="SBJ">avrikið</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="skula" ref="21" dephead="2" deprel="+AV">skal</w>
+<w pos="V" msd="Inf" lemma="hava" ref="22" dephead="21" deprel="-AV">hava</w>
+<w pos="N" msd="Neu.Sg.Acc.Indef" lemma="samband" ref="23" dephead="22" deprel="OBJ">samband</w>
+<w pos="Pr" msd="__UNDEF__" lemma="við" ref="24" dephead="23" deprel="ADV">við</w>
+<w pos="N" msd="Fem.Sg.Dat" lemma="vinnuvirksemi" ref="25" dephead="24" deprel="MOD">vinnuvirksemi</w>
+<w pos="Pr" msd="__UNDEF__" lemma="hjá" ref="26" dephead="23" deprel="ADV">hjá</w>
+<w pos="Pron" msd="Dem.Msc.Pl.Dat" lemma="hin" ref="27" dephead="0" deprel="X">hinum</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="hjúnarfelaganum" ref="28" dephead="28" deprel="_U_">hjúnarfelaganum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="29" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26c0dac63-2622adddc">
+<w pos="N" msd="Prop.Fem.Pl.Gen.Indef" lemma="Føroyar" ref="1" dephead="2" deprel="MOD">Føroya</w>
+<w pos="N" msd="Fem.Sg.Nom.Indef" lemma="fiskavirking" ref="2" dephead="3" deprel="SBJ">Fiskavirking</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="skula" ref="3" dephead="0" deprel="+AV">skal</w>
+<w pos="V" msd="Inf" lemma="hava" ref="4" dephead="3" deprel="-AV">hava</w>
+<w pos="A" msd="Msc.Sg.Acc.Indef" lemma="nýggjur" ref="5" dephead="6" deprel="MOD">nýggjan</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="stjóri" ref="6" dephead="4" deprel="OBJ">stjóra</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="7" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26d0aa012-26c2f1e72">
+<w pos="N" msd="Prop.Sg.Nom" lemma="Jákup" ref="1" dephead="2" deprel="MOD">Jákup</w>
+<w pos="N" msd="Prop.Sg.Acc" lemma="Mørkøre" ref="2" dephead="9" deprel="OBJ">Mørkøre</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="3" dephead="4" deprel="_U_">,</w>
+<w pos="&lt;cs&gt;" msd="Rel" lemma="sum" ref="4" dephead="5" deprel="CVP">sum</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="5" dephead="2" deprel="+V">er</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="úbúgvin" ref="6" dephead="6" deprel="_U_">úbúgvin</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="kemiverkfrøðingur" ref="7" dephead="7" deprel="_U_">kemiverkfrøðingur</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="8" dephead="4" deprel="_U_">,</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="hava" ref="9" dephead="0" deprel="+AV">hevur</w>
+<w pos="Adv" msd="__UNDEF__" lemma="áður" ref="10" dephead="5" deprel="ADV">áður</w>
+<w pos="V" msd="Sup" lemma="vera" ref="11" dephead="9" deprel="-AV">verið</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="stjóri" ref="12" dephead="5" deprel="_U_">stjóri</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="13" dephead="5" deprel="ADV">á</w>
+<w pos="A" msd="Fem.Sg.Dat.Def" lemma="heilsufrøðiligur" ref="14" dephead="15" deprel="MOD">Heilsufrøðiligu</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="starvsstova" ref="15" dephead="13" deprel="MOD">Starvsstovuni</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="16" dephead="4" deprel="_U_">,</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="17" dephead="21" deprel="ADV">á</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="teldufyritøka" ref="18" dephead="17" deprel="MOD">teldufyritøkuni</w>
+<w pos="N" msd="ACR.Dat" lemma="DATA" ref="19" dephead="0" deprel="X">DATA</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="20" dephead="9" deprel="CVP">og</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="vera" ref="21" dephead="9" deprel="+MV">var</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="virkisstjóri" ref="22" dephead="22" deprel="_U_">virkisstjóri</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="23" dephead="21" deprel="ADV">á</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="rækjuvirki" ref="24" dephead="23" deprel="MOD">Rækjuvirkinum</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="25" dephead="21" deprel="ADV">á</w>
+<w pos="N" msd="Fem.Sg.Dat" lemma="oyri" ref="26" dephead="25" deprel="MOD">Oyri</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="27" dephead="9" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26e29fa5a-2679b961e">
+<w pos="N" msd="Fem.Sg.Nom.Indef" lemma="hetta" ref="1" dephead="2" deprel="SBJ">Hetta</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="vera" ref="2" dephead="0" deprel="+MV">var</w>
+<w pos="Num" msd="Fem.Sg.Nom" lemma="eitt" ref="3" dephead="4" deprel="MOD">ein</w>
+<w pos="N" msd="Fem.Sg.Nom.Indef" lemma="genta" ref="4" dephead="2" deprel="SPR">genta</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="5" dephead="6" deprel="_U_">,</w>
+<w pos="&lt;cs&gt;" msd="Rel" lemma="sum" ref="6" dephead="6" deprel="CVP">sum</w>
+<w pos="A" msd="Neu.Pl.Acc.Indef" lemma="varur" ref="7" dephead="15" deprel="MOD">var</w>
+<w pos="Num" msd="Acc" lemma="52" ref="8" dephead="8" deprel="MOD">52</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="cm." ref="9" dephead="9" deprel="_U_">cm.</w>
+<w pos="A" msd="Neu.Pl.Acc.Indef" lemma="langur" ref="10" dephead="10" deprel="OBJ">long</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="11" dephead="2" deprel="CVP">og</w>
+<w pos="V" msd="Ind.Prt.Sg" lemma="viga" ref="12" dephead="4" deprel="+V">vigaði</w>
+<w pos="Num" msd="Dat" lemma="3.500" ref="13" dephead="15" deprel="MOD">3.500</w>
+<w pos="Abbr" msd="__UNDEF__" lemma="gr" ref="14" dephead="14" deprel="_U_">gr.</w>
+<w pos="N" msd="Neu.Pl.Acc.Indef" lemma="foreldur" ref="15" dephead="17" deprel="OBJ">Foreldur</w>
+<w pos="Pron" msd="Pers.Sg.Gen" lemma="hon" ref="16" dephead="15" deprel="MOD">hennara</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="vera" ref="17" dephead="2" deprel="+AV">eru</w>
+<w pos="N" msd="Prop.Sg.Acc" lemma="Eivindur" ref="18" dephead="12" deprel="OBJ">Eivind</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="19" dephead="18" deprel="CNP">og</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Duruta" ref="20" dephead="21" deprel="MOD">Duruta</w>
+<w pos="N" msd="Prop.Sg.Acc" lemma="Mouritsen" ref="21" dephead="18" deprel="OBJ">Mouritsen</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="22" dephead="12" deprel="ADV">á</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="Argjum" ref="23" dephead="23" deprel="_U_">Argjum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="24" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26ee4ad01-26a9864d3">
+<w pos="A" msd="Msc.Sg.Nom.Indef" lemma="nýggjur" ref="1" dephead="2" deprel="MOD">Nýggjur</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="stjóri" ref="2" dephead="3" deprel="SBJ">stjóri</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="3" dephead="0" deprel="+MV">er</w>
+<w pos="N" msd="Fem.Pl.Nom.Indef" lemma="tøka" ref="4" dephead="3" deprel="SPR">tøkur</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="5" dephead="3" deprel="ADV">til</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="stjórastarvið" ref="6" dephead="6" deprel="_U_">stjórastarvið</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="7" dephead="3" deprel="ADV">í</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="fiskavirking" ref="8" dephead="7" deprel="MOD">Fiskavirking</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="9" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26b484c17-26fed3145">
+<w pos="N" msd="Fem.Sg.Nom.Indef" lemma="seinasta" ref="1" dephead="3" deprel="SBJ">Seinasta</w>
+<w pos="N" msd="Fem.Sg.Nom.Def" lemma="broyting" ref="2" dephead="3" deprel="SBJ">broytingin</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="hava" ref="3" dephead="0" deprel="+AV">hevur</w>
+<w pos="V" msd="Sup" lemma="fáa" ref="4" dephead="3" deprel="-MV">fingið</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="gildi" ref="5" dephead="4" deprel="OBJ">gildið</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="6" dephead="4" deprel="ADV">frá</w>
+<w pos="A" msd="Ord" lemma="1" ref="7" dephead="0" deprel="X">1.</w>
+<w pos="N" msd="Msc.Sg" lemma="januar" ref="8" dephead="0" deprel="X">januar</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="9" dephead="4" deprel="ADV">í</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="ár" ref="10" dephead="9" deprel="MOD">ár</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="11" dephead="3" deprel="CVP">og</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="12" dephead="3" deprel="+MV">er</w>
+<w pos="Adv" msd="__UNDEF__" lemma="sostatt" ref="13" dephead="12" deprel="ADV">sostatt</w>
+<w pos="Adv" msd="__UNDEF__" lemma="galdandi" ref="14" dephead="12" deprel="ADV">galdandi</w>
+<w pos="Pr" msd="__UNDEF__" lemma="fyri" ref="15" dephead="12" deprel="ADV">fyri</w>
+<w pos="Det" msd="Neu.Sg.Acc" lemma="hesin" ref="16" dephead="17" deprel="MOD">hetta</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="skattaár" ref="17" dephead="15" deprel="MOD">skattaárið</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="18" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="267b0234e-26ccd94a6">
+<w pos="PUNCT" msd="__UNDEF__" lemma="-" ref="1" dephead="2" deprel="_U_">-</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="tað" ref="2" dephead="3" deprel="SBJ">Tað</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="skula" ref="3" dephead="0" deprel="+AV">skal</w>
+<w pos="Adv" msd="__UNDEF__" lemma="altíð" ref="4" dephead="2" deprel="ADV">altíð</w>
+<w pos="V" msd="Inf" lemma="vera" ref="5" dephead="3" deprel="-AV">vera</w>
+<w pos="A*" msd="Adv" lemma="tryggur" ref="6" dephead="5" deprel="ADV">trygt</w>
+<w pos="IM" msd="__UNDEF__" lemma="at" ref="7" dephead="8" deprel="_U_">at</w>
+<w pos="V" msd="Inf" lemma="koyra" ref="8" dephead="5" deprel="-MV">koyra</w>
+<w pos="Pr" msd="__UNDEF__" lemma="gjøgnum" ref="9" dephead="9" deprel="ADV">gjøgnum</w>
+<w pos="Pron" msd="Pers.Sg.Acc" lemma="tað" ref="10" dephead="9" deprel="MOD">tað</w>
+<w pos="Num" msd="Acc" lemma="2.100" ref="11" dephead="12" deprel="MOD">2.100</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="metri" ref="12" dephead="0" deprel="X">metra</w>
+<w pos="A" msd="Neu.Sg.Acc.Def" lemma="langur" ref="13" dephead="14" deprel="MOD">langa</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="Hvannasundsberghol" ref="14" dephead="0" deprel="X">Hvannasundsbergholið</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="15" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="269487663-26a56ccd3">
+<w pos="Adv" msd="__UNDEF__" lemma="nú" ref="1" dephead="2" deprel="ADV">Nú</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="verða" ref="2" dephead="0" deprel="+MV">verða</w>
+<w pos="N" msd="Msc.Pl.Nom.Indef" lemma="hjúnafelagi" ref="3" dephead="0" deprel="SBJ">hjúnafelagar</w>
+<w pos="V" msd="PrfPrc.Msc.Pl.Nom.Indef" lemma="skatta" ref="4" dephead="0" deprel="X">skattaðir</w>
+<w pos="Pr" msd="__UNDEF__" lemma="sum" ref="5" dephead="2" deprel="ADV">sum</w>
+<w pos="A" msd="Msc.Pl.Acc.Indef" lemma="sambúgvandi" ref="6" dephead="5" deprel="MOD">sambúgvandi</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="267d0f88e-26dcaa40c">
+<w pos="CS" msd="__UNDEF__" lemma="tí" ref="1" dephead="2" deprel="CVP">Tí</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="hava" ref="2" dephead="0" deprel="ADV">hevur</w>
+<w pos="N" msd="Msc.Sg.Nom.Def" lemma="landsverkfrøðingur" ref="3" dephead="2" deprel="SBJ">Landsverkfrøðingurin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="4" dephead="3" deprel="ADV">í</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="lýsing" ref="5" dephead="4" deprel="MOD">lýsing</w>
+<w pos="V" msd="Sup" lemma="boða" ref="6" dephead="2" deprel="-MV">boðað</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="7" dephead="6" deprel="ADV">frá</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="8" dephead="1" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="9" dephead="12" deprel="CVP">at</w>
+<w pos="Det" msd="Msc.Sg.Acc" lemma="ein" ref="10" dephead="12" deprel="OBJ">ein</w>
+<w pos="Adv" msd="__UNDEF__" lemma="ikki" ref="11" dephead="13" deprel="ADV">ikki</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="kunna" ref="12" dephead="6" deprel="OBJ">kann</w>
+<w pos="V" msd="Inf" lemma="koyra" ref="13" dephead="12" deprel="-MV">koyra</w>
+<w pos="Pr" msd="__UNDEF__" lemma="gjøgnum" ref="14" dephead="13" deprel="ADV">gjøgnum</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="berghol" ref="15" dephead="14" deprel="MOD">bergholið</w>
+<w pos="Pr" msd="__UNDEF__" lemma="millum" ref="16" dephead="13" deprel="ADV">millum</w>
+<w pos="Abbr" msd="__UNDEF__" lemma="kl" ref="17" dephead="17" deprel="_U_">kl.</w>
+<w pos="Num" msd="Acc" lemma="23" ref="18" dephead="16" deprel="MOD">23</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="19" dephead="18" deprel="CNP">og</w>
+<w pos="Abbr" msd="__UNDEF__" lemma="kl" ref="20" dephead="20" deprel="_U_">kl.</w>
+<w pos="Num" msd="Gen" lemma="7" ref="21" dephead="18" deprel="MOD">7</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="22" dephead="13" deprel="ADV">á</w>
+<w pos="N" msd="Msc.Sg.Dat.Indef" lemma="morgun" ref="23" dephead="22" deprel="MOD">morgni</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="24" dephead="9" deprel="_U_">,</w>
+<w pos="Adv" msd="__UNDEF__" lemma="so" ref="25" dephead="25" deprel="ADV">so</w>
+<w pos="Adv" msd="__UNDEF__" lemma="leingi" ref="26" dephead="26" deprel="ADV">leingi</w>
+<w pos="V" msd="Sup" lemma="arbeiða" ref="27" dephead="0" deprel="X">arbeitt</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="verða" ref="28" dephead="12" deprel="OBJ">verður</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="29" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26c11e170-26916e6e0">
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="Sb" ref="1" dephead="1" deprel="_U_">Sb</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="2659dfa56-2644e5bf9">
+<w pos="N" msd="Neu.Sg.Gen.Indef" lemma="felag" ref="1" dephead="0" deprel="X">Felags</w>
+<w pos="Pr" msd="__UNDEF__" lemma="fyri" ref="2" dephead="1" deprel="MOD">fyri</w>
+<w pos="Pron" msd="Pers.Pl.Acc" lemma="tað" ref="3" dephead="2" deprel="MOD">tey</w>
+<w pos="CC" msd="__UNDEF__" lemma="bæði" ref="4" dephead="5" deprel="CVP">bæði</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="5" dephead="0" deprel="+MV">er</w>
+<w pos="N" msd="Fem.Sg.Nom.Def" lemma="hædd" ref="6" dephead="5" deprel="SBJ">hæddin</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="7" dephead="8" deprel="_U_">,</w>
+<w pos="&lt;cs&gt;" msd="Rel" lemma="sum" ref="8" dephead="9" deprel="CVP">sum</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="9" dephead="6" deprel="+V">er</w>
+<w pos="Num" msd="Nom" lemma="3,30" ref="10" dephead="11" deprel="MOD">3,30</w>
+<w pos="N" msd="Msc.Pl.Nom.Indef" lemma="metri" ref="11" dephead="9" deprel="SPR">metrar</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="12" dephead="5" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26cadd909-260a92754">
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="tað" ref="1" dephead="2" deprel="SBJ">Tað</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="skula" ref="2" dephead="0" deprel="+AV">skal</w>
+<w pos="Adv" msd="__UNDEF__" lemma="altíð" ref="3" dephead="1" deprel="ADV">altíð</w>
+<w pos="V" msd="Inf" lemma="vera" ref="4" dephead="2" deprel="-AV">vera</w>
+<w pos="A*" msd="Adv" lemma="tryggur" ref="5" dephead="4" deprel="ADV">trygt</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="6" dephead="4" deprel="ADV">í</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="Hvannasundsberghol" ref="7" dephead="6" deprel="MOD">Hvannasundsbergholinum</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26a21ea8b-26f9f3d74">
+<w pos="PUNCT" msd="__UNDEF__" lemma="-" ref="1" dephead="2" deprel="_U_">-</w>
+<w pos="Num" msd="Msc.Sg.Nom" lemma="eitt" ref="2" dephead="9" deprel="SBJ">Ein</w>
+<w pos="Pr" msd="__UNDEF__" lemma="av" ref="3" dephead="9" deprel="ADV">av</w>
+<w pos="A" msd="Fem.Pl.Dat.Def" lemma="positivur" ref="4" dephead="5" deprel="MOD">positivu</w>
+<w pos="N" msd="Fem.Pl.Dat.Def" lemma="fylgja" ref="5" dephead="3" deprel="MOD">fylgjunum</w>
+<w pos="Pr" msd="__UNDEF__" lemma="av" ref="6" dephead="5" deprel="MOD">av</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="seinasta" ref="7" dephead="6" deprel="MOD">seinastu</w>
+<w pos="N" msd="Fem.Pl.Dat.Def" lemma="broyting" ref="8" dephead="9" deprel="OBJ">broytingunum</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="9" dephead="0" deprel="+MV">er</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="10" dephead="11" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="11" dephead="17" deprel="CVP">at</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="reseptskyldugi" ref="12" dephead="12" deprel="_U_">reseptskyldugi</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="heiligvágurin" ref="13" dephead="13" deprel="_U_">heiligvágurin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="14" dephead="17" deprel="ADV">til</w>
+<w pos="N" msd="Neu.Pl.Acc.Indef" lemma="fólk" ref="15" dephead="14" deprel="MOD">fólk</w>
+<w pos="Adv" msd="__UNDEF__" lemma="nú" ref="16" dephead="17" deprel="ADV">nú</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="verða" ref="17" dephead="9" deprel="ADV">verður</w>
+<w pos="V*" msd="PrfPrc.A.Msc.Sg.Nom.Indef" lemma="hella" ref="18" dephead="17" deprel="SPR">heldur</w>
+<w pos="A*" msd="Cmp.Adv" lemma="bíligur" ref="19" dephead="18" deprel="ADV">bíligari</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="20" dephead="18" deprel="ADV">í</w>
+<w pos="N" msd="Prop.Fem.Pl.Dat.Indef" lemma="Føroyar" ref="21" dephead="20" deprel="MOD">Føroyum</w>
+<w pos="Adv" msd="__UNDEF__" lemma="enn" ref="22" dephead="18" deprel="ADV">enn</w>
+<w pos="Adv" msd="__UNDEF__" lemma="tilsvarandi" ref="23" dephead="18" deprel="ADV">tilsvarandi</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="heiligvágur" ref="24" dephead="24" deprel="_U_">heiligvágur</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="25" dephead="18" deprel="+AV">er</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="26" dephead="18" deprel="ADV">í</w>
+<w pos="N" msd="Prop.Fem.Sg.Dat.Indef" lemma="Danmark" ref="27" dephead="26" deprel="MOD">Danmark</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="28" dephead="11" deprel="_U_">,</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="siga" ref="29" dephead="18" deprel="+MV">sigur</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="hjalti" ref="30" dephead="29" deprel="SBJ">Hjalti</w>
+<w pos="N" msd="Prop.Sg.Acc" lemma="Gunnarstein" ref="31" dephead="29" deprel="OBJ">Gunnarstein</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="32" dephead="11" deprel="_U_">,</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="farmaseutur" ref="33" dephead="33" deprel="_U_">farmaseutur</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="34" dephead="0" deprel="X">á</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="apotek" ref="35" dephead="34" deprel="MOD">apotekinum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="36" dephead="9" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26264fe43-26163e7e0">
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="1" dephead="3" deprel="ADV">Til</w>
+<w pos="N" msd="Neu.Sg.Gen.Indef" lemma="dømi" ref="2" dephead="1" deprel="MOD">dømis</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="3" dephead="0" deprel="+MV">er</w>
+<w pos="N" msd="Msc.Sg.Nom.Def" lemma="p-bolli" ref="4" dephead="3" deprel="SBJ">P-bollin</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="5" dephead="4" deprel="_U_">,</w>
+<w pos="Pr" msd="__UNDEF__" lemma="av" ref="6" dephead="14" deprel="ADV">av</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="merki" ref="7" dephead="6" deprel="MOD">merkinum</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="Gynera" ref="8" dephead="8" deprel="_U_">Gynera</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="9" dephead="10" deprel="_U_">,</w>
+<w pos="&lt;cs&gt;" msd="Rel" lemma="sum" ref="10" dephead="14" deprel="CVP">sum</w>
+<w pos="A" msd="Fem.Sg.Acc.Indef" lemma="rættiligur" ref="11" dephead="13" deprel="MOD">rættiliga</w>
+<w pos="A" msd="Fem.Pl.Acc.Indef" lemma="nógvur" ref="12" dephead="13" deprel="MOD">nógvar</w>
+<w pos="N" msd="Fem.Pl.Acc.Indef" lemma="kvinna" ref="13" dephead="6" deprel="MOD">kvinnur</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="brúka" ref="14" dephead="3" deprel="+V">brúka</w>
+<w pos="Pr" msd="__UNDEF__" lemma="sum" ref="15" dephead="14" deprel="_U_">sum</w>
+<w pos="A" msd="Msc.Sg.Acc.Indef" lemma="fyribyrgjandi" ref="16" dephead="17" deprel="MOD">fyribyrgjandi</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="heilivágur" ref="17" dephead="15" deprel="MOD">heilivág</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="18" dephead="10" deprel="_U_">,</w>
+<w pos="N" msd="Neu.Sg.Acc.Indef" lemma="nú" ref="19" dephead="0" deprel="X">nú</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="fallin" ref="20" dephead="20" deprel="_U_">fallin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="úr" ref="21" dephead="0" deprel="X">úr</w>
+<w pos="Num" msd="Dat" lemma="144,40" ref="22" dephead="23" deprel="MOD">144,40</w>
+<w pos="N" msd="Fem.Pl.Acc.Indef" lemma="króna" ref="23" dephead="17" deprel="MOD">krónur</w>
+<w pos="Adv" msd="__UNDEF__" lemma="niður" ref="24" dephead="0" deprel="X">niður</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="25" dephead="0" deprel="X">í</w>
+<w pos="Num" msd="Dat" lemma="109,06" ref="26" dephead="27" deprel="MOD">109,06</w>
+<w pos="N" msd="Fem.Pl.Acc.Indef" lemma="króna" ref="27" dephead="25" deprel="MOD">krónur</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="28" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26edead69-26b80a696">
+<w pos="Pron" msd="Pers.Sg.Acc" lemma="tað" ref="1" dephead="20" deprel="OBJ">Tað</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="hava" ref="2" dephead="0" deprel="+AV">hava</w>
+<w pos="Pron" msd="Pers.Pl.Nom" lemma="hann" ref="3" dephead="2" deprel="SBJ">teir</w>
+<w pos="Pr" msd="__UNDEF__" lemma="hjá" ref="4" dephead="3" deprel="ADV">hjá</w>
+<w pos="N" msd="Msc.Sg.Dat.Def" lemma="landsverkfrøðingur" ref="5" dephead="4" deprel="MOD">Landsverkfrøðinginum</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="6" dephead="3" deprel="ADV">í</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="Norðoyggjum" ref="7" dephead="7" deprel="_U_">Norðoyggjum</w>
+<w pos="Adv" msd="__UNDEF__" lemma="altíð" ref="8" dephead="3" deprel="ADV">altíð</w>
+<w pos="V" msd="Sup" lemma="hava" ref="9" dephead="2" deprel="-AV">havt</w>
+<w pos="Pr" msd="__UNDEF__" lemma="sum" ref="10" dephead="3" deprel="ADV">sum</w>
+<w pos="N" msd="Neu.Sg.Acc.Indef" lemma="mál" ref="11" dephead="10" deprel="MOD">mál</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="12" dephead="13" deprel="_U_">,</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="13" dephead="11" deprel="CNP">og</w>
+<w pos="Pr" msd="__UNDEF__" lemma="hóast" ref="14" dephead="20" deprel="ADV">hóast</w>
+<w pos="A" msd="Fem.Pl.Acc.Indef" lemma="trongur" ref="15" dephead="17" deprel="MOD">trongar</w>
+<w pos="A" msd="Fem.Pl.Acc.Indef" lemma="fíggjarligur" ref="16" dephead="17" deprel="MOD">fíggjarligar</w>
+<w pos="N" msd="Fem.Pl.Acc.Indef" lemma="tíð" ref="17" dephead="14" deprel="MOD">tíðir</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="18" dephead="17" deprel="_U_">,</w>
+<w pos="Adv" msd="__UNDEF__" lemma="so" ref="19" dephead="20" deprel="ADV">so</w>
+<w pos="V" msd="Inf" lemma="verða" ref="20" dephead="9" deprel="-AV">verða</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="21" dephead="20" deprel="_U_">í</w>
+<w pos="Det" msd="Msc.Sg.Dat.Indef" lemma="allur" ref="22" dephead="23" deprel="MOD">øllum</w>
+<w pos="N" msd="Neu.Pl.Dat.Indef" lemma="far" ref="23" dephead="21" deprel="MOD">førum</w>
+<w pos="Adv" msd="__UNDEF__" lemma="ikki" ref="24" dephead="20" deprel="_U_">ikki</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="framdar" ref="25" dephead="25" deprel="_U_">framdar</w>
+<w pos="N" msd="Fem.Pl.Nom.Indef" lemma="sparing" ref="26" dephead="20" deprel="SBJ">sparingar</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="27" dephead="20" deprel="_U_">á</w>
+<w pos="Det" msd="Neu.Sg.Dat" lemma="hesin" ref="28" dephead="29" deprel="MOD">hesum</w>
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="øki" ref="29" dephead="27" deprel="MOD">øki</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="30" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26be3f26d-26ed1ffb9">
+<w pos="N" msd="Msc.Sg.Nom.Def" lemma="p-bolli" ref="1" dephead="2" deprel="SBJ">P-bollin</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="2" dephead="0" deprel="+MV">er</w>
+<w pos="Adv" msd="__UNDEF__" lemma="nú" ref="3" dephead="2" deprel="ADV">nú</w>
+<w pos="A" msd="Cmp.Msc.Sg.Nom.Def" lemma="bíligur" ref="4" dephead="2" deprel="SPR">bíligari</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26b746991-265f52eea">
+<w pos="Adv" msd="__UNDEF__" lemma="tá" ref="1" dephead="4" deprel="ADV">Tá</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Jákup" ref="2" dephead="3" deprel="MOD">Jákup</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Mørkøre" ref="3" dephead="4" deprel="SBJ">Mørkøre</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="taka" ref="4" dephead="0" deprel="ADV">tók</w>
+<w pos="Pr" msd="__UNDEF__" lemma="yvir" ref="5" dephead="4" deprel="ADV">yvir</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="stjórasessin" ref="6" dephead="6" deprel="_U_">stjórasessin</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="7" dephead="6" deprel="_U_">,</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="fara" ref="8" dephead="4" deprel="+MV">fór</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="leivur" ref="9" dephead="8" deprel="SBJ">Leivur</w>
+<w pos="N" msd="Prop.Sg.Acc" lemma="Michelsen" ref="10" dephead="8" deprel="OBJ">Michelsen</w>
+<w pos="Adv" msd="__UNDEF__" lemma="aftur" ref="11" dephead="8" deprel="ADV">aftur</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="12" dephead="8" deprel="ADV">í</w>
+<w pos="A*" msd="Msc.Pl.Adv" lemma="gamal" ref="13" dephead="8" deprel="ADV">gamla</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="fíggjarstjórastarvið" ref="14" dephead="14" deprel="_U_">fíggjarstjórastarvið</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="15" dephead="8" deprel="ADV">í</w>
+<w pos="N" msd="Fem.Sg.Acc.Indef" lemma="fiskavirking" ref="16" dephead="15" deprel="MOD">Fiskavirking</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="17" dephead="4" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="269361257-26af9cdd5">
+<w pos="N" msd="Prop.Sg.Nom" lemma="Duruta" ref="1" dephead="2" deprel="SBJ">Duruta</w>
+<w pos="V" msd="Ind.Prt.Sg" lemma="eiga" ref="2" dephead="0" deprel="+MV">átti</w>
+<w pos="A*" msd="Neu.Pl.Adv" lemma="fyrsti" ref="3" dephead="2" deprel="ADV">fyrsta</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="nýføringin" ref="4" dephead="4" deprel="_U_">nýføringin</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="265f62702-26e696369">
+<w pos="Det" msd="Neu.Sg.Nom" lemma="ein" ref="1" dephead="2" deprel="MOD">Eitt</w>
+<w pos="Pron" msd="Indef.Neu.Acc" lemma="annar" ref="2" dephead="0" deprel="X">annað</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="3" dephead="13" deprel="ADV">til</w>
+<w pos="N" msd="Neu.Sg.Gen.Indef" lemma="felag" ref="4" dephead="5" deprel="MOD">felag</w>
+<w pos="N" msd="Neu.Pl.Gen.Indef" lemma="hav" ref="5" dephead="7" deprel="MOD">hava</w>
+<w pos="Det" msd="Indef.Neu.Pl.Acc" lemma="báðir" ref="6" dephead="7" deprel="MOD">bæði</w>
+<w pos="N" msd="Neu.Pl.Acc.Def" lemma="berghol" ref="7" dephead="3" deprel="MOD">bergholini</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="8" dephead="7" deprel="_U_">,</w>
+<w pos="A*" msd="Msc.Pl.Adv" lemma="nevniligur" ref="9" dephead="13" deprel="ADV">nevniliga</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="10" dephead="13" deprel="CVP">at</w>
+<w pos="Pron" msd="Pers.Pl.Nom" lemma="tað" ref="11" dephead="13" deprel="SBJ">tey</w>
+<w pos="A*" msd="Adv" lemma="berur" ref="12" dephead="13" deprel="ADV">bert</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="hava" ref="13" dephead="0" deprel="+MV">hava</w>
+<w pos="Pron" msd="Dem.Fem.Sg.Acc" lemma="tann" ref="14" dephead="16" deprel="MOD">ta</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="einu" ref="15" dephead="15" deprel="_U_">einu</w>
+<w pos="N" msd="Fem.Sg.Acc.Def" lemma="koyribreyt" ref="16" dephead="16" deprel="OBJ">koyribreytina</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="17" dephead="13" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="2607d4ca6-26c969322">
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hann" ref="1" dephead="2" deprel="SBJ">Hann</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="halda" ref="2" dephead="0" deprel="+MV">heldur</w>
+<w pos="Adv" msd="__UNDEF__" lemma="fram" ref="3" dephead="2" deprel="ADV">fram</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="4" dephead="2" deprel="ADV">í</w>
+<w pos="A" msd="Neu.Sg.Dat.Indef" lemma="nýggjur" ref="5" dephead="6" deprel="MOD">nýggjum</w>
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="starv" ref="6" dephead="4" deprel="MOD">starvi</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="7" dephead="2" deprel="ADV">í</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="framtakssamtak" ref="8" dephead="7" deprel="MOD">Framtakssamtakinum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="9" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26af52e20-26ebd653d">
+<w pos="PUNCT" msd="__UNDEF__" lemma="-" ref="1" dephead="2" deprel="_U_">-</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hann" ref="2" dephead="3" deprel="SBJ">Hann</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="hava" ref="3" dephead="0" deprel="+AV">hevur</w>
+<w pos="A" msd="Msc.Sg.Nom.Indef" lemma="sjálvur" ref="4" dephead="0" deprel="X">sjálvur</w>
+<w pos="V" msd="Sup" lemma="taka" ref="5" dephead="3" deprel="-MV">tikið</w>
+<w pos="Pron" msd="Refl.Acc" lemma="seg" ref="6" dephead="5" deprel="OBJ">seg</w>
+<w pos="Pr" msd="__UNDEF__" lemma="úr" ref="7" dephead="5" deprel="ADV">úr</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="stjórastarvinum" ref="8" dephead="8" deprel="_U_">stjórastarvinum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="9" dephead="10" deprel="_U_">,</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="10" dephead="3" deprel="CVP">og</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="halda" ref="11" dephead="19" deprel="+MV">heldur</w>
+<w pos="Adv" msd="__UNDEF__" lemma="fram" ref="12" dephead="11" deprel="ADV">fram</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="13" dephead="11" deprel="ADV">í</w>
+<w pos="A" msd="Neu.Dat" lemma="annar" ref="14" dephead="15" deprel="MOD">øðrum</w>
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="starv" ref="15" dephead="13" deprel="MOD">starvi</w>
+<w pos="Pr" msd="__UNDEF__" lemma="innan" ref="16" dephead="11" deprel="ADV">innan</w>
+<w pos="N" msd="Neu.Sg.Acc.Def" lemma="samtak" ref="17" dephead="16" deprel="MOD">samtakið</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="18" dephead="17" deprel="_U_">,</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="siga" ref="19" dephead="3" deprel="+MV">sigur</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Sverri" ref="20" dephead="21" deprel="MOD">Sverri</w>
+<w pos="N" msd="Prop.Sg.Acc" lemma="Hansen" ref="21" dephead="19" deprel="OBJ">Hansen</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="22" dephead="21" deprel="_U_">,</w>
+<w pos="V*" msd="PrfPrc.A.Msc.Sg.Nom.Indef" lemma="forma" ref="23" dephead="0" deprel="X">formaður</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="24" dephead="0" deprel="X">í</w>
+<w pos="N" msd="Msc.Sg.Dat.Def" lemma="framtaksgrunnur" ref="25" dephead="24" deprel="MOD">Framtaksgrunninum</w>
+<w pos="CC" msd="__UNDEF__" lemma="og" ref="26" dephead="25" deprel="CNP">og</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="nevndarformaður" ref="27" dephead="0" deprel="X">nevndarformaður</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="28" dephead="0" deprel="X">í</w>
+<w pos="N" msd="Prop.Fem.Pl.Gen.Indef" lemma="Føroyar" ref="29" dephead="30" deprel="MOD">Føroya</w>
+<w pos="N" msd="Fem.Sg.Dat.Indef" lemma="fiskavirking" ref="30" dephead="25" deprel="MOD">Fiskavirking</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="31" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26955bddb-26930622c">
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hann" ref="1" dephead="2" deprel="SBJ">Hann</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="fara" ref="2" dephead="0" deprel="+MV">fer</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="3" dephead="2" deprel="ADV">frá</w>
+<w pos="Pr" msd="__UNDEF__" lemma="á" ref="4" dephead="2" deprel="ADV">á</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="næsti" ref="5" dephead="4" deprel="MOD">næsta</w>
+<w pos="N" msd="Msc.Sg.Dat.Indef" lemma="aðalfundur" ref="6" dephead="0" deprel="X">aðalfundi</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="7" dephead="2" deprel="ADV">í</w>
+<w pos="N" msd="Msc.Pl.Dat.Def" lemma="felagi" ref="8" dephead="7" deprel="MOD">feløgunum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="9" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26adc6ab5-2642d07ad">
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="tað" ref="1" dephead="2" deprel="SBJ">Tað</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="ljóða" ref="2" dephead="0" deprel="+MV">ljóðar</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="3" dephead="2" deprel="ADV">í</w>
+<w pos="Det" msd="Msc.Sg.Dat.Indef" lemma="allur" ref="4" dephead="5" deprel="MOD">øllum</w>
+<w pos="N" msd="Fem.Pl.Dat.Indef" lemma="føra" ref="5" dephead="3" deprel="MOD">førum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="6" dephead="7" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="7" dephead="9" deprel="CVP">at</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="tað" ref="8" dephead="9" deprel="SBJ">tað</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="hava" ref="9" dephead="2" deprel="OBJ">hevur</w>
+<w pos="V" msd="Sup" lemma="vera" ref="10" dephead="9" deprel="-AV">verið</w>
+<w pos="A*" msd="Adv" lemma="greiður" ref="11" dephead="10" deprel="ADV">greitt</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="12" dephead="11" deprel="ADV">í</w>
+<w pos="Num" msd="Msc.Sg.Acc" lemma="trý" ref="13" dephead="14" deprel="MOD">tríggjar</w>
+<w pos="N" msd="Msc.Pl.Acc.Indef" lemma="mánaður" ref="14" dephead="12" deprel="MOD">mánaðir</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="15" dephead="7" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="16" dephead="18" deprel="CVP">at</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hann" ref="17" dephead="18" deprel="SBJ">hann</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="fara" ref="18" dephead="11" deprel="ADV">fór</w>
+<w pos="Pr" msd="__UNDEF__" lemma="úr" ref="19" dephead="18" deprel="ADV">úr</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="starv" ref="20" dephead="19" deprel="MOD">starvinum</w>
+<w pos="Adv" msd="__UNDEF__" lemma="aftaná" ref="21" dephead="18" deprel="ADV">aftaná</w>
+<w pos="N" msd="Neu.Pl.Nom.Indef" lemma="nýggjár" ref="22" dephead="0" deprel="X">nýggjár</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="23" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26ce2825e-26bf6f126">
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hann" ref="1" dephead="2" deprel="SBJ">Hann</w>
+<w pos="V" msd="Ind.Prt.Sg" lemma="hava" ref="2" dephead="0" deprel="+MV">hevði</w>
+<w pos="Det" msd="Indef.Fem.Sg.Acc" lemma="eingin" ref="3" dephead="4" deprel="MOD">onga</w>
+<w pos="N" msd="Fem.Sg.Acc.Indef" lemma="viðmerking" ref="4" dephead="2" deprel="OBJ">viðmerking</w>
+<w pos="Pron" msd="Indef.Fem.Acc" lemma="annar" ref="5" dephead="2" deprel="OBJ">aðra</w>
+<w pos="Adv" msd="__UNDEF__" lemma="enn" ref="6" dephead="2" deprel="ADV">enn</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="7" dephead="8" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="8" dephead="10" deprel="CVP">at</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hann" ref="9" dephead="10" deprel="SBJ">hann</w>
+<w pos="V" msd="Ind.Prt.Sg" lemma="vátta" ref="10" dephead="2" deprel="ADV">váttaði</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="11" dephead="8" deprel="_U_">,</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="12" dephead="14" deprel="CVP">at</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="hann" ref="13" dephead="14" deprel="SBJ">hann</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="14" dephead="10" deprel="ADV">er</w>
+<w pos="V*" msd="PrfPrc.A.Fem.Sg.Nom.Indef" lemma="fara" ref="15" dephead="14" deprel="SPR">farin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="frá" ref="16" dephead="14" deprel="ADV">frá</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="17" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="unknown" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="268c940af-26cf506f1">
+<w pos="N" msd="Fem.Sg.Nom.Def" lemma="orsøk" ref="1" dephead="2" deprel="SBJ">Orsøkin</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="2" dephead="0" deprel="+MV">er</w>
+<w pos="N" msd="Fem.Sg.Nom.Indef" lemma="seinasta" ref="3" dephead="2" deprel="SPR">seinasta</w>
+<w pos="N" msd="Fem.Sg.Nom.Def" lemma="broyting" ref="4" dephead="15" deprel="SBJ">broytingin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="5" dephead="2" deprel="ADV">í</w>
+<w pos="N" msd="Fem.Sg.Dat.Def" lemma="lóg" ref="6" dephead="5" deprel="MOD">lógini</w>
+<w pos="Pr" msd="__UNDEF__" lemma="um" ref="7" dephead="2" deprel="ADV">um</w>
+<w pos="N" msd="Neu.Sg.Acc.Indef" lemma="meirvirðisgjald" ref="8" dephead="7" deprel="MOD">meirvirðisgjald</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="9" dephead="8" deprel="_U_">,</w>
+<w pos="Adv" msd="__UNDEF__" lemma="har" ref="10" dephead="15" deprel="ADV">har</w>
+<w pos="__UNDEF__" msd="__UNDEF__" lemma="reseptskyldugur" ref="11" dephead="11" deprel="_U_">reseptskyldugur</w>
+<w pos="N" msd="Msc.Sg.Nom.Indef" lemma="heilivágur" ref="12" dephead="15" deprel="SBJ">heilivágur</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="13" dephead="15" deprel="ADV">til</w>
+<w pos="N" msd="Neu.Pl.Acc.Indef" lemma="fólk" ref="14" dephead="13" deprel="MOD">fólk</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="sleppa" ref="15" dephead="2" deprel="+MV">sleppur</w>
+<w pos="Pr" msd="__UNDEF__" lemma="undan" ref="16" dephead="15" deprel="ADV">undan</w>
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="meirvirðisgjald" ref="17" dephead="16" deprel="MOD">meirvirðisgjaldi</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="18" dephead="2" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26a832fe3-26449422c">
+<w pos="N" msd="Prop.Sg.Nom" lemma="Jákup" ref="1" dephead="2" deprel="MOD">Jákup</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Mørkøre" ref="2" dephead="3" deprel="SBJ">Mørkøre</w>
+<w pos="V" msd="Ind.Prt.3Sg" lemma="vera" ref="3" dephead="0" deprel="+MV">var</w>
+<w pos="Adv" msd="__UNDEF__" lemma="ikki" ref="4" dephead="3" deprel="ADV">ikki</w>
+<w pos="A" msd="Msc.Sg.Nom.Def" lemma="einastur" ref="5" dephead="6" deprel="MOD">einasti</w>
+<w pos="N" msd="Msc.Sg.Nom.Def" lemma="stjóri" ref="6" dephead="3" deprel="SPR">stjórin</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="7" dephead="3" deprel="ADV">í</w>
+<w pos="N" msd="Neu.Sg.Dat.Def" lemma="samtak" ref="8" dephead="7" deprel="MOD">samtakinum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="," ref="9" dephead="10" deprel="_U_">,</w>
+<w pos="&lt;cs&gt;" msd="Rel" lemma="sum" ref="10" dephead="10" deprel="CVP">sum</w>
+<w pos="A" msd="Msc.Sg.Nom.Def" lemma="sleptur" ref="11" dephead="0" deprel="X">slepti</w>
+<w pos="N" msd="Msc.Sg.Dat.Def" lemma="endi" ref="12" dephead="0" deprel="X">endanum</w>
+<w pos="Pr" msd="__UNDEF__" lemma="í" ref="13" dephead="0" deprel="X">í</w>
+<w pos="Adv" msd="__UNDEF__" lemma="brátt" ref="14" dephead="0" deprel="X">brátt</w>
+<w pos="V*" msd="PrfPrc.A.Neu.Sg.Dat.Def" lemma="fara" ref="15" dephead="16" deprel="MOD">farna</w>
+<w pos="N" msd="Neu.Pl.Dat.Indef" lemma="árin" ref="16" dephead="13" deprel="MOD">árinum</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="17" dephead="3" deprel="_U_">.</w>
+</sentence>
+</text>
+<text page="1" date="1998-01-06" gender="male" authortype="journalist" datefrom="19980106" timefrom="000000" dateto="19980106" timeto="235959">
+<sentence id="26288b8c3-2681f2d64">
+<w pos="N" msd="Neu.Sg.Dat.Indef" lemma="el" ref="1" dephead="4" deprel="OBJ">Eli</w>
+<w pos="N" msd="Prop.Sg.Nom" lemma="Guttesen" ref="2" dephead="4" deprel="SBJ">Guttesen</w>
+<w pos="Adv" msd="__UNDEF__" lemma="nú" ref="3" dephead="4" deprel="ADV">Nú</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="vera" ref="4" dephead="0" deprel="+MV">er</w>
+<w pos="A*" msd="Adv" lemma="líkur" ref="5" dephead="4" deprel="ADV">líkt</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="6" dephead="4" deprel="ADV">til</w>
+<w pos="CS" msd="__UNDEF__" lemma="at" ref="7" dephead="9" deprel="CVP">at</w>
+<w pos="N" msd="Msc.Pl.Nom.Indef" lemma="hjúnafelagi" ref="8" dephead="9" deprel="SBJ">hjúnafelagar</w>
+<w pos="V" msd="Ind.Prs.Pl" lemma="verða" ref="9" dephead="6" deprel="+MV">verða</w>
+<w pos="V*" msd="PrfPrc.A.Msc.Pl.Nom.Indef" lemma="viðgera" ref="10" dephead="9" deprel="SPR">viðgjørdir</w>
+<w pos="Det" msd="Neu.Sg.Gen" lemma="ein" ref="11" dephead="11" deprel="_U_">eins</w>
+<w pos="CS" msd="__UNDEF__" lemma="og" ref="12" dephead="12" deprel="CVP">og</w>
+<w pos="A" msd="Neu.Pl.Nom" lemma="annar" ref="13" dephead="0" deprel="X">onnur</w>
+<w pos="Adv" msd="__UNDEF__" lemma="sambúgvandi" ref="14" dephead="17" deprel="ADV">sambúgvandi</w>
+<w pos="Adv" msd="__UNDEF__" lemma="tá" ref="15" dephead="17" deprel="ADV">tá</w>
+<w pos="Pron" msd="Pers.Sg.Nom" lemma="tað" ref="16" dephead="17" deprel="SBJ">tað</w>
+<w pos="V" msd="Ind.Prs.3Sg" lemma="koma" ref="17" dephead="9" deprel="ADV">kemur</w>
+<w pos="Pr" msd="__UNDEF__" lemma="til" ref="18" dephead="17" deprel="ADV">til</w>
+<w pos="N" msd="Msc.Sg.Acc.Indef" lemma="skattur" ref="19" dephead="18" deprel="MOD">skatt</w>
+<w pos="CLB" msd="__UNDEF__" lemma="." ref="20" dephead="4" deprel="_U_">.</w>
+</sentence>
+</text>
+</corpus>
