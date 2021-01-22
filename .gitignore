@@ -1,0 +1,8 @@
+
+# .gitignore
+
+far_gold.code-workspace
+.vscode
+
+fts.xml
+old_fts_split
