@@ -1,6 +1,6 @@
 # Faroese Gold Standard Corpus
 
-This repo contains the ongoing project of creating a gold standard PoS tagged corpus.
+This repo contains the ongoing project of creating a gold standard PoS tagged corpus for Faroese.
 
 Faroese texts are tagged with the [Faroese implementation of ABLTagger](https://github.com/hinrikur/far-ABLTagger) and hand corrected, with a middle step of mapping back and forth between Icelandic and Faroese PoS tagging schemes.
 
