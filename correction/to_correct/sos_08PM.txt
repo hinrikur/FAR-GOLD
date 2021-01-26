@@ -1,0 +1,12032 @@
+hjá	af
+Jens	nkeþ-s	UNKNOWN
+Paula	nkeþ-s	UNKNOWN
+Heinesen	n----s	UNKNOWN
+.	pl
+
+Korthús	nhen
+ella	c
+skansi	nken
+
+Verkið	nheng
+tykist	svm3fn	UNKNOWN
+sum	ct
+eitt	fbhen
+tonsatungt	lhensf	UNKNOWN
+pu	nhen
+,	pk
+um	c
+nakað	fbhen
+slíkt	fohen
+er	svg3en
+til	aa
+.	pl
+
+Vónbrotnir	lkfnsf
+av	af
+býráðnum	nheþg
+
+Tá	c
+ið	ct
+FCK	e	UNKNOWN
+vitjaði	svg3eþ
+í	af
+Klaksvík	nveþ-s	UNKNOWN
+mánadagin	nkeog
+,	pk
+bjóðaði	svg3eþ
+býráðið	nheog
+har	aa
+norðuri	aa
+øllum	fbheþ
+FCK	e	UNKNOWN
+hópinum	nkeþg
+,	pk
+KÍ	ks	UNKNOWN
+-	pa
+leikarunum	nkfþg
+við	af
+makum	nkfþg
+og	c
+øðrum	fbhfþ
+til	af
+døgurða	nkeo
+,	pk
+meðan	c
+býráðið	nheng
+í	af
+Havn	nveþ-s
+bert	aa
+bjóðar	svg3en
+vitjandi	slg	UNKNOWN
+liðnum	nheþg
+til	af
+døgurða	nkeo
+,	pk
+sigur	svg3en
+hann	fpken
+.	pl
+
+Eg	fp1en
+minnist	svg1en
+ikki	aa
+sjálvur	foken
+,	pk
+nær	aa
+seinast	aae
+tríburar	nkfn
+vórðu	svg3fþ	UNKNOWN
+føddir	sþgkfn	UNKNOWN
+í	af
+Havn	nveþ-s
+.	pl
+
+Gjørt	sþmhen
+varð	svg3eþ	UNKNOWN
+eisini	aa
+av	aa
+,	pk
+at	c
+farast	snm	UNKNOWN
+skal	svg3en
+undir	af
+fyrireikingararbeiðið	nheog	UNKNOWN
+aftur	aa
+umleið	aa
+20.	ta	UNKNOWN
+august	nkeo
+.	pl
+
+Á	af
+løgreglustøðini	nveþg
+í	af
+Bergen	e	UNKNOWN
+mæla	svg3fn
+tey	fphfn
+fólki	nheþ
+frá	aa
+at	cn
+hava	sng
+taskuna	nveog
+á	af
+rygginum	nkeþg
+.	pl
+
+Tað	fphen
+hevur	svg3en	UNKNOWN
+virkað	sþmhen
+soleiðis	aa
+,	pk
+at	c
+fólk	nhfn
+frá	af
+felagnum	nheþg
+hava	svg3fn
+verið	sþmhen
+á	af
+staðnum	nheþg
+og	c
+lagt	sþmhen
+fyri	aa
+,	pk
+tá	c
+byrjað	sþmhen
+verður	svg3en
+.	pl
+
+Eisini	aa
+føroyingar	nkfn
+,	pk
+búsitandi	slg	UNKNOWN
+uttanlands	aa
+,	pk
+ið	ct
+eru	svg3fn	UNKNOWN
+heima	aa
+,	pk
+plaga	svg3fn
+at	cn
+vera	sng
+trúgvir	lkfnsf
+gestir	nkfn
+á	af
+hesum	fahfþ
+tiltøkunum	nhfþg
+.	pl
+
+Tað	fphen
+er	svg3en
+forkunnugt	lhensf
+hjá	af
+ikki	aa
+»	pg	UNKNOWN
+innsiglaðum	sþghfþ	UNKNOWN
+«	pg	UNKNOWN
+at	cn
+sleppa	sng
+í	af
+Tindhólm	nkeo-s	UNKNOWN
+,	pk
+so	aa
+tað	fphen
+skal	svg3en
+okkurt	fbhen
+serligt	lhensf
+til	aa
+.	pl
+
+Tykist	svm3en	UNKNOWN
+eitt	fbheo
+sindur	nheo
+lúnutur	lkensf
+.	pl
+
+Nærkast	svm3fn	UNKNOWN
+lendingini	nveþg
+og	c
+biða	svg3fn
+fólk	nhfo
+vera	sng
+klár	aa
+at	cn
+fara	sng
+í	af
+land	nheo
+.	pl
+
+Hildið	sþmhen
+verður	svg3en
+at	af
+húsunum	nhfþg
+.	pl
+
+Teir	fpkfn
+taka	svg3fn
+tað	fpheo
+róligt	aa
+.	pl
+
+Tað	fphen
+er	svg3en
+sum	c
+um	af
+veturin	nkeog
+.	pl
+
+Men	c
+forvitið	sþmhen
+er	svg3en
+,	pk
+og	c
+skjótt	aa
+er	svg3en
+hann	fpken
+aftur	aa
+í	af
+brotinum	nheþg
+.	pl
+
+Nú	aa
+Tindhólmur	nken-s	UNKNOWN
+skal	svg3en
+savnast	snm	UNKNOWN
+í	af
+eina	fbveo
+kommunu	nveo
+saman	aa
+við	af
+restini	nveþg
+av	af
+landinum	nheþg
+uttan	aa
+fyri	af
+fossarnar	nkfog
+,	pk
+Bøsdalafoss	nkeo-s	UNKNOWN
+og	c
+Reipsáfoss	nkeo-s	UNKNOWN
+.	pl
+
+Eisini	aa
+onkur	fbken
+,	pk
+sum	ct
+ynskir	svg3en
+,	pk
+at	c
+farið	sþmhen
+verður	svg3en
+víðari	aam
+,	pk
+so	aa
+øll	fbven
+oyggin	nveng
+verður	svg3en
+savnað	sþmven
+í	af
+eina	fbveo
+kommunu	nveo
+.	pl
+
+So	aa
+sum	c
+hvar	c
+valstøðini	nhfng	UNKNOWN
+skulu	svg3fn	UNKNOWN
+vera	sng
+og	c
+soleiðis	aa
+.	pl
+
+Svenska	lhenvf
+dómsvaldið	nheng
+broytti	svg3eþ
+í	af
+gjár	nheo	UNKNOWN
+fongsulsdómin	nkeog	UNKNOWN
+hjá	af
+Mijailo	e	UNKNOWN
+Mijailovic	e	UNKNOWN
+,	pk
+sum	ct
+myrdi	svg3eþ
+Onnu	nveo-s	UNKNOWN
+Lindh	n----s	UNKNOWN
+,	pk
+uttanríkisráðharra	nkeo
+
+Fyri	af
+trimum	tfhfþ	UNKNOWN
+árum	nhfþ
+síðani	aa
+samdust	svg3fþ	UNKNOWN
+fleiri	lkfnsm	UNKNOWN
+flokkar	nkfn
+í	af
+Fólkatinginum	nheþg
+um	aa
+at	cn
+skerja	sng
+talið	nheog
+á	af
+apotekum	nhfþg
+í	af
+teimum	fakfþ
+donsku	lkfþvf	UNKNOWN
+býunum	nkfþg
+.	pl
+
+Hetta	fahen
+kom	svg3eþ
+av	af
+,	pk
+at	c
+familjan	nveng
+Hjelm	n----s	UNKNOWN
+savnaðist	svg3eþ	UNKNOWN
+og	c
+mintist	svm3fþ
+ein	fbheo
+ættfaðir	nkeo
+,	pk
+Íslands	nhee-s	UNKNOWN
+við	af
+børnunum	nhfþg
+hjá	af
+Akka	nkeþ-s	UNKNOWN
+,	pk
+sum	ct
+gekk	svg3eþ
+burtur	aa
+í	af
+1926	ta	UNKNOWN
+,	pk
+og	c
+íslendska	lvensf
+kona	nven
+hansara	fpkee
+flutti	svg3eþ
+aftur	aa
+til	af
+Íslands	nhee-s	UNKNOWN
+.	pl
+
+Av	af
+synum	nkeþ
+hansara	fpkee
+untist	svm3eþ
+tað	fphen
+bert	aa
+tiltikna	lkeþvf
+sjógarpinum	nkeþg
+Dánjali	nkeþ-s	UNKNOWN
+at	cn
+liva	sng
+til	af
+ellisár	nhfo
+og	c
+verða	svg3en
+lagdur	sþmken
+til	af
+hvíldar	nvee
+vesturi	aa
+á	af
+Kirkjukletti	nkeþ-s	UNKNOWN
+.	pl
+
+Heimastýrislógin	nveng
+bygdi	svg3eþ
+á	af
+,	pk
+at	c
+tað	fphen
+vóru	svg3fþ	UNKNOWN
+tveir	tfkfn
+partar	nkfn
+,	pk
+sum	ct
+á	af
+jøvnum	lkeþsf
+føti	nkeþ	UNKNOWN
+samstarvaðu	svg3fþ
+.	pl
+
+Ein	fbven
+tílík	foven
+agressión	nven	UNKNOWN
+,	pk
+sum	ct
+av	af
+hesum	faheþ
+er	svg3en
+uppstaðin	sþmven	UNKNOWN
+,	pk
+skal	svg3en
+kanaliserast	snm	UNKNOWN
+onkustaðnis	aa	UNKNOWN
+politiskt	lhensf
+-	pa
+og	c
+er	svg3en
+tað	fphen
+nátúrligt	lhensf	UNKNOWN
+,	pk
+at	c
+Tjóðveldisflokkurin	nkeng
+,	pk
+ið	ct
+er	svg3en
+mest	aae
+víðgongdur	sþmken
+á	af
+hasum	faheþ
+økinum	nheþg
+,	pk
+heystar	svg3en
+sín	fpkeo
+vinning	nkeo
+.	pl
+
+Tá	aa
+er	svg3en
+tað	fphen
+nátúrligt	lhensf	UNKNOWN
+,	pk
+at	c
+hon	fpven
+vísir	svg3en
+eina	fbveo
+polarisering	nveo	UNKNOWN
+millum	af
+Sambandsflokkin	nkeog
+,	pk
+sum	ct
+ikki	aa
+vil	svg3en
+broytingar	nvfo
+,	pk
+og	c
+Tjóðveldisflokkin	nkeog
+,	pk
+sum	ct
+vil	svg3en
+slíta	sng
+.	pl
+
+Men	c
+tað	fphen
+er	svg3en
+púra	aa
+greitt	lhensf
+,	pk
+at	c
+vit	fp1fn
+skulu	svg1fn	UNKNOWN
+hava	sng
+eina	fbveo
+uppgerð	nveo
+við	af
+danir	nkfo
+.	pl
+
+»	pg	UNKNOWN
+Heilsufrøðiliga	lvenvf
+Starvsstovan	nveng
+visti	svg3eþ	UNKNOWN
+,	pk
+at	c
+talan	nven
+var	svg3eþ
+um	af
+frystan	lkeosf
+laks	nkeo
+,	pk
+hóast	c
+pappírini	nhfng
+søgdu	svg3fþ
+,	pk
+at	c
+tað	fphen
+,	pk
+sum	ct
+útflutt	sþmhen	UNKNOWN
+varð	svg3eþ	UNKNOWN
+,	pk
+var	svg3eþ
+feskur	lkensf
+laksur	nken
+.	pl
+
+Tað	fphen
+var	svg3eþ
+eisini	aa
+Vestsalmon	e	UNKNOWN
+,	pk
+sum	ct
+syrgdi	svg3eþ
+fyri	af
+,	pk
+at	c
+vøran	nveng
+kom	svg3eþ
+til	af
+Havnar	nvee-s
+,	pk
+haðani	aa
+hon	fpven
+skuldi	svg3eþ	UNKNOWN
+avskipast	snm
+,	pk
+greiðir	svg3en
+Martin	nken-s	UNKNOWN
+Hendriksson	nken-s	UNKNOWN
+,	pk
+stjóri	nken
+í	af
+Ísbú	nveþ	UNKNOWN
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+,	pk
+frá	aa
+.	pl
+
+Har	aa
+var	svg3eþ
+einki	aa
+at	cn
+gera	sng
+at	cn
+byrja	sng
+við	aa
+.	pl
+
+Annars	aa
+verður	svg3en
+sagt	sþmhen
+av	af
+Heilsufrøðiligu	lveþvf	UNKNOWN
+Starvsstovuni	nveþg
+,	pk
+at	c
+tá	c
+feskur	lkensf
+laksur	nken
+verður	svg3en
+avskipaður	sþmken	UNKNOWN
+skal	svg3en
+ein	fbven
+tøkufráboðan	nven	UNKNOWN
+fyriliggja	sng	UNKNOWN
+.	pl
+
+Í	af
+løtuni	nveþg
+arbeiðir	svg3en
+Martin	nken-s	UNKNOWN
+Hendriksson	nken-s	UNKNOWN
+hjá	af
+eini	fbveþ
+fyritøku	nveþ
+í	af
+Gøteborg	nkeþ-s	UNKNOWN
+,	pk
+sum	ct
+fæst	svm3en	UNKNOWN
+við	af
+fiskahandil	nkeo	UNKNOWN
+.	pl
+
+Hann	fpken
+starvast	svm3en	UNKNOWN
+í	af
+løtuni	nveþg
+á	af
+Oljufyrisitingini	nveþg
+,	pk
+har	aa
+hann	fpken
+hevur	svg3en	UNKNOWN
+verið	sþmhen
+síðani	aa
+1994	ta	UNKNOWN
+.	pl
+
+Hinvegin	aa
+hava	svg1fn
+vit	fp1fn
+stórar	lvfosf
+vónir	nvfo
+til	af
+eina	fbveo
+nýggja	lveosf
+bretska	lveosf
+stjórn	nveo
+,	pk
+sum	ct
+hevur	svg3en	UNKNOWN
+sagt	sþmhen
+,	pk
+at	c
+hon	fpven
+vil	svg3en
+hava	sng
+,	pk
+at	c
+nakað	fbhen
+skal	svg3en
+henda	sng
+sigur	svg3en
+Edmund	nken-s	UNKNOWN
+Joensen	n----s	UNKNOWN
+,	pk
+løgmaður	nken
+,	pk
+sum	ct
+heldur	svg3en
+,	pk
+at	c
+tað	fphen
+eru	svg3fn	UNKNOWN
+bretar	nkfn
+,	pk
+sum	ct
+mugu	svg3fn	UNKNOWN
+koma	sng
+við	af
+ítøkiligum	lheþsf
+útspæli	nheþ
+í	af
+marknatrætuni	nveþg
+,	pk
+skal	svg3en
+nøkur	fbven
+samráðingarloysn	nven	UNKNOWN
+finnast	snm	UNKNOWN
+.	pl
+
+Hinvegin	aa
+hava	svg1fn
+vit	fp1fn
+stórar	lvfosf
+vónir	nvfo
+til	af
+eina	fbveo
+nýggja	lveosf
+stjórn	nveo
+í	af
+Bretlandi	nheþ-s	UNKNOWN
+,	pk
+sum	ct
+hevur	svg3en	UNKNOWN
+sagt	sþmhen
+,	pk
+at	c
+hon	fpven
+vil	svg3en
+hava	sng
+,	pk
+at	c
+nakað	fbhen
+skal	svg3en
+henda	sng
+.	pl
+
+er	svg3en
+hetta	fahen
+vit	fp1fn
+eru	svg1fn	UNKNOWN
+ósamdir	lkfnsf
+um	aa
+.	pl
+
+Vit	fp1fn
+og	c
+danir	nkfn
+
+Seinasti	lkenve	UNKNOWN
+fundurin	nkeng
+var	svg3eþ
+25.	ta	UNKNOWN
+september	nkeo
+.	pl
+
+Tað	fphen
+var	svg3eþ
+ein	fbken
+hondbóltsdystur	nken
+,	pk
+sum	ct
+tænir	svg3en
+spælinum	nheþg
+sjálvum	foheþ
+,	pk
+og	c
+sum	c
+bara	aa
+kann	svg3en
+gera	sng
+reklamu	nveo	UNKNOWN
+fyri	af
+ítróttinum	nkeþg
+,	pk
+sum	ct
+ikki	aa
+júst	aa
+hevur	svg3en	UNKNOWN
+fingið	sþmhen	UNKNOWN
+bestu	lveove	UNKNOWN
+undirtøkuna	nveog
+seinnu	lhfovm	UNKNOWN
+árini	nhfog
+.	pl
+
+Vit	fp1fn
+hava	svg1fn
+størri	lveosm
+breidd	nveo
+á	af
+liðnum	nheþg
+í	af
+ár	nheo
+,	pk
+og	c
+vit	fp1fn
+hava	svg1fn
+bygt	sþmhen
+víðari	aam
+á	af
+tað	fpheo
+,	pk
+sum	ct
+vit	fp1fn
+avrikaðu	svg3fþ
+saman	aa
+við	af
+Páll	nken-s	UNKNOWN
+Poulsen	n----s	UNKNOWN
+í	af
+fjør	n---
+.	pl
+
+Men	c
+VÍF	ks	UNKNOWN
+gav	svg3eþ
+ikki	aa
+upp	aa
+og	c
+teir	fpkfn
+javnaðu	svg3fþ
+eftir	af
+fáum	lkfþsf
+minuttum	nkfþ
+trýmáls	nvee	UNKNOWN
+leiðsluna	nveog
+hjá	af
+H71	ks	UNKNOWN
+.	pl
+
+Teir	fpkfn
+stríddust	svm3fþ
+væl	aa
+og	c
+høvdu	svg3fþ
+so	aa
+góðan	lkeosf
+vilja	nkeo
+og	c
+disiplin	nveo	UNKNOWN
+,	pk
+sum	c
+sjáldan	aa
+áður	aa
+.	pl
+
+Tað	fphen
+ger	svg3en
+eisini	aa
+stóran	lkeosf
+mun	nkeo
+,	pk
+at	c
+á	af
+fløguni	nveþg
+hjá	af
+mær	fp1eþ
+spæla	svg3fn
+kendir	lkfnsf
+tónleikarar	nkfn
+.	pl
+
+Tær	fpvfn
+gjørdu	svg3fþ
+høvuðsuppgávu	nveo	UNKNOWN
+,	pk
+og	c
+fingu	svg3fþ	UNKNOWN
+stuðul	nkeo
+frá	af
+Lívstrygging	nven
+til	af
+hetta	faheo
+arbeiðið	nheog
+.	pl
+
+Um	af
+arbeiðið	nheog
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+,	pk
+sigur	svg3en
+Anna	nven-s	UNKNOWN
+Samuelsen	n----s	UNKNOWN
+,	pk
+at	c
+lyklapersónar	nkfn	UNKNOWN
+eru	svg3fn	UNKNOWN
+víða	aa
+um	af
+í	af
+landinum	nheþg
+.	pl
+
+Hetta	faheo
+hevur	svg3en	UNKNOWN
+nevndin	nveng
+í	af
+Føroya	nvfe-s	UNKNOWN
+Arbeiðarafelag	nheþ
+samtykt	sþmhen
+.	pl
+
+Hann	fpken
+sigur	svg3en
+,	pk
+at	c
+hetta	fahen
+er	svg3en
+ein	fbven
+støða	nven
+,	pk
+sum	ct
+arbeiðsgevarar	nkfn
+ikki	aa
+hava	svg3fn
+ávirkan	nveo
+á	aa
+.	pl
+
+Eingi	fbhfn
+fundarboð	nhen
+
+Óregluligur	lkensf
+fundur	nken
+
+Og	c
+tí	aa
+setir	svg3en
+hann	fpken
+eisini	aa
+spurnartekin	nheo	UNKNOWN
+við	aa
+,	pk
+um	aa
+samtyktu	sþgvfn
+viðtøkubroytingarnar	nvfn	UNKNOWN
+,	pk
+um	aa
+at	cn
+loyva	sng
+landinum	nheþg
+at	cn
+hækka	sng
+partapeningin	nkeog
+,	pk
+yvirhøvur	aa
+kunnu	svg3fn	UNKNOWN
+sigast	sng	UNKNOWN
+at	cn
+vera	sng
+lógligar	lvfnsf
+.	pl
+
+-	pa
+Eg	fp1en
+rokni	svg3fn
+við	aa
+,	pk
+at	c
+næmingarnir	nkfng
+kunnu	svg3fn	UNKNOWN
+læra	sng
+nógv	aa
+hesar	fakfo
+dagarnar	nkfog
+.	pl
+
+Tann	faken
+fyrri	lkenvf
+var	svg3eþ
+ímóti	af
+Hvidovre	e	UNKNOWN
+seinasta	lkeose
+týsdag	nkeo
+,	pk
+og	c
+tann	faken
+seinri	lhenvm
+var	svg3eþ
+sunnudagin	nkeog
+ímóti	af
+HIK	n---	UNKNOWN
+Aalborg	e	UNKNOWN
+.	pl
+
+-	pa
+Tá	c
+vit	fp1fn
+spældu	svg3fþ
+ímóti	af
+Gentofte	e	UNKNOWN
+fyri	af
+nøkrum	fbvfþ
+vikum	nvfþ
+síðani	aa
+á	af
+teirra	fpvfe
+heimavølli	nkeþ
+,	pk
+taptu	svg3fþ
+vit	fp1fn
+tepurt	lhensf
+2	ta	UNKNOWN
+-	pa
+3.	ta	UNKNOWN
+
+Tað	fphen
+serliga	aa
+við	af
+hesum	fakfþ
+bussum	nkfþ
+er	svg3en
+,	pk
+at	c
+teir	fpkfn
+ikki	aa
+eru	svg3fn	UNKNOWN
+bygdir	sþgkfn
+á	af
+rammu	nveo
+,	pk
+sum	ct
+annars	aa
+vanligt	lhensf
+er	svg3en
+.	pl
+
+Í	af
+døgunum	nkfþg
+16.	ta	UNKNOWN
+og	c
+17.	ta	UNKNOWN
+oktober	nken
+,	pk
+skipaði	svg3eþ
+Krabbameinsfelagið	nheng	UNKNOWN
+fyri	af
+upplýsandi	slg
+tiltaki	nheþ
+,	pk
+í	af
+samband	nheo
+við	aa
+at	c
+tað	fpheo
+eru	svg3fn	UNKNOWN
+10	ta	UNKNOWN
+ár	nhfn
+síðan	aa
+stuðulsbólkurin	nkeng	UNKNOWN
+»	pg	UNKNOWN
+Bót	nven
+til	af
+Bata	nkeo
+»	pg	UNKNOWN
+varð	svg3eþ	UNKNOWN
+stovnaður	sþmken	UNKNOWN
+.	pl
+
+Vit	fp1fn
+halda	svg3fn
+tað	fpheo
+eisini	aa
+vera	sng
+umráðandi	lo
+at	cn
+tosa	sng
+um	af
+hesi	fahfo
+viðurskifti	nhfo
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+,	pk
+og	c
+tí	c
+fingu	svg3fþ	UNKNOWN
+vit	fp1fn
+tveir	tfkfo
+serfrøðingar	nkfo
+úr	af
+Danmark	nheþ-s	UNKNOWN
+at	cn
+koma	sng
+hendavegin	aa	UNKNOWN
+í	af
+hesum	faheþ
+sambandi	nheþ
+,	pk
+sigur	svg3en
+Eliesar	nken-s	UNKNOWN
+Olsen	n----s	UNKNOWN
+.	pl
+
+Vit	fp1fn
+liggja	sng	UNKNOWN
+eisini	aa
+lægri	aa	UNKNOWN
+í	af
+tølum	nhfþ
+sammett	sþmhen
+við	af
+Ísland	nheo-s	UNKNOWN
+,	pk
+og	c
+væl	aa
+niðan	aa
+fyri	af
+donsku	lhfovf	UNKNOWN
+hagtølini	nhfog
+,	pk
+sigur	svg3en
+Eliesar	nken-s	UNKNOWN
+Olsen	n----s	UNKNOWN
+.	pl
+
+Í	af
+Danmark	nheþ-s	UNKNOWN
+eru	svg3fn	UNKNOWN
+føroyingar	nkfn
+ikki	aa
+betur	aa
+fyri	aa
+enn	aa
+danir	nkfn
+,	pk
+men	c
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+er	svg3en
+t.d.	ks	UNKNOWN
+bíðitíðin	nveng
+minni	aam
+,	pk
+og	c
+tað	fphen
+ger	svg3en
+,	pk
+at	af
+viðurskiftini	nhfng
+hjá	af
+sjúklinginum	nkfþg
+eru	svg3fn	UNKNOWN
+betur	aa
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+.	pl
+
+Henda	faven
+viðgerð	nven
+er	svg3en
+eisini	aa
+møgulig	lvensf
+at	cn
+fáa	sng
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+.	pl
+
+Mest	aae
+hóskiliga	lkensf
+aldursbólkurin	nkeng
+til	aa
+mommografi	aa	UNKNOWN
+kanningar	nvfo
+eru	svg3fn	UNKNOWN
+50	ta	UNKNOWN
+-	pa
+69	ta	UNKNOWN
+ár	nkfn
+gamlar	lvfnsf
+kvinnur	nvfn
+,	pk
+tí	c
+í	af
+hesum	fakeþ
+aldrinum	nkeþg
+økist	svm3fn
+vandin	nkeng
+fyri	af
+at	cn
+fáa	sng
+bróstkrabbamein	nheo	UNKNOWN
+.	pl
+
+Tú	fp2en	UNKNOWN
+mást	svm2en	UNKNOWN
+ikki	aa
+blint	lheosf
+stóla	sng
+upp	aa
+á	af
+dekkini	nhfog
+,	pk
+leggur	svg3en
+Fríðrikkur	nken-s	UNKNOWN
+Bláhamar	nken	UNKNOWN
+dent	nkeo
+á	aa
+.	pl
+
+Hvør	fbken
+blokkur	nken
+er	svg3en
+skorin	sþmken
+sundur	aa
+í	af
+lamellir	nvfo	UNKNOWN
+,	pk
+sum	ct
+,	pk
+tá	c
+dekkið	nheng
+verður	svg3en
+trýst	sþmhen
+niður	aa
+í	af
+vegin	nkeog
+,	pk
+opna	svg3fn
+seg	fpveo
+og	c
+líkasum	c
+klípur	svg3en
+seg	fpkeo
+fast	aa
+í	af
+undirlagið	nheog
+.	pl
+
+Tá	aa
+haldi	svg1en
+eg	fp1en
+,	pk
+at	c
+tað	fphen
+er	svg3en
+yvirdrivið	sþmhen	UNKNOWN
+,	pk
+um	aa
+fólk	nhfn
+keypa	svg3fn
+sær	fpheþ
+píkadekk	nhfo
+fyri	aa
+at	cn
+koyra	sng
+50	ta	UNKNOWN
+metrar	nkfo
+,	pk
+sigur	svg3en
+hann	fpken
+.	pl
+
+Nú	aa
+tað	fphen
+nærkast	svm3en	UNKNOWN
+fyrstu	lveþve
+útbjóðing	nveþ
+á	af
+føroyskum	lheþsf
+øki	nheþ
+arbeiða	sng
+fleiri	lkfnsm	UNKNOWN
+myndugleikar	nkfn
+við	aa
+at	cn
+fáa	sng
+tey	fahfo
+ymsu	lhfovf	UNKNOWN
+viðurskiftini	nhfog
+uppá	aa
+pláss	nheo
+.	pl
+
+Oljuráðleggingarnevndin	nveng	UNKNOWN
+hevur	svg3en	UNKNOWN
+havt	sþmhen	UNKNOWN
+fund	nheo
+og	c
+gjørt	sþmhen
+uppskot	nheo
+til	af
+kolvetnisskattalóg	nveo	UNKNOWN
+.	pl
+
+Tá	aa
+sjálv	foven
+leitingin	nveng
+byrjar	svg3en
+av	af
+álvara	nkeþ
+verður	svg3en
+hetta	fahen
+so	aa
+broytt	sþmhen
+,	pk
+tí	c
+tá	c
+er	svg3en
+krav	nhen
+um	aa
+at	cn
+brúka	sng
+føroyskar	lvfosf
+vørur	nvfo
+og	c
+tænastur	nvfo
+.	pl
+
+Í	af
+ávísum	lhfþsf
+førum	nhfþ
+kann	svg3en
+tað	fphen
+vera	sng
+rætt	aa
+at	cn
+hava	sng
+treytir	nvfo
+og	c
+krøv	nhfo
+í	af
+lóggávuni	nveþg
+,	pk
+í	af
+øðrum	fbhfþ
+førum	nhfþ
+hoyra	sng
+hesar	favfn
+heima	aa
+í	af
+loyvunum	nhfþg
+.	pl
+
+Umframt	af
+Norrønu	nveog	UNKNOWN
+verða	svg3fn
+eisini	aa
+aðrir	fbkfn
+møguleikar	nkfn
+kannaðir	sþgkfn	UNKNOWN
+fyri	aa
+at	cn
+leiga	sng
+skip	nheo
+.	pl
+
+Og	c
+tað	fphen
+skilst	svm3en	UNKNOWN
+,	pk
+at	c
+ongin	fbken
+er	svg3en
+sinnaður	sþmken
+at	cn
+brúka	sng
+nógvar	lkfosf
+pengar	nkfo
+at	cn
+leiga	sng
+Norrønu	nveog	UNKNOWN
+,	pk
+ella	c
+eitt	fbheo
+annað	fbheo
+,	pk
+stórt	lheosf
+skip	nheo
+,	pk
+um	c
+talan	nven
+bara	aa
+verður	svg3en
+um	af
+einar	to
+14	ta	UNKNOWN
+dagar	nkfo
+.	pl
+
+Við	af
+hesum	fahfþ
+orðum	nhfþ
+legði	svg3eþ
+framsøgumaður	nken	UNKNOWN
+Fólkafloksins	nkeeg
+,	pk
+Óli	nken-s	UNKNOWN
+Breckmann	n----s	UNKNOWN
+til	af
+brots	nhee
+.	pl
+
+Heini	nken-s	UNKNOWN
+O.	n---	UNKNOWN
+Heinesen	n----s	UNKNOWN
+vísti	svg3eþ
+á	af
+,	pk
+at	c
+vanliga	lvenvf
+hugsanin	nveng
+hjá	af
+teimum	fakfþ
+sokallaðu	lkfþvf	UNKNOWN
+borgarligu	lkfþvf	UNKNOWN
+politikarunum	nkfþg
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+er	svg3en
+,	pk
+at	c
+tey	fahfn
+vælbjargaðu	lhfnvf	UNKNOWN
+skulu	svg3fn	UNKNOWN
+hava	sng
+tað	fpheo
+gott	aa
+.	pl
+
+Kortini	aa
+halda	svg3fn
+oljufeløg	nhfn
+Føroyar	nvfo-s	UNKNOWN
+enn	aa
+verða	sng
+so	aa
+mikið	lhensf
+áhugaverdar	lvfosf
+,	pk
+at	cn
+tey	fphfn
+varðveita	svg3fn
+áhugan	nkeog
+fyri	af
+økinum	nheþg
+
+Hóast	c
+nógv	lvensf
+orka	nven
+er	svg3en
+løgd	sþmven
+í	aa
+at	cn
+finna	sng
+nýggjar	lkfosf
+mátar	nkfo
+at	cn
+sleppa	sng
+niður	aa
+gjøgnum	af
+tjúkku	lvfovf	UNKNOWN
+basaltfláirnar	nvfog	UNKNOWN
+,	pk
+so	aa
+er	svg3en
+hetta	fahen
+enn	aa
+ikki	aa
+eydnast	snm
+til	af
+fulnar	aa
+.	pl
+
+Hann	fpken
+væntar	svg3en
+tó	aa
+ikki	aa
+,	pk
+at	c
+oljufeløgini	nhfng
+heilt	aa
+missa	svg3fn
+áhugan	nkeog
+fyri	af
+Føroyum	nvfþ-s	UNKNOWN
+.	pl
+
+Nú	aa
+er	svg3en
+tað	fphen
+upp	aa
+til	af
+Landsstýrið	nheog
+,	pk
+hvat	fshen
+víðari	aam
+skal	svg3en
+henda	sng
+í	af
+málinum	nheþg
+.	pl
+
+Bjørn	nken-s
+á	af
+Heygum	nkfþ-s
+hevur	svg3en	UNKNOWN
+ikki	aa
+úttalað	sþmhen
+seg	fpkeo
+persónliga	aa
+,	pk
+men	c
+bert	aa
+fyri	af
+bólkin	nkeog
+í	af
+hesum	faheþ
+máli	nheþ
+,	pk
+sigur	svg3en
+ein	fbken
+avgjørdur	sþmken
+Bjørn	nken-s
+á	af
+Heygum	nkfþ-s
+.	pl
+
+Tað	fphen
+er	svg3en
+altíð	aa
+ein	fbken
+vági	nken
+,	pk
+tá	c
+Landsstýrið	nheng
+ger	svg3en
+sáttmálar	nkfo
+.	pl
+
+Málið	nheng
+er	svg3en
+soleiðis	aa
+háttað	sþmhen
+,	pk
+at	c
+so	aa
+skulu	svg3fn	UNKNOWN
+allir	fbkfn
+partar	nkfn
+í	af
+málinum	nheþg
+stevnast	snm
+.	pl
+
+Teldan	nveng
+er	svg3en
+ivaleyst	aa
+eitt	fbhen
+hitt	fahen
+mest	aae
+nýtta	sþmhen	UNKNOWN
+arbeiðstólið	nheng
+í	af
+dag	nkeo
+.	pl
+
+Tí	c
+fólk	nhfn
+eru	svg3fn	UNKNOWN
+gjørd	sþghfn
+til	af
+grovt	lheosf
+arbeiði	nheo
+.	pl
+
+Liggja	svg3fn	UNKNOWN
+nervarnir	nkfng	UNKNOWN
+í	af
+klemmu	nveþ
+,	pk
+kann	svg3en
+følilsið	nheng
+út	aa
+í	af
+hendurnar	nvfog
+og	c
+fingrarnar	nkfog
+órógvast	snm	UNKNOWN
+.	pl
+
+-	pa
+Ein	fbken
+møguleiki	nken
+er	svg3en
+eisini	aa
+at	cn
+kanna	sng
+,	pk
+hvørjar	fbkfo
+møguleikar	nkfo
+tú	fp2en	UNKNOWN
+hevur	svg2en	UNKNOWN
+til	aa
+at	cn
+variera	sng	UNKNOWN
+arbeiðið	nheog
+hjá	af
+tær	fp2eþ
+,	pk
+so	aa
+tað	fphen
+ikki	aa
+alla	aa
+tíðina	nveog
+verður	svg3en
+tað	fphen
+sama	fohen
+.	pl
+
+Tað	fphen
+er	svg3en
+hugburðurin	nkeng
+hjá	af
+arbeiðsplássinum	nheþg
+,	pk
+sum	ct
+er	svg3en
+avgerandi	slg
+fyri	af
+,	pk
+hvussu	aa
+arbeiðsumhvørvið	nheng	UNKNOWN
+er	svg3en
+.	pl
+
+Hagtølini	nhfng
+vístu	svg3fþ
+,	pk
+at	cn
+tey	fphfn
+brúka	svg3fn
+6	ta	UNKNOWN
+-	pa
+7	ta	UNKNOWN
+tímar	nkfo
+um	af
+dagin	nkeog
+til	af
+elektronisku	lkfovf	UNKNOWN
+fjølmiðlarnar	nkfog
+,	pk
+eina	aa
+mest	aae
+til	af
+telduna	nveog
+-	pa
+um	af
+dagin	nkeog
+.	pl
+
+Vit	fp1fn
+hava	svg3fn
+lagt	sþmhen
+stóra	lveosf
+orku	nveo
+í	aa
+at	cn
+skapa	sng
+so	aa
+góðar	lkfosf
+karmar	nkfo
+sum	c
+til	aa
+ber	svg3en
+.	pl
+
+Á	af
+stevnuni	nveþg
+verður	svg3en
+alt	aa
+at	cn
+síggja	sng
+,	pk
+líka	aa
+frá	af
+teimum	fahfþ
+fittligastu	lhfþve	UNKNOWN
+undirklæðunum	nhfþg
+,	pk
+tvørturum	aa
+tær	fpvfo
+mest	aae
+framkomnu	lvfovf	UNKNOWN
+teldurnar	nvfog
+,	pk
+heilt	aa
+fram	aa
+til	af
+teir	fakfo
+allar	x
+nýggjastu	lkfove	UNKNOWN
+bilarnar	nkfog
+.	pl
+
+Og	c
+tá	c
+ið	ct
+ein	fbken
+diskur	nken
+við	af
+einum	fbkeþ
+góðum	lkeþsf
+filmi	nkeþ
+á	aa
+verður	svg2en
+lagdur	sþmken
+í	af
+fløguspælaran	nkeog
+,	pk
+fæst	svm3en	UNKNOWN
+ein	fbken
+forsmakkur	nken	UNKNOWN
+uppá	af
+,	pk
+hvussu	aa
+tað	fphen
+er	svg3en
+at	cn
+síggja	sng
+,	pk
+og	c
+hoyra	sng
+sjónvarp	nheo
+við	af
+tí	faheþ
+nýggjasta	lheþve	UNKNOWN
+nýggja	lheþvf
+.	pl
+
+Men	c
+so	aa
+er	svg3en
+atgongumerkið	nheng
+eisini	aa
+ein	fbken
+lutaseðil	nken
+,	pk
+har	aa
+ið	ct
+høvuðsvinningurin	nkeng	UNKNOWN
+er	svg3en
+ein	fbven
+framkomin	sþmven
+telda	nven
+við	af
+printara	nkeþ	UNKNOWN
+,	pk
+sum	ct
+tað	fphen
+annars	aa
+hevði	svg3eþ	UNKNOWN
+kostað	sþmhen
+15.000	ta	UNKNOWN
+krónur	nvfo
+at	cn
+keypt	sþmhen
+.	pl
+
+Fleiri	lvfnsm	UNKNOWN
+av	af
+fyritøkunum	nvfþg
+hava	svg3fn
+longu	aa
+umboð	nhfo
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+sum	ct
+er	svg3en
+,	pk
+men	c
+valdu	svg3fþ
+hóast	c
+tað	fpheo
+at	cn
+luttaka	sng
+og	c
+á	af
+tann	fakeo
+hátt	nkeo
+gera	sng
+eitt	fbheo
+sindur	nheo
+eykað	aa
+fyri	aa
+at	cn
+gera	sng
+vart	svg2eþ
+við	af
+vørur	nvfo
+teirra	fpvfe
+og	c
+hjá	af
+teimum	fpvfþ
+vóru	svg3fþ	UNKNOWN
+føroysk	lhfnsf
+umboðsfólk	nhfn	UNKNOWN
+við	aa
+á	af
+framsýningini	nveþg
+.	pl
+
+Og	c
+væl	aa
+smakkar	svg3fn
+.	pl
+
+Tygara	fp2fe	UNKNOWN
+útsendi	sþmken	UNKNOWN
+fekk	svg3eþ	UNKNOWN
+loyvi	nheo
+at	cn
+royna	sng
+hann	fpkeo
+og	c
+hann	fpken
+kann	svg3en
+væl	aa
+etast	snm	UNKNOWN
+,	pk
+hóast	c
+smakkurin	nkeng
+er	svg3en
+eitt	fbhen
+sindur	nhen
+øðrvísi	aa
+enn	aa
+tann	faken
+turri	lkenvf
+fiskurin	nkeng
+vit	fp1fn
+vanliga	aa
+fáa	svg3fn
+til	af
+keyps	nhee
+í	af
+handlunum	nkfþg
+.	pl
+
+Svínakjøtið	nheng
+verður	svg3en
+selt	sþmhen
+í	af
+portiónum	nvfþ	UNKNOWN
+og	c
+m.a.	ks	UNKNOWN
+hevur	svg3en	UNKNOWN
+hann	fpken
+gjørt	sþmhen
+sær	fpkeþ
+tann	fakeo
+ómak	nkeo
+at	cn
+gera	sng
+eina	fbveo
+serliga	aa
+útgávu	nveo
+til	af
+børn	nhfo
+.	pl
+
+At	c
+íslendingar	nkfn
+leggja	svg3fn
+stóran	lkeosf
+dent	nkeo
+á	af
+samhandilin	nkeog
+við	af
+onnur	fbhfo
+lond	nhfo
+,	pk
+harímillum	af	UNKNOWN
+Føroyar	nvfo-s	UNKNOWN
+sæst	svm3fn	UNKNOWN
+m.a.	ks	UNKNOWN
+við	af
+,	pk
+at	c
+bæði	aa
+borgarstjórin	nkeng
+í	af
+Reykjavík	nveþ-s	UNKNOWN
+og	c
+íslendski	lkenvf	UNKNOWN
+uttanríkisráðharrin	nkeng
+vóru	svg3fþ	UNKNOWN
+við	af
+tá	c
+sølustevnan	nveng
+lat	svg3eþ	UNKNOWN
+upp	aa
+.	pl
+
+Arbeiðið	nheng
+byrjar	svg3en
+so	aa
+aftur	aa
+aftan	aa
+á	af
+ólavsøku	nveo
+.	pl
+
+Tað	fphen
+er	svg3en
+ikki	aa
+bara	aa
+við	af
+Sandin	nkeo-s
+,	pk
+at	c
+tað	fphen
+verður	svg3en
+fylt	sþmhen
+út	aa
+í	af
+hesum	fakfþ
+døgum	nkfþ
+.	pl
+
+Børnini	nhfng
+í	af
+Sankta	lo
+Josef	nken-s	UNKNOWN
+barnagarðinum	nkeþg
+í	af
+Havn	nveþ-s
+lurta	svg3fn
+hugsunarsom	lvfnsf	UNKNOWN
+eftir	af
+klovninum	nkeþg	UNKNOWN
+.	pl
+
+Gamaní	aa	UNKNOWN
+kenna	svg3fn
+nøkur	fbhfn
+seg	fphfo
+ótrygg	lhfnsf
+av	af
+øllum	fbkeþ
+larminum	nkeþg
+,	pk
+men	c
+flestu	lhfnve	UNKNOWN
+teirra	fphfe
+halda	svg3fn
+seg	fphfo
+fram	aa
+at	aa
+allan	fbkeo
+leikin	nkeog
+.	pl
+
+Búi	nken-s
+,	pk
+Beinta	nven-s
+og	c
+Dánjal	nken-s	UNKNOWN
+eru	svg3fn	UNKNOWN
+ein	fbven
+frálík	lvensf
+eind	nven
+,	pk
+og	c
+tey	fahfn
+trý	tfhfn	UNKNOWN
+stuðla	svg3fn
+væl	aa
+hvørjum	fsheþ
+øðrum	fbheþ
+.	pl
+
+Hugskotið	nheng
+til	af
+leikin	nkeog
+,	pk
+sum	c
+Dánjal	nken-s	UNKNOWN
+,	pk
+Beinta	nven-s
+og	c
+Búi	nken-s
+hava	svg3fn
+sýnt	sþmhen
+seinastu	lvfove
+vikurnar	nvfog
+,	pk
+stavar	svg3en
+úr	af
+Svøríki	nheþ-s	UNKNOWN
+
+Leikurin	nkeng
+hjá	af
+Búa	nkeþ-s
+,	pk
+Beintu	nveþ-s	UNKNOWN
+og	c
+Dánjali	nkeþ-s	UNKNOWN
+hevur	svg3en	UNKNOWN
+verið	sþmhen
+væl	aa
+umtóktur	lkensf
+kring	af
+alt	fbheo
+landið	nheog
+.	pl
+
+Talan	nven
+er	svg3en
+um	af
+børn	nhfo
+í	af
+flóttalegu	nveþ	UNKNOWN
+uttanfyri	aa
+býin	nkeog
+Garsila	n----s	UNKNOWN
+.	pl
+
+Felagið	nheng
+økti	svg3eþ
+bæði	aa
+um	af
+umsetning	nkeo	UNKNOWN
+og	c
+vinning	nkeo
+.	pl
+
+Nógv	lhensf
+fólk	nhfn
+vóru	svg3fþ	UNKNOWN
+bæði	aa
+til	af
+kappróðurin	nkeog
+og	c
+í	af
+býnum	nkeþg
+um	af
+kvøldið	nheog
+,	pk
+men	c
+hóast	af
+tað	fpheo
+var	svg3eþ
+onki	aa
+hjá	af
+løgregluni	nveþg
+at	cn
+gera	sng
+.	pl
+
+Hesin	faken
+fundurin	nkeng
+skuldi	svg3eþ	UNKNOWN
+vera	sng
+,	pk
+eftir	aa
+at	c
+Sosialurin	nkeng	UNKNOWN
+var	svg3eþ
+farin	sþmhen	UNKNOWN
+til	af
+prentingar	nvee
+seinnapartin	nkeog
+mánadagin	nkeog
+.	pl
+
+Tað	fphen
+verið	sþmhen
+seg	fpheo
+mentanartiltøk	nhfn	UNKNOWN
+av	af
+ymsum	lhfþvf	UNKNOWN
+slagi	nheþ
+,	pk
+kvøldskúlar	nken
+ella	c
+hvat	fshen
+fólk	nhen
+nú	aa
+kann	svg3en
+ganga	sng
+til	aa
+,	pk
+um	c
+tey	fphfn
+hava	sng
+møguleikan	nkeog
+at	cn
+ferðast	sng
+aftur	aa
+og	c
+fram	aa
+.	pl
+
+Tjóðveldisflokkurin	nkeng
+vann	svg3eþ
+valið	nheog
+
+Og	c
+ikki	aa
+kann	svg3en
+sigast	snm	UNKNOWN
+annað	fbhen
+enn	aa
+at	c
+flokkurin	nkeng
+samstundis	aa
+við	af
+framgongdini	nveþg
+hevur	svg3en	UNKNOWN
+fingið	sþmhen	UNKNOWN
+eina	fbveo
+»	pg	UNKNOWN
+andlitslyfting	nveo	UNKNOWN
+«	pg	UNKNOWN
+eisini	aa
+.	pl
+
+Og	c
+tað	fphen
+skuldi	svg3eþ	UNKNOWN
+ikki	aa
+so	aa
+nógv	aa
+til	aa
+áðrenn	c
+tað	fphen
+gjørdist	svm3eþ	UNKNOWN
+upp	aa
+aftur	aa
+verri	aa	UNKNOWN
+.	pl
+
+Hóast	c
+framgongdin	nveng
+ikki	aa
+var	svg3eþ
+so	aa
+stór	lvensf
+,	pk
+so	aa
+fekk	svg3eþ	UNKNOWN
+flokkurin	nkeng
+eisini	aa
+hesaferð	aa	UNKNOWN
+nógv	aa
+fleiri	lvfosm	UNKNOWN
+atkvøður	nvfo
+í	af
+Vágum	nvfþ-s
+enn	aa
+vanligt	lhensf
+.	pl
+
+Men	c
+tann	faken
+heilt	aa
+stóri	lkenvf	UNKNOWN
+taparin	nkeng
+var	svg3eþ
+sum	ct
+verða	sng
+man	svg3en	UNKNOWN
+Verkamannafylkingin	nveng	UNKNOWN
+.	pl
+
+Veljarakanningin	nveng
+skeiv	lvensf
+
+Seinnapartin	nkeog
+í	af
+dag	nkeo
+skulu	svg3fn	UNKNOWN
+øll	fbhfn
+tíggju	to
+2.	ta	UNKNOWN
+deildarliðini	nheng	UNKNOWN
+í	af
+eldin	nkeog
+.	pl
+
+Skuldi	svg3eþ	UNKNOWN
+tað	fphen
+komið	sþmhen
+fyri	aa
+,	pk
+at	c
+øll	fbhfn
+feløgini	nhfog
+á	af
+ovastu	lhfþvf	UNKNOWN
+plássunum	nhfþg
+í	af
+2.	ta	UNKNOWN
+deild	nveþ
+frammanundan	aa
+eru	svg3fn	UNKNOWN
+umboðað	sþghfn
+í	af
+1.	ta	UNKNOWN
+deild	nveþ
+,	pk
+so	aa
+verður	svg3en
+eingin	fbven
+uppflyting	nven
+.	pl
+
+Har	aa
+stendur	svg3en
+tó	aa
+ikki	aa
+,	pk
+at	c
+tað	fphen
+er	svg3en
+Uttanlandsnevndin	nveng
+,	pk
+sum	ct
+skal	svg3en
+standa	sng
+fyri	af
+samráðingum	nvfþ
+við	af
+aðrar	fbkfo
+.	pl
+
+-	pa
+So	aa
+skal	svg3en
+hann	fpken
+hava	svg3fn
+eitt	fbheo
+uppskot	nheo
+um	aa
+,	pk
+hvussu	aa
+tað	fphen
+skal	svg3en
+síggja	sng
+út	aa
+.	pl
+
+Eftir	af
+tað	fpheo
+skulu	svg3fn	UNKNOWN
+vit	fp1fn
+til	aa
+at	cn
+fyrireika	sng
+okkum	fp1fo
+væl	aa
+og	c
+virðiliga	aa
+fyri	aa
+at	cn
+finna	sng
+út	aa
+av	af
+,	pk
+hvat	fshen
+vit	fp1fn
+í	af
+heila	lheþsf
+tikið	sþmhen
+skulu	svg3fn	UNKNOWN
+samráðast	sng
+við	af
+danir	nkfo
+um	aa
+.	pl
+
+Haraftrat	aa	UNKNOWN
+koma	svg3fn
+Fíggingargrunnurin	nkeng
+og	c
+Framtaksgrunnurin	nkeng
+,	pk
+Skipasýnið	nheng	UNKNOWN
+,	pk
+innlit	nhen
+í	af
+Fíggjareftirlitið	nheog
+og	c
+síðani	aa
+verður	svg3en
+sjálvandi	aa
+eisini	aa
+sagt	sþmhen
+,	pk
+at	c
+landsstýrið	nheng
+vónar	svg3en
+,	pk
+at	c
+danir	nkfn
+vilja	svg3fn
+viðgera	sng
+spurningin	nkeog
+um	af
+suverenitetin	nkeog	UNKNOWN
+ella	c
+broytt	sþghfn
+viðurskifti	nhfo
+í	af
+ríkisfelagsskapinum	nkeþg
+,	pk
+tá	c
+tað	fahen
+málið	nheng
+kemur	svg3en
+á	af
+dagsskránna	nveog
+.	pl
+
+Um	c
+tað	fphen
+eydnast	sng
+at	cn
+fáa	sng
+eina	fbveo
+semju	nveo
+eftir	af
+ein	fbkeo
+fund	nkeo
+veit	svg3en
+hann	fpken
+ikki	aa
+.	pl
+
+Tí	c
+tað	fphen
+er	svg3en
+sjálvandi	aa
+nógvur	lkensf
+politikkur	nken
+í	af
+øllum	fbhfþ
+hasum	faheþ
+.	pl
+
+Av	af
+høvuðsstøðini	nveþg
+í	af
+Havn	nveþ-s
+sigur	svg3en
+vakthavandi	slg	UNKNOWN
+,	pk
+at	cn
+tað	fphen
+hendi	svg3eþ
+eitt	fbhen
+ferðsluóhapp	nhen
+í	af
+Kollafirði	nkeþ-s	UNKNOWN
+sunnumorgunin	nkeog
+.	pl
+
+Hvør	fsken
+orsøkin	nveng
+var	svg3eþ
+er	svg3en
+ikki	aa
+greitt	lhensf
+enn	aa
+,	pk
+men	c
+tað	fphen
+er	svg3en
+okkurt	fbhen
+sum	ct
+bendir	svg3en
+á	aa
+at	c
+ferðin	nveng
+hevur	svg3en	UNKNOWN
+verið	sþmhen
+nakað	fbheo
+høg	lvensf
+.	pl
+
+Í	af
+hesum	fakfþ
+døgum	nkfþ
+er	svg3en
+skeið	nhen
+á	af
+Føroyamálsdeildini	nveþ-s	UNKNOWN
+á	af
+Fróðskaparsetri	nheþ-s
+Føroya	nvfe-s	UNKNOWN
+í	af
+føroyskum	lheþsf
+máli	nheþ
+og	c
+bókmentum	nvfþ
+fyri	af
+studentar	nkfo
+úr	af
+hinum	fahfþ
+norðurlondunum	nhfþg	UNKNOWN
+.	pl
+
+,	pk
+Hans	nken-s
+Pauli	nken-s	UNKNOWN
+Strøm	n----s	UNKNOWN
+,	pk
+samfelagsfrøðingur	nken
+,	pk
+Hjalmar	nken-s	UNKNOWN
+Petersen	n----s	UNKNOWN
+,	pk
+mag	ks	UNKNOWN
+.	pl
+
+Tað	fphen
+eru	svg3fn	UNKNOWN
+tvey	tfhfn
+reiðarí	nhfn
+,	pk
+sum	ct
+stýra	svg3fn
+øllum	fbhfþ
+.	pl
+
+Í	af
+Føroyum	nvfþ-s	UNKNOWN
+hevur	svg3en	UNKNOWN
+hon	fpven
+tó	aa
+ikki	aa
+fingið	sþmhen	UNKNOWN
+tað	fpheo
+nógvu	lvfovf	UNKNOWN
+hjálpina	nveog
+.	pl
+
+Teir	fpkfn
+hava	sng
+ongantíð	aa
+sjálvir	fokfn
+pissað	sþmhen
+í	af
+saltvatn	nheo
+,	pk
+og	c
+vita	svg3fn
+tí	aa
+ikki	aa
+,	pk
+hvat	fsheo
+teir	fpkfn
+tosa	svg3fn
+um	aa
+.	pl
+
+tað	fpheo
+vit	fp1fn
+kunnu	svg1fn	UNKNOWN
+
+Sosialurin	nkeng	UNKNOWN
+hevur	svg3en	UNKNOWN
+verið	sþmhen
+í	af
+samband	nheo
+við	af
+Golden	e	UNKNOWN
+Star	e
+(	pa
+fyrrverandi	lo
+Cindy	e	UNKNOWN
+)	pa
+,	pk
+har	aa
+sjey	tf
+føroyingar	nkfn
+eru	svg3fn	UNKNOWN
+umborð	aa
+.	pl
+
+Petersen	n----s	UNKNOWN
+,	pk
+sølustjóri	nken
+,	pk
+segði	svg3eþ
+á	af
+tíðindafundi	nkeþ
+týsdagin	nkeog
+,	pk
+at	c
+ferðafólkatalið	nheng	UNKNOWN
+er	svg3en
+vaksandi	slg	UNKNOWN
+til	af
+og	c
+úr	af
+Føroyum	nvfþ-s	UNKNOWN
+.	pl
+
+Um	af
+øktu	lveovf
+kappingina	nveog
+á	af
+leiðini	nveþg
+til	af
+Føroya	nvfe-s	UNKNOWN
+,	pk
+sigur	svg3en
+Ejvin	nkengs	UNKNOWN
+L	n---
+.	pl
+
+Tað	fphen
+sama	fohen
+er	svg3en
+ikki	aa
+galdandi	slg	UNKNOWN
+á	af
+øllum	fbhfþ
+leiðum	nvfþ
+hjá	af
+Maersk	e	UNKNOWN
+.	pl
+
+Mong	lhensf
+vóru	svg3fþ	UNKNOWN
+tey	fahfn
+,	pk
+góð-	nhfng	UNKNOWN
+og	c
+lovorðini	nhfng
+til	af
+Sofus	nkeo-s	UNKNOWN
+Poulsen	n----s	UNKNOWN
+á	af
+samkomu	nveþ
+á	af
+Hotel	nheþ	UNKNOWN
+Hafnia	n---	UNKNOWN
+sunnudagin	nkeog
+,	pk
+tá	c
+hann	fpken
+kundi	svg3eþ
+hátíðarhalda	sng
+sín	fpkeo
+50	ta	UNKNOWN
+ára	nhfe
+dag	nkeo
+á	af
+føroysku	lveþvf	UNKNOWN
+umboðsstovuni	nveþg
+í	af
+Aberdeen	e	UNKNOWN
+.	pl
+
+Og	c
+har	aa
+vóru	svg3fþ	UNKNOWN
+fleiri	lhfnsm	UNKNOWN
+av	af
+teimum	fahfþ
+fólkum	nhfþ
+,	pk
+sum	ct
+Sofus	nken-s	UNKNOWN
+á	af
+onkran	fbkeo
+hátt	nkeo
+hevur	svg3en	UNKNOWN
+givið	sþmhen
+eina	fbveo
+hjálpandi	slg
+hond	nveo
+og	c
+onkursvegna	aa
+hevur	svg3en	UNKNOWN
+virkað	sþmhen
+saman	aa
+við	aa
+øll	fbhfo
+tey	fahfo
+árini	nhfog
+hann	fpken
+hevur	svg3en	UNKNOWN
+starvast	snm	UNKNOWN
+á	af
+umboðsstovuni	nveþg
+í	af
+Aberdeen	e	UNKNOWN
+.	pl
+
+Hann	fpken
+tók	svg3eþ
+eisini	aa
+onkrar	fbvfo
+áhugaverdar	lveosf
+hendingar	nvfo
+fram	aa
+.	pl
+
+-	pa
+Eg	fp1en
+skal	svg3en
+ikki	aa
+blanda	sng
+meg	fp1eo
+uppí	af
+føroyskan	lkeosf
+bygda-	nkeo	UNKNOWN
+ella	c
+býarpolitikk	nkeo	UNKNOWN
+.	pl
+
+Sofus	nken-s	UNKNOWN
+Poulsen	n----s	UNKNOWN
+takkaði	svg3eþ
+øllum	fbhfþ
+fyri	af
+gott	lheosf
+samstarv	nheo
+og	c
+ynskti	svg3eþ
+alt	aa
+gott	lhensf
+fyri	aa
+Føroya	nvfe-s	UNKNOWN
+land	nheo
+.	pl
+
+-	pa
+Nei	au
+.	pl
+
+Virðislønin	nveng
+er	svg3en
+ein	fbken
+gyltur	lkensf
+tarvur	nken
+
+Ein	fbken
+teirra	fphfe
+,	pk
+sum	ct
+fekk	svg3eþ	UNKNOWN
+hesa	faveo
+virðislønina	nveog
+,	pk
+var	svg3eþ
+ein	fbken
+suðurafrikanari	nken	UNKNOWN
+,	pk
+sum	ct
+hevði	svg3eþ	UNKNOWN
+eina	fbveo
+heldur	aam
+øðrvísi	aa
+matstovu	nveo
+.	pl
+
+Leiðslan	nveng
+í	af
+danska	lheþvf
+flogfelagnum	nheþg
+Maersk	e	UNKNOWN
+Air	e	UNKNOWN
+fer	svg3en
+í	af
+dag	nkeo
+at	cn
+almannakunngera	sng
+,	pk
+at	cn
+felagið	nheng
+fer	svg3en
+undir	aa
+eitt	fbhen
+stórt	lhensf
+átak	nhen
+,	pk
+sum	ct
+skal	svg3en
+hjálpa	sng
+tí	faheþ
+illa	aa
+stadda	lheþvf
+felagnum	nheþg
+.	pl
+
+Í	af
+Svøríki	nheþ-s	UNKNOWN
+er	svg3en
+Carl	nken-s	UNKNOWN
+Gustaf	nken-s	UNKNOWN
+kongur	nken
+rættiliga	aa
+komin	sþmken	UNKNOWN
+í	af
+andglettin	nkeog
+,	pk
+eftir	aa
+at	c
+hann	fpken
+á	af
+einari	fbveþ
+vitjan	nveþ
+í	af
+Brunei	nheþ-s	UNKNOWN
+rósti	svg3eþ
+sultaninum	nkeþg
+fyri	aa
+at	cn
+hava	sng
+skipað	sþmhen
+landið	nheog
+sum	ct
+eitt	fbheo
+opið	lhensf
+samfelag	nheo
+.	pl
+
+Vognarnir	nkfng
+verða	svg3fn
+skýrdir	sþgkfn	UNKNOWN
+at	cn
+vera	sng
+lívshættisligir	lkfnsf
+fyri	af
+børn	nhfo
+.	pl
+
+Í	af
+einum	fbheþ
+brævi	nheþ
+,	pk
+sum	ct
+Ciconia	e	UNKNOWN
+hevur	svg3en	UNKNOWN
+fingið	sþmhen	UNKNOWN
+niðrifrá	aa
+,	pk
+stendur	svg3en
+,	pk
+at	c
+sambært	af
+Trygdarstýrinum	nheþg	UNKNOWN
+,	pk
+so	aa
+er	svg3en
+vognurin	nkeng
+lívshættisligur	lkensf
+,	pk
+tí	c
+at	c
+eitt	fbhen
+barn	nhen
+kann	svg3en
+blíva	sng
+fast	aa
+millum	af
+liftina	nveog	UNKNOWN
+og	c
+handtakið	nheog
+.	pl
+
+Hon	fpven
+vísir	svg3en
+á	af
+,	pk
+at	cn
+eitt	fbhen
+tvey	tfhfn
+til	af
+trý	tfhfn	UNKNOWN
+ára	nhfe
+gamalt	lhensf
+barn	nhen
+ikki	aa
+passar	svg3en
+í	af
+liftina	nveog	UNKNOWN
+,	pk
+sum	ct
+vanliga	aa
+verður	svg3en
+nýtt	sþmven
+í	af
+mesta	lheþse
+lagi	nheþ
+eitt	fbheo
+ár	nheo
+.	pl
+
+Hendingin	nveng
+fór	svg3eþ
+fram	aa
+á	af
+smala	lheþvf
+vegastrekkinum	nheþg
+millum	af
+Skálafjørð	nkeo-s	UNKNOWN
+og	c
+Skála	nveo-s
+,	pk
+og	c
+tað	fphen
+tók	svg3eþ
+einar	to
+5	ta	UNKNOWN
+tímar	nkfo
+,	pk
+áðrenn	c
+fóðurið	nheng	UNKNOWN
+var	svg3eþ
+fingið	sþmhen	UNKNOWN
+av	af
+vegnum	nkeþg
+,	pk
+og	c
+trailarin	nkeng	UNKNOWN
+var	svg3eþ
+komin	sþmken	UNKNOWN
+uppaftur	aa
+á	af
+rættkjøl	nkeo
+
+Sum	ct
+skilst	svm3fn	UNKNOWN
+,	pk
+sluppu	svg3fþ
+bilar	nkfn
+ígjøgnum	aa
+í	af
+løtum	nveþg
+,	pk
+men	c
+undir	af
+sjálvari	foveþ
+upptøkuni	nveþg
+varð	svg3eþ	UNKNOWN
+neyðugt	lhensf
+at	cn
+steingja	sng
+vegin	nkeog
+fyri	af
+allari	fbveþ
+ferðslu	nveþ
+.	pl
+
+-	pa
+Um	c
+tað	fphen
+er	svg3en
+í	af
+lagi	nheþ
+,	pk
+hvat	fshen
+fer	svg3en
+landsstýrismaðurin	nkeng
+so	aa
+at	cn
+gera	sng
+fyri	aa
+,	pk
+at	c
+tað	fphen
+við	af
+lóg	nveþ
+verður	svg3en
+bannað	sþmhen
+,	pk
+spyrja	sng
+tær	fp2eþ
+báðar	fbvfn	UNKNOWN
+.	pl
+
+Heidi	nken-s	UNKNOWN
+Petersen	n----s	UNKNOWN
+og	c
+Annita	nven-s	UNKNOWN
+á	af
+Fríðriksmørk	nveþ-s	UNKNOWN
+halda	svg3fn
+,	pk
+at	c
+sjálvsagt	lhensf
+kann	svg3en
+føroysk	lvensf
+lóggáva	nven
+ikki	aa
+lóggeva	sng
+um	af
+,	pk
+hvat	fshen
+er	svg3en
+rangt	lhensf
+og	c
+rætt	lhensf
+í	af
+øðrum	fbhfþ
+londum	nhfþ
+.	pl
+
+Hesi	fahfn
+10	ta	UNKNOWN
+árini	nhfng
+,	pk
+barnagarðurin	nkeng
+í	af
+Sørvági	nkeþ-s	UNKNOWN
+hevur	svg3en	UNKNOWN
+verið	sþmhen
+til	aa
+,	pk
+hava	svg3fn
+umleið	aa
+170	ta	UNKNOWN
+børn	nhfn
+gingið	sþmhen
+har	aa
+.	pl
+
+Tá	c
+byrjað	sþmhen
+var	svg3eþ
+í	af
+1994	ta	UNKNOWN
+,	pk
+var	svg3eþ
+pláss	nhen
+fyri	af
+20	ta	UNKNOWN
+børnum	nhfþ
+umframt	aa
+fýra	tf
+við	af
+serligum	lkeþsf
+tørvi	nkeþ
+.	pl
+
+Og	c
+tey	fahfn
+stóru	lhfnvf	UNKNOWN
+vindeyguni	nhfng
+eru	svg3fn	UNKNOWN
+inn	aa
+í	af
+eina	fbveo
+matstovu	nveo
+
+Teir	fpkfn
+vórðu	svg3fþ	UNKNOWN
+eisini	aa
+avmyndaðir	sþgkfn	UNKNOWN
+á	af
+dekkinum	nheþg
+og	c
+tann	faven
+myndin	nveng
+skal	svg3en
+rammast	snm	UNKNOWN
+inn	aa
+og	cn
+hongjast	snm
+onkustaðni	aa
+
+Tað	fphen
+er	svg3en
+niðurstøðan	nveng
+í	af
+Reyðubók	nveþ	UNKNOWN
+,	pk
+sum	ct
+Bent	nken-s
+Jensen	n----s	UNKNOWN
+,	pk
+professari	nken
+hevur	svg3en	UNKNOWN
+skrivað	sþmhen
+.	pl
+
+Ynsktu	svg3fþ
+ikki	aa
+loysing	nveo
+
+Men	c
+samtíðis	aa
+høvdu	svg3fþ
+trygdarpolitisku	lvfnvf	UNKNOWN
+avleiðingarnar	nvfng
+verið	sþmhen
+sera	aa
+stórar	lvensf
+,	pk
+og	c
+tí	aa
+er	svg3en
+ringt	aa
+at	cn
+meta	sng
+um	af
+,	pk
+hvørt	fbhen
+hetta	fahen
+var	svg3eþ
+ein	fbken
+reellur	lkensf	UNKNOWN
+møguleiki	nken
+.	pl
+
+Reyðabók	nven	UNKNOWN
+staðfestir	svg3en
+,	pk
+at	cn
+tað	fphen
+avgjørt	aa
+ikki	aa
+kann	svg3en
+vísast	snm
+aftur	aa
+,	pk
+at	c
+sovjetisku	lhfnvf	UNKNOWN
+fiskiskipini	nhfng
+høvdu	svg3fþ
+aðrar	fbvfo
+uppgávur	nvfo
+,	pk
+harímillum	af	UNKNOWN
+fregnartænastuuppgávur	nvfo	UNKNOWN
+,	pk
+og	c
+at	c
+skipini	nhfng
+vóru	svg3fþ	UNKNOWN
+partur	nken
+av	af
+sovjetisku	lveþvf	UNKNOWN
+tilbúgvingini	nveþg
+í	af
+einum	fbheþ
+møguligum	lheþsf
+kríggi	nheþ
+.	pl
+
+Somuleiðis	aa
+hava	svg3fn
+skiparar	nkfn
+á	af
+fiskiførunum	nvfþg
+og	c
+aðrir	fbkfn
+av	af
+manningini	nveþg
+skrivað	sþmhen
+sínar	fpkfo	UNKNOWN
+frágreiðingar	nvfo
+.	pl
+
+Reyðabók	nven	UNKNOWN
+er	svg3en
+higartil	aa
+bara	aa
+at	cn
+finna	sng
+á	af
+heimasíðuni	nveþg
+hjá	af
+Løgmansskrivstovuni	nveþg
+,	pk
+men	c
+seinni	aa
+kemur	svg3en
+hon	fpven
+út	aa
+í	af
+bók	nveþ
+.	pl
+
+Øll	fbhfn
+í	af
+stóra	lheþvf
+orkestrinum	nheþg
+,	pk
+frá	af
+teimum	fahfþ
+minstu	lhfþvf	UNKNOWN
+til	af
+tey	fahfo
+stórstu	lhfove	UNKNOWN
+,	pk
+klappaðu	svg3fþ
+og	c
+tóku	svg3fþ
+taktir	nveo
+í	af
+felag	nheþ
+,	pk
+so	aa
+tað	fphen
+stóð	svg3eþ
+eftir	aa
+í	aa
+.	pl
+
+-	pa
+Vit	fp1fn
+nokta	svg3fn
+nærum	aa
+ongum	fbveþ
+at	cn
+fáa	sng
+fosturtøku	nveo
+framda	sþmven	UNKNOWN
+á	af
+Landssjúkrahúsinum	nheþg
+,	pk
+so	aa
+eg	fp1en
+dugi	svg1en
+ikki	aa
+at	cn
+síggja	sng
+,	pk
+hví	aa
+so	aa
+nógvar	lvfnsf
+føroyskar	lvfnsf
+kvinnur	nvfn
+skuldu	svg3fþ	UNKNOWN
+farið	sþmhen
+niður	aa
+at	cn
+fingið	sþmhen	UNKNOWN
+fosturtøku	nveo
+framda	sþmven	UNKNOWN
+.	pl
+
+Tað	fphen
+er	svg3en
+talið	nheog
+á	af
+nærum	aa
+øllum	fbvfþ
+kvinnunum	nvfþg
+,	pk
+sum	ct
+ynskja	sng
+fosturtøku	nveo
+.	pl
+
+Enn	aa
+einaferð	aa
+eydnaðist	svg3eþ
+tað	fphen
+H71	ks	UNKNOWN
+at	cn
+steðga	sng
+sigursrøðini	nveþg	UNKNOWN
+hjá	af
+Kyndli	nkeþ
+,	pk
+tá	c
+ið	c
+liðini	nhfng
+bæði	aa
+leiktu	svg3fþ
+javnt	lheosf
+á	af
+Hálsi	nkeþ-s
+sunnudagin	nkeog
+.	pl
+
+Hinvegin	aa
+gav	svg3eþ
+hetta	fahen
+betur	aa
+pláss	nheo
+til	af
+leikandi	slg
+venjaran	nkeog
+,	pk
+Henrik	nken-s	UNKNOWN
+Gerster	n----s	UNKNOWN
+,	pk
+og	c
+gjørdi	svg3eþ
+hann	fpken
+sær	fpkeþ
+eisini	aa
+dælt	lheosf
+av	aa
+.	pl
+
+Somuleiðis	aa
+tosaðu	svg3fþ
+hoyvíkingar	nkfn
+munandi	lo
+meiri	aam
+sínamillum	aa	UNKNOWN
+í	af
+verjuni	nveþg
+,	pk
+enn	aa
+hvat	fshen
+mótstøðumenninir	nkfng
+gjørdu	svg3fþ
+.	pl
+
+Bert	aa
+tríggir	tfkfn
+minuttir	nkfn
+vóru	svg3fþ	UNKNOWN
+eftir	af
+at	cn
+leika	sng
+,	pk
+og	c
+nú	aa
+hevði	svg3eþ	UNKNOWN
+Kyndil	nken
+skund	nheo
+.	pl
+
+Fiskimálaráðið	nheng
+tigandi	slg
+
+Nú	aa
+hevur	svg3en	UNKNOWN
+reiðaríið	nheog
+fingið	sþmhen	UNKNOWN
+viðhald	nheo
+í	af
+Føroya	nvfe-s	UNKNOWN
+Rætti	nkeþ
+.	pl
+
+Fólk	nhfn
+ringdu	svg3fþ
+langa	lveosf
+tíð	nveo
+framman	aa
+undan	aa
+at	c
+farið	sþmhen
+var	svg3eþ
+undir	af
+at	cn
+skriva	sng
+upp	aa
+,	pk
+sigur	svg3en
+byggimeistarin	nkeng	UNKNOWN
+,	pk
+sum	ct
+dagliga	aa
+fær	svg3en	UNKNOWN
+fyrispurningar	nkfo
+frá	af
+fólki	nheþ
+um	af
+íbúðir	nvfo
+.	pl
+
+Høgni	nken-s	UNKNOWN
+Mikkelsen	n----s	UNKNOWN
+sigur	svg3en
+,	pk
+at	c
+tær	favfn
+størstu	lvfnve	UNKNOWN
+íbúðirnar	nvfng
+upp	aa
+á	af
+125	ta	UNKNOWN
+fermetar	nkfo	UNKNOWN
+,	pk
+ið	ct
+eru	svg3fn	UNKNOWN
+átta	tf
+í	af
+tali	nheþ
+,	pk
+eru	svg3fn	UNKNOWN
+allar	fbvfn
+farnar	sþgvfn	UNKNOWN
+,	pk
+og	c
+somuleiðis	aa
+er	svg3en
+bróðurparturin	nkeng
+av	af
+teimum	favfþ
+24	ta	UNKNOWN
+íbúðunum	nvfþg
+á	af
+63	ta	UNKNOWN
+fermetrar	nkfo
+farnar	sþgvfn	UNKNOWN
+.	pl
+
+Arbeiðið	nheng
+upp	aa
+á	af
+Berjabrekku	nveo-s	UNKNOWN
+3	ta	UNKNOWN
+gevur	svg3en
+arbeiði	nheo
+til	aa
+gott	aa
+og	c
+væl	aa
+30	ta	UNKNOWN
+mans	nkee
+,	pk
+harav	aa
+teir	fakfn
+13	ta	UNKNOWN
+starvast	svm3fn	UNKNOWN
+hjá	af
+Høgna	nkeþ-s	UNKNOWN
+Mikkelsen	n----s	UNKNOWN
+sjálvum	fokeþ
+.	pl
+
+Longu	aa
+í	af
+1996	ta	UNKNOWN
+,	pk
+tá	c
+internetið	nheng
+gjørdist	svm3eþ	UNKNOWN
+veruleiki	nken
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+,	pk
+royndi	svg3eþ
+Sosialurin	nkeng	UNKNOWN
+seg	fpkeo
+so	aa
+smátt	lheosf
+við	af
+tíðindum	nhfþ
+á	af
+netinum	nheþg
+,	pk
+og	c
+síðani	af
+1997	ta	UNKNOWN
+hevur	svg3en	UNKNOWN
+InternetSosialurin	nkeng	UNKNOWN
+verið	sþmhen
+ein	fbken
+nátúrligur	lkensf	UNKNOWN
+partur	nken
+í	af
+miðlavirkseminum	nheþg	UNKNOWN
+hjá	af
+Sosialinum	nkeþg	UNKNOWN
+.	pl
+
+-	pa
+Nærleikin	nkeng
+hevur	svg3en	UNKNOWN
+stóran	lkeosf
+týdning	nkeo
+,	pk
+og	c
+vit	fp1fn
+fara	sng
+at	cn
+gera	sng
+nógv	aa
+burtur	aa
+úr	af
+at	cn
+tosa	sng
+við	af
+vanliga	lheovf
+fólkið	nheog
+,	pk
+sigur	svg3en
+Jan	nken-s	UNKNOWN
+Müller	n----s	UNKNOWN
+.	pl
+
+Á	af
+skrivstovuni	nveþg
+hjá	af
+sethúsasøluni	nveþg	UNKNOWN
+Húsamekling	nveþ	UNKNOWN
+í	af
+Havn	nveþ-s
+siga	svg3fn
+tey	fphfn
+,	pk
+at	c
+áhugin	nkeng
+fyri	af
+húsum	nhfþ
+er	svg3en
+minst	aae
+líka	aa
+stórur	lkensf
+,	pk
+sum	ct
+hann	fpken
+hevur	svg3en	UNKNOWN
+verið	sþmhen
+seinnu	lhfovf	UNKNOWN
+árini	nhfog
+.	pl
+
+Ein	fbven
+stór	lvensf
+flakalast	nven	UNKNOWN
+,	pk
+sum	ct
+skal	svg3en
+seljast	snm	UNKNOWN
+í	af
+kapping	nveþ
+við	af
+bíliga	lveosf
+arbeiðsmegi	nveo
+í	af
+Kina	nheþ-s	UNKNOWN
+
+Lágir	lkfnsf
+prísir	nkfn
+
+Úr	af
+Kina	nheþ-s	UNKNOWN
+verður	svg3en
+fiskurin	nkeng
+fraktaður	sþmken	UNKNOWN
+á	af
+bretska	lkeovf
+marknaðin	nkeog
+,	pk
+og	c
+hóast	c
+hann	fpken
+verður	svg3en
+seldur	sþmken	UNKNOWN
+bíligari	lkensm
+enn	aa
+eitt	fbheo
+nú	aa
+fiskurin	nkeng
+,	pk
+sum	ct
+vit	fp1fn
+koma	svg3fn
+við	aa
+,	pk
+liggur	svg3en	UNKNOWN
+meira	aam
+eftir	aa
+hjá	af
+norðmonnum	nkfþ
+og	c
+russum	nkfþ
+enn	aa
+hjá	af
+okkum	fp1fþ
+.	pl
+
+Fleiri	lhfnsm	UNKNOWN
+miljónahál	nhfn	UNKNOWN
+
+-	pa
+Áðrenn	aa
+vit	fp1fn
+fóru	svg1fþ
+í	af
+russiskan	lkeosf
+sjógv	nkeo
+at	cn
+royna	sng
+,	pk
+vóru	svg1fþ	UNKNOWN
+vit	fp1fn
+á	af
+Røstbankanum	nkeþg	UNKNOWN
+,	pk
+sum	ct
+er	svg3en
+gýtingarleið	nven	UNKNOWN
+,	pk
+og	c
+har	aa
+var	svg3eþ
+bara	aa
+yvirvaksin	lkensf
+toskur	nken
+at	cn
+fáa	sng
+.	pl
+
+-	pa
+Vit	fp1fn
+royna	svg1fn
+at	cn
+fáa	sng
+meiri	aam
+fyri	af
+sama	fokeo
+pening	nkeo
+.	pl
+
+-	pa
+Vit	fp1fn
+hava	svg1fn
+hugt	sþmhen
+eftir	af
+,	pk
+hvussu	aa
+nógv	lhfnsf
+fólk	nhfn
+eru	svg3fn	UNKNOWN
+við	aa
+ymsar	lkfosf	UNKNOWN
+túrar	nkfo
+hjá	af
+Bygdaleiðum	nvfþ
+og	c
+í	af
+tí	faheþ
+sambandi	nheþ
+hava	svg1fn
+vit	fp1fn
+broytt	sþmhen
+koyringina	nveog
+tilsvarandi	slg	UNKNOWN
+við	af
+at	cn
+leggja	sng
+ávísar	lkfosf
+túrar	nkfo
+burtur	aa
+.	pl
+
+Kortini	aa
+vísir	svg3en
+hann	fpken
+á	af
+,	pk
+at	c
+enn	aa
+er	svg3en
+ógreitt	lhensf
+,	pk
+hvussu	aa
+siglingin	nveng
+verður	svg3en
+um	af
+Leirvíksfjørð	nkeo-s	UNKNOWN
+.	pl
+
+Ferðsla	nven
+
+Lesarin	nkeng
+sigur	svg3en
+seg	fpkeo
+ivast	sng
+í	aa
+,	pk
+um	c
+allir	fbkfn
+bilførarar	nkfn
+halda	svg3fn
+seg	fpkeo
+til	af
+hámarksferðina	nveog
+,	pk
+sum	ct
+sambært	af
+ferðsluskeltinum	nheþg	UNKNOWN
+er	svg3en
+30	ta	UNKNOWN
+kilometrar	nkfo
+um	af
+tíman	nkeog
+.	pl
+
+Avgerðina	nveog
+um	af
+at	cn
+stuðla	sng
+Sumbiar	nvee-s	UNKNOWN
+Dansifelag	nheþ
+,	pk
+tók	svg3eþ
+Lions	e	UNKNOWN
+klubburin	nkeng	UNKNOWN
+í	af
+Suðuroy	nveþ-s	UNKNOWN
+eftir	aa
+at	c
+teir	fpkfn
+høvdu	svg3fþ
+havt	sþmhen	UNKNOWN
+Lions	e	UNKNOWN
+-	pa
+limir	nkfo
+úr	af
+Íslandi	nheþ-s	UNKNOWN
+á	af
+vitjan	nveþ
+seinasta	lheose
+summar	nheo
+.	pl
+
+-	pa
+Eg	fp1en
+haldi	svg1en
+,	pk
+at	c
+Jørn	nken-s
+Astrup	e	UNKNOWN
+Hansen	n----s	UNKNOWN
+yvirtulkar	svg3en	UNKNOWN
+eitt	fbheo
+sindur	nheo
+,	pk
+tá	c
+hann	fpken
+sigur	svg3en
+,	pk
+at	cn
+eg	fp1en
+biði	svg1en
+um	af
+heimild	nveo
+í	af
+Løgtinginum	nheþg
+til	af
+at	cn
+niðurkapitalisera	sng	UNKNOWN
+bankan	nkeog
+.	pl
+
+Er	svg3en
+20	tp	UNKNOWN
+%	m
+rætt	lhensf
+?	pl
+
+So	aa
+nú	aa
+meini	svg1en
+eg	fp1en
+,	pk
+at	c
+tá	c
+mann	fbhen
+hevur	svg3en	UNKNOWN
+fingið	sþmhen	UNKNOWN
+eina	fbveo
+semju	nveo
+í	af
+lag	nheo
+,	pk
+so	aa
+má	svg3en
+mann	fbhen
+byrja	svg3fn
+upp	aa
+á	af
+tilgongdina	nveog
+.	pl
+
+Hóast	c
+vøksturin	nkeog
+í	af
+búskapinum	nkeþg
+er	svg3en
+steðgaður	sþmken	UNKNOWN
+,	pk
+væntar	svg3en
+Suðuroyar	nvee-s	UNKNOWN
+Sparikassi	nken
+,	pk
+at	cn
+úrslitið	nheng
+í	af
+2004	ta	UNKNOWN
+verður	svg3en
+nøktandi	slg
+
+Ganga	svg3fn
+nýggjar	lvfosf
+leiðir	nvfo
+við	af
+slóðbrótandi	lo
+virki	nheþ
+á	af
+Eiði	nheþ-s
+
+Egil	nken-s	UNKNOWN
+Olsen	n----s	UNKNOWN
+stovnaði	svg3eþ
+Faroe	e	UNKNOWN
+Marine	e	UNKNOWN
+Biotech	e	UNKNOWN
+fyri	af
+nøkrum	fbhfþ
+árum	nhfþ
+síðani	aa
+,	pk
+saman	aa
+við	af
+øðrum	fbkfþ
+føroyingum	nkfþ
+og	c
+serfrøðingum	nkfþ
+úr	af
+Íslandi	nheþ-s	UNKNOWN
+og	c
+Noregi	nheþ-s	UNKNOWN
+,	pk
+sum	ct
+hava	svg3fn
+royndir	nvfo
+á	af
+økinum	nheþg
+.	pl
+
+Í	af
+Íslandi	nheþ-s	UNKNOWN
+er	svg3en
+tað	fphen
+felagið	nheng
+Lýsi	nhen
+,	pk
+sum	ct
+eigur	svg3en
+íslendska	lkeovf
+partin	nkeog
+í	af
+virkinum	nheþg
+á	af
+Eiði	nheþ-s
+.	pl
+
+Og	c
+í	af
+triðja	lheþvf
+lagi	nheþ
+er	svg3en
+ætlanin	nveng
+at	cn
+fara	sng
+undir	af
+meir	aam
+framkomna	lveosf
+framleiðslu	nveo
+,	pk
+sum	ct
+miðjar	svg3en	UNKNOWN
+ímóti	af
+at	cn
+vinna	sng
+ensýmir	nhfo	UNKNOWN
+burturúr	af
+fiskaslógvi	nheþ
+.	pl
+
+Men	c
+hann	fpken
+heldur	svg3en
+fyrst	aae
+og	c
+fremst	aae
+,	pk
+at	c
+tað	fphen
+er	svg3en
+ein	fbven
+hugburðsbroyting	nven	UNKNOWN
+,	pk
+sum	ct
+skal	svg3en
+til	aa
+.	pl
+
+Ov	aa
+nógv	lhfnsf
+fólk	nhfn
+vita	svg3fn
+ov	aa
+lítið	lheosf
+um	af
+tað	faheo
+arbeiðið	nheog
+,	pk
+fakfeløgini	nhfng
+dagliga	aa
+gera	svg3fn
+.	pl
+
+Men	c
+í	af
+ár	nheo
+er	svg3en
+Havnar	nvee-s
+Hornorkestur	nhen
+í	af
+Skotlandi	nheþ-s	UNKNOWN
+,	pk
+har	aa
+tey	fphfn
+luttaka	svg3fn
+í	af
+europeiskari	lveþsf
+meistarakapping	nveþ	UNKNOWN
+fyri	af
+hornorkestur	nhfo
+,	pk
+so	aa
+teimum	fphfþ
+berst	svm3en	UNKNOWN
+frá	aa
+.	pl
+
+Sjálvur	foken
+hevði	svg3eþ	UNKNOWN
+eg	fp1en
+heldur	svg3en
+ikki	aa
+ímyndað	sþmhen
+mær	fp1eþ
+,	pk
+tá	c
+eg	fp1en
+tók	svg1eþ
+við	af
+sum	c
+formaður	nken
+,	pk
+at	c
+tað	fphen
+var	svg3eþ
+so	aa
+nógv	lhensf
+arbeiði	nhen
+í	af
+hesum	faheþ
+sambandi	nheþ
+.	pl
+
+-	pa
+Tá	c
+ið	c
+uppskúlingin	nveng	UNKNOWN
+er	svg3en
+liðug	lvensf
+,	pk
+eru	svg3fn	UNKNOWN
+umleið	aa
+150	ta	UNKNOWN
+heimahjálparar	nkfn
+uppskúlaðar	sþgvfn	UNKNOWN
+til	af
+heilsuhjálpara	nkeo
+.	pl
+
+Bergleif	nken-s	UNKNOWN
+Brimvík	nven-s	UNKNOWN
+,	pk
+leiðari	nken
+á	af
+kriminaldeildini	nveþg	UNKNOWN
+hjá	af
+løgregluni	nveþg
+í	af
+Havn	nveþ-s
+,	pk
+var	svg3eþ
+sjálvur	foken
+fjórði	lkenvf
+løgreglumaður	nken
+við	af
+trimum	tfkfþ	UNKNOWN
+bilum	nkfþ
+á	af
+vallaraheiminum	nheþg
+á	af
+Giljanesi	nheþ-s	UNKNOWN
+og	c
+flutti	svg3eþ
+flóttafólkini	nhfog
+út	aa
+á	af
+flogvøllin	nkeog
+hvítusunnuaftan	nkeo
+.	pl
+
+Tey	fphfn
+vórðu	svg3fþ	UNKNOWN
+síðan	aa
+fylgd	sþghfn
+til	af
+fráfaringarhøllina	nveog
+.	pl
+
+Serlig	lvensf
+bonusskipan	nven	UNKNOWN
+
+-	pa
+Í	af
+fyrstu	lveþsf
+atløgu	nveþ
+verður	svg3en
+hann	fpken
+standandi	slg
+,	pk
+og	c
+okkurt	fbhen
+av	af
+virkseminum	nheþg
+hjá	af
+Føroya	nvfe-s	UNKNOWN
+Tele	e	UNKNOWN
+fer	svg3en
+at	cn
+halda	sng
+fram	aa
+har	aa
+,	pk
+men	c
+tað	fphen
+er	svg3en
+væl	aa
+hugsandi	slg
+,	pk
+at	c
+hann	fpken
+einaferð	aa
+í	af
+framtíðini	nveþg
+verður	svg3en
+tikin	sþmken	UNKNOWN
+niður	aa
+og	c
+fluttur	sþmken	UNKNOWN
+,	pk
+sigur	svg3en
+stjórin	nkeng
+á	af
+Føroya	nvfe-s	UNKNOWN
+Tele	e	UNKNOWN
+.	pl
+
+Grundarlagið	nheng
+sum	ct
+er	svg3en
+brúkt	sþmhen
+eru	svg3fn	UNKNOWN
+rokniskapir	nkfn	UNKNOWN
+saman	aa
+við	af
+einum	fbkeþ
+hópi	nkeþ
+av	af
+øðrum	fbhfþ
+tølum	nhfþ
+og	c
+prísum	nkfþ
+sum	ct
+til	x
+samans	x	UNKNOWN
+avdúka	sng
+hvussu	aa
+gongdin	nveng
+er	svg3en
+hjá	af
+skipunum	nhfþg
+sum	ct
+eru	svg3fn	UNKNOWN
+løgd	sþghfn
+inní	af
+skipanina	nveog
+.	pl
+
+Hetta	fahen
+er	svg3en
+nakað	fbhen
+av	af
+kjarnuni	nveþg
+í	af
+tí	faheþ
+sum	ct
+verður	svg3en
+viðgjørt	sþmhen
+á	af
+ráðstevnuni	nveþg
+.	pl
+
+-	pa
+Rokniskapir	nkfn	UNKNOWN
+,	pk
+rentabilitetur	nken	UNKNOWN
+og	c
+onnur	fbhfn
+fyribrigdi	nhen
+var	svg3eþ
+ikki	aa
+áhugavert	lhensf
+.	pl
+
+Harafturat	aa
+koma	svg3fn
+serfrøðingar	nkfn
+heilt	aa
+úr	af
+Grønlandi	nheþ-s	UNKNOWN
+til	af
+Bangladesh	nheo-s	UNKNOWN
+fyri	aa
+at	cn
+seta	sng
+seg	fpkeo
+inn	aa
+í	af
+tað	fpheo
+sum	c
+FAREC	ks	UNKNOWN
+fæst	svg3en	UNKNOWN
+við	aa
+.	pl
+
+Gjørt	sþmhen
+varð	svg3eþ	UNKNOWN
+av	aa
+at	cn
+keypa	sng
+húsini	nhfog
+og	cn
+flyta	sng
+skrivstovuna	nveog
+úr	af
+Miðvági	nkeþ-s	UNKNOWN
+til	af
+Sandavágs	nkee-s	UNKNOWN
+.	pl
+
+Varmakeldan	nveng
+í	af
+ár	nheo
+er	svg3en
+nakað	fbhen
+serligt	lhensf
+,	pk
+og	c
+munandi	lo
+meira	aam
+verður	svg3en
+gjørt	sþmhen
+burtur	aa
+úr	aa
+á	af
+mentanarliga	aa
+økinum	nheþg
+enn	aa
+vanligt	lhensf
+.	pl
+
+Okkurt	fbheo
+árið	nheog
+fellur	svg3en
+tað	fahen
+góða	lhensf
+veðrið	nheng
+á	af
+tann	fakeo
+seinna	lkeovm	UNKNOWN
+helmingin	nkeog
+,	pk
+og	c
+kanska	aa
+verður	svg3en
+tað	fphen
+eitt	fbhen
+slíkt	fohen
+summar	nhen
+,	pk
+vit	fp1fn
+fáa	svg1fn
+í	af
+ár	nheo
+.	pl
+
+Men	c
+er	svg3en
+viljin	nkeng
+til	af
+staðar	nkee
+,	pk
+og	c
+peningur	nken
+kann	svg3en
+útvegast	snm	UNKNOWN
+,	pk
+er	svg3en
+hetta	fahen
+kortini	aa
+ikki	aa
+ein	fbven
+ómøgulig	lvensf
+uppgáva	nven
+.	pl
+
+Líkt	lhensf
+var	svg3eþ
+ikki	aa
+til	af
+,	pk
+at	c
+smádreingirnir	nkfng
+í	af
+hesi	faveþ
+løtu	nveo
+høvdu	svg3fþ
+varnast	snm
+sílini	nhfog
+.	pl
+
+Úti	aa
+á	af
+grótgarðinum	nkeþg
+sóu	svg1fþ	UNKNOWN
+vit	fp1fn
+nú	aa
+tær	favfo
+fimm	tf
+standmyndirnar	nvfog
+,	pk
+sum	ct
+settar	sþgvfn
+eru	svg3fn	UNKNOWN
+upp	aa
+har	aa
+úti	aa
+.	pl
+
+Málar	svg3en
+býráðsformenn	nkfo	UNKNOWN
+
+Menn	nkfn
+stóðu	svg3fþ
+við	af
+pensli	nkeþ
+og	c
+málingablikki	nheþ	UNKNOWN
+í	af
+hondini	nveþg
+,	pk
+og	c
+onnur	fbhfn
+stákaðust	svm3fþ	UNKNOWN
+í	af
+aðrar	fbkfo
+mátar	nkfo
+rundan	aa
+um	af
+húsini	nhfog
+.	pl
+
+Gunnleivur	nken-s	UNKNOWN
+Dalsgarð	nken-s	UNKNOWN
+,	pk
+formaður	nken
+í	af
+Starvsmannafelagnum	nheþg
+,	pk
+hevur	svg3en	UNKNOWN
+ongar	fbvfo
+viðmerkingar	nvfo
+til	af
+ta	faveo
+býráðssamtykt	nveo	UNKNOWN
+,	pk
+sum	ct
+kemur	svg3en
+í	af
+gildi	nheo
+í	af
+dag	nkeo
+.	pl
+
+Tí	c
+hevur	svg3en	UNKNOWN
+leiðslan	nveng
+í	af
+sjónvarpinum	nheþg
+avgjørt	aa
+,	pk
+at	cn
+halda	sng
+fram	aa
+við	af
+at	cn
+senda	sng
+Dag	nkeo
+og	c
+viku	nveo
+klokkan	nveng
+sjey	tf
+,	pk
+sjálvt	aa
+um	c
+EM	ks	UNKNOWN
+-	pa
+endaspælið	nheng
+endar	svg3en
+sunnudagin	nkeog
+.	pl
+
+Í	af
+miðróðrinum	nkeþg	UNKNOWN
+misti	svg3eþ
+Sundabáturin	nkeng	UNKNOWN
+eitt	fbheo
+fitt	lheosf
+petti	nheo
+,	pk
+og	c
+blái	lkenvf
+báturin	nkeng
+úr	af
+høvuðsstaðnum	nkeþg
+legði	svg3eþ
+seg	fpkeo
+framum	aa
+.	pl
+
+Hol	nhen
+á	af
+fleiri	lhfosm	UNKNOWN
+hús	nhfo
+
+Aftaná	af
+tað	fpheo
+varð	svg3eþ	UNKNOWN
+so	aa
+ávarað	sþmhen
+áðrenn	af
+skotini	nhfog
+,	pk
+men	c
+har	aa
+kom	svg3eþ
+aftur	aa
+grót	nhen
+sendandi	slg
+gjøgnum	af
+luftina	nveog
+.	pl
+
+Eisini	aa
+onnur	fbhfn
+tiltøk	nhfn
+eru	svg3fn	UNKNOWN
+í	af
+næstum	n---
+,	pk
+sum	c
+kunningarstovurnar	nvfng
+í	af
+Suðuroynni	nveþgs	UNKNOWN
+skipa	svg3fn
+fyri	aa
+
+Best	aae
+er	svg3en
+at	cn
+hava	sng
+ábit	nkeo
+og	c
+okkurt	fbheo
+heitt	lheosf
+at	cn
+drekka	sng
+við	af
+sær	fpkeþ
+á	af
+ferðini	nveþg
+.	pl
+
+Finnbjørn	nken-s	UNKNOWN
+Hovsgarð	n----s	UNKNOWN
+(	pa
+Bróður	nken
+)	pa
+greiðir	svg3en
+frá	aa
+.	pl
+
+Fyri	af
+tey	fahfo
+ágrýtnu	lhfovm	UNKNOWN
+er	svg3en
+møguleiki	nken
+at	cn
+ganga	sng
+longri	lkeosm	UNKNOWN
+túr	nkeo
+,	pk
+nevniliga	aa
+frá	af
+Hovgrímsgrøv	nveþ	UNKNOWN
+og	c
+til	af
+Øravíkar	nvee-s	UNKNOWN
+.	pl
+
+Hevur	svg2en	UNKNOWN
+tú	fp2en	UNKNOWN
+kikara	nkeo
+og	c
+eitt	fbheo
+kort	nheo
+yvir	af
+økið	nheog
+,	pk
+har	aa
+gingið	sþmhen
+verður	svg3en
+,	pk
+gerst	svm3en	UNKNOWN
+túrurin	nkeng
+óivað	aa
+meira	aam
+áhugaverdur	lkensf
+.	pl
+
+Seta	sng
+minnisvarðan	nkeog
+í	af
+stand	nkeo
+
+Eisini	aa
+er	svg3en
+ætlanin	nveng
+at	cn
+seta	sng
+nøvnini	nhfog
+á	af
+teimum	fpkfþ
+,	pk
+sum	ct
+falnir	nkfng	UNKNOWN
+eru	svg3fn	UNKNOWN
+í	af
+bjørgunum	nhfþg
+,	pk
+á	af
+varðan	nkeog
+.	pl
+
+Úrslitið	nheng
+fyri	af
+2003	ta	UNKNOWN
+áðrenn	c
+avskrivingar	nvfo
+var	svg3eþ
+0,7	ta	UNKNOWN
+mió.	kt	UNKNOWN
+krónur	nvfn
+í	af
+halli	nheþ
+.	pl
+
+Í	af
+2003	ta	UNKNOWN
+rindaði	svg3eþ
+Postverkið	nheng
+nærum	aa
+hálvfjóðru	tfvfo	UNKNOWN
+millión	nveo
+krónur	nvfo
+meir	aam
+enn	aa
+árið	nheog
+fyri	aa
+,	pk
+hóast	c
+ársverkini	nhfng
+vóru	svg3fþ	UNKNOWN
+færri	aam	UNKNOWN
+.	pl
+
+Knút	nken-s
+Lützen	n----s	UNKNOWN
+greiðir	svg3en
+frá	af
+,	pk
+at	c
+flutningsfeløgini	nhfng	UNKNOWN
+settu	svg3fþ
+seg	fphfo
+í	af
+samband	nheo
+við	af
+Toll	nkeo
+og	c
+Skatt	nkeo
+fleiri	lvfosm	UNKNOWN
+ferðir	nvfo
+fyri	aa
+at	cn
+greiða	sng
+teimum	fphfþ
+frá	af
+støðuni	nveþg
+,	pk
+men	c
+har	aa
+var	svg3eþ
+einki	aa
+at	cn
+gera	sng
+,	pk
+og	c
+víst	sþmhen
+var	svg3eþ
+til	af
+ymiskar	lvfosf
+lógir	nvfo
+.	pl
+
+Enn	aa
+eru	svg3fn	UNKNOWN
+føroysku	lhfnvf	UNKNOWN
+flutningsfeløgini	nhfng	UNKNOWN
+ikki	aa
+komin	sþghfn	UNKNOWN
+við	aa
+í	af
+nýggju	lveovf	UNKNOWN
+e	x
+-	pa
+toll	nkeo
+skipanina	nveog
+,	pk
+men	c
+Knút	nken-s
+Lützen	n----s	UNKNOWN
+sigur	svg3en
+,	pk
+at	c
+tað	fphen
+koma	svg3fn
+tey	fphfn
+í	af
+oktober	nkeþ
+mánaða	nkeþ
+í	af
+ár	nheo
+.	pl
+
+Nú	aa
+ganga	svg3fn
+fleiri	lkfnsm	UNKNOWN
+á	af
+fjall	nheo
+um	af
+kvøldið	nheog
+.	pl
+
+Væl	aa
+útgjørdur	sþmken
+við	af
+motorsaksi	nkeþ	UNKNOWN
+,	pk
+sum	ct
+klippir	svg3en
+við	af
+slíkari	foveþ
+ferð	nveþ
+at	c
+fáur	lkensf
+hevur	svg3en	UNKNOWN
+sæð	sþmhen	UNKNOWN
+slíkt	foheo
+her	aa
+á	af
+landi	nheþ
+.	pl
+
+Er	svg3en
+filingin	nveng
+góð	lvensf
+,	pk
+er	svg3en
+nýggj	lvensf
+ull	nven
+vaksin	sþmven
+útaftur	aa	UNKNOWN
+,	pk
+sum	c
+so	aa
+verjir	svg3en
+seyðin	nkeog
+móti	af
+veðri	nheþ
+og	c
+øðrum	fbhfþ
+,	pk
+tá	c
+roytt	sþmhen
+er	svg3en
+.	pl
+
+Claus	nken-s	UNKNOWN
+Brøgger	n----s	UNKNOWN
+,	pk
+kunningarstjóri	nken	UNKNOWN
+á	af
+danska	lheþvf
+Brúkararáðnum	nheþg	UNKNOWN
+,	pk
+sigur	svg3en
+,	pk
+at	c
+einki	fbhen
+í	af
+donsku	lveþvf	UNKNOWN
+lóggávuni	nveþg
+forbjóðar	svg3en
+Føroyahúsinum	nheþg	UNKNOWN
+bert	aa
+at	cn
+selja	sng
+frá	af
+einum	fbheþ
+av	af
+tveimum	tfhfþ
+føroyskum	lhfþsf
+bryggjaríum	nhfþ
+.	pl
+
+Millum	af
+teirra	fphfe
+er	svg3en
+Tommy	nken-s	UNKNOWN
+Petersen	n----s	UNKNOWN
+,	pk
+sum	ct
+eitt	fbheo
+skifti	nheo
+hevði	svg3eþ	UNKNOWN
+ES	ks	UNKNOWN
+sum	c
+sítt	feheo
+málsøki	nheo
+í	af
+Tinganesi	nheþ-s	UNKNOWN
+.	pl
+
+Nú	aa
+kann	svg3en
+vinnulívið	nheng
+meira	aam
+laga	sng
+seg	fpheo
+til	af
+eina	fbveo
+langsiktaða	lveosf	UNKNOWN
+strategi	nveo	UNKNOWN
+.	pl
+
+Onkur	fbken
+fuglastovnurin	nkeng
+á	af
+oynni	nveþg
+er	svg3en
+heimsins	nkeeg
+størsti	lkense	UNKNOWN
+av	af
+sínum	fpkeþ
+slag	nheþ
+.	pl
+
+Um	af
+frágreiðingina	nveog
+,	pk
+sum	ct
+Greenpeace	e	UNKNOWN
+hevur	svg3en	UNKNOWN
+latið	sþmhen
+gera	sng
+,	pk
+sigur	svg3en
+ST	ks	UNKNOWN
+-	pa
+nevndin	nveng
+m.a.	ks	UNKNOWN
+:	pl
+,	pk
+This	e	UNKNOWN
+report	e	UNKNOWN
+has	e
+raised	e	UNKNOWN
+serious	e	UNKNOWN
+concerns	e	UNKNOWN
+on	e	UNKNOWN
+potential	e	UNKNOWN
+inpacts	e	UNKNOWN
+to	e	UNKNOWN
+this	e	UNKNOWN
+site	e	UNKNOWN
+,	pk
+particularly	e	UNKNOWN
+in	e	UNKNOWN
+the	e	UNKNOWN
+event	e	UNKNOWN
+of	e	UNKNOWN
+a	e
+possible	e	UNKNOWN
+oil	e	UNKNOWN
+spill	e
+.	pl
+
+St	e	UNKNOWN
+Kilda	e	UNKNOWN
+liggur	svg3en	UNKNOWN
+rættiliga	aa
+sunnarlaga	aa
+,	pk
+men	c
+tó	aa
+so	aa
+at	c
+náttúran	nveng
+og	c
+fuglalívið	nheng
+er	svg3en
+líkt	lhensf
+tí	fpheþ
+her	aa
+finst	svm3en	UNKNOWN
+.	pl
+
+-	pa
+Vit	fp1fn
+tosa	svg1fn
+ongantíð	aa
+ov	aa
+nógv	aa
+um	af
+fullveldisætlanina	nveog	UNKNOWN
+.	pl
+
+Hann	fpken
+er	svg3en
+heldur	aam
+ikki	aa
+samdur	lkensf
+við	af
+samgoguna	nveog	UNKNOWN
+,	pk
+tá	c
+sagt	sþmhen
+verður	svg3en
+,	pk
+at	c
+vit	fp1fn
+ikki	aa
+hava	svg1fn
+ráð	nhfo
+at	cn
+avtaka	sng
+karensdagarnar	nkfog	UNKNOWN
+.	pl
+
+Hesi	fahfn
+verða	svg3fn
+hildin	sþghfn	UNKNOWN
+uttan	aa
+fyri	af
+arbeiðsmarknaðin	nkeog
+,	pk
+og	c
+koma	sng
+kanska	aa
+ongantíð	aa
+aftur	aa
+í	af
+arbeiði	nheo
+.	pl
+
+Umframt	af
+at	cn
+gera	sng
+vart	lheosf
+við	af
+seg	fphfo
+og	cn
+knýta	sng
+sambond	nhfo
+,	pk
+so	aa
+sóu	svg3fþ	UNKNOWN
+tey	fphfn
+á	af
+palli	nkeþ
+vælkendu	lhfosf	UNKNOWN
+Emiliu	nveo-s	UNKNOWN
+og	c
+Slash	e	UNKNOWN
+,	pk
+í	af
+flogfarinum	nheþg
+fylgdust	svm3fþ
+tey	fphfn
+við	af
+The	e	UNKNOWN
+Cardigans	e	UNKNOWN
+og	c
+í	af
+onkrari	fbveþ
+hurð	nveþ
+hittu	svg3fþ
+tey	fphfn
+Cher	e	UNKNOWN
+,	pk
+Roxette	e	UNKNOWN
+og	c
+Dr	ks	UNKNOWN
+.	pl
+
+Kristian	nken-s	UNKNOWN
+Blak	n----s
+umboðar	svg3en
+Tutl	nheo
+,	pk
+og	c
+er	svg3en
+endamálið	nheng
+hjá	af
+honum	fpkeþ
+at	cn
+fáa	sng
+sambond	nhfo
+,	pk
+soleiðis	aa
+,	pk
+at	c
+Tutl	nhen
+kann	svg3en
+menna	sng
+sítt	fehee
+verk	nheo
+við	aa
+at	cn
+innflyta	sng	UNKNOWN
+og	c
+útflyta	sng	UNKNOWN
+fløgur	nvfo
+.	pl
+
+-	pa
+Tað	fphen
+góða	lhensf
+er	svg3en
+,	pk
+at	c
+ein	fbhen
+verður	svg3en
+tikin	sþmhen	UNKNOWN
+í	af
+álvara	nkeþ
+,	pk
+um	c
+ein	fbhen
+so	aa
+sum	c
+lítið	lhensf
+felag	nhen
+setir	svg3en
+seg	fpheo
+í	af
+samband	nheo
+við	aa
+eitt	fbhen
+av	af
+teim	fahfþ
+stóru	lhfþvf	UNKNOWN
+.	pl
+
+Og	c
+Rakul	nven-s	UNKNOWN
+hevur	svg3en	UNKNOWN
+myndir	nvfo
+,	pk
+ið	c
+hon	fpven
+hevur	svg3en	UNKNOWN
+tikið	sþmhen
+av	af
+framførslum	nvfþ
+hjá	af
+kenda	lkeovf
+Guns	nkee	UNKNOWN
+´	pa	UNKNOWN
+n	e
+Roses	e	UNKNOWN
+guitarleikaranum	nkeþg	UNKNOWN
+Slash	e	UNKNOWN
+og	c
+eisini	aa
+sang	svg3eþ
+í	af
+løtuni	nveþg
+so	aa
+kenda	lvenvf
+Emilia	nven-s	UNKNOWN
+.	pl
+
+Men	c
+hóast	c
+alt	aa
+,	pk
+so	aa
+tykist	svm3en	UNKNOWN
+tað	fphen
+at	cn
+hitta	sng
+Cher	e	UNKNOWN
+og	c
+hini	fahfo
+kendu	lhfosf
+ikki	aa
+at	cn
+hava	sng
+kastað	sþmhen
+skuggar	nkfo
+á	af
+tað	faheo
+týdningarmiklasta	lheose	UNKNOWN
+,	pk
+nevniliga	aa
+at	cn
+hitta	sng
+fólkini	nhfog
+,	pk
+ið	ct
+kunnu	svg3fn	UNKNOWN
+fáa	sng
+tónleik	nkeo
+hendaveg	aa	UNKNOWN
+og	c
+ikki	aa
+minst	aae
+tey	fphfo
+,	pk
+ið	ct
+eru	svg3fn	UNKNOWN
+áhugað	lhfnsf
+í	af
+at	cn
+fáa	sng
+føroyskan	lkeosf
+tónleik	nkeo
+til	af
+teirra	fphfe
+heimland	nheo
+.	pl
+
+Og	c
+hetta	faheo
+meta	svg3fn
+Kristian	nken-s	UNKNOWN
+og	c
+Rakul	nven-s	UNKNOWN
+vera	sng
+gott	lheosf
+og	c
+týdningarmikið	lheosf
+,	pk
+tí	c
+hetta	fahen
+merkir	svg3en
+,	pk
+at	c
+fólk	nhfn
+meta	svg3fn
+vøruna	nveog
+vera	sng
+góða	lveosf
+,	pk
+áhugaverda	lveosf
+og	c
+gjøgnumførda	lveosf	UNKNOWN
+.	pl
+
+Kristian	nken-s	UNKNOWN
+hevur	svg3en	UNKNOWN
+eisini	aa
+longu	aa
+fingið	sþmhen	UNKNOWN
+teldupost	nkeo
+frá	af
+teimum	fphfþ
+við	af
+ymsum	lkfþsf	UNKNOWN
+fyrispurningum	nkfþ
+.	pl
+
+Rakul	nven-s	UNKNOWN
+og	c
+Kristian	nken-s	UNKNOWN
+hava	svg3fn
+eina	fbveo
+rúgvu	nveo
+at	cn
+greiða	sng
+frá	aa
+,	pk
+eftir	af
+túrin	nkeog
+í	af
+Cannes	e	UNKNOWN
+.	pl
+
+Kristian	nken-s	UNKNOWN
+Blak	n----s
+hevði	svg3eþ	UNKNOWN
+við	af
+sær	fpkeþ
+faldara	nkeo
+frá	af
+Kunningarstovuni	nveþg
+.	pl
+
+Eitt	fbhen
+tiltak	nhen
+,	pk
+við	af
+60.000	ta	UNKNOWN
+vitjandi	slg	UNKNOWN
+.	pl
+
+Atgongumerkini	nhfng
+vóru	svg3fþ	UNKNOWN
+longu	aa
+útseld	sþghfn
+hósdagin	nkeog
+,	pk
+og	c
+nógv	lhfnsf
+vóru	svg3fþ	UNKNOWN
+tey	fphfn
+,	pk
+ið	ct
+ikki	aa
+fingu	svg3fþ	UNKNOWN
+atgongumerki	nhfo
+.	pl
+
+Væl	aa
+samanspældir	sþgkfn	UNKNOWN
+vinnarar	nkfn
+
+Miðalaldurin	nkeng
+liggur	svg3en	UNKNOWN
+um	af
+17	ta	UNKNOWN
+ár	nhfo
+.	pl
+
+Spyr	svg3en
+nú	aa
+Finnboga	nkeo-s	UNKNOWN
+Arge	n----s	UNKNOWN
+um	af
+vegin	nkeog
+millum	af
+Øravík	nveo-s	UNKNOWN
+og	c
+Hov	nheo-s
+
+Ferðslan	nveng
+er	svg3en
+vaksin	sþmven
+øgiligt	aa
+hesa	faveo
+farnu	lveovf	UNKNOWN
+tíð	nveo
+,	pk
+serliga	aa
+tunga	lvenvf
+ferðslan	nveng
+,	pk
+nú	aa
+mest	aae
+sum	c
+allir	fbkfn
+flutningur	nken
+til	af
+og	c
+frá	af
+oynni	nveþg
+gongur	svg3en
+um	af
+Drelnes	nheo-s	UNKNOWN
+.	pl
+
+Hondbóltur	nken
+:	pl
+Eitt	fbhen
+tað	fahen
+besta	lhenve
+altjóða	lhenvf
+úrslitið	nheng
+fyri	af
+føroyskan	lkeosf
+hondbólt	nkeo
+varð	svg3eþ	UNKNOWN
+veruleiki	nken
+,	pk
+tá	c
+føroyska	lhenvf
+U18	ks	UNKNOWN
+landsliðið	nheng
+vann	svg3eþ
+21	ta	UNKNOWN
+-	pa
+19	ta	UNKNOWN
+á	af
+Moldova	nheþ-s	UNKNOWN
+.	pl
+
+Sjálvt	aa
+HM	ks	UNKNOWN
+-	pa
+endaspælið	nheng
+verður	svg3en
+í	af
+Týsklandi	nheþ-s	UNKNOWN
+í	af
+august	nkeþ
+mánaði	nkeþ
+.	pl
+
+Hjá	af
+summum	fbkeþ	UNKNOWN
+sá	svg3eþ
+tað	fphen
+hinvegin	aa
+út	aa
+til	aa
+,	pk
+at	c
+teir	fpkfn
+høvdu	svg3fþ
+eina	fbveo
+rúgvu	nveo
+av	af
+landsdystum	nkfþ
+á	af
+baki	nheþ
+,	pk
+og	c
+teir	fpkfn
+orkaðu	svg3fþ
+eisini	aa
+at	cn
+halda	sng
+dampinum	nkeþg
+uppi	aa
+ein	fbkeo
+heilan	lkeosf
+dyst	nkeo
+,	pk
+sum	ct
+jú	aa	UNKNOWN
+eisini	aa
+hevur	svg3en	UNKNOWN
+sera	aa
+nógv	aa
+at	cn
+siga	sng
+.	pl
+
+Línubátarnir	nkfng
+liggja	svg3fn	UNKNOWN
+heilt	aa
+inn	aa
+á	af
+seks	tf
+fjórðingar	nkfo
+,	pk
+so	aa
+har	aa
+ber	svg3en
+ikki	aa
+til	aa
+hjá	af
+útróðrarbátunum	nkfþg
+at	cn
+vera	sng
+.	pl
+
+-	pa
+Hetta	fahen
+hevði	svg3eþ	UNKNOWN
+sjálvandi	aa
+gjørt	sþmhen
+ræsurnar	nvfog
+hjá	af
+línuflotanum	nkeþg
+nakað	fbheo
+víðari	aam
+,	pk
+sigur	svg3en
+LVÚ	ks	UNKNOWN
+.	pl
+
+Hvussu	aa
+nógv	lheosf
+kann	svg3en
+bygdarráðið	nheng
+í	af
+Vestmanna	nveþ-s	UNKNOWN
+vænta	sng
+at	cn
+fáa	sng
+í	af
+havnargjøldum	nhfþ
+tá	c
+hækkingarnar	nvfng
+eru	svg3fn	UNKNOWN
+komnar	sþgvfn	UNKNOWN
+í	af
+gildi	nhfo
+?	pl
+
+Sum	c
+sagt	sþmhen
+,	pk
+so	aa
+heldur	svg3en
+Finnbogi	nken-s	UNKNOWN
+lítið	aa
+um	af
+,	pk
+at	c
+vestmenningar	nkfn
+,	pk
+á	af
+henda	fakeo
+hátt	nkeo
+seta	svg3fn
+blokadur	nvfog	UNKNOWN
+í	af
+verk	nheo
+fyri	aa
+at	cn
+fáa	sng
+glið	nheo
+á	af
+málið	nheog
+.	pl
+
+-	pa
+Men	c
+tey	fphfn
+mugu	svg3fn	UNKNOWN
+í	af
+øllum	fbhfþ
+førum	nhfþ
+geva	sng
+tol	nheo
+,	pk
+sigur	svg3en
+landsstýrismaðurin	nkeng
+at	af
+enda	nkeþ
+.	pl
+
+Hon	fpven
+vil	svg3en
+ikki	aa
+tosa	sng
+um	af
+tær	favfo
+skuldsetingar	nvfo
+sum	ct
+tingkvinnan	nveng
+setir	svg3en
+fram	aa
+,	pk
+uttan	aa
+so	aa
+at	c
+hon	fpven
+fær	svg3en	UNKNOWN
+skjalprógv	nheo	UNKNOWN
+fyri	af
+tí	fpheþ
+,	pk
+sum	ct
+Rúna	nven-s
+Sivertsen	n----s	UNKNOWN
+setir	svg3en
+fram	aa
+.	pl
+
+Síðsta	lheove
+heyst	nheo
+róptu	svg3fþ
+fimm	tfhfn
+fiskavirki	nhfn
+í	af
+Vági	nkeþ-s
+neyðarróp	nheo
+og	c
+ávaraðu	svg3fþ
+ímóti	af
+hesi	faveþ
+oyðileggjandi	slg	UNKNOWN
+gongdini	nveþg
+í	af
+fiskivinnuni	nveþg
+,	pk
+har	aa
+kappingin	nveng
+verður	svg3en
+meiri	aam
+og	c
+meiri	aam
+avlagað	sþmven
+.	pl
+
+Men	c
+so	aa
+fór	svg3eþ
+hann	fpken
+frá	aa
+.	pl
+
+-	pa
+Skal	svg3en
+flutningsstuðul	nken	UNKNOWN
+latast	snm	UNKNOWN
+,	pk
+skal	svg3en
+hann	fpken
+latast	snm	UNKNOWN
+til	af
+flutning	nkeo
+av	af
+øllum	fbkeþ
+fiski	nkeþ
+,	pk
+tí	c
+annars	aa
+er	svg3en
+avlagar	svg3en
+tað	fphen
+kappingina	nveog
+.	pl
+
+Petur	nken-s	UNKNOWN
+Johannesen	n----s	UNKNOWN
+sigur	svg3en
+,	pk
+sostatt	aa
+,	pk
+at	c
+hvørja	fsveo
+ferð	nveo
+,	pk
+at	c
+politikararnir	nkfng
+royna	svg3fn
+at	cn
+gera	sng
+støðuna	nveog
+betri	lveovm
+,	pk
+endar	svg3en
+tað	fphen
+bara	aa
+við	af
+,	pk
+at	c
+teir	fpkfn
+gera	svg3fn
+hana	fpveo
+verri	lveovm	UNKNOWN
+.	pl
+
+Um	c
+hetta	fahen
+verður	svg3en
+lagt	sþmhen
+afturat	aa
+,	pk
+verður	svg3en
+yvirskotið	nheng
+ikki	aa
+1,6	ta	UNKNOWN
+milliónir	nvfo
+,	pk
+men	c
+heldur	aam
+3,35	ta	UNKNOWN
+milliónir	nvfn
+krónur	nvfn
+,	pk
+og	c
+harvið	aa
+fer	svg3en
+tað	fphen
+at	cn
+bera	sng
+til	aa
+at	cn
+styrkja	sng
+um	af
+eginpeningin	nkeog
+aftur	aa
+.	pl
+
+Sum	ct
+vit	fp1fn
+søgdu	svg1fþ
+í	af
+blaðnum	nheþg
+leygardagin	nkeog
+,	pk
+so	aa
+var	svg3eþ
+høvuðsorsøkin	nveng	UNKNOWN
+til	af
+stóra	lheovf
+hallið	nheog
+í	af
+1998	ta	UNKNOWN
+,	pk
+at	c
+landsliðið	nheng
+var	svg3eþ
+fýra	tf
+ferðir	nvfo
+á	af
+útivølli	nkeþ
+og	c
+bara	aa
+eina	fbveo
+ferð	nveo
+á	af
+heimavølli	nkeþ
+.	pl
+
+Tað	fphen
+er	svg3en
+á	af
+frekvensinum	nkeþg	UNKNOWN
+har	aa
+morsað	sþmhen
+verður	svg3en
+.	pl
+
+Skipanin	nveng
+kann	svg3en
+antin	c
+senda	sng
+yvir	af
+satelitt	nheo	UNKNOWN
+,	pk
+ella	c
+yvir	af
+VHF	e	UNKNOWN
+ella	c
+Myllumbylgju	nveo	UNKNOWN
+.	pl
+
+-	pa
+Tøkniliga	lvenvf
+menningin	nveng
+hevur	svg3en	UNKNOWN
+havt	sþmhen	UNKNOWN
+tað	fpheo
+við	af
+sær	fpveþ
+,	pk
+at	c
+ein	fbken
+stórur	lkensf
+partur	nken
+av	af
+samskiftinum	nheþg
+,	pk
+sum	ct
+fyrr	aam
+gekk	svg3eþ
+um	af
+Telegrafstøðina	nveog
+,	pk
+nú	aa
+gongur	svg3en
+um	af
+fartelefon	nveo
+ístaðin	aa
+.	pl
+
+-	pa
+Tað	fphen
+er	svg3en
+neyðugt	lhensf
+at	cn
+taka	sng
+støðu	nveo
+.	pl
+
+Tað	fphen
+er	svg3en
+m.a.	ks	UNKNOWN
+í	af
+hesum	faheþ
+sambandi	nheþ
+,	pk
+at	c
+ein	fbven
+uttanlandsdeild	nven	UNKNOWN
+er	svg3en
+vorðin	sþmven
+skipað	sþmven
+á	af
+løgmansskrivstovuni	nveþg
+.	pl
+
+Løgmaður	nken
+vísir	svg3en
+á	af
+,	pk
+at	c
+tað	fphen
+broytist	svm3en
+so	aa
+nógv	aa
+alla	fbveo
+tíðinda	nveog
+rundan	aa
+um	af
+okkum	fp1fo
+,	pk
+og	c
+fylgir	svg2en
+tú	fp2en	UNKNOWN
+ikki	aa
+við	aa
+á	af
+nøkrum	fbhfþ
+økjum	nhfþ
+,	pk
+so	aa
+verður	svg3en
+gloppið	nheng
+størri	lhensm
+og	c
+størri	lhensm
+.	pl
+
+Anfinn	nken-s	UNKNOWN
+Kallsberg	nhen-s	UNKNOWN
+sigur	svg3en
+,	pk
+at	c
+vit	fp1fn
+føroyingar	nkfn
+eru	svg3fn	UNKNOWN
+í	af
+tí	faveþ
+sera	aa
+óhepnu	lveþvf	UNKNOWN
+støðu	nveþ
+-	pa
+sjálvt	aa
+um	c
+vit	fp1fn
+hava	svg1fn
+ríkisfelagsskap	nkeo
+við	af
+danir	nkfo
+-	pa
+eru	svg1fn	UNKNOWN
+vit	fp1fn
+avskornir	sþgkfn	UNKNOWN
+at	cn
+luttaka	sng
+sum	c
+partur	nken
+av	af
+ríkinum	nheþg
+í	af
+tí	faveþ
+útviklingi	nkeþ	UNKNOWN
+,	pk
+sum	ct
+Danmark	nheþ-s	UNKNOWN
+hevur	svg3en	UNKNOWN
+fingið	sþmhen	UNKNOWN
+,	pk
+tvs	ks	UNKNOWN
+.	pl
+
+-	pa
+Sigur	svg2en
+tú	fp2en	UNKNOWN
+við	af
+hesum	faheþ
+,	pk
+at	c
+vit	fp1fn
+eiga	svg1fn
+at	cn
+skunda	sng
+undir	af
+fullveldi	nheo
+og	c
+gerast	snm	UNKNOWN
+sjálvstøðug	lhensf
+tjóð	nhen
+?	pl
+
+Vit	fp1fn
+royna	svg1fn
+sjálvandi	aa
+at	cn
+verja	sng
+føroysk	lhfosf
+áhugamál	nhfo
+men	c
+mugu	svg1fn	UNKNOWN
+so	aa
+royna	sng
+at	cn
+koma	sng
+til	af
+sættis	nvee	UNKNOWN
+við	af
+hin	fakeo
+partin	nkeog
+,	pk
+so	aa
+málið	nheng
+verður	svg3en
+loyst	sþmhen
+.	pl
+
+Uttanlandsmál	nhfn	UNKNOWN
+
+Víðkanin	nveng
+av	af
+verandi	slg	UNKNOWN
+handilssáttmála	nkeo	UNKNOWN
+er	svg3en
+longu	aa
+farin	sþmven	UNKNOWN
+í	af
+gongd	nveo
+,	pk
+og	c
+væntandi	slg
+fara	svg3fn
+landsstýrið	nheng
+og	c
+ES	ks	UNKNOWN
+nevndin	nveng
+at	cn
+semjast	snm	UNKNOWN
+um	af
+eitt	fbheo
+heilsufrøðiligt	lheosf
+samstarv	nheo
+í	af
+hesum	faheþ
+ári	nheþ
+.	pl
+
+Samanumtikið	sþmhen
+kann	svg3en
+sigast	snm	UNKNOWN
+um	af
+uttanlandspolitikk	nkeo	UNKNOWN
+landsstýrisins	nheeg
+,	pk
+at	c
+í	af
+mun	nkeo
+til	af
+undanfarin	sþghfo
+ár	nhfo
+fer	svg3en
+landsstýrið	nheng
+at	cn
+virka	sng
+fyri	af
+einari	fbveþ
+øktari	lveþsf	UNKNOWN
+luttøku	nveþ
+í	af
+teimum	favfþ
+altjóða	lvfþsf
+avbjóðingum	nvfþ
+og	c
+rembingum	nvfþ
+,	pk
+ið	ct
+vera	svg3fn
+Føroyum	nvfþ-s	UNKNOWN
+fyri	af
+framman	aa
+.	pl
+
+Havnar	nvee-s
+Arbeiðsmannafelag	nhen
+hevur	svg3en	UNKNOWN
+ikki	aa
+formannin	nkeog
+í	af
+fullum	lheþsf
+starvi	nheþ
+,	pk
+sum	c
+fleiri	lhfnsm	UNKNOWN
+onnur	fbhfn
+feløg	nhfn
+hava	svg3fn
+.	pl
+
+Kommunan	nveng
+hevur	svg3en	UNKNOWN
+røktina	nveog
+av	af
+tí	fakeþ
+garðinum	nkeþg
+um	af
+hendi	nveo
+og	c
+ætlanin	nveng
+er	svg3en
+nú	aa
+at	cn
+víðka	sng
+hann	fpkeo
+til	aa
+eisini	aa
+at	cn
+fata	sng
+um	af
+urtagarðin	nkeog
+hjá	af
+Zacharisi	nkeþ-s	UNKNOWN
+á	af
+Skipafelagnum	nheþg
+og	c
+kanska	aa
+longur	aa
+niðan	aa
+seinni	aam
+soleiðis	aa
+,	pk
+at	c
+Trapputrøðin	nven-s	UNKNOWN
+verður	svg3en
+bundin	sþmven
+saman	aa
+við	af
+miðbýin	nkeog
+.	pl
+
+Húsalánsgrunnurin	nkeng
+hevur	svg3en	UNKNOWN
+biðið	sþmhen
+um	aa
+at	cn
+sleppa	sng
+at	cn
+byggja	sng
+eldraíbúðir	nvfo
+á	af
+Skálatrøð	nveþ-s	UNKNOWN
+og	c
+tað	fahen
+málið	nheng
+er	svg3en
+í	af
+løtuni	nveþg
+til	af
+viðgerðar	nvee
+í	af
+byggideildini	nveþg	UNKNOWN
+og	c
+kemur	svg3en
+væntandi	slg
+fyri	af
+á	af
+fundi	nkeþ
+í	af
+byggi	nkeþ
+-	pa
+og	c
+býarskipanarnevndini	nveþg	UNKNOWN
+í	af
+næstu	lveþse
+viku	nveþ
+.	pl
+
+Húsini	nhfng
+eru	svg3fn	UNKNOWN
+gomul	lhfnsf
+,	pk
+men	c
+væl	aa
+egnað	sþghfn	UNKNOWN
+til	af
+endamálið	nheog
+.	pl
+
+-	pa
+Tað	fphen
+er	svg3en
+als	aa
+ikki	aa
+rætt	lhensf
+,	pk
+tá	c
+sagt	sþmhen
+verður	svg3en
+,	pk
+at	c
+tryggingarfeløg	nhfn
+aðrastaðni	aa
+eru	svg3fn	UNKNOWN
+gingin	sþghfn	UNKNOWN
+burtur	aa
+frá	af
+skipan	nveþ
+við	af
+aldursfrádrátti	nkeþ	UNKNOWN
+.	pl
+
+-	pa
+Nei	au
+,	pk
+tað	fphen
+er	svg3en
+als	aa
+ikki	aa
+so	aa
+.	pl
+
+Men	c
+Páll	nken-s	UNKNOWN
+Vang	n----s	UNKNOWN
+,	pk
+býráðsformaður	nken	UNKNOWN
+á	af
+Tvøroyri	nveþ-s	UNKNOWN
+heldur	svg3en
+avgjørt	sþmhen
+,	pk
+at	c
+møguleikin	nkeng
+er	svg3en
+verdur	lkensf
+at	cn
+kanna	sng
+.	pl
+
+Páll	nken-s	UNKNOWN
+Vang	n----s	UNKNOWN
+sigur	svg3en
+,	pk
+at	c
+við	af
+einum	fbheþ
+skipi	nheþ
+sum	c
+hesum	faheþ
+,	pk
+hevði	svg3eþ	UNKNOWN
+siglingstíðin	nveng
+millum	af
+Havnina	nveogs
+og	c
+Suðuroynna	nveogs	UNKNOWN
+farið	sþmhen
+niður	aa
+í	af
+helvt	nveo
+,	pk
+ella	c
+kanska	aa
+enntá	aa
+enn	aa
+longur	aam
+niður	aa
+.	pl
+
+Smyril	nken
+skal	svg3en
+í	af
+dokk	nveo
+í	af
+næsta	lheþse
+mánaða	nkeþ
+og	c
+møguleikarnir	nkfng
+verða	svg3fn
+nú	aa
+kannaðir	sþgkfn	UNKNOWN
+at	cn
+leiga	sng
+Norrønu	nveog	UNKNOWN
+aftur	aa
+.	pl
+
+-	pa
+T.d.	ks	UNKNOWN
+haldi	svg1en
+eg	fp1en
+,	pk
+at	c
+føroyskir	lkfnsf
+myndugleikar	nkfn
+eiga	svg3fn
+at	cn
+umhugsa	sng
+,	pk
+um	c
+vit	fp1fn
+yvirhøvur	aa
+skulu	svg1fn	UNKNOWN
+lata	sng
+tað	fpheo
+koma	sng
+uppá	af
+tal	nheo
+at	cn
+byggja	sng
+tað	faheo
+nýggja	lheovf
+vaktarskipið	nheog
+í	af
+Noregi	nheþ-s	UNKNOWN
+.	pl
+
+Annars	aa
+vil	svg3en
+hann	fpken
+ikki	aa
+gera	sng
+viðmerkingar	nvfo
+til	af
+støddina	nveog
+á	af
+revsingini	nveþg
+.	pl
+
+-	pa
+Tá	c
+sigur	svg3en
+tað	fphen
+seg	fpheo
+sjálvt	fohen
+,	pk
+at	c
+skal	svg3en
+tilráðingin	nveng
+um	af
+mest	aae
+loyvda	sþgkeo	UNKNOWN
+fiskiskap	nkeo
+haldast	snm	UNKNOWN
+,	pk
+verður	svg3en
+ikki	aa
+nógv	lhensf
+eftir	aa
+til	af
+øll	fbhfo
+hini	fahfo
+londini	nhfog
+.	pl
+
+-	pa
+Vesturvón	nven	UNKNOWN
+átti	svg3eþ	UNKNOWN
+at	c
+sloppið	sþmhen
+við	af
+eini	fbveþ
+ávaring	nveþ
+,	pk
+ella	c
+við	af
+allarminstu	lveþse	UNKNOWN
+revsing	nveþ
+uppá	af
+einar	to
+10.000	ta	UNKNOWN
+krónur	nvfo
+í	af
+bót	nveo
+fyri	aa
+at	cn
+hava	sng
+verið	sþmhen
+eitt	fbheo
+lítið	lheosf
+sindur	nheo
+við	af
+síðuna	nveog
+av	af
+lógarinnar	nveeg
+bókstavi	nkeþ
+.	pl
+
+-	pa
+Vit	fp1fn
+eiga	svg1fn
+at	cn
+umhugsa	sng
+at	cn
+geva	sng
+teimum	fpkfþ
+greið	lhfosf
+boð	nhfo
+um	af
+,	pk
+at	c
+blíva	svg3fn
+teir	fpkfn
+við	aa
+at	cn
+vera	sng
+so	aa
+stívrendir	lkfnsf
+,	pk
+fara	svg1fn
+vit	fp1fn
+at	cn
+leggja	sng
+eina	fbveo
+linju	nveo
+mótvegis	af
+teimum	fpkfþ
+,	pk
+sum	ct
+líkist	svm3en
+linjuni	nveþg
+,	pk
+ið	ct
+teir	fpkfn
+leggja	svg1fn
+ímóti	af
+okkum	fp1fþ
+.	pl
+
+-	pa
+Tað	fphen
+sæst	svm3en	UNKNOWN
+eisini	aa
+týðiliga	aa
+,	pk
+hvørja	fsveo
+ferð	nveo
+fiskiveiðiavtalur	nvfn	UNKNOWN
+skulu	svg3fn	UNKNOWN
+gerast	snm	UNKNOWN
+.	pl
+
+-	pa
+Eisini	aa
+í	af
+hesum	faheþ
+føri	nheþ
+vísa	svg3fn
+norðmenn	nkfn
+seg	fpkfo
+at	cn
+vera	sng
+okkara	fp1fe
+ringasti	lkense	UNKNOWN
+fíggindi	nken
+.	pl
+
+Í	af
+hesum	fakfþ
+døgum	nkfþ
+eru	svg3fn	UNKNOWN
+gøtumenn	nkfn
+í	af
+útlondum	nhfþ
+eftir	af
+einum	fbheþ
+farmaskipi	nheþ
+,	pk
+teir	fpkfn
+hava	svg3fn
+keypt	sþmhen
+.	pl
+
+Teir	fpkfn
+eru	svg3fn	UNKNOWN
+í	af
+løtuni	nveþg
+niðri	aa
+eftir	af
+Skuranum	nkeþg
+,	pk
+men	c
+eru	svg3fn	UNKNOWN
+beint	aa
+nú	aa
+á	af
+veg	nkeo
+til	af
+Póllands	nhee-s	UNKNOWN
+við	af
+honum	fpkeþ
+,	pk
+har	aa
+ymsar	lvfnsf	UNKNOWN
+umvælingar	nvfn
+skulu	svg3fn	UNKNOWN
+gerast	snm	UNKNOWN
+.	pl
+
+-	pa
+Hetta	fahen
+verður	svg3en
+eitt	fbhen
+serbygt	lhensf	UNKNOWN
+skip	nhen
+til	af
+eina	fbveo
+ávísa	lveosf
+uppgávu	nveo
+.	pl
+
+Tí	c
+hava	svg3fn
+teir	fpkfn
+keypt	sþmhen
+eitt	fbheo
+stórt	lheosf
+skip	nheo
+til	af
+endamálið	nheog
+.	pl
+
+Meira	aam
+málrættaða	lveosf	UNKNOWN
+
+Tað	fphen
+heldur	svg3en
+nevniliga	aa
+til	aa
+í	af
+snotiliga	lkeþvf
+bygninginum	nkeþg
+hjá	af
+Farex	e	UNKNOWN
+á	af
+R	x
+.	pl
+
+Tískil	aa
+vórðu	svg3fþ	UNKNOWN
+gólvini	nhfng
+brotin	sþmken	UNKNOWN
+upp	aa
+,	pk
+og	c
+nýggj	lvensf
+hitaskipan	nven	UNKNOWN
+løgd	sþmven
+í	aa
+.	pl
+
+Hetta	fahen
+verður	svg3en
+tó	aa
+ikki	aa
+gjørt	sþmhen
+á	af
+hesum	faheþ
+sinni	nheþ
+,	pk
+men	c
+roknast	snm	UNKNOWN
+kann	svg3en
+við	af
+,	pk
+at	c
+klaksvíkingar	nkfn
+sleppa	svg3fn
+at	cn
+styrkja	sng
+vøddarnar	nkfog
+í	af
+svimjihøllini	nveþg
+í	af
+Klaksvík	nveþ-s	UNKNOWN
+um	af
+ikki	aa
+so	aa
+heilt	aa
+langa	lveosf
+tíð	nveo
+.	pl
+
+Tí	c
+er	svg3en
+grundarlag	nhen
+fyri	aa
+at	cn
+taka	sng
+stykki	nhfo
+inn	aa
+aftur	aa
+,	pk
+sigur	svg3en
+Leivur	nken-s
+Hansen	n----s	UNKNOWN
+,	pk
+býráðsformaður	nken	UNKNOWN
+í	af
+Havn	nveþ-s
+.	pl
+
+Kommunan	nveng
+hevur	svg3en	UNKNOWN
+í	af
+løtuni	nveþg
+25	ta	UNKNOWN
+grundstykki	nhfo
+tøk	lhfosf
+.	pl
+
+Semingsmenn	nkfn
+:	pl
+-	pa
+Vit	fp1fn
+kunnu	svg1fn	UNKNOWN
+royna	sng
+aftur	aa
+,	pk
+um	c
+partarnir	nkfng
+vilja	svg3fn
+tað	fpheo
+
+Arbeiðssteðgurin	nkeng
+,	pk
+sum	ct
+higartil	aa
+hevur	svg3en	UNKNOWN
+verið	sþmhen
+verkfall	nhen
+og	c
+verkbann	nhen
+heldur	svg3en
+fram	aa
+,	pk
+men	c
+nú	aa
+er	svg3en
+bara	aa
+talan	nven
+um	af
+verkfall	nheo
+,	pk
+hóast	c
+tað	fphen
+merkist	svm3en
+á	af
+sama	fokeo
+hátt	nkeo
+.	pl
+
+Tað	fphen
+er	svg3en
+næstan	aa
+móti	nken
+at	cn
+skipa	sng
+fyri	af
+framsýningum	nvfþ
+um	af
+gamlar	lkfosf
+dagar	nkfo
+og	c
+um	af
+páskini	nvfog	UNKNOWN
+hevur	svg3en	UNKNOWN
+verið	sþmhen
+enn	aa
+ein	fbven
+slík	foven
+.	pl
+
+Ongantíð	aa
+er	svg3en
+kortini	aa
+álvari	nken
+gjørdur	sþmken
+burtur	aa
+úr	af
+ætlanini	nveþg
+.	pl
+
+Seinni	aam
+verður	svg3en
+ein	fbken
+skrái	nken
+gjørdur	sþmken
+uttan	aa
+fyri	aa
+til	af
+koyristól	nkeo
+og	c
+hurðin	nveng
+verður	svg3en
+breiðkað	sþmven
+,	pk
+soleiðis	aa
+at	c
+koyristólar	nkfn
+sleppa	svg3fn
+inn	aa
+.	pl
+
+Vilja	svg3fn
+hava	sng
+aðrar	fbvfo
+at	cn
+fyrireika	sng
+FM	ks	UNKNOWN
+
+Hjá	af
+okkum	fp1fþ
+í	af
+Klaksvík	nveþ-s	UNKNOWN
+eru	svg3fn	UNKNOWN
+royndirnar	nvfng
+,	pk
+at	c
+tað	fphen
+er	svg3en
+gagnligt	lhensf
+fyri	af
+felagið	nheog
+bæði	aa
+at	cn
+skipa	sng
+fyri	af
+kappingini	nveþg
+og	c
+at	cn
+fara	sng
+til	af
+kappingar	nvfo
+aðrastaðni	aa
+,	pk
+sigur	svg3en
+Petur	nken-s	UNKNOWN
+Hans	nken-s
+Poulsen	n----s	UNKNOWN
+.	pl
+
+Tær	fpvfn
+hava	svg3fn
+verið	sþmhen
+í	af
+Klaksvík	nveþ-s	UNKNOWN
+í	af
+1990	ta	UNKNOWN
+,	pk
+1995	ta	UNKNOWN
+og	c
+1999	ta	UNKNOWN
+.	pl
+
+Eisini	aa
+vísa	svg3fn
+úrslitini	nhfng
+hjá	af
+okkara	fp1fe
+súkklarum	nkfþ
+á	af
+oyggjaleikunum	nkfþg
+,	pk
+at	c
+hetta	fahen
+er	svg3en
+ein	fbven
+ítróttargrein	nven	UNKNOWN
+í	af
+menning	nveþ
+,	pk
+tí	c
+tá	c
+ið	c
+føroyingar	nkfn
+byrjaðu	svg3fþ
+at	cn
+taka	sng
+lut	nkeo
+í	af
+súkklukappingum	nvfþ
+á	af
+oyggjaleikunum	nkfþg
+,	pk
+høvdu	svg1fþ
+vit	fp1fn
+als	aa
+ongan	fbkeo
+møguleika	nkeo
+.	pl
+
+Á	af
+triðjaplássinum	nheþg	UNKNOWN
+kom	svg3eþ
+Gunnar	nken-s	UNKNOWN
+Dahl	n----s	UNKNOWN
+Olsen	n----s	UNKNOWN
+í	af
+tíðini	nveþg
+12,25	ta	UNKNOWN
+.	pl
+
+Sjálvt	aa
+súkkluárið	nheng	UNKNOWN
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+byrjar	svg3en
+á	af
+Norðoyarstevnu	nveþ	UNKNOWN
+,	pk
+tá	c
+ið	c
+tann	faven
+fyrsta	lvenve
+summarkappingin	nveng	UNKNOWN
+verður	svg3en
+,	pk
+og	c
+síðani	aa
+verður	svg3en
+súkklað	sþmhen
+á	af
+øllum	fbvfþ
+summarstevnunum	nvfþg	UNKNOWN
+.	pl
+
+Men	c
+nú	aa
+eru	svg3fn	UNKNOWN
+klaksvíkingar	nkfn
+ovastir	lkfnsf
+.	pl
+
+Í	af
+fjør	nheo
+vóru	svg3fþ	UNKNOWN
+meistararnir	nkfng
+og	c
+steypavinnararnir	nkfng
+sannførandi	slg
+,	pk
+og	c
+úrslitini	nhfng
+higartil	aa
+í	af
+ár	nheo
+benda	svg3fn
+á	af
+,	pk
+at	c
+heldur	aam
+ikki	aa
+í	af
+ár	nheo
+fer	svg3en
+HB	ks	UNKNOWN
+at	cn
+verða	sng
+lætt	lhensf
+at	cn
+taka	sng
+.	pl
+
+At	c
+teir	fpkfn
+so	aa
+at	cn
+siga	sng
+mistu	svg3fþ
+tvey	tfhfo
+stig	nhfo
+í	af
+Vági	nkeþ-s
+dýra	lkeovf
+biðidag	nkeo
+verða	svg3fn
+teir	fpkfn
+neyvan	aa
+einsamallir	fbkfn
+um	aa
+at	cn
+gera	sng
+.	pl
+
+Vágbingar	nkfn
+skulu	svg3fn	UNKNOWN
+til	af
+Gøtu	nveo-s
+sunnudagin	nkeog
+.	pl
+
+Tvær	tfvfn
+samtyktir	nvfn
+vórðu	svg3fþ	UNKNOWN
+gjørdar	sþgvfn
+á	af
+fundinum	nkeþg
+.	pl
+
+Vøggustovan	nveng
+og	c
+barnagarðurin	nkeng
+taka	svg3fn
+42	ta	UNKNOWN
+børn	nhfo
+
+Leiðari	nken
+á	af
+stovninum	nkeþg
+er	svg3en
+Jóhanna	nven-s	UNKNOWN
+Heinesen	n----s	UNKNOWN
+.	pl
+
+Og	c
+tað	fphen
+er	svg3en
+ikki	aa
+minst	aae
+pedagogunum	nkfþg
+at	cn
+takka	sng
+,	pk
+sigur	svg3en
+Leivur	nken-s
+Hansen	n----s	UNKNOWN
+,	pk
+býráðsformaður	nken	UNKNOWN
+.	pl
+
+-	pa
+Avtalan	nveng
+sum	ct
+er	svg3en
+gjørd	sþmven
+ímillum	af
+føroysku	lkfovf	UNKNOWN
+serlæknarnar	nkfog
+og	c
+sjúkrasystrarnar	nvfog
+um	af
+eina	fbveo
+felags	lo
+leiðslu	nveo
+á	af
+Landssjúkrahúsinum	nheþg
+er	svg3en
+ógyldug	lvensf	UNKNOWN
+,	pk
+sigur	svg3en
+danska	lhenvf
+serlæknafelagið	nheng	UNKNOWN
+
+Í	af
+einum	fbheþ
+brævi	nheþ
+til	af
+Jóhan	nkeo-s	UNKNOWN
+Petur	nkeo-s	UNKNOWN
+Davidsen	n----s	UNKNOWN
+,	pk
+sum	ct
+nú	aa
+er	svg3en
+formaður	nken
+í	af
+føroyska	lheþvf
+serlæknafelagnum	nheþg	UNKNOWN
+,	pk
+ger	svg3en
+danska	lhenvf
+
+Klaksvíkar	nvee-s	UNKNOWN
+sjúkrahús	nhen
+eigur	svg3en
+tríggjar	tfkfo	UNKNOWN
+sjúkrabilar	nkfo
+.	pl
+
+Hava	svg3fn
+søkt	sþmhen
+í	af
+fleiri	lhfosm	UNKNOWN
+ár	nhfo
+
+Gjørdur	sþmken
+aftur	aa
+
+Steðga	sng
+undir	af
+sjúkraflutningi	nkeþ
+
+Teir	fpkfn
+vunnu	svg3fþ
+norðoyastevnuróðurin	nkeog	UNKNOWN
+,	pk
+men	c
+kappingin	nveng
+frá	af
+Sølmundi	nkeþ-s	UNKNOWN
+var	svg3eþ
+ógvuliga	aa
+hørð	lvensf
+,	pk
+og	c
+tá	c
+tað	fphen
+eydnast	svm3en
+at	cn
+vinna	sng
+í	af
+harðari	lveþsm
+kapping	nveþ
+,	pk
+kennist	svm3en
+tað	fphen
+uppaftur	aa
+sigurssælari	lhensm	UNKNOWN
+.	pl
+
+Men	c
+um	c
+tað	fphen
+eru	svg3fn	UNKNOWN
+umstøður	nvfn
+,	pk
+sum	c
+manningin	nveng
+onga	fbveo
+ávirkan	nveo
+hevur	svg3en	UNKNOWN
+á	aa
+,	pk
+og	c
+sum	c
+fyrireikararnir	nkfng
+eru	svg3fn	UNKNOWN
+upphav	nhen
+til	aa
+,	pk
+so	aa
+er	svg3en
+støðan	nveng
+ein	fbven
+onnur	fbven
+,	pk
+og	c
+so	aa
+er	svg3en
+tað	fphen
+upp	aa
+til	af
+høvuðsdómaran	nkeog	UNKNOWN
+at	cn
+meta	sng
+um	af
+,	pk
+hvussu	aa
+málið	nheng
+skal	svg3en
+avgreiðast	snm
+.	pl
+
+Teir	fpkfn
+luttaka	svg3fn
+í	af
+kappingini	nveþg
+í	af
+ár	nheo
+,	pk
+men	c
+úrslitið	nheng
+á	af
+norðoyastevnu	nveþ	UNKNOWN
+bendir	svg3en
+á	af
+,	pk
+at	c
+teir	fpkfn
+eru	svg3fn	UNKNOWN
+ikki	aa
+so	aa
+væl	aa
+fyri	aa
+nú	aa
+,	pk
+sum	ct
+teir	fpkfn
+vóru	svg3fþ	UNKNOWN
+fyri	af
+einum	fbheþ
+ári	nheþ
+síðani	aa
+.	pl
+
+Tað	fphen
+var	svg3eþ
+bólkurin	nkeng
+JoJo	e	UNKNOWN
+,	pk
+sum	ct
+legði	svg3eþ
+fyri	aa
+.	pl
+
+Tá	c
+ið	c
+teir	fpkfn
+royndu	svg3fþ
+seg	fpkfo
+í	af
+Prix	e	UNKNOWN
+Føroyar	nvfn-s	UNKNOWN
+finaluni	nveþg
+,	pk
+var	svg3eþ
+forsangarin	nken-s	UNKNOWN
+Líggjas	nkeþ-s	UNKNOWN
+Olsen	n----s	UNKNOWN
+júst	aa
+komin	sþmken	UNKNOWN
+við	aa
+í	af
+bólkin	nkeog
+og	c
+vantaði	svg3eþ
+kanska	aa
+eitt	fbheo
+sindur	nheo
+av	af
+veniing	nveþ	UNKNOWN
+tá	aa
+,	pk
+men	c
+hetta	fahen
+tóktist	svm3eþ	UNKNOWN
+at	cn
+vera	sng
+batnað	sþmhen
+munandi	lo
+.	pl
+
+Endin	nkeng
+á	af
+stuttligu	lveþvf	UNKNOWN
+kappingini	nveþg
+var	svg3eþ
+,	pk
+at	c
+finalan	nveng
+kom	svg3eþ
+at	cn
+standa	sng
+ímillum	af
+liðið	nheog
+hjá	af
+Heðin	nken-s	UNKNOWN
+og	c
+Eyðvør	nveþ-s	UNKNOWN
+ímóti	af
+liðnum	nheþg
+hjá	af
+Helenu	nveþ-s	UNKNOWN
+og	c
+Halli	nkeþ-s
+.	pl
+
+Hølini	nhfng
+vóru	svg3fþ	UNKNOWN
+stúgvandi	slg
+full	lhfnsf
+,	pk
+og	c
+longu	aa
+heilt	aa
+tíðliga	aa
+á	af
+kvøldi	nheþ
+var	svg3eþ
+tað	fphen
+so	aa
+at	cn
+siga	sng
+ógjørligt	lhensf
+at	cn
+finna	sng
+sær	fpheþ
+ein	fbkeo
+sess	nkeo
+í	af
+Kagganum	nkeþg
+.	pl
+
+Í	af
+gjár	n-eþ	UNKNOWN
+sat	svg3eþ
+landstýrsmaðurin	nkeng	UNKNOWN
+í	af
+undirvísingar-	nhfþ	UNKNOWN
+og	c
+mentamálum	nhfþ
+,	pk
+Signar	nkeo-s
+á	af
+Brúnni	nveþgs
+,	pk
+á	af
+fundi	nkeþ
+við	af
+embætisfólkum	nhfþ
+sínum	fphfþ
+.	pl
+
+Tað	fphen
+er	svg3en
+løgið	lhensf
+,	pk
+at	c
+næmingatalið	nheng
+komandi	slg
+ár	nheo
+hækkar	svg3en
+við	af
+umleið	aa
+200	ta	UNKNOWN
+,	pk
+men	c
+hetta	fahen
+kemur	svg3en
+av	af
+,	pk
+at	c
+fólk	nhen
+flytir	svg3en	UNKNOWN
+til	af
+landið	nheog
+.	pl
+
+Málið	nheng
+farið	sþmhen
+til	af
+Fíggjarmálastýrið	nheog	UNKNOWN
+
+-	pa
+Hann	fpken
+var	svg3eþ
+millum	af
+teir	fakfo
+fremstu	lkfove	UNKNOWN
+at	cn
+trýsta	sng
+nýggju	lveovf	UNKNOWN
+lógina	nveog
+ígjøgnum	aa
+,	pk
+hóast	c
+øll	fbhfn
+vistu	svg3fþ	UNKNOWN
+,	pk
+at	c
+hetta	fahen
+hevði	svg3eþ	UNKNOWN
+meirkostnað	nkeo
+við	af
+sær	fpheþ
+.	pl
+
+Á	af
+fundi	nkeþ
+í	af
+fíggjarnevndini	nveþg
+vóru	svg3fþ	UNKNOWN
+fleiri	lhfnsm	UNKNOWN
+mál	nhfn
+á	af
+skránni	nveþg
+,	pk
+t.d.	ks	UNKNOWN
+rakstrarhækkan	nven	UNKNOWN
+til	af
+fólkaskúlan	nkeog
+og	c
+hevur	svg3en	UNKNOWN
+nógv	lhensf
+kjak	nhen
+staðist	snm	UNKNOWN
+av	af
+júst	aa
+hesum	faheþ
+málinum	nheþg
+og	c
+at	c
+tað	fphen
+hevur	svg3en	UNKNOWN
+gingið	sþmhen
+ov	aa
+seint	aa
+at	cn
+fáa	sng
+málið	nheog
+avgreitt	sþmheo
+,	pk
+so	aa
+enn	aa
+ikki	aa
+er	svg3en
+søkt	sþmhen
+eftir	af
+lærarum	nkfþ
+til	af
+komandi	slg
+ár	nheo
+og	c
+tímatalvurnar	nvfng
+eru	svg3fn	UNKNOWN
+ikki	aa
+lagdar	sþgvfn
+,	pk
+tí	c
+skúlaleiðslurnar	nvfng	UNKNOWN
+vita	svg3fn
+ikki	aa
+,	pk
+hvussu	aa
+karmarnir	nkfng
+verða	svg3fn
+komandi	slg
+skúlaár	nheo	UNKNOWN
+.	pl
+
+Hann	fpken
+heldur	svg3en
+,	pk
+at	c
+fíggjarnevndin	nveng
+má	svg3en
+ikki	aa
+skapa	sng
+nýggja	lveosf
+siðvenju	nveo
+,	pk
+tá	c
+tað	fphen
+snýr	svg3en
+seg	fpheo
+um	af
+mál	nhfo
+,	pk
+ið	ct
+kundu	svg3fþ	UNKNOWN
+verið	sþmhen
+avgreidd	sþghfn	UNKNOWN
+eftir	af
+vanligari	lveþsf
+mannagongd	nveþ
+.	pl
+
+-	pa
+Tað	fphen
+ein	fbken
+biður	svg3en
+um	af
+,	pk
+er	svg3en
+ein	fbven
+hækkan	nven
+í	af
+rakstrinum	nkeþg
+,	pk
+eftir	aa
+at	c
+tingið	nheng
+er	svg3en
+farið	sþmhen
+heim	aa
+.	pl
+
+,	pk
+spyr	svg3en
+Bjarni	nken-s	UNKNOWN
+Djurholm	n----s	UNKNOWN
+,	pk
+ið	ct
+samanber	svg3en
+hetta	faheo
+við	af
+eina	fbveo
+snældu	nveo
+,	pk
+ið	ct
+bert	aa
+vindur	svg3en
+uppá	af
+seg	fpveo
+.	pl
+
+Tað	fphen
+var	svg3eþ
+ein	fbven
+gáva	nven
+uppá	af
+heilar	lvfosf
+sjey	tf
+milliónir	nvfo
+,	pk
+sum	ct
+skuldi	svg3eþ	UNKNOWN
+brúkast	snm	UNKNOWN
+til	af
+ein	fbkeo
+spildurnýggjan	lkeosf
+magnetskannara	nkeo	UNKNOWN
+.	pl
+
+-	pa
+Skannarin	nkeng
+er	svg3en
+eitt	fbhen
+slag	nhen
+av	af
+røntgentóli	nheþ
+,	pk
+og	c
+tað	fphen
+er	svg3en
+ongin	fbhen
+á	af
+Landssjúkrahúsinum	nheþg
+yvirhøvur	aa
+,	pk
+sum	ct
+ivast	svg3en
+í	af
+,	pk
+at	c
+hann	fpken
+skal	svg3en
+standa	sng
+á	af
+røntgendeildini	nveþg	UNKNOWN
+.	pl
+
+-	pa
+Vit	fp1fn
+hava	svg1fn
+funnið	sþmhen
+eina	fbveo
+loysn	nveo
+,	pk
+sum	ct
+er	svg3en
+brúkilig	lvensf
+.	pl
+
+Skal	svg3en
+røntgendeildin	nveng	UNKNOWN
+spjaðast	snm
+út	aa
+á	af
+støð	nhfo
+á	af
+Landssjúkrahúisnum	nheþg	UNKNOWN
+verður	svg3en
+arbeiðsgongdin	nveng
+alt	aa
+ov	aa
+tung	lvensf
+og	c
+ólagalig	lvensf
+,	pk
+ikki	aa
+minst	aae
+tí	c
+at	c
+vit	fp1fn
+hava	svg1fn
+so	aa
+lítið	lheosf
+fólk	nheo
+.	pl
+
+-	pa
+Hetta	fahen
+er	svg3en
+eitt	fbhen
+tól	nhen
+,	pk
+sum	ct
+vit	fp1fn
+eru	svg1fn	UNKNOWN
+sera	aa
+áhugaðir	lkfnsf
+í	aa
+at	cn
+fáa	sng
+.	pl
+
+Ríkisumboðið	nheng
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+hevur	svg3en	UNKNOWN
+samstarv	nheo
+við	af
+teir	fakfo
+tríggjar	tfkfo	UNKNOWN
+góðkendu	sþgkfo
+stovnarnar	nkfog
+í	af
+Danmark	nheþ-s	UNKNOWN
+,	pk
+ið	ct
+viðgera	svg3fn
+og	c
+formidla	svg3fn	UNKNOWN
+ættleiðing	nveo
+av	af
+útlendskum	lhfþsf
+børnum	nhfþ
+,	pk
+Adoption	e	UNKNOWN
+Centeret	e	UNKNOWN
+,	pk
+DanAdopt	e	UNKNOWN
+og	c
+Terre	e	UNKNOWN
+des	e
+Hommes	e	UNKNOWN
+.	pl
+
+Fíggjarkreppan	nveng	UNKNOWN
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+fyrst	aae
+í	af
+nítiárunum	nhfþg	UNKNOWN
+sær	svg3en
+út	aa
+til	aa
+at	cn
+hava	sng
+ávirkað	sþmhen
+talið	nheog
+á	af
+givnum	sþghfþ
+loyvum	nhfþ
+.	pl
+
+Í	af
+hesi	faveþ
+vikuni	nveþg
+er	svg3en
+Mrs	e	UNKNOWN
+.	pl
+
+Eli	nken-s
+Lyngvej	n----s	UNKNOWN
+-	pa
+Larsen	n----s	UNKNOWN
+sigur	svg3en
+tó	aa
+,	pk
+at	c
+halda	svg3fn
+tyrluskipararnir	nkfng	UNKNOWN
+uppá	af
+at	c
+teir	fpkfn
+gevast	svm3fn	UNKNOWN
+um	c
+støðin	nveng
+verður	svg3en
+flutt	sþmven
+,	pk
+so	aa
+kann	svg3en
+hetta	fahen
+fáa	sng
+avleiðingar	nvfo
+fyri	af
+flúgvingina	nveog
+við	af
+Føroyar	nvfo-s	UNKNOWN
+og	c
+Grønland	nheo-s	UNKNOWN
+.	pl
+
+-	pa
+Tað	fphen
+er	svg3en
+skilligt	lhensf
+,	pk
+at	c
+tað	fphen
+er	svg3en
+lønin	nveng
+og	c
+betri	lvfnsm
+arbeiðsumstøður	nvfn	UNKNOWN
+,	pk
+sum	ct
+lokka	svg3fn
+,	pk
+men	c
+vandin	nkeng
+fyri	aa
+at	cn
+verða	sng
+uppsagdur	sþmken
+,	pk
+frá	af
+einum	fbkeþ
+degi	nkeþ
+til	af
+annan	fbkeo
+er	svg3en
+eisini	aa
+til	af
+staðar	nkee
+.	pl
+
+Hetta	fahen
+,	pk
+siga	svg3fn
+flogskiparar	nkfn
+og	c
+onnur	fbhfn
+við	af
+skili	nheþ
+fyri	af
+slíkum	foheþ
+,	pk
+er	svg3en
+ómøguligt	lhensf
+,	pk
+og	c
+tí	c
+verður	svg3en
+endin	nkeng
+,	pk
+at	c
+onkur	fbken
+verður	svg3en
+við	af
+sviðusoð	nheo
+.	pl
+
+-	pa
+Tyrlan	nveng
+hjá	af
+felagnum	nheþg
+er	svg3en
+ikki	aa
+hóskandi	slg
+til	af
+bjargingar-	nhfo	UNKNOWN
+og	c
+leitingarendamál	nhfo	UNKNOWN
+,	pk
+og	c
+tí	c
+hava	svg1fn
+vit	fp1fn
+kannað	sþmhen
+marknaðin	nkeog
+fyri	aa
+at	cn
+finna	sng
+út	aa
+av	af
+,	pk
+hvat	fsheo
+tær	fpvfn
+duga	svg3fn
+til	aa
+,	pk
+og	c
+hvat	fsheo
+tær	fpvfn
+kosta	svg3fn
+,	pk
+sigur	svg3en
+Magni	nken-s
+Arge	n----s	UNKNOWN
+.	pl
+
+-	pa
+Íløgan	nveng
+kostar	svg3en
+pengar	nkfo
+,	pk
+og	c
+tað	fpheo
+ger	svg3en
+tænastan	nveng
+eisini	aa
+.	pl
+
+Bókin	nveng
+er	svg3en
+ein	fbven
+lærubók	nven
+,	pk
+sum	ct
+er	svg3en
+ætlað	sþmven
+handilsskúla-	nkfþ	UNKNOWN
+og	c
+fiskivinnuskúlanæmingum	nkfþ	UNKNOWN
+.	pl
+
+-	pa
+Tað	fphen
+ikki	aa
+fyrst	aae
+og	c
+fremst	aae
+nýtslan	nveng
+,	pk
+sum	ct
+er	svg3en
+nakar	fbken
+vandi	nken
+.	pl
+
+Óneyðugt	lhensf
+at	cn
+hækka	sng
+skattir	nkfo
+og	c
+avgjøld	nhfo
+
+Tað	fphen
+hevur	svg3en	UNKNOWN
+verið	sþmhen
+nevnt	sþmhen
+,	pk
+at	c
+tað	fphen
+er	svg3en
+ógvuliga	aa
+ymiskt	lhensf
+,	pk
+sum	c
+teir	fakfn
+ymsu	lkfnvf	UNKNOWN
+landspartarnir	nkfng
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+eru	svg3fn	UNKNOWN
+fyri	aa
+búskaparliga	aa
+og	c
+at	c
+tað	fahen
+rætta	lhenvf
+hevði	svg3eþ	UNKNOWN
+verið	sþmhen
+at	c
+gjørt	sþmhen
+mun	nkeo
+á	af
+tí	fakeþ
+fíggjarpolitikki	nkeþ	UNKNOWN
+,	pk
+sum	ct
+verður	svg3en
+førdur	sþmken	UNKNOWN
+í	af
+teimum	fahfþ
+ymsu	lhfþvf	UNKNOWN
+økjunum	nhfþg
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+?	pl
+
+-	pa
+Men	c
+hann	fpken
+leggur	svg3en
+afturat	aa
+,	pk
+at	c
+tað	fphen
+er	svg3en
+ikki	aa
+bráðneyðugt	lhensf
+við	af
+tiltøkum	nhfþ
+.	pl
+
+Fløgan	nveng
+kallast	svm3en	UNKNOWN
+,	pk
+Vit	fp1fn
+eru	svg1fn	UNKNOWN
+føroyingar	nkfn
+'	pg
+.	pl
+
+Kórið	nheng
+telur	svg3en
+millum	af
+35	ta	UNKNOWN
+-	pa
+45	ta	UNKNOWN
+mans	nkee
+og	c
+Bjarni	nken-s	UNKNOWN
+sigur	svg3en
+,	pk
+at	c
+stórur	lkensf
+áhugi	nken
+er	svg3en
+fyri	af
+kórsangi	nkeþ	UNKNOWN
+,	pk
+so	aa
+tað	fphen
+er	svg3en
+kapping	nven
+um	af
+teir	fakfo
+góðu	lkfovf	UNKNOWN
+sangararnar	nkfog
+.	pl
+
+Hugaligt	lhensf
+
+Ingeborg	nven-s	UNKNOWN
+Vinter	e	UNKNOWN
+,	pk
+forkvinna	nven
+í	af
+Føroya	nvfþ-s	UNKNOWN
+Arbeiðarafelag	nheþ
+,	pk
+mótmælir	svg3en
+uppá	af
+tað	fpheo
+harðasta	lheove	UNKNOWN
+øllum	fbheþ
+tosi	nheþ
+um	aa
+at	cn
+seta	sng
+búskaparlig	lhfosf
+tiltøk	nhfo
+í	af
+verk	nheo
+fyri	aa
+at	cn
+køla	sng
+føroyska	lkeovf
+búskapin	nkeog
+niður	aa
+.	pl
+
+-	pa
+Skuldu	svg3fþ	UNKNOWN
+vit	fp1fn
+havt	sþmhen	UNKNOWN
+fingið	sþmhen	UNKNOWN
+alt	aa
+tað	fpheo
+,	pk
+sum	ct
+tann	faven
+tøka	lvenvf
+lønin	nveng
+er	svg3en
+fallin	sþmven	UNKNOWN
+hesi	fahfo
+kreppuárini	nhfog	UNKNOWN
+,	pk
+skuldi	svg3eþ	UNKNOWN
+talan	nven
+verðið	sþmhen
+um	af
+eina	fbveo
+lønarhækking	nveo	UNKNOWN
+uppá	af
+eini	fbhfo
+28	tp	UNKNOWN
+%	m
+.	pl
+
+Og	c
+tað	fphen
+er	svg3en
+ikki	aa
+hissini	aa
+íløgur	nvfn	UNKNOWN
+,	pk
+sum	ct
+tað	fahen
+almenna	lhenvf
+ætlar	svg3en
+sær	fpheþ
+undir	af
+næstu	lhfosf
+árini	nhfog
+.	pl
+
+Langt	lhensf
+er	svg3en
+enn	aa
+á	af
+mál	nheo
+til	aa
+javnstøða	nven
+er	svg3en
+í	af
+øllum	fbkfþ
+lutum	nkfþ
+og	c
+viðurskiftum	nhfþ
+í	af
+Norðurlondum	nhfþ-s	UNKNOWN
+.	pl
+
+Norðurlendska	lhenvf
+Ráðharraráðið	nheng
+og	c
+Universitetsforlaget	e	UNKNOWN
+geva	svg3fn
+út	aa
+.	pl
+
+Tað	fphen
+var	svg3eþ
+eisini	aa
+eftir	af
+uppskoti	nheþ
+frá	af
+Regini	nkeþ-s	UNKNOWN
+,	pk
+at	c
+ætlanin	nveng
+varð	svg3eþ	UNKNOWN
+sett	sþmven
+í	af
+verk	nheo
+.	pl
+
+Deildarleiðarin	nkeng	UNKNOWN
+,	pk
+ið	ct
+er	svg3en
+úr	af
+Runavík	nveþ-s	UNKNOWN
+,	pk
+sigur	svg3en
+,	pk
+at	c
+umstøðurnar	nvfog
+í	af
+og	c
+við	af
+fimmti	tf
+ára	nhfe
+gomlu	lhfovf	UNKNOWN
+hølini	nhfog
+í	af
+Trongugøtu	nveþ-s	UNKNOWN
+,	pk
+ikki	aa
+eru	svg3fn	UNKNOWN
+nóg	aa
+góðar	lvfnsf
+;	pk
+hvørki	aa
+fyri	af
+starvs	nheo
+-	pa
+ella	c
+viðskiftafólk	nheo
+.	pl
+
+Lata	svg3fn
+IKKI	aa
+aftur	aa
+í	af
+Gøtu	nveþ-s
+
+Av	af
+teimum	fakfþ
+47	ta	UNKNOWN
+næmingunum	nkfþg
+,	pk
+sum	ct
+eru	svg3fn	UNKNOWN
+upptiknir	sþgkfn
+á	af
+skúlanum	nkeþg
+,	pk
+eru	svg3fn	UNKNOWN
+42	ta	UNKNOWN
+konufólk	nhfn
+.	pl
+
+og	c
+mammur	nvfn
+
+Tað	fphen
+kann	svg3en
+verða	sng
+,	pk
+at	c
+mannfólkini	nhfng
+serliga	aa
+velja	svg3fn
+teir	fakfo
+vegirnar	nkfog
+,	pk
+meðan	c
+konufólkini	nhfng
+síggja	svg3fn
+ein	fbkeo
+møguleika	nkeo
+í	af
+HF	ks
+-	pa
+skúlanum	nkeþg
+,	pk
+og	c
+tí	aa
+eru	svg3fn	UNKNOWN
+tær	fpvfn
+so	aa
+nógvar	lvfnsf
+í	af
+tali	nheþ
+,	pk
+heldur	svg3en
+Sigrun	nven-s	UNKNOWN
+Skálagarð	nkeo-s	UNKNOWN
+.	pl
+
+Kortini	aa
+er	svg3en
+ikki	aa
+vist	aa
+,	pk
+at	c
+bussurin	nkeng
+steðgar	svg3en
+við	af
+steðgiplássini	nhfog
+.	pl
+
+Jú	au	UNKNOWN
+,	pk
+mín	fp1en
+sann	nken	UNKNOWN
+.	pl
+
+Hesi	fahfo
+boð	nhfo
+hava	svg3fn
+bussførararnir	nkfng
+fingið	sþmhen	UNKNOWN
+,	pk
+sigur	svg3en
+bilsni	lkenvf
+leiðarin	nkeng
+.	pl
+
+Ein	fbken
+miskunsamur	lkensf	UNKNOWN
+maskinsmiðjur	nken	UNKNOWN
+úr	af
+Kvívík	nveþ-s	UNKNOWN
+tók	svg3eþ
+afturúrsiglda	sþgkeo
+ferðamannin	nkeog
+uppí	af
+bilin	nkeog
+,	pk
+og	c
+koyrdi	svg3eþ
+hann	fpkeo
+suður	aa
+í	af
+høvuðsstaðin	nkeog
+.	pl
+
+Men	c
+ímeðan	c
+peningastovnarnir	nkfng
+hava	svg3fn
+verið	sþmhen
+lagaligir	af
+ímóti	af
+Johonnu	nveþ-s	UNKNOWN
+,	pk
+hevur	svg3en	UNKNOWN
+Landsstýrið	nhen
+lagt	sþmhen
+seg	fpheo
+á	af
+annan	fbkeo
+bógv	nkeo
+.	pl
+
+-	pa
+Johanna	nven-s	UNKNOWN
+er	svg3en
+eitt	fbhen
+av	af
+okkara	fp1fe
+fremstu	lhfþse	UNKNOWN
+fornminnum	nhfþ
+.	pl
+
+Fyrstur	lkenve
+at	cn
+boða	sng
+frá	aa
+var	svg3eþ
+Markus	nken-s	UNKNOWN
+Jacobsen	n----s	UNKNOWN
+á	af
+Norðoyri	nveþ-s	UNKNOWN
+,	pk
+ið	ct
+sostatt	aa
+eigur	svg3en
+finningarhvalin	nkeog	UNKNOWN
+.	pl
+
+Seinast	aae
+grind	nven
+varð	svg3eþ	UNKNOWN
+hildin	sþmven	UNKNOWN
+til	aa
+í	af
+Klaksvík	nveþ-s	UNKNOWN
+var	svg3eþ
+hin	fakeo
+26.	ta	UNKNOWN
+august	nkeo
+í	af
+fjør	n---
+.	pl
+
+Ætlanin	nveng
+er	svg3en
+at	cn
+fáa	sng
+einar	to
+50	ta	UNKNOWN
+-	pa
+100	ta	UNKNOWN
+stórar	lkfosf
+kalvar	nkfo
+at	cn
+brúka	sng
+til	af
+lívfisk	nkeo
+á	af
+alistøðini	nveþg
+í	af
+Nesvík	nveþ-s	UNKNOWN
+.	pl
+
+Teir	fpkfn
+gýta	svg3fn
+eisini	aa
+.	pl
+
+Kalvarnir	nkfng
+verða	svg3fn
+so	aa
+gangandi	slg
+,	pk
+til	c
+teir	fpkfn
+aftur	aa
+eru	svg3fn	UNKNOWN
+gýtingarklárir	lkfnsf	UNKNOWN
+.	pl
+
+Línuskipið	nheng
+Skútunes	nhen-s	UNKNOWN
+av	af
+Eiði	nheþ-s
+er	svg3en
+selt	sþmhen
+til	af
+Fuglafjarðar	nkee-s	UNKNOWN
+og	c
+eitur	svg3en
+nú	aa
+Fuglfirðingur	nken
+
+Tað	fphen
+er	svg3en
+Eigarafelagið	nheng
+,	pk
+sum	ct
+stendur	svg3en
+fyri	aa
+.	pl
+
+Niels	nken-s	UNKNOWN
+Jákup	nken-s	UNKNOWN
+Thomsen	n----s	UNKNOWN
+væntar	svg3en
+,	pk
+at	cn
+tað	fphen
+vera	svg3fn
+ikki	aa
+bara	aa
+tey	fahfn
+smáu	lhfnvf	UNKNOWN
+børnini	nhfng
+,	pk
+sum	ct
+fara	sng
+at	cn
+spæla	sng
+á	af
+vøllinum	nkeþg
+.	pl
+
+Skiftistíðin	nveng
+
+Høgni	nken-s	UNKNOWN
+Hoydal	nkeo-s	UNKNOWN
+heldur	svg3en
+ikki	aa
+,	pk
+at	c
+tað	fphen
+lønar	svg3en
+seg	fpheo
+at	cn
+koma	sng
+við	af
+nakrari	fbveþ
+millumloysn	nveþ	UNKNOWN
+,	pk
+tá	c
+høvuðsendamálið	nheng	UNKNOWN
+er	svg3en
+at	cn
+fáa	sng
+fullveldi	nheo
+.	pl
+
+Høgni	nken-s	UNKNOWN
+Hoydal	nkeo-s	UNKNOWN
+heldur	svg3en
+tað	fpheo
+vera	sng
+at	cn
+fegnast	snm	UNKNOWN
+yvir	af
+,	pk
+at	cn
+tað	fphen
+finnast	snm	UNKNOWN
+so	aa
+nógvar	lvfnsf
+frælsar	lvfnsf
+smátjóðir	nvfn	UNKNOWN
+í	af
+heiminum	nkeþg
+,	pk
+og	c
+heldur	svg3en
+hann	fpken
+hetta	faheo
+sýna	sng
+okkum	fp1fþ
+,	pk
+at	c
+tað	fphen
+ber	svg3en
+til	aa
+,	pk
+at	cn
+hava	sng
+eitt	fbheo
+sjálvstøðugt	lheosf
+land	nheo
+,	pk
+hóast	c
+fólkatalið	nheng
+ikki	aa
+er	svg3en
+stórt	lhensf
+.	pl
+
+Men	c
+eftir	af
+eina	fbveo
+møguliga	lveosf
+loysing	nveo
+er	svg3en
+sannlíkt	lhensf
+,	pk
+at	c
+føroyskur	lkensf
+ungdómur	nken
+ikki	aa
+longur	aa
+fær	svg3en	UNKNOWN
+pening	nkeo
+frá	af
+SU	ks	UNKNOWN
+,	pk
+ið	ct
+er	svg3en
+stuðulin	nkeng
+,	pk
+veittur	sþmken
+verður	svg3en
+øllum	fbhfþ
+lesandi	n---
+í	af
+Danmark	nheþ-s	UNKNOWN
+.	pl
+
+Tíðliga	aa
+í	af
+summar	nheo
+gjørdi	svg3eþ
+landsstýrismaðurin	nkeng
+í	af
+vinnumálum	nhfþ
+,	pk
+Finnbogi	nken-s	UNKNOWN
+Arge	n----s	UNKNOWN
+,	pk
+greitt	lhensf
+,	pk
+at	c
+nógv	aa
+umrøddi	sþmken	UNKNOWN
+barnsburðargrunnurin	nkeng	UNKNOWN
+loksins	aa
+verður	svg3en
+veruleiki	nken
+.	pl
+
+Stýrisforkvinnan	nveng	UNKNOWN
+í	af
+ALS	ks
+bað	svg3eþ
+landsstýrismannin	nkeog
+koma	sng
+við	af
+eini	fbveþ
+skrivligari	lveþsf
+fráboðan	nveþ
+um	af
+,	pk
+hvør	fsven
+ætlanin	nveng
+ítøkiliga	aa
+er	svg3en
+.	pl
+
+Í	af
+Vinnumálastýrinum	nheþg	UNKNOWN
+hava	svg3fn
+vit	fp1fn
+eina	fbveo
+heilt	aa
+greiða	lveosf
+fatan	nveo
+av	af
+,	pk
+at	c
+tað	fphen
+er	svg3en
+landsstýrið	nheng
+,	pk
+sum	ct
+hevur	svg3en	UNKNOWN
+ábyrgdina	nveog
+av	af
+Arbeiðsloysisskipanini	nveþg	UNKNOWN
+,	pk
+og	c
+hóast	c
+feløgini	nhfng
+á	af
+arbeiðsmarknaðinum	nkeþg
+vilja	svg3fn
+hava	sng
+landsstýrið	nheog
+at	cn
+halda	sng
+seg	fpheo
+burtur	aa
+,	pk
+kann	svg1en
+eg	fp1en
+ikki	aa
+tað	fpheo
+,	pk
+tí	c
+eg	fp1en
+havi	svg1en
+ráðharraábyrgd	nveo	UNKNOWN
+.	pl
+
+Ein	fbken
+er	svg3en
+at	cn
+fáa	sng
+tey	fphfo
+,	pk
+sum	ct
+mynda	svg3fn
+landsstýrið	nheog
+og	c
+fíggjarmálastýrið	nheog	UNKNOWN
+at	cn
+ganga	sng
+við	aa
+til	af
+,	pk
+at	c
+barnsburðargrunnurin	nkeng	UNKNOWN
+verður	svg3en
+settur	sþmken
+sum	c
+ein	fbven
+sjálvstøðug	lvensf
+upphædd	nven
+á	af
+fíggjarlógina	nveog
+.	pl
+
+Í	af
+gjár	n---	UNKNOWN
+fekk	svg3eþ	UNKNOWN
+felagið	nheng
+skriv	nheo
+frá	af
+stýrinum	nheþg
+,	pk
+har	aa
+biðið	sþmhen
+verður	svg3en
+um	af
+at	cn
+áseta	sng	UNKNOWN
+dagin	nkeog
+,	pk
+tá	c
+ið	c
+samráðingarnar	nvfng
+byrja	svg3fn
+aftur	aa
+.	pl
+
+Hesar	favfn
+útsagnirnar	nvfng
+gjørdu	svg3fþ
+okkum	fp1fo
+ikki	aa
+sørt	aa
+bilsin	lhfnsf
+,	pk
+tí	c
+spurningurin	nkeng
+var	svg3eþ
+so	aa
+,	pk
+hvat	fsheo
+vit	fp1fn
+so	aa
+sita	svg3fn
+og	cn
+samráðast	svg1fn
+um	aa
+.	pl
+
+Tað	fphen
+hava	svg3fn
+vit	fp1fn
+sjálvsagt	lhensf
+einki	aa
+ímóti	aa
+,	pk
+men	c
+samstundis	aa
+verður	svg3en
+sagt	sþmhen
+,	pk
+at	c
+ráðini	nhfng
+eru	svg3fn	UNKNOWN
+ikki	aa
+til	af
+tað	fpheo
+sum	ct
+støðan	nveng
+er	svg3en
+.	pl
+
+Í	af
+kvøld	nheo
+fer	svg3en
+sjónleikarbólkurin	nkeng	UNKNOWN
+Gríma	nven
+undir	af
+eina	fbveo
+røð	nveo
+av	af
+café	nvee	UNKNOWN
+-	pa
+kvøldum	nhfþ
+á	af
+Gamla	lheþvf
+Meiarínum	nheþ	UNKNOWN
+í	af
+Havn	nveþ-s
+.	pl
+
+Okkurt	fbhen
+gamalt	lhensf
+og	c
+okkurt	fbhen
+spildurnýtt	lhensf
+.	pl
+
+Øll	fbven
+útgerð	nven
+,	pk
+sum	ct
+skal	svg3en
+til	aa
+í	af
+einum	fbheþ
+leikhúsi	nheþ
+,	pk
+stólar	nkfn
+til	af
+áskoðararnar	nkfog
+,	pk
+podiir	nhfn	UNKNOWN
+,	pk
+projektørar	nkfn	UNKNOWN
+,	pk
+teppir	nhfn
+,	pk
+ljóðannlegg	nhen	UNKNOWN
+og	c
+so	aa
+framvegis	aa
+vantar	svg3en
+.	pl
+
+Sum	c
+eina	fbveo
+roynd	nveo
+hava	svg3fn
+menningartarnað	lhfosf
+børn	nhfo
+,	pk
+ið	ct
+ganga	svg3fn
+í	af
+skúla	nkeþ
+á	af
+Sernámsdeplinum	nkeþg
+í	af
+Havn	nveþ-s
+,	pk
+nú	aa
+møguleikan	nkeog
+at	cn
+koma	sng
+saman	aa
+við	af
+øðrum	fbhfþ
+børnum	nhfþ
+í	af
+frítíðarskúlaskipanini	nveþg	UNKNOWN
+í	af
+Havn	nveþ-s
+.	pl
+
+Nú	aa
+skal	svg3en
+Tórsvøllur	nken	UNKNOWN
+standa	sng
+sína	fpveo	UNKNOWN
+roynd	nveo
+
+-	pa
+Vanligt	lhensf
+hevur	svg3en	UNKNOWN
+verið	sþmhen
+,	pk
+at	c
+áskoðararnir	nkfng
+koma	svg3fn
+hvør	fbken
+í	af
+sínum	fpkeþ
+lagi	nheþ
+stutt	aa
+undan	af
+dystinum	nkeþg
+,	pk
+men	c
+vit	fp1fn
+vóna	svg1fn
+,	pk
+at	c
+vit	fp1fn
+fáa	svg1fn
+savnað	sþmhen
+eina	fbveo
+fitta	lveosf
+fjøld	nveo
+,	pk
+sum	ct
+so	aa
+kann	svg3en
+fara	sng
+saman	aa
+til	af
+dystin	nkeog
+.	pl
+
+-	pa
+Vit	fp1fn
+hava	svg1fn
+eisini	aa
+brúk	nheo
+fyri	af
+hjálp	nveo
+frá	af
+spælarunum	nkfþg
+,	pk
+tí	c
+spæla	svg3fn
+teir	fpkfn
+væl	aa
+,	pk
+kemur	svg3en
+tað	fbhen
+lív	nhen
+í	aa
+av	af
+sær	fphfþ
+sjálvum	foheþ
+,	pk
+og	c
+so	aa
+kunnu	svg3fn	UNKNOWN
+vit	fp1fn
+í	af
+síðsta	lkeþse
+enda	nkeþ
+hjálpa	sng
+teimum	fpkfþ
+.	pl
+
+-	pa
+Higartil	aa
+í	af
+ár	nheo
+eru	svg3fn	UNKNOWN
+bara	aa
+fimm	tf
+børn	nhfn
+fødd	sþghfn	UNKNOWN
+í	af
+allari	fbveþ
+syðru	lveþsm	UNKNOWN
+helvt	nveþ
+í	af
+Suðuroynni	nveþgs	UNKNOWN
+.	pl
+
+-	pa
+Tað	fphen
+er	svg3en
+at	cn
+kalla	sng
+onki	fbhen
+arbeiði	nhen
+í	af
+oynni	nveþg
+,	pk
+uttan	af
+fiskaarbeiði	nheo	UNKNOWN
+.	pl
+
+-	pa
+Skal	svg3en
+útjaðaranum	nkeþg
+verða	sng
+lív	nheo
+lagað	sþmheo
+,	pk
+er	svg3en
+tað	fphen
+neyðugt	lhensf
+at	cn
+fáa	sng
+meiri	aam
+umsiting	nveo
+úr	af
+Havnini	nveþgs
+og	c
+spjaða	sng
+hana	fpveo
+runt	aa
+um	aa
+í	af
+landinum	nheþg
+.	pl
+
+-	pa
+Tað	fphen
+verður	svg3en
+tí	aa
+neyðugt	lhensf
+at	cn
+umskipa	sng
+ferðasambandið	nheog
+við	af
+umheimin	nkeog
+soleiðis	aa
+,	pk
+at	c
+eitt	fbhen
+skip	nhen
+siglir	svg3en
+kring	af
+landið	nheog
+og	c
+tekur	svg3en
+fiskin	nkeog
+og	c
+førir	svg3en
+hann	fpkeo
+á	af
+marknaðin	nkeog
+.	pl
+
+Vandin	nkeng
+fyri	af
+ferðsludeyða	nkeo
+ov	aa
+stórur	lkensf
+
+Men	c
+veruleikin	nkeng
+er	svg3en
+øðrvísi	aa
+enn	aa
+løgfrøðin	nveng
+í	af
+hesum	faheþ
+føri	nheþ
+,	pk
+tí	c
+hóast	c
+hámarkið	nheng
+,	pk
+bróta	svg3fn
+flestu	lkfnse	UNKNOWN
+bilførarar	nkfn
+hesa	faveo
+lóg	nveo
+so	aa
+at	cn
+siga	sng
+dagliga	aa
+.	pl
+
+Trýstir	svg3en
+hann	fpken
+á	af
+spidaran	nkeog	UNKNOWN
+,	pk
+so	aa
+økist	svm3en
+ferðin	nveng
+og	c
+vandin	nkeng
+,	pk
+sambært	af
+kanningum	nvfþ
+.	pl
+
+Somuleiðis	aa
+ger	svg3en
+hann	fpken
+vart	sþmhen
+við	aa
+,	pk
+hvussu	aa
+stórur	lkensf
+vandin	nken
+er	svg3en
+fyri	aa
+at	cn
+doyggja	sng
+,	pk
+ella	c
+verða	svg3fn
+skaddur	sþmken	UNKNOWN
+í	af
+ferðsluni	nveþg
+í	af
+mun	nkeo
+til	af
+t.d.	ks	UNKNOWN
+flogferðsluna	nveog
+.	pl
+
+Tó	aa
+vísir	svg3en
+hann	fpken
+á	af
+,	pk
+at	c
+Hvivltenni	nhen-s	UNKNOWN
+er	svg3en
+eitt	fbhen
+tað	fahen
+besta	lhense
+av	af
+brúktu	sþghfþ
+skipunum	nhfþg
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+,	pk
+men	c
+nýggir	lkfnsf
+veiðuhættir	nkfn	UNKNOWN
+gera	svg3fn
+,	pk
+at	c
+neyðugt	lhensf
+er	svg3en
+við	af
+einum	fbheþ
+skipi	nheþ
+við	af
+størri	lveþsm
+maskinorku	nveþ	UNKNOWN
+.	pl
+
+Vantandi	slg
+politiskur	lkensf
+vilji	nken
+
+Hetta	faheo
+heldur	svg3en
+hann	fpken
+vera	sng
+orsøkina	nveog
+til	af
+,	pk
+at	c
+tað	fphen
+ongan	fbkeo
+veg	nkeo
+gongur	svg3en
+politiskt	lhensf
+í	af
+føroyska	lheþvf
+samfelagnum	nheþg
+.	pl
+
+Men	c
+Jesus	nken-s	UNKNOWN
+,	pk
+hann	fpken
+er	svg3en
+ikki	aa
+sonur	nken
+Guds	nkee-s
+,	pk
+men	c
+sonur	nken
+Mariu	nvee-s	UNKNOWN
+.	pl
+
+Munin	nkeog
+á	af
+teimum	nhfþ
+við	af
+veruligum	lkeþsf
+arabiskum	lkeþsf
+uppruna	nkeþ
+,	pk
+og	c
+so	aa
+teimum	fahfþ
+føroysku	lvfþvf	UNKNOWN
+.	pl
+
+Giftar	sþgvfn
+muslimskum	lkfþsf
+monnum	nkfþ
+
+-	pa
+Tað	fphen
+eru	svg3fn	UNKNOWN
+so	aa
+nógvir	lkfnsf
+fordómar	nkfn
+móti	af
+islam	nheþg
+millum	af
+kristin	lhfosf
+,	pk
+og	c
+
+Amina	nven-s	UNKNOWN
+Poulsen	n----s	UNKNOWN
+helt	svg3eþ
+læknavísindina	nveog	UNKNOWN
+vera	sng
+spennandi	lo
+,	pk
+og	c
+gjørdi	svg3eþ
+tí	aa
+av	aa
+royna	sng
+ta	faveo
+leiðina	nveog
+.	pl
+
+Uppaftur	aa
+hálvt	lheosf
+ár	nheo
+seinni	aam
+giftast	svm3fn
+tey	fahfn
+bæði	fbhfn
+.	pl
+
+Og	c
+gongdin	nveng
+var	svg3eþ
+nakað	aa
+tann	faven
+sama	foven
+hjá	af
+Sólmai	nveþ-s	UNKNOWN
+Johannesen	n----s	UNKNOWN
+.	pl
+
+Tær	fpvfn
+merktu	svg3fþ
+Koranina	nveog
+tosa	sng
+beinleiðis	aa
+til	af
+teirra	fpvfe
+.	pl
+
+Jesus	nken-s	UNKNOWN
+var	svg3eþ
+bara	aa
+profetur	nken
+
+Allah	nken-s	UNKNOWN
+er	svg3en
+bara	aa
+ein	fbken
+,	pk
+og	c
+har	aa
+er	svg3en
+also	aa	UNKNOWN
+ongin	fbken
+sonur	nken
+,	pk
+sigur	svg3en
+Anna	nven-s	UNKNOWN
+Katrin	nven-s	UNKNOWN
+Lamhauge	n----s	UNKNOWN
+.	pl
+
+Men	c
+hesum	fahfþ
+vísa	svg3fn
+muslimar	nkfn
+aftur	aa
+upp	aa
+á	af
+tað	fpheo
+harðasta	lheove	UNKNOWN
+,	pk
+og	c
+vísa	svg3fn
+til	af
+orð	nheo
+Allah	nkee-s	UNKNOWN
+í	af
+Koranini	nveþg
+.	pl
+
+1.	ta	UNKNOWN
+Trúarjáttanin	nveng
+hjá	af
+muslimum	nkeþ
+:	pl
+'	pg
+Eg	fp1en
+trúgvi	svg1en
+á	af
+ongan	fbkeo
+annan	fbkeo
+Gud	nkeo
+enn	aa
+Allah	nkeo-s	UNKNOWN
+,	pk
+og	c
+at	c
+Mohammed	nken-s	UNKNOWN
+er	svg3en
+hansara	fpkee
+sendiboð	nhen
+.	pl
+
+Ikki	aa
+minst	aae
+at	cn
+minnast	sng
+tær	favfo
+fimm	tf
+bønirnar	nvfog
+til	af
+Allah	nkeo-s	UNKNOWN
+um	af
+dagin	nkeog
+.	pl
+
+-	pa
+Tað	fphen
+er	svg3en
+rætt	lhensf
+,	pk
+at	c
+maðurin	nkeng
+er	svg3en
+høvdið	nheng
+í	af
+familjuni	nveþg
+.	pl
+
+Soleiðis	aa
+kunnu	svg1fn	UNKNOWN
+vit	fp1fn
+so	aa
+eisini	aa
+siga	sng
+um	af
+mannin	nkeog
+í	af
+einum	fbheþ
+húski	nheþ
+,	pk
+heldur	svg3en
+Amina	nven-s	UNKNOWN
+Poulsen	n----s	UNKNOWN
+.	pl
+
+Men	c
+hvat	fsheo
+gert	svg2en
+tú	fp2en	UNKNOWN
+so	aa
+tann	fakeo
+dagin	nkeog
+,	pk
+dóttir	nven
+tín	fp2ee
+ynskir	svg3en
+at	cn
+gerast	snm	UNKNOWN
+kristin	lvensf
+,	pk
+also	aa	UNKNOWN
+at	cn
+venda	sng
+aftur	aa
+til	af
+tína	fp2ee
+barnatrúgv	nveo
+?	pl
+
+Bera	sng
+turriklæði	nheo
+
+Og	c
+tað	fphen
+verður	svg3en
+sanniliga	aa
+gingið	sþmhen
+høgt	aa
+upp	aa
+í	aa
+at	cn
+goyma	sng
+hárið	nheog
+.	pl
+
+Haraftrat	aa	UNKNOWN
+eru	svg3fn	UNKNOWN
+lógirnar	nvfng
+í	af
+Danmark	nheþ-s	UNKNOWN
+soleiðis	aa
+,	pk
+at	c
+tú	fp2en	UNKNOWN
+hevur	svg2en	UNKNOWN
+ikki	aa
+loyvi	nheo
+at	cn
+gera	sng
+mun	nkeo
+á	af
+fólki	nheþ
+.	pl
+
+Tær	favfn
+tríggjar	tfvfn	UNKNOWN
+fegnast	svm3fn	UNKNOWN
+tó	aa
+um	af
+,	pk
+at	c
+foreldur	nhfn
+teirra	fpvfe
+ongantíð	aa
+hava	svg3fn
+vent	sþmhen
+teimum	fpvfþ
+bakið	nheog
+,	pk
+og	c
+at	c
+tær	fpvfn
+framvegis	aa
+hava	svg3fn
+gott	lheosf
+samband	nheo
+við	af
+tey	fphfo
+.	pl
+
+Men	c
+so	aa
+líðandi	aa
+eru	svg3fn	UNKNOWN
+tey	fphfn
+eisini	aa
+farin	sþghfn	UNKNOWN
+at	cn
+taka	sng
+hendan	fakeo
+táttin	nkeog
+í	af
+seyðahaldinum	nheþg
+upp	aa
+aðrastaðni	aa
+,	pk
+og	c
+nú	aa
+er	svg3en
+tað	fphen
+als	aa
+ikki	aa
+óvanligt	lhensf
+at	cn
+hava	sng
+veðrar	nkfo
+norðanfjørðs	aa
+.	pl
+
+Ein	fbken
+bóndi	nken
+,	pk
+vit	fp1fn
+hava	svg3fn
+tosað	sþmhen
+við	aa
+,	pk
+heldur	svg3en
+,	pk
+at	c
+kraftfóður	nhen
+,	pk
+sum	ct
+verður	svg3en
+givið	sþmhen
+í	af
+skýmingini	nveþg
+,	pk
+tá	c
+ið	c
+seyðurin	nkeng
+er	svg3en
+liðugur	lkensf
+at	cn
+eta	sng
+fyri	af
+dagin	nkeog
+,	pk
+og	c
+leggur	svg3en
+seg	fpkeo
+,	pk
+hilnast	svg3en
+betur	aam
+enn	aa
+tað	fahen
+,	pk
+sum	ct
+verður	svg3en
+givið	sþmhen
+aðrar	fbvfo
+tíðir	nvfo
+á	af
+degnum	nkeþg
+.	pl
+
+Gamalt	lhensf
+er	svg3en
+fletta	sng
+veðrar	nkfo
+á	af
+mikkjalsmessu	nveog
+,	pk
+sum	ct
+er	svg3en
+29.	ta	UNKNOWN
+September	nken
+.	pl
+
+Tungir	lkfnsf
+at	cn
+tumma	sng
+
+Høvdið	nheng
+verður	svg3en
+kókað	sþmhen
+ræst	lhensf
+og	c
+avroðini	nhfng
+annars	aa
+tikin	sþghfn	UNKNOWN
+upp	aa
+sum	c
+vanligt	aa
+.	pl
+
+Tá	c
+ið	c
+hann	fpken
+er	svg3en
+passaligur	lkensf
+,	pk
+verður	svg3en
+hann	fpken
+kókaður	sþmken	UNKNOWN
+við	af
+væl	aa
+av	af
+salti	nheþ
+í	af
+løginum	nkeþg
+og	c
+etin	sþmken	UNKNOWN
+til	af
+døgverða	nkeo	UNKNOWN
+.	pl
+
+Og	c
+teir	fakfn
+dagarnar	nkfog
+,	pk
+flett	sþmhen
+verður	svg3en
+,	pk
+eru	svg3fn	UNKNOWN
+sannir	lkfnsf	UNKNOWN
+veitsludagar	nkfn	UNKNOWN
+ella	c
+hátíðardagar	nkfn
+.	pl
+
+Føroyski	lkenvf
+útsøluprísurin	nkeng	UNKNOWN
+á	af
+RAM	ks	UNKNOWN
+var	svg3eþ
+fyri	af
+umleið	aa
+tveimum	tfvfþ
+vikum	nvfþ
+síðani	aa
+millum	af
+700	ta	UNKNOWN
+og	c
+800	ta	UNKNOWN
+krónur	nvfo
+fyri	af
+64	ta	UNKNOWN
+Mb	ks	UNKNOWN
+RAM	ks	UNKNOWN
+.	pl
+
+Stjórin	nkeng
+í	af
+fyritøkuni	nveþg
+váttar	svg3en
+fyri	af
+Computerworld	e	UNKNOWN
+,	pk
+at	c
+goymslan	nveng
+er	svg3en
+upp	aa
+á	af
+uml.	kt	UNKNOWN
+200	ta	UNKNOWN
+mió.	kt	UNKNOWN
+krónur	nvfo
+,	pk
+men	c
+hann	fpken
+kann	svg3en
+ikki	aa
+siga	sng
+,	pk
+hvussu	aa
+nógv	lheosf
+fyritøka	nven
+hansara	fpkee
+hevur	svg3en	UNKNOWN
+forvunnið	sþmhen
+upp	aa
+á	af
+jarðskjálvtan	nkeog
+.	pl
+
+Her	aa
+sita	svg3fn
+taiwansku	lvfnvf	UNKNOWN
+fyritøkurnar	nvfng
+á	af
+80	tp	UNKNOWN
+prosentum	nhfþ
+av	af
+marknaðinum	nkeþg
+,	pk
+og	c
+slíkt	fohen
+merkist	svm3en
+ógvuliga	aa
+væl	aa
+.	pl
+
+krónur	nvfo
+og	c
+allur	fbken
+partapeningurin	nkeng
+er	svg3en
+tí	aa
+burtur	aa
+
+Frágreiðingin	nveng
+,	pk
+sum	ct
+varð	svg3eþ	UNKNOWN
+almannakunngjørd	sþmven	UNKNOWN
+hósdagin	nkeog
+hevur	svg3en	UNKNOWN
+eisini	aa
+við	af
+sær	fpveþ
+,	pk
+at	c
+tað	fphen
+er	svg3en
+ein	fbken
+sera	aa
+stórur	lkensf
+vandi	nken
+fyri	aa
+at	cn
+allur	fbken
+eginpeningurin	nkeng
+,	pk
+sum	ct
+sambært	af
+hálvársroknskapinum	nheþg	UNKNOWN
+var	svg3eþ
+485	ta	UNKNOWN
+mió.	kt	UNKNOWN
+krónur	nvfn
+,	pk
+er	svg3en
+mistur	sþmken	UNKNOWN
+,	pk
+sigur	svg3en
+frágreiðingin	nveng
+,	pk
+sum	ct
+felagið	nheng
+lat	svg3eþ	UNKNOWN
+keypsskálanum	nkeþg	UNKNOWN
+í	af
+Keypmannahavn	nveo-s	UNKNOWN
+hósdagin	nkeog
+.	pl
+
+Sum	ct
+nevnt	sþmhen
+frammanfyri	aa
+hevur	svg3en	UNKNOWN
+fyritøkan	nveng
+lagt	sþmhen
+seg	fpveo
+eftir	af
+vøkstri	nkeþ
+,	pk
+men	c
+við	af
+seinasta	lheþve
+útspælinum	nheþg
+verður	svg3en
+stórt	lhensf
+spurnartekin	nhen	UNKNOWN
+sett	sþmhen
+við	af
+um	c
+fyritøkan	nveng
+yvirhøvur	aa
+hevur	svg3en	UNKNOWN
+havt	sþmhen	UNKNOWN
+skil	nheo
+á	af
+hesum	fakeþ
+vøkstrinum	nkeþg
+.	pl
+
+Hósdagin	nkeog
+boðaði	svg3eþ
+Føroya	nvfe-s	UNKNOWN
+Lærarafelag	nhen
+frá	af
+,	pk
+at	c
+allir	fbkfn
+sáttmálasettir	sþgkfn
+limir	nkfn
+í	af
+felagnum	nheþg
+fara	svg3fn
+í	af
+arbeiðssteðg	nkeo
+frá	af
+1.	ta	UNKNOWN
+november	nkeo
+.	pl
+
+-	pa
+Føroya	nvfe-s	UNKNOWN
+Lærarafelag	nhen
+kann	svg3en
+bara	aa
+geva	sng
+teimum	fpkfþ
+tey	fahfo
+ráð	nhfo
+at	cn
+fáa	sng
+hetta	faheo
+uppá	af
+pláss	nheo
+,	pk
+nú	aa
+fíggjarlógin	nveng
+er	svg3en
+til	af
+viðgerðar	nvee
+.	pl
+
+Annars	aa
+er	svg3en
+tað	fphen
+ongin	fbken
+ivi	nken
+um	af
+,	pk
+at	c
+tað	fphen
+er	svg3en
+Drelnes	nhen-s	UNKNOWN
+,	pk
+sum	ct
+er	svg3en
+samferðsluhavnin	nveng	UNKNOWN
+í	af
+Suðuroynni	nveþgs	UNKNOWN
+.	pl
+
+Og	c
+spurningurin	nkeng
+um	af
+túratalið	nheog	UNKNOWN
+ímillum	af
+Suðuroynna	nveogs	UNKNOWN
+og	c
+Havnina	nveogs
+er	svg3en
+sjálvandi	aa
+treytaður	sþmken
+av	af
+,	pk
+hvussu	aa
+nógv	lhensf
+verður	svg3en
+sett	sþmhen
+av	aa
+til	af
+endamálið	nheog
+.	pl
+
+KÍ	ks	UNKNOWN
+tapti	svg3eþ
+2	ta	UNKNOWN
+-	pa
+0	ta	UNKNOWN
+í	af
+Gundadali	nkeþ-s	UNKNOWN
+sunnudagin	nkeog
+,	pk
+men	c
+hóast	c
+henda	fakeo
+veruleika	nkeo
+,	pk
+so	aa
+siga	svg3fn
+bæði	aa
+venjarin	nkeng
+og	c
+liðformaðurin	nkeng
+seg	fpkfo
+avgjørt	sþmhen
+rokna	sng
+við	af
+,	pk
+at	c
+tað	fphen
+fer	svg3en
+at	cn
+eydnast	snm
+at	cn
+vinna	sng
+móti	af
+ÍF	ks	UNKNOWN
+og	c
+harvið	aa
+at	cn
+tryggja	sng
+sær	fpkeþ
+FM	ks	UNKNOWN
+heitið	nheog
+:	pl
+
+Sjálvandi	aa
+fara	svg3fn
+nervar	nkfn
+at	cn
+vera	sng
+uppií	aa
+,	pk
+men	c
+tað	fphen
+verður	svg3en
+bara	aa
+ta	faveo
+fyrstu	lveove
+løtuna	nveog
+,	pk
+og	c
+um	c
+vit	fp1fn
+tíðliga	aa
+skora	svg1fn
+eitt	fbheo
+mál	nheo
+,	pk
+so	aa
+verður	svg3en
+tað	fphen
+sera	aa
+hugaligt	lhensf
+.	pl
+
+Hesa	faveo
+ferð	nveo
+kann	svg3en
+tað	fphen
+verða	sng
+vandamikið	lhensf
+at	cn
+hava	sng
+henda	fakeo
+hugburðin	nkeog
+,	pk
+ti	c	UNKNOWN
+nú	aa
+stendur	svg3en
+beinleiðis	aa
+niðurflytingin	nven
+upp	aa
+á	af
+spæl	nheo
+,	pk
+og	c
+tað	fphen
+verður	svg3en
+ikki	aa
+mett	sþmhen
+heilt	aa
+ósannlíkt	lhensf
+,	pk
+at	c
+Sumba	nven-s	UNKNOWN
+kann	svg3en
+vinna	sng
+í	af
+Vági	nkeþ-s
+.	pl
+
+Violinin	nveng
+,	pk
+sum	ct
+hevur	svg3en	UNKNOWN
+virðið	nheog
+upp	aa
+á	af
+10	ta	UNKNOWN
+milliónir	nvfo
+krónur	nvfo
+,	pk
+lá	svg3eþ
+trygt	aa
+í	af
+hondunum	nvfþg
+á	af
+Tobias	nkeþ-s	UNKNOWN
+Durholm	n----s	UNKNOWN
+,	pk
+sum	ct
+er	svg3en
+ein	fbken
+av	af
+ungu	lkfþvf	UNKNOWN
+violinsnillingunum	nkfþg	UNKNOWN
+í	af
+danska	lheþvf
+Kongaliga	lheþvf
+Kapellinum	nheþg
+.	pl
+
+Seinni	aam
+á	af
+kvøldinum	nheþg
+kom	svg3eþ
+Tobias	nken-s	UNKNOWN
+ungi	lkenvf
+dragandi	slg
+við	af
+sínum	fpheþ
+ljóðføri	nheþ
+,	pk
+og	c
+so	aa
+var	svg3eþ
+tað	fphen
+hendan	faven
+Stradivarius	e	UNKNOWN
+violinin	nveng
+sum	ct
+var	svg3eþ
+í	af
+sentrum	nheþg	UNKNOWN
+.	pl
+
+Samuelsen	n----s	UNKNOWN
+,	pk
+ein	fbken
+av	af
+nevndarlimunum	nkfþg
+og	c
+fyrrverandi	lo
+formaður	nken
+í	af
+Føroya	nvfe-s	UNKNOWN
+Lærarafelag	nheþ
+,	pk
+nú	aa
+nýggjur	lkensf
+sáttmáli	nken
+er	svg3en
+undirskrivaður	sþmken	UNKNOWN
+millum	af
+lærarafelagið	nheog
+og	c
+lønardeildina	nveog	UNKNOWN
+í	af
+Fíggjarmálastýrinum	nheþg	UNKNOWN
+.	pl
+
+250	ta	UNKNOWN
+børn	nhfn
+í	af
+føðingardag	nkeo
+hjá	af
+dagrøktini	nveþg
+
+Í	af
+kvøld	nheo
+skipa	svg1fn
+vit	fp1fn
+fyri	af
+einum	fbheþ
+tiltaki	nheþ
+fyri	af
+dagrøktarmammunum	nvfþg
+,	pk
+sigur	svg3en
+Brynhild	nven-s	UNKNOWN
+Joensen	n----s	UNKNOWN
+,	pk
+sum	ct
+hevur	svg3en	UNKNOWN
+verið	sþmhen
+leiðari	nken
+á	af
+dagrøktarskipanini	nveþg	UNKNOWN
+seinastu	lhfove
+trý	tfhfo	UNKNOWN
+árini	nhfog
+.	pl
+
+Nógvir	lkfnsf
+batar	nkfn
+
+Ungdómsráðstevnan	nveng	UNKNOWN
+um	af
+ung	lhfnsf
+,	pk
+samfelag	nheo
+og	c
+politikk	nkeo
+,	pk
+sum	ct
+varð	svg3eþ	UNKNOWN
+hildin	sþmven	UNKNOWN
+í	af
+Havn	nveþ-s
+,	pk
+byrjaði	svg3eþ
+við	af
+John	nkeþ-s	UNKNOWN
+Mortensen	n----s	UNKNOWN
+,	pk
+samfelagsfrøðingi	nkeþ
+,	pk
+sum	ct
+hugleiddi	svg3eþ
+um	af
+,	pk
+hvat	fshen
+politikkur	nken
+er	svg3en
+
+Leiklutirnir	nkfng
+í	af
+politiska	lheþvf
+spælinum	nheþg
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+vóru	svg3fþ	UNKNOWN
+sambært	af
+John	nkeþ-s	UNKNOWN
+hesir	fakfn
+:	pl
+
+Fleiri	lkfnsm	UNKNOWN
+lærarar	nkfn
+,	pk
+onkrir	fbkfn
+reiðarar	nkfn
+,	pk
+og	c
+fleiri	lkfnsm	UNKNOWN
+skiparar	nkfn
+,	pk
+sum	ct
+reint	aa
+fakliga	aa
+bert	aa
+umboða	svg3fn
+lítlan	lkeosf
+part	nkeo
+av	af
+føroyingunum	nkfþg
+,	pk
+segði	svg3eþ
+John	nken-s	UNKNOWN
+Mortensen	n----s	UNKNOWN
+.	pl
+
+Í	af
+sambandi	nheþ
+við	aa
+við	af
+fólkaræði	nheo
+,	pk
+sum	ct
+vit	fp1fn
+siga	svg1fn
+okkum	fp1fo
+hava	sng
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+,	pk
+og	c
+sum	ct
+liggur	svg3en	UNKNOWN
+sum	c
+grundarsteinur	nken
+undir	af
+politiska	lkeþvf
+leikpallinum	nkeþg
+,	pk
+segði	svg3eþ
+John	nken-s	UNKNOWN
+Mortensen	n----s	UNKNOWN
+,	pk
+at	c
+fólkaræði	nhen
+er	svg3en
+bundið	sþmhen
+at	af
+hugtakinum	nheþg
+,	pk
+tjóð	nven
+.	pl
+
+-	pa
+Býráðsformaðurin	nkeng	UNKNOWN
+gav	svg3eþ
+okkum	fp1fþ
+hvørki	aa
+høvi	nheo
+at	cn
+atkvøða	sng
+fyri	af
+ella	c
+ímóti	af
+fíggjarlógaruppskotinum	nheþg	UNKNOWN
+,	pk
+men	c
+samtykti	svg3eþ
+tað	fpheo
+bara	aa
+av	af
+sínum	fpkfþ
+eintingum	nkfþ	UNKNOWN
+,	pk
+og	c
+hetta	fahen
+kann	svg3en
+ikki	aa
+vera	sng
+rætt	lhensf
+.	pl
+
+-	pa
+Samgongulimirnir	nkfng
+í	af
+Klaksvíkar	nvee-s	UNKNOWN
+Býráð	nheþ
+eru	svg3fn	UNKNOWN
+veruligir	lkfnsf
+serfrøðingar	nkfn
+í	af
+yvirtrekki	nheþ	UNKNOWN
+.	pl
+
+Veðurforsagnir	nvfn	UNKNOWN
+fyri	af
+Føroyar	nvfo-s	UNKNOWN
+kunnu	svg3fn	UNKNOWN
+saktans	aa
+gerast	snm	UNKNOWN
+úr	af
+Avstralia	nheþ-s	UNKNOWN
+,	pk
+sigur	svg3en
+veðurstøðin	nveng
+í	af
+Havn	nveþ-s
+
+Men	c
+teir	fakfo
+fyrstu	to
+36	ta	UNKNOWN
+tímarnar	nkfog
+passa	svg3fn
+forsagnirnar	nvfng
+ótrúliga	aa
+væl	aa
+,	pk
+heldur	svg3en
+hann	fpken
+.	pl
+
+Harafturat	aa
+er	svg3en
+ein	fbven
+skipan	nven
+,	pk
+sum	ct
+nevnist	svm3en
+HIRLAM	ks	UNKNOWN
+,	pk
+har	aa
+tað	fphen
+eru	svg3fn	UNKNOWN
+teldur	nvfn
+burturav	aa
+,	pk
+sum	ct
+gera	svg3fn
+forsagnirnar	nvfog
+útfrá	af
+teimum	favfþ
+upplýsingum	nvfþ
+,	pk
+tær	fpvfn
+fáa	svg3fn
+.	pl
+
+Tað	fphen
+kann	svg3en
+gott	aa
+vera	sng
+.	pl
+
+Brøðurnir	nkfng
+Erling	nken-s	UNKNOWN
+og	c
+Magni	nken-s
+Laksáfoss	nkeo-s	UNKNOWN
+eru	svg3fn	UNKNOWN
+farnir	sþgkfn	UNKNOWN
+undir	af
+framleiðslu	nveþ
+av	af
+vørum	nvfþ
+úr	af
+garvaðum	lheþsf	UNKNOWN
+skinni	nheþ
+
+Hvat	fshen
+endaúrslitið	nheng
+verður	svg3en
+.	pl
+
+Kappingin	nveng
+hørð	lvensf
+
+-	pa
+Í	af
+ár	nheo
+hevur	svg3en	UNKNOWN
+fyritøkan	nveng
+ikki	aa
+keypt	sþmhen
+skinn	nhfo
+úr	af
+Føroyum	nvfþ-s	UNKNOWN
+orsakað	sþmhen
+av	af
+lága	lkeþvf
+prísinum	nkeþg
+,	pk
+so	aa
+vit	fp1fn
+vita	svg1fn
+ikki	aa
+,	pk
+um	aa
+skinnini	nhfng
+eru	svg3fn	UNKNOWN
+føroysk	lhfnsf
+ella	c
+ikki	aa
+.	pl
+
+Erling	nken-s	UNKNOWN
+og	c
+Magni	nken-s
+Laksáfoss	nkeo-s	UNKNOWN
+hava	svg3fn
+í	af
+hyggju	nveþ
+at	cn
+gera	sng
+pakningar	nkfo
+til	af
+skógvarnar	nkfog
+á	af
+enskum	lheþsf
+,	pk
+donskum	lheþsf
+og	c
+føroyskum	lheþsf
+.	pl
+
+Hann	fpken
+vísir	svg3en
+á	af
+,	pk
+at	c
+landsstýrismaðurin	nkeng
+í	af
+vinnumálum	nhfþ
+skal	svg3en
+góðkenna	sng
+sjálva	foveo
+verkætlanina	nveog
+,	pk
+og	c
+væntar	svg3en
+hann	fpken
+í	af
+hesum	faheþ
+sambandi	nheþ
+,	pk
+at	c
+landstýrismaðurin	nkeng	UNKNOWN
+fer	svg3en
+at	cn
+leita	sng
+sær	fpkeþ
+serkunnleika	nkeo
+hjá	af
+Landsverkfrøðinginum	nkeþg
+.	pl
+
+Leiðarin	nkeng
+á	af
+Landsverkfrøðingsstovninum	nkeþg	UNKNOWN
+,	pk
+Hans	nken-s
+Biskupstø	n----s	UNKNOWN
+,	pk
+vil	svg3en
+ikki	aa
+leggja	sng
+seg	fpkeo
+út	aa
+í	af
+ósemjuna	nveog
+um	af
+anlegslógina	nveog	UNKNOWN
+,	pk
+men	c
+vísir	svg3en
+á	af
+,	pk
+at	c
+eggið	nheng
+,	pk
+sum	ct
+nú	aa
+er	svg3en
+samtykt	sþmhen
+í	af
+landsstýrinum	nheþg
+ikki	aa
+verður	svg3en
+ungi	nken
+fyrr	aam
+enn	aa
+eftir	af
+tingviðgerðina	nveog	UNKNOWN
+.	pl
+
+Eins	c
+og	c
+hitt	fahen
+føroyska	lhenvf
+oljufelagið	nheng
+,	pk
+Atlants	n-ee	UNKNOWN
+Kolvetni	nhen
+,	pk
+ætlar	svg3en
+Føroya	nvfe-s	UNKNOWN
+Kolvetni	nhen
+sær	fpheþ
+eisini	aa
+at	cn
+vera	sng
+við	aa
+í	af
+komandi	slg
+oljuleiting	nveþ
+við	af
+Føroyar	nvfo-s	UNKNOWN
+.	pl
+
+Hinir	fakfn
+nevndarlimirnir	nkfng
+eru	svg3fn	UNKNOWN
+Meinhard	nken-s	UNKNOWN
+Jacobsen	n----s	UNKNOWN
+,	pk
+Nils	nven-s
+Sørensen	n----s	UNKNOWN
+og	c
+Olaf	nken-s	UNKNOWN
+Olsen	n----s	UNKNOWN
+.	pl
+
+Hetta	fahen
+kostaði	svg3eþ
+teimum	fpkfþ
+meira	aam
+enn	aa
+30	ta	UNKNOWN
+mill	ks	UNKNOWN
+.	pl
+
+Hetta	fahen
+er	svg3en
+,	pk
+risikobusiness	e	UNKNOWN
+'	pg
+,	pk
+og	c
+tí	c
+mást	svm2en	UNKNOWN
+tú	fp2en	UNKNOWN
+fordeila	sng	UNKNOWN
+váðan	nkeog
+.	pl
+
+Rætta	lhenvf
+modellið	nheng	UNKNOWN
+
+Hann	fpken
+kann	svg3en
+tá	aa
+selja	sng
+síni	fphfo	UNKNOWN
+partabrøv	nhfo
+til	af
+eitt	fbheo
+hægri	lheosm	UNKNOWN
+virði	nheo
+.	pl
+
+Kanst	svm2en	UNKNOWN
+tú	fp2en	UNKNOWN
+vera	sng
+við	aa
+í	af
+øðrum	fbhfþ
+londum	nhfþ
+eisini	aa
+eitt	aa
+nú	aa
+Bretlandi	nheþ-s	UNKNOWN
+og	c
+Írlandi	nheþ-s	UNKNOWN
+,	pk
+so	aa
+er	svg3en
+størri	lkensm
+møguleiki	nken
+.	pl
+
+Vit	fp1fn
+halda	svg1fn
+okkara	fp1fe
+modell	nheo	UNKNOWN
+vera	sng
+tað	fahen
+rætta	lhenvf
+.	pl
+
+Gjørd	sþmven
+er	svg3en
+ein	fbven
+fimm	tf
+ára	nhfe
+samstarvsavtala	nven	UNKNOWN
+,	pk
+har	aa
+Dana	e
+hjálpir	svg3en
+bæði	aa
+tekniskt	lhensf
+og	c
+kommercielt	lhensf	UNKNOWN
+.	pl
+
+Longu	aa
+um	af
+ellivutíðina	nveog	UNKNOWN
+,	pk
+tá	c
+Frelsunarherurin	nkeng
+hevði	svg3eþ	UNKNOWN
+útimøti	nheo
+var	svg3eþ
+stúgvandi	slg
+fult	lhensf
+av	af
+fólki	nheþ
+og	c
+lýddi	svg3eþ
+á	af
+teirra	fphfe
+vakra	lkeosf
+song	nkeo
+og	c
+vitnisburð	nkeo
+.	pl
+
+Fólk	nhfn
+,	pk
+sum	ct
+vóru	svg3fþ	UNKNOWN
+í	af
+býnum	nkeþg
+,	pk
+vóru	svg3fþ	UNKNOWN
+skjót	lhfnsf
+at	cn
+taka	sng
+undir	aa
+við	af
+sanginum	nkeþg
+,	pk
+og	c
+soleiðis	aa
+byrjaði	svg3eþ
+hetta	fahen
+vælumtókta	lhensf	UNKNOWN
+tiltak	nhen
+fyri	af
+30	ta	UNKNOWN
+árum	nhfþ
+síðani	aa
+.	pl
+
+-	pa
+Skiparin	nkeng
+er	svg3en
+høvuðspersónurin	nkeng
+í	af
+frásøgnini	nveþg
+ella	c
+rættari	aa
+framførsluni	nveþg
+.	pl
+
+Føroyski	lkenvf
+dansurin	nkeng
+
+Dansifeløg	nhfn
+vórðu	svg3fþ	UNKNOWN
+sett	sþmhen
+á	af
+stovn	nkeo
+,	pk
+og	c
+í	af
+nýggjari	lveþsf
+tíð	nveþ
+er	svg3en
+arbeitt	sþmhen
+fyri	af
+at	cn
+fáa	sng
+frálæru	nveo
+í	af
+føroyskum	lkeþsf
+dansi	nkeþ
+í	af
+skúlanum	nkeþg
+.	pl
+
+Ein	fbken
+av	af
+teimum	fakfþ
+trimum	tfkfþ	UNKNOWN
+samgonguleiðarunum	nkfþg	UNKNOWN
+er	svg3en
+Kaj	nken-s	UNKNOWN
+Leo	nken-s	UNKNOWN
+Johannesen	n----s	UNKNOWN
+,	pk
+formaður	nken
+Sambandsfloksins	nkeeg
+,	pk
+og	c
+hann	fpken
+metir	svg3en
+ikki	aa
+,	pk
+at	c
+luttøkan	nveng
+hjá	af
+løgmanni	nkeþ
+í	af
+Grasagarði	nkeþ-s
+á	af
+tiltaki	nheþ
+hjá	af
+Friðarboganum	nkeþg	UNKNOWN
+á	af
+nakran	fbkeo
+hátt	nkeo
+eigur	svg3en
+at	cn
+fordømast	snm
+.	pl
+
+Spurdur	sþmken	UNKNOWN
+,	pk
+um	c
+hann	fpken
+hevði	svg3eþ	UNKNOWN
+sagt	sþmhen
+ja	au
+at	c
+luttikið	sþmhen
+á	af
+slíkum	foheþ
+tiltaki	nheþ
+hjá	af
+Friðarboganum	nkeþg	UNKNOWN
+,	pk
+er	svg3en
+Kaj	nken-s	UNKNOWN
+Leo	nken-s	UNKNOWN
+greiður	lkensf
+.	pl
+
+Samkynd	nhfn
+hava	svg3fn
+tað	fpheo
+gott	lheosf
+
+Førarin	nkeng
+av	af
+prutlinum	nheþg
+fekk	svg3eþ	UNKNOWN
+okkurt	fbheo
+smærri	lheovm	UNKNOWN
+beinbrotið	nheog
+.	pl
+
+-	pa
+Valið	nheng
+til	af
+býráð	nheo
+og	c
+borgarstjóra	nkeo
+skulu	svg3fn	UNKNOWN
+vera	sng
+sama	fokeo
+dag	nkeo
+.	pl
+
+Skulu	svg1fn	UNKNOWN
+ætlanirnar	nvfng
+hjá	af
+varaborgarstjóranum	nkeþg	UNKNOWN
+í	af
+Tórshavnar	nvee-s	UNKNOWN
+kommunu	nveþ
+gerast	snm	UNKNOWN
+veruleiki	nken
+er	svg3en
+neyðugt	lhensf
+við	af
+eini	fbveþ
+lógarbroyting	nveþ	UNKNOWN
+í	af
+vallógini	nveþg
+.	pl
+
+Petersen	n----s	UNKNOWN
+,	pk
+gjørdist	svm3eþ	UNKNOWN
+við	af
+1000	ta	UNKNOWN
+persónligum	lvfþsf
+atkvøðum	nvfþ
+stóri	lkenvf	UNKNOWN
+sigursharrin	nkeng	UNKNOWN
+á	af
+valinum	nheþg
+í	af
+1997	ta	UNKNOWN
+,	pk
+men	c
+kortini	aa
+háttaði	svg3eþ
+samgongutelvingin	nveng	UNKNOWN
+seg	fpveo
+so	aa
+,	pk
+at	c
+hon	fpven
+endaði	svg3eþ
+úti	aa
+í	af
+andstøðukuldanum	nkeþg	UNKNOWN
+.	pl
+
+Kiosk	nven
+Vár	nhen
+í	af
+Runavík	nveþ-s	UNKNOWN
+skal	svg3en
+flyta	sng
+.	pl
+
+Nýggju	lhfnvf	UNKNOWN
+hølini	nhfng
+hjá	af
+Kiosk	nven
+Vár	nhen
+í	af
+Runavík	nveþ-s	UNKNOWN
+koma	sng
+at	cn
+liggja	sng	UNKNOWN
+við	af
+høvuðsvegin	nkeog
+,	pk
+so	aa
+umstøðurnar	nvfng
+verða	svg3fn
+tær	favfn
+somu	fovfn	UNKNOWN
+,	pk
+sum	c
+tær	fpvfn
+eru	svg3fn	UNKNOWN
+í	af
+dag	nkeo
+.	pl
+
+-	pa
+Men	c
+vit	fp1fn
+hava	svg1fn
+ikki	aa
+tikið	sþmhen
+nakra	fbveo	UNKNOWN
+endaliga	aa
+støðu	nveo
+enn	aa
+.	pl
+
+Nú	aa
+nærkast	svm3en	UNKNOWN
+dagurin	nkeng
+,	pk
+tá	c
+ið	c
+djúphavnin	nveng	UNKNOWN
+í	af
+Vági	nkeþ-s
+verður	svg3en
+heilt	aa
+liðug	lvensf
+.	pl
+
+Har	aa
+,	pk
+sum	ct
+farmaskipið	nheng
+liggur	svg3en	UNKNOWN
+,	pk
+eru	svg3fn	UNKNOWN
+86	ta	UNKNOWN
+metrar	nkfn
+av	af
+atløguplási	nheþ	UNKNOWN
+,	pk
+har	aa
+dýpið	nheng
+er	svg3en
+10	ta	UNKNOWN
+metrar	nkfo
+.	pl
+
+Ericsson	e	UNKNOWN
+hava	svg3fn
+gjørt	sþmhen
+avtalu	nveo
+um	aa
+at	cn
+seta	sng
+í	af
+verk	nheo
+spildurnýggja	lheosf
+tøkni	nveo
+innan	af
+fartelefoni	nveo	UNKNOWN
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+
+Men	c
+nýggja	lvenvf
+skipanin	nveng
+hevur	svg3en	UNKNOWN
+eisini	aa
+nógvar	lkfosf
+møguleikar	nkfo
+,	pk
+sum	ct
+vinnulívið	nheng
+kann	svg3en
+fáa	sng
+ágóðan	nkeog
+av	aa
+.	pl
+
+Tónleikaframtíð	nven	UNKNOWN
+
+Royna	svg3fn
+at	cn
+finna	sng
+upprunan	nkeog
+
+Tónleikur	nken
+er	svg3en
+ein	fbken
+sera	aa
+sterkur	lkensf
+miðil	nken
+sum	ct
+rakar	svg3fn
+nógv	lhfosf
+fólk	nhfo
+,	pk
+og	c
+teir	fpkfn
+siga	svg3fn
+seg	fpkfo
+tí	aa
+hugsa	sng
+nógv	aa
+um	af
+hvønn	fskeo
+boðskap	nkeo
+teir	fpkfn
+vilja	svg3fn
+bera	sng
+fram	aa
+.	pl
+
+Tey	fahfo
+bæði	af
+svensku	lvfovf	UNKNOWN
+løgini	nhfog
+hevur	svg3en	UNKNOWN
+Eivør	nven-s	UNKNOWN
+skrivað	sþmhen
+tí	c
+henni	fpveþ
+dámar	svg3en	UNKNOWN
+so	aa
+væl	aa
+svenska	lheovf
+málið	nheog
+.	pl
+
+-	pa
+Orsøkin	nveng
+til	af
+uppsagnirnar	nvfog
+er	svg3en
+fyrst	aae
+og	c
+fremst	aae
+,	pk
+at	c
+samanleggingin	nveng
+krevur	svg3en
+,	pk
+at	c
+vit	fp1fn
+ikki	aa
+hava	svg1fn
+nakrar	fbvfo
+dupultfunktiónir	nvfo	UNKNOWN
+,	pk
+sigur	svg3en
+Brynjar	nken-s
+Viggóson	nken-s	UNKNOWN
+,	pk
+ið	ct
+leggur	svg3en
+afturat	aa
+,	pk
+at	c
+hetta	fahen
+var	svg3eþ
+torførasta	lvenve	UNKNOWN
+uppgávan	nveng
+,	pk
+hann	fpken
+hevur	svg3en	UNKNOWN
+havt	sþmhen	UNKNOWN
+sum	c
+stjóri	nken
+hjá	af
+Eimskip	nhfn	UNKNOWN
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+.	pl
+
+Hann	fpken
+leggur	svg3en
+afturat	aa
+,	pk
+at	cn
+felagið	nheng
+fer	svg3en
+at	cn
+kanna	sng
+møguleikarnar	nkfog
+fyri	af
+at	cn
+bjóða	sng
+onkrum	fbhfþ
+av	af
+starvsfólkunum	nhfþg
+starv	nheo
+á	af
+skrivstovunum	nvfþg
+hjá	af
+Eimskip	nhfn	UNKNOWN
+í	af
+øðrum	fbhfþ
+londum	nhfþ
+.	pl
+
+Endiliga	aa
+ein	fbven
+sólskinssøga	nven
+í	af
+føroyska	lheþvf
+vinnulívinum	nheþg
+.	pl
+
+Nú	aa
+stendur	svg3en
+makrelsesongin	nveng	UNKNOWN
+fyri	af
+framman	aa
+,	pk
+og	c
+tá	aa
+ætlar	svg3en
+Kollafjord	e	UNKNOWN
+Pelagic	e	UNKNOWN
+sær	fpheþ
+at	cn
+vera	sng
+við	aa
+frá	af
+byrjan	nveþ
+av	aa
+.	pl
+
+Fyrsti	lkenve	UNKNOWN
+spakin	nkeng
+varð	svg3eþ	UNKNOWN
+settur	sþmken
+í	aa
+í	af
+2001	ta	UNKNOWN
+og	c
+virkið	nheng
+stóð	svg3eþ
+liðugt	lhensf
+í	af
+2002	ta	UNKNOWN
+,	pk
+og	c
+nú	aa
+tvey	tfhfo
+ár	nhfo
+seinni	aa
+verður	svg3en
+fiskur	nken
+loksins	aa
+virkaður	sþmken	UNKNOWN
+á	af
+Kollafjord	e	UNKNOWN
+Pelagic	e	UNKNOWN
+.	pl
+
+Samstundis	aa
+arbeiðir	svg3en
+fólk	nheo
+frá	af
+SEV	ks
+og	c
+Føroya	nvfe-s	UNKNOWN
+Tele	e	UNKNOWN
+við	af
+at	cn
+leggja	sng
+nýggjar	lkfosf
+kaðalar	nkfo	UNKNOWN
+í	af
+vegbreytina	nveog	UNKNOWN
+.	pl
+
+Eina	fbveo
+viku	nveo
+inn	aa
+í	af
+oktober	nkeo
+ella	c
+so	aa
+fer	svg3en
+arbeiðið	nheng
+væntandi	slg
+at	cn
+vara	sng
+,	pk
+metir	svg3en
+Birgir	nken-s
+Johannesen	n----s	UNKNOWN
+.	pl
+
+Nýútlærdu	lvfnsf	UNKNOWN
+Marianna	nven-s	UNKNOWN
+Mørkøre	n----s	UNKNOWN
+og	c
+Rannvá	nven-s	UNKNOWN
+Káradóttir	nven-s	UNKNOWN
+,	pk
+ið	ct
+júst	aa
+hava	svg3fn
+lokið	sþmhen
+bacchelorprógv	nheo	UNKNOWN
+innan	af
+ávikavist	aa
+Fashion	e	UNKNOWN
+Promotion	e	UNKNOWN
+og	c
+Contemporary	e	UNKNOWN
+dance	e	UNKNOWN
+,	pk
+ætla	svg3fn
+sær	fpvfþ
+í	af
+næstum	n---
+til	af
+Kanada	nheo-s	UNKNOWN
+og	c
+New	e	UNKNOWN
+York	e	UNKNOWN
+,	pk
+har	aa
+tær	fpvfn
+fara	svg3fn
+at	cn
+fyrireika	sng
+eina	fbveo
+øðrvísi	aa
+og	c
+spennandi	lo
+listaframsýning	nveo
+
+Marianna	nven-s	UNKNOWN
+Mørkøre	n----s	UNKNOWN
+,	pk
+sum	ct
+Sosialurin	nkeng	UNKNOWN
+fekk	svg3eþ	UNKNOWN
+orðið	nheog
+á	aa
+,	pk
+sigur	svg3en
+at	cn
+tað	fphen
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+er	svg3en
+so	aa
+ógvuliga	aa
+avmarkað	lhensf
+hvat	fshen
+fær	svg3en	UNKNOWN
+loyvi	nheo
+at	cn
+koma	sng
+undir	af
+heitið	nheog
+"	pg
+list	nven
+"	pg
+.	pl
+
+Reyðir	lkfnsf
+metrar	nkfn
+í	af
+minuttum	nkfþ
+
+Síðani	aa
+verður	svg3en
+steðgað	sþmhen
+eina	fbveo
+viku	nveo
+í	af
+Montreal	e	UNKNOWN
+og	c
+eina	fbveo
+viku	nveo
+í	af
+New	e	UNKNOWN
+York	e	UNKNOWN
+,	pk
+har	aa
+tær	favfn
+báðar	fbvfn	UNKNOWN
+fara	svg3fn
+at	cn
+luttaka	sng
+á	af
+ymiskum	lhfþsf
+skeiðum	nhfþ
+innan	af
+listagreinir	nvfo
+teirra	fpvfe
+.	pl
+
+Hugskotið	nheng
+til	af
+verkætlanina	nveog
+kom	svg3eþ
+í	af
+lag	nheo
+,	pk
+eftir	af
+at	c
+tær	fpvfn
+høvdu	svg3fþ
+lokið	sþmhen
+útbúgvingarnar	nvfog
+.	pl
+
+Tað	fphen
+verður	svg3en
+tó	aa
+ikki	aa
+avdúkað	sþmhen
+fyrr	aam
+enn	aa
+um	af
+fýra	tfkfo
+mánaðir	nkfo
+,	pk
+hvussu	aa
+dansur	nken
+og	c
+móti	nken
+kunnu	svg3fn	UNKNOWN
+samantvinnast	snm	UNKNOWN
+til	af
+eina	fbveo
+listaframsýning	nveo
+við	af
+livandi	slg
+myndum	nvfþ
+.	pl
+
+Skal	svg3en
+valið	nheng
+av	af
+borgarstjóra	nkeþ
+gerast	snm	UNKNOWN
+eitt	fbhen
+beinleiðis	aa
+val	nhen
+er	svg3en
+hetta	fahen
+eitt	fbhen
+brot	nhen
+við	af
+siðvenjuna	nveog
+í	af
+Norðurlondum	nhfþ-s	UNKNOWN
+,	pk
+sigur	svg3en
+Bogi	nken-s
+Eliasen	n----s	UNKNOWN
+.	pl
+
+Tá	aa
+er	svg3en
+skjótt	aa
+at	cn
+ímynda	sng
+sær	fpkeþ
+,	pk
+at	c
+arbeiðsfriðurin	nkeng
+ikki	aa
+verður	svg3en
+hin	faken
+besti	lkenve	UNKNOWN
+,	pk
+sigur	svg3en
+Bogi	nken-s
+Eliasen	n----s	UNKNOWN
+
+Einar	nken-s
+Waag	n----s	UNKNOWN
+sigur	svg3en
+,	pk
+at	c
+eitt	fbhen
+av	af
+størstu	lhfþve	UNKNOWN
+ivamálunum	nhfþg
+er	svg3en
+,	pk
+hví	aa
+til	af
+dømis	nhee
+søtmetið	nheng
+heilt	aa
+er	svg3en
+sloppið	sþmhen
+undan	af
+nøkrum	fbhfþ
+avgjøldum	nhfþ
+.	pl
+
+Vit	fp1fn
+kunnu	svg1fn	UNKNOWN
+taka	sng
+alla	fbveo
+sjokolátuna	nveog	UNKNOWN
+,	pk
+sum	ct
+í	af
+dag	nkeo
+kostar	svg3en
+svarta	lheosf
+einki	aa
+,	pk
+og	c
+sum	c
+tey	fphfn
+ungu	lhfnvf	UNKNOWN
+ganga	svg3fn
+og	cn
+jagla	sng
+allan	fbkeo
+dagin	nkeog
+.	pl
+
+-	pa
+Vit	fp1fn
+liggja	svg1fn	UNKNOWN
+á	af
+25	tp	UNKNOWN
+%	m
+í	af
+meirvirðisgjaldi	nheþ
+,	pk
+sum	ct
+er	svg3en
+methøgt	lhensf
+í	af
+Europa	nheþ-s	UNKNOWN
+.	pl
+
+Hetta	fahen
+er	svg3en
+púra	aa
+burturvið	aa
+,	pk
+sigur	svg3en
+Einar	nken-s
+Waag	n----s	UNKNOWN
+at	af
+enda	nkeþ
+,	pk
+og	c
+leggur	svg3en
+eina	aa
+við	aa
+,	pk
+at	c
+hann	fpken
+í	af
+øllum	fbhfþ
+førum	nhfþ
+fer	svg3en
+at	cn
+gera	sng
+sítt	feheo
+til	aa
+,	pk
+at	cn
+uppskotið	nheng
+ikki	aa
+verður	svg3en
+samtykt	sþmven
+í	af
+verandi	slg	UNKNOWN
+líki	nheþ
+.	pl
+
+Joel	nken-s	UNKNOWN
+undir	af
+Leitinum	nheþgs
+,	pk
+sum	ct
+áður	aa
+hevur	svg3en	UNKNOWN
+starvast	snm	UNKNOWN
+hjá	af
+Eimskip	nhfn	UNKNOWN
+í	af
+Føroyum	nvfþ-s	UNKNOWN
+,	pk
+sigur	svg3en
+,	pk
+at	c
+umframt	af
+hann	fpkeo
+sjálvan	fokeo
+eru	svg3fn	UNKNOWN
+tvey	tfhfn
+onnur	fbhfn
+fólk	nhfn
+,	pk
+sum	ct
+fyrr	aam
+hava	svg3fn
+starvast	svm3fn	UNKNOWN
+hjá	af
+Eimskip	nhfn	UNKNOWN
+,	pk
+sett	sþmhen
+í	af
+starv	nheo
+hjá	af
+Samskip	nhfn	UNKNOWN
+.	pl
+
+Í	af
+Íslandi	nheþ-s	UNKNOWN
+eru	svg3fn	UNKNOWN
+havnirnar	nvfng
+,	pk
+teir	fpkfn
+brúka	svg3fn
+,	pk
+Reykjavík	nven-s	UNKNOWN
+og	c
+Reyðifjørður	nken-s	UNKNOWN
+á	af
+Eysturlandium	nheþg	UNKNOWN
+.	pl
+
+Sodavatn	nhen
+er	svg3en
+verri	aam	UNKNOWN
+fyri	af
+heilsuna	nveog
+enn	aa
+grønar	lvfnsf
+keks	nvfn
+,	pk
+og	c
+tí	c
+sluppu	svg3fþ
+grønu	lvfnvf
+keksirnar	nvfng
+undan	af
+avgjaldi	nheþ
+á	af
+hesum	faheþ
+sinni	nheþ
+
+Landsstýrismaðurin	nkeng
+hevði	svg3eþ	UNKNOWN
+kortini	aa
+onga	fbveo
+kanning	nveo
+,	pk
+sum	ct
+prógvaði	svg3eþ
+hetta	faheo
+uppáhald	nheo
+.	pl
+
+-	pa
+Vit	fp1fn
+kunnu	svg1fn	UNKNOWN
+ikki	aa
+prógva	sng
+,	pk
+at	c
+sjúkan	nveng
+smittar	svg3en
+ímillum	af
+fólk	nhfo
+,	pk
+segði	svg3eþ
+hann	fpken
+.	pl
+
+Í	af
+einari	fbveþ
+sending	nveþ
+fyrrakvøldið	nheog
+varð	svg3eþ	UNKNOWN
+sagt	sþmhen
+,	pk
+at	c
+í	af
+1968	ta	UNKNOWN
+fanst	svm3eþ
+Vinstraflokkurin	nkeng	UNKNOWN
+hvassliga	aa
+at	af
+sovjetsku	lveþvf	UNKNOWN
+innrásini	nveþg
+í	af
+Kekkoslovakia	nheþ-s	UNKNOWN
+,	pk
+men	c
+kortini	aa
+luttóku	svg3fþ
+umboð	nhfn
+fyri	af
+flokkin	nkeog
+á	af
+kommunistisku	lveþvf	UNKNOWN
+floksráðstevnuni	nveþg	UNKNOWN
+í	af
+Pahg	nkeþ-s	UNKNOWN
+seinni	aa
+sama	foheo
+árið	nheog
+.	pl
+
+Men	c
+ein	fbkeo
+dagin	nkeog
+fyrr	aam
+í	af
+vikuni	nveþg
+fekk	svg3eþ	UNKNOWN
+lokalredaktiónin	nveng	UNKNOWN
+hjá	af
+Sosialinum	nkeþg	UNKNOWN
+í	af
+Klaksvík	nveþ-s	UNKNOWN
+vitjan	nveo
+av	af
+nøkrum	fbhfþ
+sera	aa
+fittum	lhfþsf
+børnum	nhfþ
+,	pk
+sum	ct
+ganga	svg3fn
+í	af
+útibarnagarði	nkeþ
+úti	aa
+í	af
+Grøv	nveþ-s
+.	pl
+
+Síðani	aa
+gekk	svg3eþ
+leiðin	nveng
+hjá	af
+teimum	fphfþ
+víðari	aam
+til	af
+Kósavirkið	nheog	UNKNOWN
+og	c
+haðani	aa
+niðan	aa
+í	af
+Mylnuhúsið	nheog	UNKNOWN
+,	pk
+sum	ct
+Útistova	nven
+er	svg3en
+ein	fbken
+partur	nken
+av	aa
+.	pl
+
+Við	aa
+at	cn
+keypa	sng
+ljósareyðu	lveovf	UNKNOWN
+sloyfuna	nveog
+,	pk
+sum	ct
+kann	svg3en
+keypast	snm
+í	af
+handlum	nkfþ
+kring	af
+landið	nheog
+í	af
+oktober	nkeþ
+mánað	nkeþ
+,	pk
+ert	svg2en
+tú	fp2en	UNKNOWN
+við	aa
+at	cn
+stuðla	sng
+arbeiðinum	nheþg
+hjá	af
+Bót	nven
+til	af
+Bata	nkeo
+.	pl
+
+65	tp	UNKNOWN
+prosent	nhfn
+av	af
+teimum	fahfþ
+spurdu	sþghfþ
+siga	svg3fn
+seg	fphfo
+hava	sng
+verið	sþmhen
+í	af
+hesum	faheþ
+økinum	nheþg
+.	pl
+
+Um	c
+tað	fphen
+merkir	svg3en
+,	pk
+at	c
+tey	fphfn
+hava	svg3fn
+búð	sþmhen
+heima	aa
+hjá	af
+fólki	nheþ
+,	pk
+tey	fphfn
+kenna	svg3fn
+,	pk
+ella	c
+um	c
+tey	fphfn
+hava	svg3fn
+lænt	sþmhen
+ella	c
+leigað	sþmhen
+hús	nheo
+sum	ct
+vinir	nkfn
+ella	c
+kenningar	nkfn
+eiga	svg3fn
+aðrastaðni	aa
+enn	aa
+har	aa
+,	pk
+tey	fphfn
+búgva	svg3fn
+.	pl
+
+Foto	e	UNKNOWN
+:	pl
+Jens	nken-s	UNKNOWN
+K.	x	UNKNOWN
+Vang	n----s	UNKNOWN
+
+Hann	fpken
+sigur	svg3en
+,	pk
+at	c
+tað	fphen
+kendist	svm3eþ
+sum	c
+ein	fbven
+alda	nven
+tók	svg3eþ
+í	af
+hann	fpkeo
+og	c
+flutti	svg3eþ
+hann	fpkeo
+inn	aa
+á	af
+land	nheo
+.	pl
+
+Ómetaliga	aa
+heppin	lhfnsf
+
+Av	af
+tí	faheþ
+sama	foheþ
+var	svg3eþ
+hann	fpken
+sera	aa
+hovin	sþmken
+í	af
+andlitinum	nheþg
+.	pl
+
+Bygdafólkið	nheng	UNKNOWN
+í	af
+Vestmanna	nveþ-s	UNKNOWN
+vísti	svg3eþ
+ein	fbkeo
+ótrúligan	lkeosf
+stuðul	nkeo
+,	pk
+sigur	svg3en
+hon	fpven
+.	pl
+
+Postverk	nhen
+Føroya	nvfe-s	UNKNOWN
+:	pl
+Hóttanir	nvfn
+um	af
+uppsagnir	nvfo
+í	af
+tíð	nveþ
+og	c
+ótíð	nveþ
+
+samgongan	nveng
+kollsigldi	svg3eþ
+.	pl
+
+Aftrat	af
+hesum	faheþ
+missa	svg3fn
+viðskiftafólkini	nhfng
+álitið	nheog
+á	af
+stovnin	nkeog
+og	c
+fara	svg3fn
+at	cn
+hyggja	sng
+aðrar	fbkfo
+vegir	nkfo
+.	pl
+
+Minan	nveng
+varð	svg3eþ	UNKNOWN
+sprongd	sþmven
+í	af
+grótbrotinumí	x	UNKNOWN
+Porkeri	nveþ-s	UNKNOWN
+hóskvøldið	nheog
+
+Brutu	svg3fþ
+átta	tf
+rútar	nkfo
+á	af
+flakavirkinum	nheþg
+
+Løgreglan	nveng
+í	af
+Eysturoy	nveþ-s	UNKNOWN
+leitar	svg3en
+eftir	af
+ótangum	nkfþ
+,	pk
+sum	ct
+stundum	aa
+hava	svg3fn
+til	af
+fragd	nveo
+at	cn
+gera	sng
+seg	fpkfo
+inn	aa
+á	af
+busskýlini	nhfog	UNKNOWN
+í	af
+oynni	nveþg
+.	pl
+
+Politikararnir	nkfng
+vóru	svg3fþ	UNKNOWN
+óvanliga	aa
+spakir	lkfnsf
+og	c
+sakligir	lkfnsf
+.	pl
+
+Tað	fphen
+ber	svg3en
+heldur	aam
+ikki	aa
+til	aa
+at	cn
+siga	sng
+,	pk
+at	c
+valevnini	nhfng
+fjaldu	svg3fþ
+beinleiðis	aa
+,	pk
+at	c
+høvdu	svg3fþ
+tilknýti	nheo
+ella	c
+høvdu	svg3fþ
+havt	sþmhen	UNKNOWN
+tilknýti	nheo
+til	af
+eitt	aa
+nú	aa
+KFUK	ks	UNKNOWN
+ella	c
+í	af
+sínari	fpveþ	UNKNOWN
+tíð	nveþ
+vóru	svg3fþ	UNKNOWN
+ádreingjafundum	x	UNKNOWN
+hjá	af
+Álvheygg	nkeþ	UNKNOWN
+í	af
+KFUM	ks	UNKNOWN
+.	pl
+
+Gamaní	aa	UNKNOWN
+royndu	svg3fþ
+Sjálvstýrisflokkurin	nkeng
+og	c
+Tjóðveldisflokkurin	nkeng
+at	cn
+skjóta	sng
+sitandi	slg
+samgongu	nveo
+niður	aa
+,	pk
+men	c
+ákoyringarnar	nvfng
+fingu	svg3fþ	UNKNOWN
+ongantíð	aa
+verulig	lvensf
+vind	nkeo
+í	af
+seglini	nhfog
+í	af
+hugnaliga	lheþvf
+umhvørvinum	nheþg
+.	pl
+
+Tey	fphfn
+í	af
+alt	aa
+12	ta	UNKNOWN
+valevnini	nhfng
+komu	svg3fþ
+til	af
+ein	fbkeo
+stúgvandi	slg
+fullan	lkeosf
+sal	nkeo
+í	af
+Filadelfia	n----s	UNKNOWN
+sunnukvøldið	nheog
+.	pl
+
+Sum	c
+stýrimann	nkeo
+hevði	svg3eþ	UNKNOWN
+hann	fpken
+sonin	nkeog
+Lars	nkeo-s	UNKNOWN
+.	pl
+
+Ein	fbven
+mynd	nven
+,	pk
+sum	ct
+Helmøe	n----s	UNKNOWN
+kennir	svg3en
+rættiliga	aa
+væl	aa
+,	pk
+segði	svg3eþ
+hann	fpken
+.	pl
+
+Ætlanin	nveng
+við	af
+tiltakinum	nheþg
+er	svg3en
+at	cn
+savna	sng
+gospeláhugað	lhfosf	UNKNOWN
+úr	af
+øllum	fbvfþ
+Føroyum	nvfþ-s	UNKNOWN
+til	af
+eina	fbveo
+gospeluppliving	nveo	UNKNOWN
+.	pl
+
+Tað	fphen
+er	svg3en
+sjálvgjørt	sþmhen
+,	pk
+at	c
+Maersk	e	UNKNOWN
+Air	e	UNKNOWN
+hevur	svg3en	UNKNOWN
+mist	sþmhen
+so	aa
+nógvar	lkfosf
+kundar	nkfo
+á	af
+Føroyaleiðini	nveþg	UNKNOWN
+,	pk
+at	cn
+felagið	nheng
+nú	aa
+noyðist	svm3en
+at	cn
+gevast	svm3fn	UNKNOWN
+at	c
+flúgva	sng
+higar	aa
+,	pk
+ásannar	svg3en
+stjórin	nkeng
+í	af
+danska	lheþvf
+flogfelagnum	nheþg
+
+-	pa
+Jú	au	UNKNOWN
+,	pk
+tað	fphen
+var	svg3eþ
+ein	fbken
+brølari	nken
+,	pk
+sum	ct
+týðuliga	aa
+sást	svm3eþ	UNKNOWN
+aftur	aa
+í	af
+minkandi	slg
+ferðafókatali	nheþ	UNKNOWN
+,	pk
+ásannaði	svg3eþ
+Finn	nken-s
+Øelund	n----s	UNKNOWN
+,	pk
+stjóri	nken
+í	af
+Maersk	e	UNKNOWN
+Air	e	UNKNOWN
+,	pk
+tá	c
+hann	fpken
+var	svg3eþ
+í	af
+Vágum	nvfþ-s
+og	c
+segði	svg3eþ
+farvæl	aa
+leygardagin	nkeog
+.	pl
+
+Síðani	aa
+kom	svg3eþ
+fram	aa
+,	pk
+at	c
+nevnd	nven
+og	c
+leiðsla	nven
+í	af
+Fiskasøluni	nveþg
+ætlaði	svg3eþ
+at	cn
+keypa	sng
+fyritøkuna	nveo
+.	pl
+
+Henrik	nken-s	UNKNOWN
+Old	n----s	UNKNOWN
+spyr	svg3en
+hvussu	aa
+tað	fphen
+nú	aa
+ber	svg3en
+til	aa
+,	pk
+at	c
+Framtaksgrunnurin	nkeng
+heldur	svg3en
+tað	fpheo
+vera	sng
+rættast	lhense
+at	cn
+knýta	sng
+Fiskavirking	nveo
+og	c
+Fiskasøluna	nveog
+saman	aa
+.	pl
+
+Henrik	nken-s	UNKNOWN
+Old	n----s	UNKNOWN
+heldur	svg3en
+eisini	aa
+,	pk
+at	c
+tað	fphen
+rætt	lhensf
+og	c
+slætt	lhensf
+er	svg3en
+ein	fbven
+vanlukka	nven
+fyri	af
+kappingina	nveog
+um	af
+fiskin	nkeog
+,	pk
+at	c
+Fiskasølan	nveng
+og	c
+Fiskavirking	nven
+nú	aa
+verða	svg3fn
+løgd	sþghfn
+saman	aa
+.	pl
+
+-	pa
+Skulu	svg1fn	UNKNOWN
+vit	fp1fn
+meta	svg1fn
+útfrá	af
+tí	faheþ
+,	pk
+sum	ct
+er	svg3en
+hent	sþmhen
+,	pk
+kunnu	svg1fn	UNKNOWN
+vit	fp1fn
+baravænta	x	UNKNOWN
+tað	faheo
+ringasta	lheove	UNKNOWN
+og	c
+at	c
+virkið	nheng
+í	af
+Vági	nkeþ-s
+og	c
+í	af
+Hvalba	nven-s	UNKNOWN
+lata	svg3fn
+aftur	aa
+.	pl
+
+Men	c
+soleiðis	aa
+er	svg3en
+ikki	aa
+,	pk
+sambært	af
+stjóranum	nkeþg
+í	af
+DAT	ks	UNKNOWN
+,	pk
+Jesper	nkeþ-s	UNKNOWN
+Rungholm	n----s	UNKNOWN
+.	pl
+
+Tí	c
+tað	fphen
+hevur	svg3en	UNKNOWN
+ongantíð	aa
+verið	sþmhen
+ætlanin	nveng
+,	pk
+at	c
+hetta	fahen
+skuldi	svg3eþ	UNKNOWN
+geva	sng
+nakað	fbheo
+yvirskot	nheo
+soleiðis	aa
+.	pl
+
+Fyrsta	lheove
+bakaríið	nheng
+,	pk
+sum	ct
+er	svg3en
+bygt	sþmhen
+til	af
+júst	aa
+tað	faheo
+endamálið	nheog
+,	pk
+stendur	svg3en
+nú	aa
+liðugt	lhensf
+.	pl
+
+Sum	c
+skilst	snm	UNKNOWN
+vera	svg3fn
+tey	fphfn
+verandi	slg	UNKNOWN
+til	af
+hósdagin	nkeog
+.	pl
+
+Samlaða	sþmven	UNKNOWN
+støddin	nveng
+á	af
+bygninginum	nkeþg
+er	svg3en
+360	ta	UNKNOWN
+fermetrar	nkfn
+.	pl
+
+Her	aa
+verður	svg3en
+tað	fphen
+trupult	lhensf
+at	cn
+renna	sng
+á	aa
+,	pk
+sigur	svg3en
+Jórun	nven-s	UNKNOWN
+.	pl
+
+Tað	fphen
+at	cn
+bakaríið	nheng
+er	svg3en
+flutt	sþmhen
+,	pk
+gevur	svg3en
+tó	aa
+aðrar	fbkfo
+møguleikar	nkfo
+við	af
+handlinum	nkeþg
+við	af
+Klaksvíksvegin	nkeo-s	UNKNOWN
+.	pl
+
+Eitt	fbhen
+tað	fahen
+fyrsta	lhenve
+,	pk
+sum	ct
+hevur	svg3en	UNKNOWN
+við	af
+jólini	nhfog
+at	cn
+gera	sng
+,	pk
+er	svg3en
+,	pk
+tá	c
+fólk	nhfn
+fara	svg3fn
+at	cn
+heingja	sng
+jólaprýði	nhfo
+upp	aa
+.	pl
+
+Hava	svg3fn
+fólk	nhfn
+eitt	fbheo
+stakitt	nheo	UNKNOWN
+,	pk
+eitt	fbheo
+træ	nheo
+ella	c
+hvat	fsheo
+tað	fpheo
+nú	aa
+skal	svg3en
+vera	sng
+,	pk
+so	aa
+sást	svm3eþ	UNKNOWN
+sum	c
+oftast	aae	UNKNOWN
+ein	fbven
+ljósketa	nven	UNKNOWN
+hanga	sng
+á	af
+tí	fpheþ
+.	pl
+
+Tí	c
+børnini	nhfng
+hugsa	svg3fn
+nevniliga	aa
+ikki	aa
+so	aa
+nógv	aa
+um	af
+,	pk
+hvussu	aa
+onnur	fbhfn
+halda	svg3fn
+tað	fphen
+sær	svg3en
+út	aa
+.	pl
+
+Støðin	nveng
+hevur	svg3en	UNKNOWN
+sent	sþmhen
+síðani	aa
+desember	nkeo
+1999	ta	UNKNOWN
+og	c
+fyllir	svg3en
+fimm	tf
+ár	nheo
+tann	fakeo
+14.	ta	UNKNOWN
+í	af
+hesum	fakeþ
+,	pk
+og	c
+hon	fpven
+hevur	svg3en	UNKNOWN
+harvið	aa
+yvirlivað	sþmhen	UNKNOWN
+ta	faveo
+tungu	lveovf
+og	c
+torføru	lveovf	UNKNOWN
+byrjanarfasuna	nveog	UNKNOWN
+.	pl
+
+Fyri	af
+einum	fbheþ
+ári	nheþ
+síðani	aa
+keypti	svg3eþ
+Rás	nven
+2	ta	UNKNOWN
+ein	fbkeo
+bygning	nkeo
+í	af
+Søldarfirði	nkeþ-s	UNKNOWN
+sum	ct
+er	svg3en
+300	ta	UNKNOWN
+fermetrar	nkfn
+í	af
+tveimum	tfvfþ
+hæddum	nvfþ
+;	pk
+hesin	faken
+er	svg3en
+nú	aa
+fullkomiliga	aa
+umbygdur	sþmken	UNKNOWN
+innan	aa
+og	c
+innrættaður	sþmken	UNKNOWN
+eftir	af
+tørvinum	nkeþg
+hjá	af
+útvarpsstøðini	nveþg
+.	pl
+
+Orðið	nheng
+?	pl
+.	pl
+
+Eingin	fbken
+ivi	nken
+er	svg3en
+um	aa
+at	cn
+bæði	aa
+baks	nhen
+og	c
+slit	nhen
+hevur	svg3en	UNKNOWN
+givið	sþmhen
+Rás	nveþ
+2	ta	UNKNOWN
+teaminum	nheþg	UNKNOWN
+harðar	lvfosf
+tíðir	nvfo
+frá	af
+fyrsta	lkeþve
+degi	nkeþ
+.	pl
+
+Hetta	fahen
+er	svg3en
+væl	aa
+ikki	aa
+annað	fbheo
+enn	aa
+rímiligt	lhensf
+?	pl
+
+Anna	nven-s	UNKNOWN
+V	ks
+.	pl
+
+Vit	fp1fn
+hava	svg1fn
+fyri	af
+tað	faheo
+fyrsta	lheove
+gloymt	sþmhen
+,	pk
+hvat	fsheo
+vit	fp1fn
+hava	svg1fn
+gloymt	sþmhen
+,	pk
+men	c
+savnið	nheng
+er	svg3en
+í	af
+grundini	nveþg
+als	aa
+ikki	aa
+hugsað	sþmhen
+so	aa
+dapurt	lhensf
+,	pk
+sum	c
+tað	fphen
+kanska	aa
+tykist	svm3en	UNKNOWN
+.	pl
+
+Í	af
+tekstinum	nkeþg
+"	pg
+Hygg	sbge	UNKNOWN
+mamma	nven
+"	pg
+eyðgleiðir	svg3en	UNKNOWN
+ein	fbken
+smádrongur	nken
+mýggjabitarnar	nkfog
+dansa	sng
+,	pk
+men	c
+hann	fpken
+skilur	svg3en
+ikki	aa
+,	pk
+hví	aa
+teir	fpkfn
+ikki	aa
+eisini	aa
+flenna	svg3fn
+,	pk
+tá	c
+teir	fpkfn
+nú	aa
+eru	svg3fn	UNKNOWN
+so	aa
+glaðir	lkfnsf
+,	pk
+so	aa
+hann	fpken
+spyr	svg3en
+mammuna	nveog
+.	pl
+
+Eitt	fbhen
+tað	fahen
+mest	aae
+óhugnaliga	lhenvf
+var	svg3eþ
+at	cn
+síggja	sng
+,	pk
+hvussu	aa
+menniskju	nhfn
+nærum	aa
+vórðu	svg3fþ	UNKNOWN
+býtt	sþghfn
+upp	aa
+í	af
+A	x
+og	c
+B	x
+menniskju	nhfo
+,	pk
+alt	aa
+eftir	aa
+,	pk
+hvussu	aa
+kreppan	nveng
+tilvildarliga	aa
+hevði	svg3eþ	UNKNOWN
+rakt	sþmhen
+tey	fphfo
+.	pl
+
+Men	c
+tað	fphen
+er	svg3en
+líka	aa
+skjótt	lhensf
+at	cn
+sløkkja	sng
+ljósið	nheog
+,	pk
+lata	sng
+eygu	nhfo
+og	c
+oyru	nhfo
+aftur	aa
+og	cn
+rista	sng
+ábyrgdina	nveog
+av	af
+okkum	fp1fþ
+.	pl
+
+Tí	c
+verður	svg3en
+tankin	nkeng
+um	af
+,	pk
+at	c
+tað	fphen
+ber	svg3en
+til	aa
+at	cn
+tvinna	sng
+fortíðina	nveog
+saman	aa
+við	af
+nútíðina	nveog
+í	af
+einum	fbheþ
+nýggjum	lheþsf
+slagi	nheþ
+av	af
+framstigi	nheþ
+óhugsandi	slg
+fyri	af
+okkum	fp1fþ
+.	pl
+
+Æviga	lhenvf
+núið	nheng	UNKNOWN
+
+Eg	fp1en
+havi	svg1en
+tikið	sþmhen
+nakrar	fbvfo
+av	af
+gomlu	lvfþvf	UNKNOWN
+yrkingunum	nvfþg
+ella	c
+tekstunum	nkfþg
+við	aa
+í	af
+tann	fakeo
+mun	nkeo
+,	pk
+teir	fpkfn
+geva	svg3fn
+meining	nveo
+fyri	af
+heildina	nveog
+í	af
+nýggja	lheþvf
+savninum	nheþg
+.	pl
+
+Sat	svg3eþ
+fastkleimdur	lkensf	UNKNOWN
+í	af
+næstan	aa
+ein	fbkeo
+tíma	nkeo
+
+Høgni	nken-s	UNKNOWN
+Hoydal	nkeo-s	UNKNOWN
+sigur	svg3en
+,	pk
+at	c
+hann	fpken
+ætlar	svg3en
+sær	fpkeþ
+ikki	aa
+at	cn
+spæla	sng
+hund	nkeo
+í	af
+fjølmiðlunum	nkfþg
+,	pk
+og	c
+tí	c
+hevur	svg3en	UNKNOWN
+hann	fpken
+ongar	fbvfo
+viðmerkingar	nvfo
+
+Hetta	fahen
+kundi	svg3eþ
+tó	aa
+ikki	aa
+gerast	snm	UNKNOWN
+uttan	af
+lógarbroytingar	nvfo	UNKNOWN
+fyri	af
+flokkinum	nkeþg
+,	pk
+og	c
+hesar	favfo
+broytingar	nvfo
+hevur	svg3en	UNKNOWN
+starvsnevndin	nveng
+í	af
+flokkinum	nkeþg
+tikið	sþmhen
+stig	nhfo
+til	aa
+at	cn
+broyta	sng
+.	pl
+
+Høgni	nken-s	UNKNOWN
+Hoydal	nkeo-s	UNKNOWN
+segði	svg3eþ
+seg	fpkeo
+hava	sng
+mist	sþmhen
+alt	fbheo
+álit	nheo
+á	af
+Torbjørn	nkeo-s	UNKNOWN
+Jacobsen	n----s	UNKNOWN
+,	pk
+hann	fpken
+kundi	svg3eþ
+ikki	aa
+samstarva	sng
+við	af
+hann	fpkeo
+longur	aam
+,	pk
+og	c
+hann	fpken
+helt	svg3eþ
+,	pk
+at	c
+skrivingin	nveng
+skuldi	svg3eþ	UNKNOWN
+fáa	sng
+avleiðingar	nvfo
+.	pl
+
+Vága	nvfe-s
+Tjóðveldisfelag	nhen	UNKNOWN
+mælir	svg3en
+til	af
+,	pk
+at	c
+Torbjørn	nken-s	UNKNOWN
+Jacobsen	n----s	UNKNOWN
+skal	svg3en
+veljast	snm	UNKNOWN
+aftur	aa
+til	af
+næstformann	nkeo
+í	af
+flokkinum	nkeþg
+,	pk
+og	c
+tí	c
+sleppa	svg3fn
+limirnir	nkfng
+í	af
+flokkinum	nkeþg
+at	cn
+taka	sng
+onkra	fbveo
+støðu	nveo
+til	af
+leiklutin	nkeog
+hjá	af
+Tobba	nkeþ-s	UNKNOWN
+í	af
+flokkinum	nkeþg
+.	pl
+
+Sambært	af
+CNN	ks	UNKNOWN
+var	svg3eþ
+løgreglumaðurin	nkeng
+James	e	UNKNOWN
+Niggemeyer	e	UNKNOWN
+staddur	lkensf
+í	af
+nánd	nveþ
+av	af
+náttklubbanum	nkeþg
+Alrosa	e	UNKNOWN
+Villa	e
+,	pk
+tá	c
+ið	c
+fráboðanin	nveng
+um	af
+skottilburðin	nkeog	UNKNOWN
+kom	svg3eþ
+.	pl
+
+Nógvur	lkensf
+roykur	nken
+var	svg3eþ
+í	af
+húsunum	nhfþg
+,	pk
+men	c
+eldurin	nkeng
+var	svg3eþ
+bara	aa
+í	af
+sjálvari	foveþ
+grýtuni	nveþg
+,	pk
+og	c
+tað	fphen
+eydnaðist	svm3eþ
+einum	fbheþ
+fólki	nheþ
+,	pk
+sum	ct
+var	svg3eþ
+komið	sþmhen
+eftir	af
+einum	fbheþ
+barni	nheþ
+,	pk
+at	cn
+sløkkja	sng
+eldin	nkeog
+við	af
+einum	fbkeþ
+eldsløkkjara	nkeþ
+og	c
+tveita	sng
+grýtuna	nveog
+út	aa
+úr	af
+húsinum	nheþg
+.	pl
+
+Stjórin	nkeng
+í	af
+BP	ks	UNKNOWN
+heldur	svg3en
+annars	aa
+,	pk
+at	c
+seinasta	lhenve
+fundið	nheng	UNKNOWN
+við	af
+markið	nheog
+er	svg3en
+spennandi	lo
+,	pk
+men	c
+hann	fpken
+heldur	svg3en
+vit	fp1fn
+skulu	svg1fn	UNKNOWN
+ikki	aa
+leypa	sng
+framav	aa
+kortini	aa
+.	pl
+
+Tað	fphen
+eru	svg3fn	UNKNOWN
+altið	aa	UNKNOWN
+møguleikar	nkfn
+fyri	aa
+at	cn
+"	pg
+farma	sng
+"	pg
+inn	aa
+.	pl
+
+Hann	fpken
+sipar	svg3en
+her	aa
+til	af
+tíðindini	nhfog
+um	af
+Marjunfundið	nheog	UNKNOWN
+,	pk
+tá	c
+menn	nkfn
+eisini	aa
+hildu	svg3fþ
+,	pk
+at	c
+vit	fp1fn
+skulu	svg1fn	UNKNOWN
+ikki	aa
+leypa	sng
+framav	aa
+.	pl
+
+Sosialurin	nkeng	UNKNOWN
+skilur	svg3en
+,	pk
+at	c
+samráðingar	nvfn
+hava	svg3fn
+og	c
+eru	svg3fn	UNKNOWN
+millum	af
+feløgini	nhfog
+sínamillum	aa	UNKNOWN
+at	cn
+flyta	sng
+brunnar	nkfo
+í	af
+onnur	fbhfo
+loyvi	nhfo
+og	c
+at	c
+myndugleikarnir	nkfng
+eisini	aa
+eru	svg3fn	UNKNOWN
+við	aa
+í	af
+hesum	favfþ
+samráðingum	nvfþ
+.	pl
+
+Tað	fphen
+ljóðar	svg3en
+so	aa
+eisini	aa
+,	pk
+at	c
+Amerada	e	UNKNOWN
+Hess	e	UNKNOWN
+skal	svg3en
+hava	sng
+víst	sþmhen
+áhuga	nkeo
+fyri	af
+at	cn
+flyta	sng
+sín	fpkeo
+brunn	nkeo
+inn	aa
+á	af
+9	ta	UNKNOWN
+ára	nhfe
+loyvið	nheog
+hjá	af
+ENI	ks
+.	pl
+
+Lítil	lvensf
+nýtsla	nven
+
+Heimsmet	nhen
+í	af
+avgreiðslum	nvfþ
+
+Bert	aa
+tey	fphfn
+við	af
+bankabók	nveþ
+mugu	svg3fn	UNKNOWN
+nú	aa
+minnast	svg3fn
+til	aa
+at	cn
+orna	sng
+síni	fphfo	UNKNOWN
+bankaviðurskifti	nhfo	UNKNOWN
+dagin	nkeog
+fyri	aa
+,	pk
+tey	fphfn
+fara	svg3fn
+avstað	aa
+,	pk
+sigur	svg3en
+Janus	nken-s	UNKNOWN
+Petersen	n----s	UNKNOWN
+at	cn
+enda	sng
+.	pl
+
+-	pa
+Sum	c
+tað	fphen
+er	svg3en
+í	af
+dag	nkeo
+,	pk
+er	svg3en
+tað	fphen
+tilvildin	nveng
+sum	ct
+ræður	svg3en
+.	pl
+
+Hyggur	svg2en
+tú	fp2en	UNKNOWN
+í	af
+handlarnar	nkfog
+hjá	af
+teimum	fpkfþ
+,	pk
+sum	ct
+hava	svg3fn
+opið	lhensf
+leygardag	nkeo
+-	pa
+hóast	c
+teir	fpkfn
+eftir	af
+galdandi	slg	UNKNOWN
+lóg	nveþ
+als	aa
+ikki	aa
+hava	svg3fn
+loyvi	nheo
+til	af
+tað	fpheo
+-	pa
+so	aa
+sært	svg2en
+tú	fp2en	UNKNOWN
+,	pk
+at	c
+teir	fpkfn
+hava	svg3fn
+úr	aa
+at	cn
+gera	sng
+.	pl
+
+-	pa
+Teksturin	nkeng
+er	svg3en
+eitt	fbhen
+dømi	nhen
+um	af
+eitt	fbheo
+slag	nheo
+av	af
+uppaling	nveþ
+,	pk
+sum	ct
+rænir	svg3en
+spontanu	lveovf	UNKNOWN
+gleðina	nveog
+frá	af
+børnunum	nhfþg
+við	aa
+at	cn
+geva	sng
+teimum	fphfþ
+logiskar	lvfosf
+forkláringar	nvfo	UNKNOWN
+uppá	af
+alt	fbheo
+tað	faheo
+,	pk
+sum	ct
+ikki	aa
+kann	svg3en
+forklárast	snm	UNKNOWN
+.	pl
+
