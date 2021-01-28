@@ -1,8 +1,15 @@
 
 # .gitignore
 
+
+# Hinrik
+
 far_gold.code-workspace
 .vscode
 
 fts.xml
 old_fts_split
+
+UD_Faroese-OFT
+
+# Atli
