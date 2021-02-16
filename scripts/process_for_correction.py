@@ -17,6 +17,7 @@ def read_input(fh):
     with open(fh, 'r') as file:
         for line in file.readlines():
             tagged.append(line.strip('\n').split())
+            
     return tagged
 
 def read_morphlex(fh):
@@ -48,14 +49,15 @@ if __name__ == "__main__":
     parser =  argparse.ArgumentParser(description='Script for converting list of icelanidc OTB tags to Faroese Sosialurin tags')
     parser.add_argument('--input', '-i', required=True, help='path to input file')
     parser.add_argument('--output', '-o', help='path to output file (otherwise written to stdout)')
-    parser.add_argument('--morphlex', '-m', help='path to ABLTagger morphlex file')    
+    parser.add_argument('--morphlex', '-M', help='path to ABLTagger morphlex file')
     
     
     args = parser.parse_args()
 
     tagged_fo = read_input(args.input)
 
-    morphlex_words = read_morphlex(args.morphlex)
+    if args.morphlex:
+        morphlex_words = read_morphlex(args.morphlex)
 
     tag_dict = convert_opt.build_tag_dict('tagsets/is-fo.tsv', 'is')
 
@@ -68,8 +70,9 @@ if __name__ == "__main__":
                 line[1] = tag_dict.get(line[1])
                 if line[0] in PUNCT:
                     pass
-                elif line[0].lower() not in morphlex_words:
-                    line.append('UNKNOWN')
+                elif args.morphlex:
+                    if line[0].lower() not in morphlex_words:
+                        line.append('UNKNOWN')
             output.write('\t'.join(line))
             if line[0] != '\n':
                 output.write('\n')

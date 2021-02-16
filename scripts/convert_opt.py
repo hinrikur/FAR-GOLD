@@ -1,3 +1,5 @@
+
+import re
 import argparse
 from sys import stdout
 
@@ -10,7 +12,10 @@ def build_tag_dict(fh, dest):
             is_tags.append(line.split()[0].strip())
             fo_tags.append(line.split()[1].strip())
     if dest == 'is':
-        tag_dict = dict(zip(fo_tags, is_tags))
+        # filter step to remove doubled keys (issue with subjunctive)
+        tagpairs = zip(fo_tags, is_tags)
+        filtered_pairs = [[i[0], i[1]] for i in tagpairs if not re.search(r'sv[gm]', i[1])]
+        tag_dict = dict(filtered_pairs)
     elif dest == 'fo':
         tag_dict = dict(zip(is_tags, fo_tags))
     return tag_dict
