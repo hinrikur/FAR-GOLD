@@ -316,7 +316,7 @@ teir	PDMPN
 møguleikarnir	SMPNA
 eru	VNPP3
 ein	PBMSN
-týðandi	AIMSN
+týðandi	APIMSN
 partur	SMSN
 av	DG
 framsýningini	SFSDA
@@ -4359,7 +4359,7 @@ løgmálaráðnum	SNSDA
 Michael	SMSN-P
 Lund	S----P
 og	C
-táverandi	AIMSN
+táverandi	APIMSN
 løgmálaráðharrin	SMSNA
 hava	VNPP3
 tí	C
@@ -6210,7 +6210,7 @@ arbeitt	VAANSN
 tætt	DN
 saman	DN
 við	DG
-núverandi	AIMSD
+núverandi	APIMSD
 leiðara	SMSD
 á	DG
 Oljufyrisitingini	SFSDA
@@ -7331,7 +7331,7 @@ tættan	APSMSA
 ,	KC
 harðan	APSMSA
 og	C
-spennandi	AIMSA
+spennandi	APIMSA
 oddadyst	SMSA
 fyri	DG
 eygunum	SNPDA
@@ -7755,7 +7755,7 @@ vit	PP1PN
 fáa	VI
 eitt	PBNSA
 ómetaliga	DN
-spennandi	AINSA
+spennandi	APINSA
 endaspæl	SNSA
 ,	KC
 og	C
@@ -7953,7 +7953,7 @@ spæla	VI
 .	KE
 
 Hetta	PDNSN
-útjavnandi	AINSN
+útjavnandi	APINSN
 málið	SNSNA
 kom	VNAS3
 við	DG
@@ -9642,7 +9642,7 @@ fíggjarstøðu	SFSA
 felagsins	SNSGA
 ,	KC
 sigur	VNPS3
-fyrrverandi	AIMSN
+fyrrverandi	APIMSN
 nevndarlimurin	SMSNA
 .	KE
 
@@ -10213,7 +10213,7 @@ leiktu	VNAP3
 ein	PBMSA
 góðan	APSMSA
 og	C
-spennandi	AIMSA
+spennandi	APIMSA
 dyst	SMSA
 og	C
 vóru	VNAP3
@@ -10488,7 +10488,7 @@ tveir	NCMPA
 spildurnýggjar	APSMPA
 og	C
 sera	DN
-nýmótans	AIMPA
+nýmótans	APIMPA
 bussar	SMPA
 .	KE
 
@@ -12615,7 +12615,7 @@ málum	SNPD
 .	KE
 
 Ein	PBMSN
-týðandi	AIMSN
+týðandi	APIMSN
 partur	SMSN
 av	DG
 hesum	PDNSD
@@ -13275,7 +13275,7 @@ upplýsingar	SFPA
 borðið	SNSAA
 ,	KC
 áðrenn	DN
-týðandi	AIFPN
+týðandi	APIFPN
 avgerðir	SFPN
 verða	VI
 tiknar	VAAFPN
@@ -13786,7 +13786,7 @@ Dúgvuna	SFSAA
 Er	VNPS3
 talan	SFSN
 um	DN
-munandi	AIFSA
+munandi	APIFSA
 upphædd	SFSA
 ,	KC
 er	VNPS3
@@ -19112,7 +19112,7 @@ ráð	SNPA
 
 Børnini	SNPNA
 í	DG
-Sankta	AIMSN
+Sankta	APIMSN
 Josef	SMSN-P
 barnagarðinum	SMSDA
 í	DG
@@ -19176,7 +19176,7 @@ løtuna	SFSAA
 hava	VNPP3
 børnini	SNPNA
 í	DG
-Santa	AIMSN
+Santa	APIMSN
 Josef	SMSN-P
 Barnagarðinum	SMSDA
 í	DG
@@ -19209,7 +19209,7 @@ stovuni	SFSDA
 Reiðrið	SNSNA
 ,	KC
 á	DG
-Santa	AIMSN
+Santa	APIMSN
 Josef	SMSN-P
 Barnagarðinum	SMSDA
 í	DG
@@ -25545,7 +25545,7 @@ ikki	DN
 færri	DNC
 enn	DN
 fýra	NCNPN
-fyrrverandi	AIMPN
+fyrrverandi	APIMPN
 løgmenn	SMPN
 umframt	DG
 nú	DN
@@ -25736,7 +25736,7 @@ minni	SNSD
 Sofus	SMSN-P
 greiddi	VNAS3
 frá	DG
-spennandi	AINSD
+spennandi	APINSD
 lívi	SNSD
 sínum	PPMPD
 ,	KC
@@ -34846,7 +34846,7 @@ um	DG
 umrøðuna	SFSAA
 ,	KC
 hetta	PDNSN
-eina	AINSN
+eina	APINSN
 hálið	SNSNA
 fekk	VNAS3
 ,	KC
@@ -35363,7 +35363,7 @@ leiðir	SFPA
 Men	C
 tann	PDFSN
 mest	DNS
-týðandi	AIFSN
+týðandi	APIFSN
 broytingin	SFSNA
 er	VNPS3
 ,	KC
@@ -35836,7 +35836,7 @@ Tit	PP2PN
 skriva	VI
 um	DG
 tað	PDNSA
-eina	AINSA
+eina	APINSA
 óhappið	SNSAA
 ,	KC
 har	DN
@@ -37244,7 +37244,7 @@ Ganga	VNPP3
 nýggjar	APSFPA
 leiðir	SFPA
 við	DG
-slóðbrótandi	AINSD
+slóðbrótandi	APINSD
 virki	SNSD
 á	DG
 Eiði	SNSD-P
@@ -37253,7 +37253,7 @@ Eiði	SNSD-P
 heyst	SNSA
 letur	VNPS3
 eitt	PBNSN
-slóðbrótandi	AINSN
+slóðbrótandi	APINSN
 virki	SNSN
 upp	DN
 á	DG
@@ -37303,7 +37303,7 @@ Slóðbrótarar	SMPNA
 heyst	SNSA
 letur	VNPS3
 eitt	PBNSN
-slóðbrótandi	AINSN
+slóðbrótandi	APINSN
 virki	SNSN
 upp	DN
 á	DG
@@ -41712,7 +41712,7 @@ kastaði	VNAS1
 beint	DN
 frammanfyri	DG
 tað	PDNSA
-eina	AINSA
+eina	APINSA
 sílið	SNSAA
 .	KE
 
@@ -43704,7 +43704,7 @@ frá	DN
 Greitt	VAANSN
 verður	VNPS3
 frá	DG
-týðandi	AIMSD
+týðandi	APIMSD
 parti	SMSD
 í	DG
 føroyingasøgu	SFSD
@@ -54300,7 +54300,7 @@ samkomu	SFSD
 fyri	DG
 núverandi	AI
 og	C
-fyrrverandi	AINPD
+fyrrverandi	APINPD
 starvsfólkum	SNPD
 
 Tað	PPNSN
@@ -54389,7 +54389,7 @@ eini	PBNPN
 40	NO
 fyrrverandi	AI
 og	C
-núverandi	AINPN
+núverandi	APINPN
 starvsfólk	SNPN
 og	C
 heilsaðu	VNAP3
@@ -56370,7 +56370,7 @@ koma	VI
 at	CI
 vera	VI
 ein	PBMSN
-týðandi	AIMSN
+týðandi	APIMSN
 leverandørur	SMSN
 av	DG
 gassi	SNSD
@@ -65988,7 +65988,7 @@ og	C
 sjúkrasystrarnar	SFPAA
 um	DG
 eina	PBFSA
-felags	AIFSA
+felags	APIFSA
 leiðslu	SFSA
 á	DG
 Landssjúkrahúsinum	SNSDA
@@ -66020,7 +66020,7 @@ limir	SMPA
 okkara	PP1PG
 í	DG
 teimum	PDFPD
-framhaldandi	AIFPD
+framhaldandi	APIFPD
 royndunum	SFPDA
 at	CI
 gera	VI
@@ -66110,7 +66110,7 @@ føroyska	APWNSA
 serlæknafelagið	SNSAA
 um	DG
 eina	PBFSA
-felags	AIFSA
+felags	APIFSA
 leislu	SFSA
 á	DG
 Landssjúkrahúsinum	SNSDA
@@ -66194,7 +66194,7 @@ málið	SNSAA
 ,	KC
 eftir	DN
 at	CI
-fyrrverandi	AIMSN
+fyrrverandi	APIMSN
 formaðurin	SMSNA
 í	DG
 føroyska	APWNSD
@@ -69649,7 +69649,7 @@ við	DG
 politiska	APWNSA
 málið	SNSAA
 um	DG
-sjálvberandi	AIMSA
+sjálvberandi	APIMSA
 búskap	SMSA
 og	C
 broytingar	SFPA
@@ -69858,7 +69858,7 @@ og	C
 vit	PP1PN
 skulu	VNPP1
 hava	VI
-sjálvberandi	AIMSA
+sjálvberandi	APIMSA
 búskap	SMSA
 .	KE
 
@@ -70783,7 +70783,7 @@ mál	SNSA
 nevniliga	DN
 at	CI
 gerast	VIM
-sjálvberandi	AINSN
+sjálvberandi	APINSN
 land	SNSN
 .	KE
 
@@ -70949,7 +70949,7 @@ hátt	SMSA
 .	KE
 
 Umframt	DG
-alskyns	AINPA
+alskyns	APINPA
 tilboð	SNPA
 til	DG
 viðskiftafólkini	SNPAA
@@ -73262,7 +73262,7 @@ ikki	DN
 setast	VIM
 bara	DN
 við	DG
-núverandi	AIFSD
+núverandi	APIFSD
 støðu	SFSD
 í	DG
 huga	SMSD
@@ -79686,7 +79686,7 @@ vísa	VNPP3
 á	DG
 skipanir	SFPA
 millum	DG
-núverandi	AINSA
+núverandi	APINSA
 heimastýri	SNSA
 og	C
 fullveldi	SNSA
@@ -83031,7 +83031,7 @@ fyri	DN
 nú	DN
 fyrsti	ASWMSN
 veruliga	DN
-týðandi	AIMSN
+týðandi	APIMSN
 landsdysturin	SMSNA
 verður	VNPS3
 spældur	VAMSN
@@ -84561,7 +84561,7 @@ ferðsluni	SFSDA
 Ein	PBFSN
 av	DG
 mest	DNS
-umráðandi	AIFPD
+umráðandi	APIFPD
 atgerðunum	SFPDA
 ,	KC
 ið	CR
@@ -86408,7 +86408,7 @@ hon	PPFSN
 einum	PBMSD
 ungum	APSMSD
 og	C
-spennandi	AIMSD
+spennandi	APIMSD
 manni	SMSD
 úr	DG
 Algeria	SNSD-P
@@ -91493,7 +91493,7 @@ gjørdi	VNAS3
 av	DN
 at	CI
 siga	VI
-táverandi	AIMSD
+táverandi	APIMSD
 stjóranum	SMSDA
 úr	DG
 starvi	SNSD
@@ -93570,7 +93570,7 @@ ein	PBMSN
 av	DG
 nevndarlimunum	SMPDA
 og	C
-fyrrverandi	AIMSN
+fyrrverandi	APIMSN
 formaður	SMSN
 í	DG
 Føroya	SFPG-P
@@ -93733,7 +93733,7 @@ sigur	VNPS3
 hann	PPMSN
 .	KE
 
-Fyrrverandi	AIMSN
+Fyrrverandi	APIMSN
 formaðurin	SMSNA
 í	DG
 lærarafelagnum	SNSDA
@@ -93955,7 +93955,7 @@ deild	SFSN
 Tórshavnar	SFSG-P
 býráð	SNSD
 ,	KC
-fyrrverandi	AIFPN
+fyrrverandi	APIFPN
 dagrøktarmammur	SFPN
 ,	KC
 og	C
@@ -94854,7 +94854,7 @@ Sjúrður	SMSN-P
 Skaale	S----P
 helt	VNAS3
 sera	DN
-spennandi	AIMSA
+spennandi	APIMSA
 fyrilestur	SMSA
 leygardagin	SMSAA
 .	KE
@@ -94869,7 +94869,7 @@ at	CI
 siga	VI
 frá	DG
 hesum	PDMSD
-spennandi	AIMSD
+spennandi	APIMSD
 fyrilestri	SMSD
 og	C
 tí	PDNSD
@@ -97135,7 +97135,7 @@ Landsverkfrøðingsstovninum	SMSDA
 vil	VNPS3
 ikki	DN
 gera	VI
-stórvegis	AIFPA
+stórvegis	APIFPA
 viðmerkingar	SFPA
 til	DG
 ,	KC
@@ -98080,7 +98080,7 @@ kenna	VNPP1
 søguna	SFSAA
 um	DG
 tað	PDNSA
-eina	AINSA
+eina	APINSA
 holið	SNSAA
 ,	KC
 sum	CR
@@ -98577,7 +98577,7 @@ við	DN
 meira	DNC
 enn	DN
 tí	PDNSD
-eina	AINSD
+eina	APINSD
 projektinum	SNSDA
 .	KE
 
@@ -105200,7 +105200,7 @@ politiskan	APSMSA
 landsstýrisfund	SMSA
 .	KE
 
-Slóðbrótandi	AIFSN
+Slóðbrótandi	APIFSN
 listaframsýning	SFSN
 :	KE
 Reyðir	APSMPN
@@ -105246,7 +105246,7 @@ fyrireika	VI
 eina	PBFSA
 øðrvísi	DN
 og	C
-spennandi	AIFSA
+spennandi	APIFSA
 listaframsýning	SFSA
 
 Marianna	SFSN-P
@@ -105383,7 +105383,7 @@ eind	SFSA
 ein	PBMSA
 nýggjan	APSMSA
 og	C
-slóðbrótandi	AIMSA
+slóðbrótandi	APIMSA
 hátt	SMSA
 .	KE
 
@@ -105659,7 +105659,7 @@ nýta	VI
 ein	PBMSA
 øðrvísi	DN
 og	C
-spennandi	AIMSA
+spennandi	APIMSA
 hátt	SMSA
 .	KE
 
@@ -106059,7 +106059,7 @@ til	DG
 at	CI
 arbeiða	VI
 innan	DG
-eksperimenterandi	AIFSA
+eksperimenterandi	APIFSA
 list	SFSA
 ,	KC
 har	DN
@@ -106888,7 +106888,7 @@ skilir	VNPS3
 ikki	DN
 ,	KC
 hví	DN
-núverandi	AIFSN
+núverandi	APIFSN
 samgonga	SFSN
 hevur	VNPS3
 tikið	VAANSN
@@ -107519,7 +107519,7 @@ sær	PPMSD
 hevur	VNPS3
 hann	PPMSN
 tvey	NCNPA
-fyrrverandi	AINPA
+fyrrverandi	APINPA
 starvsfólk	SNPA
 frá	DG
 Eimskip	SNPN
@@ -107779,7 +107779,7 @@ England	SNSN-P
 skal	VNPS3
 vera	VI
 ein	PBMSN
-týðandi	AIMSN
+týðandi	APIMSN
 partur	SMSN
 av	DG
 hesum	PDNSD
@@ -111152,7 +111152,7 @@ og	C
 Anfinn	SMSN-P
 Kalsberg	S----P
 ,	KC
-táverandi	AIMSN
+táverandi	APIMSN
 løgmaður	SMSN
 ,	KC
 góvu	VNAP3
@@ -112953,7 +112953,7 @@ teimum	PDMPD
 báðum	PBMPD
 ,	KC
 eisini	DN
-fyrrverandi	AIMSN
+fyrrverandi	APIMSN
 stjórin	SMSNA
 í	DG
 Statens	S----P
@@ -116352,7 +116352,7 @@ grasinum	SNSDA
 ,	KC
 sum	CR
 syngja	VNPP3
-Santa	AIMSN
+Santa	APIMSN
 Claus	SMSN-P
 is	F
 coming	F
@@ -117174,7 +117174,7 @@ hóast	C
 alt	PBNSA
 eitt	PBNSN
 sera	DN
-spennandi	AINSN
+spennandi	APINSN
 arbeiði	SNSN
 ;	KC
 tað	PPNSN
@@ -117634,7 +117634,7 @@ hansara	PPMSG
 eygum	SNPD
 heldur	DNC
 at	C
-núverandi	AIFSN
+núverandi	APIFSN
 útvarpsleiðsla	SFSN
 er	VNPS3
 uppvaksin	VAAFSN
@@ -121054,7 +121054,7 @@ hann	PPMSN
 drap	VNAS3
 ein	PBMSA
 av	DG
-fyrrverandi	AIMPD
+fyrrverandi	APIMPD
 limunum	SMPDA
 í	DG
 bólkinum	SMSDA
@@ -121091,7 +121091,7 @@ Damageplan	F
 ,	KC
 har	DN
 tveir	NCMPN
-fyrrverandi	AIMPN
+fyrrverandi	APIMPN
 tónleikarar	SMPN
 í	DG
 Pantera	F
@@ -121121,7 +121121,7 @@ blóðugt	APSNSN
 
 Gale	F
 drap	VNAS3
-fyrrverandi	AIMSA
+fyrrverandi	APIMSA
 gittarspælaran	SMSAA
 í	DG
 Pantera	F
@@ -122206,7 +122206,7 @@ er	VNPS3
 talan	SFSN
 um	DG
 eitt	PBNSA
-spennandi	AINSA
+spennandi	APINSA
 prospekt	SNSA
 ,	KC
 sonevnda	APWMSA
@@ -122930,7 +122930,7 @@ handilslógarøkinum	SNSDA
 .	KE
 ?	KE
 
-Núverandi	AIFSN
+Núverandi	APIFSN
 lóg	SFSN
 verður	VNPS3
 allíkavæl	DN
@@ -123506,7 +123506,7 @@ handilsmenn	SMPN
 ,	KC
 sum	CR
 bróta	VNPP3
-núverandi	AIFSA
+núverandi	APIFSA
 lóg	SFSA
 
 Og	C
