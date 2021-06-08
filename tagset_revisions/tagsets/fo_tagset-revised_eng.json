@@ -1,0 +1,138 @@
+{
+    "PoS":{
+        "S":"Substantive",
+        "A":"Adjective",
+        "P":"Pronoun",
+        "N":"Numeral",
+        "V":"Verb",
+        "R":"Article",
+        "D":"Adverb",
+        "C":"Conjunction",
+        "F":"Foreign word",
+        "X":"Unanalyzed word",
+        "T":"Abbreviation",
+        "W":"E-mail/Web address",
+        "K":"Punctuation",
+        "M":"Symbol"
+    },
+    "Gender":{
+        "M":"Masculin",
+        "F":"Feminine",
+        "N":"Neuter",
+        "X":"Unspecified"
+    },
+    "Number":{
+        "S":"Singular",
+        "P":"Plural"
+    },
+    "Case":{
+        "N":"Nominative",
+        "A":"Accusative",
+        "D":"Dative",
+        "G":"Genitive"
+    },
+    "Article":{
+        "A":"Suffixed definitive article",
+        "-":"None"
+    },
+    "Proper noun":{
+        "P":"Proper noun"
+    },
+    "Declension":{
+        "S":"Strong",
+        "W":"Weak",
+        "I":"Ideclinable"
+    },
+    "Degree":{
+        "P":"Positive",
+        "C":"Comparative",
+        "S":"Superlative"
+    },
+    "Person":{
+        "1":"1st person",
+        "2":"2nd person",
+        "3":"3rd person"
+    },
+    "Mood":{
+        "I":"Infinitive",
+        "M":"Imperative",
+        "N":"Indicative",
+        "S":"Subjunktive",
+        "P":"Present participle",
+        "A":"Past participle"
+    },
+    "Voice":{
+        "A":"Active",
+        "M":"Medium"
+    },
+    "Tense":{
+        "P":"Present",
+        "A":"Past"
+    },
+    "Definiteness":{
+        "D":"Definite",
+        "I":"Indefinite"
+    },
+    "P-Subcat":{
+        "D":"Demonstrative",
+        "B":"Indefinite demonstrative",
+        "E":"Posessive",
+        "I":"Indefinite",
+        "P":"Personal",
+        "Q":"Interrogative",
+        "R":"Relative"
+    },
+    "N-Subcat":{
+        "C":"Cardinal number",
+        "O":"Dates/other inclinable numbers",
+        "P":"Percentage",
+        "R":"Number preceeding other numerals"
+    },
+    "P-Person":{
+        "1":"1st person",
+        "2":"2nd person",
+        "M":"Masculin",
+        "F":"Feminine",
+        "N":"Neuter"
+    },
+    "Case governor":{
+        "N":"Does not govern case",
+        "G":"Governs case",
+        "I":"Exclamation"
+    },
+    "C-Subcat":{
+        "I":"Infinitive",
+        "R":"Relative conjunction"
+    },
+    "T-Subcat":{
+        "S":"Abbreviation",
+        "T":"Short form"
+    },
+    "K-Subcat":{
+        "E":"End of sentence",
+        "C":"Comma",
+        "Q":"Quotes",
+        "O":"Other"
+    },
+    "forked_tags":{
+        "VA":["Mood", "Voice", "Gender", "Number", "Case"]
+    },
+    "alternative":{
+        "S----P": "Foreign proper noun"
+    },
+    "S":["Gender", "Number", "Case", "Article", "Proper noun"],
+    "A":["Degree", "Declension", "Gender", "Number", "Case"],
+    "P":["P-Subcat", "P-Person", "Number", "Case"],
+    "N":["N-Subcat", "Gender", "Number", "Case"],
+    "V":["Mood", "Voice", "Tense", "Number", "Person"],
+    "R":["Definiteness", "Gender", "Number", "Case"],
+    "D":["Case governor", "Degree"],
+    "C":["C-Subcat"],
+    "F":[],
+    "X":[],
+    "T":["T-Subcat"],
+    "W":[],
+    "K":["K-Subcat"],
+    "M":[],
+    "max_len": 6
+}
