@@ -46,9 +46,9 @@ def regex_replacer(file):
     # from preceding nouns
     file = re.sub(r"(\tS(\w{3}).*\n.*\t)AI", r"\1AI\2", file)
 
-    # Adds tags to indeclinable adjectives, taking inmormation
-    # from the succeeding nouns
-    file = re.sub(r"\tAI(\n\w*\tS(\w{3}).*)", r"\tAI\2\1", file)
+    # Adds tags to indeclinable adjectives, taking information
+    # from the succeeding nouns. Also adds a positive degree.
+    file = re.sub(r"\tAI(\n\w*\tS(\w{3}).*)", r"\tAPI\2\1", file)
 
     # Change all SXP tags to S----P
     file = re.sub(r"\tSXP", r"\tS----P", file)
