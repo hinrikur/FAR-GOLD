@@ -26,20 +26,20 @@ def regex_replacer(file):
     # Add tags to imperative verbs (voice, tense and person)
     file = re.sub(r"\tVM(\w)", r"\tVMAP\g<1>2", file)
 
-    # Add an infitive (I) tag for all VE tags and change middle
+    # Add an infitive (I) tag for all VE tags and change medium
     # voice tag from E to M
     file = re.sub(r"\tVE\n", r"\tVIM\n", file)
 
-    # Add an indicative mood to all other verbs in middle voice
-    # and change middle tag (E) to (M)
+    # Add an indicative mood to all other verbs in medium voice
+    # and change medium tag (E) to (M)
     file = re.sub(r"\tVE(\w+)", r"\tVNM\1", file)
 
-    # Adding a middle voice to all tags following past participle
+    # Adding a medium voice to all tags following past participle
     # verbs ending in "st" (needs to be manually checked to verify!)
     file = re.sub(r"(st\tVA)(\w+)", r"\1M\2", file)
 
     # Add an active voice to all past participle verbs that
-    # have not been asigned a middle voice - (might need verification)
+    # have not been asigned a medium voice - (might need verification)
     file = re.sub(r"(\tVA)([^M]{3})", r"\1A\2", file)
 
     # Add tags to indeclinable adjectives, taking information
