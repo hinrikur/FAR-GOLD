@@ -30,9 +30,23 @@ def regex_replacer(file):
     # voice tag from E to M
     file = re.sub(r"\tVE\n", r"\tVIM\n", file)
 
+    # Change VI tags to VIM (M for medium voice) for words
+    # ending with "-st"
+    file = re.sub(r"(st\tVI\n)", r"\1M", file)
+
+    # Add a medium voice tag for tags paired with "-st" suffixed
+    # words. Only changes tags consisting of 5 letters.
+    file = re.sub(r"(st\tVN)(\w{3}\n)", r"\1M\2", file)
+
+    # Add an active voice tag to all indicative verbs of length 5.
+    file = re.sub(r"(\tVN)(\w{3}\n)", r"\1A\2", file)
+
     # Add an indicative mood to all other verbs in medium voice
     # and change medium tag (E) to (M)
     file = re.sub(r"\tVE(\w+)", r"\tVNM\1", file)
+
+    # Add an active voice tag to all regular infinitive verbs
+    file = re.sub(r"\tVI\n", r"\tVIA\n", file)
 
     # Adding a medium voice to all tags following past participle
     # verbs ending in "st" (needs to be manually checked to verify!)
