@@ -1,0 +1,140 @@
+{
+    "PoS":{
+        "n":"Nafnorð",
+        "l":"Lýsingarorð",
+        "f":"Fornafn",
+        "g":"Greinir",
+        "t":"Töluorð",
+        "s":"Sagnorð",
+        "a":"Atviksorð",
+        "c":"Samtenging",
+        "k":"Skammstöfun",
+        "e":"Erlent orð",
+        "x":"Ógreint orð",
+        "v":"Tölvupóst-/Veffang",
+        "p":"Greinamerki",
+        "m":"Tákn"
+    },
+    "Kyn":{
+        "k":"Karlkyn",
+        "v":"Kvenkyn",
+        "h":"Hvorugkyn",
+        "-":"Ókyngreint"
+    },
+    "Tala":{
+        "e":"Eintala",
+        "f":"Fleirtala"
+    },
+    "Fall":{
+        "n":"Nefnifall",
+        "o":"Þolfall",
+        "þ":"Þágufall",
+        "e":"Eignarfall"
+    },
+    "Greinir":{
+        "g":"með greini"
+    },
+    "Sérnafn":{
+        "s":"Annað sérnafn"
+    },
+    "Beyging":{
+        "s":"Sterk",
+        "v":"Veik",
+        "o":"Óbeygt"
+    },
+    "Stig":{
+        "f":"Frumstig",
+        "m":"Miðstig",
+        "e":"Efsta stig"
+    },
+    "Persóna":{
+        "1":"1. persóna",
+        "2":"2. persóna",
+        "3":"3. persóna"
+    },
+    "Háttur":{
+        "n":"Nafnháttur",
+        "b":"Boðháttur",
+        "f":"Framöguháttur",
+        "v":"Viðtengingarháttur",
+        "s":"Sagnbót",
+        "l":"Lýsingarháttur nútíðar",
+        "þ":"Lýsingarháttur þátíðar"
+    },
+    "Mynd":{
+        "g":"Germynd",
+        "m":"Miðmynd"
+    },
+    "Tíð":{
+        "n":"Nútíð",
+        "þ":"Þátíð"
+    },
+    "Ákveðni":{
+        "a":"Ákveðinn",
+        "o":"Óákveðinn"
+    },
+    "f-Flokkur":{
+        "a":"Ábendingarfornafn",
+        "b":"Óákveðið ábendingarfornafn",
+        "e":"Eignarfornafn",
+        "o":"Óákveðið fornafn",
+        "p":"Persónufornafn",
+        "s":"Spurnarfornafn",
+        "t":"Tilvísunarfornafn"
+    },
+    "t-Flokkur":{
+        "f":"Frumtala",
+        "a":"Óbeygjanlega tala",
+        "p":"Prósentutala",
+        "o":"Fjöladatala"
+    },
+    "f-Persóna":{
+        "1":"1. Persóna",
+        "2":"2. Persóna",
+        "k":"Karlkyn",
+        "v":"Kvenkyn",
+        "h":"Hvorugkyn"
+    },
+    "Fallstjórn":{
+        "a":"Stýrir ekki falli",
+        "u":"Upphrópun",
+        "f":"Stýrir falli"
+    },
+    "c-Flokkur":{
+        "n":"Nafnháttarmerki",
+        "t":"Tilvísunartenging"
+    },
+    "k-flokkur":{
+        "s":"Skammstöfun",
+        "t":"Stytting"
+    },
+    "p-flokkur":{
+        "l":"Lok setningar",
+        "k":"Komma",
+        "g":"Gæsalappir",
+        "a":"Önnur greinarmerki"
+    },
+    "forked_tags":{
+        "sþ":["Háttur","Mynd", "Kyn", "Tala", "Fall"]
+    },
+    "alternative":{
+        "n----s":"Erlent sérnafn"
+    },
+    "n":["Kyn", "Tala", "Fall", "Greinir", "Sérnafn"],
+    "l":["Kyn", "Tala", "Fall", "Beyging", "Stig"],
+    "f":["f-Flokkur", "f-Persóna", "Tala", "Fall"],
+    "g":["Kyn","Tala","Fall", "Ákveðni"],
+    "t":["t-Flokkur", "Kyn", "Tala", "Fall"],
+    "s":["Háttur", "Mynd", "Persóna", "Tala", "Tíð"],
+    "a":["Fallstjórn", "Stig"],
+    "c":["c-Flokkur"],
+    "k":["k-flokkur"],
+    "e":[],
+    "x":[],
+    "v":[],
+    "p":["p-flokkur"],
+    "m":[],
+    "max_len": 6
+
+
+}
