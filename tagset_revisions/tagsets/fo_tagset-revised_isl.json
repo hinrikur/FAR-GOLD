@@ -125,7 +125,7 @@
     "P":["P-Flokkur", "P-Persóna", "Tala", "Fall"],
     "N":["N-Flokkur", "Kyn", "Tala", "Fall"],
     "V":["Háttur", "Mynd", "Tíð", "Tala", "Persóna"],
-    "R":["Ákveðni", "Kyn", "Tala", "Fall"],
+    "R":["Kyn", "Tala", "Fall", "Ákveðni"],
     "D":["Fallstjórn", "Stig"],
     "C":["C-Flokkur"],
     "F":[],

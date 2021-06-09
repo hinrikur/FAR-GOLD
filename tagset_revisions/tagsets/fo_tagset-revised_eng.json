@@ -125,7 +125,7 @@
     "P":["P-Subcat", "P-Person", "Number", "Case"],
     "N":["N-Subcat", "Gender", "Number", "Case"],
     "V":["Mood", "Voice", "Tense", "Number", "Person"],
-    "R":["Definiteness", "Gender", "Number", "Case"],
+    "R":["Gender", "Number", "Case", "Definiteness"],
     "D":["Case governor", "Degree"],
     "C":["C-Subcat"],
     "F":[],
