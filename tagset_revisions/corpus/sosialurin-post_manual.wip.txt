@@ -102,7 +102,7 @@ og	C
 spæla	VIA
 ?	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 dýpi	SNSN
 av	DG
 dýrari	APSFSD
@@ -358,7 +358,7 @@ teir	PPMPN
 standa	VIA
 og	C
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 ávísari	APSFSD
 hædd	SFSD
 .	KE
@@ -425,7 +425,7 @@ sleppur	VNAPS3
 verður	VNAPS3
 skansin	SMSNA
 til	DG
-eitt	PBNSA
+eitt	RNSAI	x
 skinklut	APSNSA
 korthús	SNSA
 ,	KC
@@ -552,7 +552,7 @@ hvønnannan	PBMPD
 Verkið	SNSNA
 tykist	VNMPP3
 sum	CR
-eitt	PBNSN
+eitt	RNSNI	x
 tonsatungt	APSNSN
 pu	SNSN
 ,	KC
@@ -706,7 +706,7 @@ sum	C
 jú	DN
 aftur	DN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 skapanarverk	SNSN
 ?	KE
 
@@ -827,7 +827,7 @@ føroyska	APWNSD
 meistaraliðnum	APSNPD
 HB	TS
 á	DG
-eini	PBFSD
+eini	RFSDI	x
 pitsamatstovu	SFSA
 og	C
 ótu	VNAAP3
@@ -1604,7 +1604,7 @@ so	DN
 er	VNAPS3
 tað	PPNSN
 eisini	DN
-eitt	PBNSN
+eitt	RNSNI	x
 gott	APSNSN
 hugskot	SNSN
 at	CI
@@ -1698,7 +1698,7 @@ dansifeløgunum	SNPDA
 felag	SNSA
 skipað	VAANSN
 fyri	DG
-eini	PBFSD
+eini	RFSDI	x
 sonevndari	APSFSD
 dansinátt	SFSD
 í	DG
@@ -2142,7 +2142,7 @@ ferðir	SFPA
 
 Tað	PPNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 øgiligt	APSNSN
 nos	SNSN
 ,	KC
@@ -2186,7 +2186,7 @@ syvjar	VNAPS3
 .	KE
 
 Er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 sindur	SNSN
 rísin	VAMSN
 viðhvørt	DN
@@ -2198,7 +2198,7 @@ aftur	DN
 .	KE
 
 Tykist	VNMPS3
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 lúnutur	APSMSN
 .	KE
@@ -2791,7 +2791,7 @@ aðrastaðni	DN
 .	KE
 
 Ger	VNAPS3
-eitt	PBNSA
+eitt	RNSAI	x
 kast	SNSA
 á	DG
 seg	PPMSA
@@ -2863,7 +2863,7 @@ kanska	DN
 ?	KE
 
 Ger	VNAPS3
-eitt	PBNSA
+eitt	RNSAI	x
 kast	SNSA
 á	DG
 seg	PPMSA
@@ -2895,7 +2895,7 @@ spælið	SNSAA
 
 Tað	PPNSN
 liggur	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 mjørkatám	SNSN
 um	DG
 tindarnar	SMPAA
@@ -3848,7 +3848,7 @@ og	C
 úr	DG
 Íslandi	SNSD-P
 komu	VNAAP3
-eini	PBNPN
+eini	RNPNI	x
 hundrað	NC
 fólk	SNPN
 .	KE
@@ -3888,7 +3888,7 @@ til	DG
 Íslands	SNSG-P
 .	KE
 
-Einir	PBNPN
+Einir	RNPNI	x
 100	NO
 íslendingar	SMPN
 vitjaðu	VNAAP3
@@ -3919,7 +3919,7 @@ av	DG
 Talan	SFSN
 var	VNAAS3
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 ferðalag	SNSA
 ,	KC
 ið	CR
@@ -4329,7 +4329,7 @@ sakligt	APSNSA
 skal	VNAPS3
 hava	VIA
 handfarið	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 føroyskt	APSNSA
 mál	SNSA
 á	DG
@@ -5974,7 +5974,7 @@ arbeiðir	VNAPS3
 Martin	SMSN-P
 Hendriksson	SMSN-P
 hjá	DG
-eini	PBFSD
+eini	RFSDI	x
 fyritøku	SFSD
 í	DG
 Gøteborg	SMSD-P
@@ -6041,7 +6041,7 @@ hann	PPMSN
 tykist	VNMPS3
 tó	DN
 kenna	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 til	DG
 ætlanina	SFSAA
@@ -6277,7 +6277,7 @@ arbeiði	SNSA
 í	DG
 sambandi	SNSD
 við	DG
-eitt	PBNSA
+eitt	RNSAI	x
 fyrsta	ASSNSA
 útbjóðingarumfar	SNSA
 .	KE
@@ -6439,7 +6439,7 @@ Joensen	S----P
 ,	KC
 løgmaður	SMSN
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 viðmerking	SFSD
 til	DG
 málið	SNSAA
@@ -6483,7 +6483,7 @@ teir	PPMPN
 vilja	VNAPP3
 geva	VIA
 samráðingunum	SFPDA
-eitt	PBNSA
+eitt	RNSAI	x
 hálvt	APSNSA
 ár	SNSA
 fyri	DN
@@ -6689,7 +6689,7 @@ møti	SNSD
 til	DG
 at	CI
 nærkast	VIM
-eini	PBFSD
+eini	RFSDI	x
 miðlinju	SFSD
 .	KE
 
@@ -6742,7 +6742,7 @@ gott	DN
 nokk	DN
 flutt	VAANSN
 seg	PPMSA
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 á	DG
 føroyska	APWMSD
@@ -6765,7 +6765,7 @@ er	VNAPS3
 at	C
 vit	PP1PN
 hava	VNAPP1
-eitt	PBNSA
+eitt	RNSAI	x
 petti	SNSA
 ,	KC
 sum	CR
@@ -6897,7 +6897,7 @@ skal	VNAPS3
 henda	VIA
 nakað	PBNSN
 innan	DG
-eitt	PBNSA
+eitt	RNSAI	x
 hálvt	APSNSA
 ár	SNSA
 ,	KC
@@ -7025,7 +7025,7 @@ føroyingar	SMPN
 prinsippinum	SNSDA
 er	VNAPS3
 tað	PDNSN
-eitt	PBNSN
+eitt	RNSNI	x
 uttanríkismál	SNSN
 ,	KC
 men	C
@@ -7753,7 +7753,7 @@ so	DN
 kunnu	VNAPP1
 vit	PP1PN
 fáa	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 ómetaliga	DN
 spennandi	APINSA
 endaspæl	SNSA
@@ -9426,7 +9426,7 @@ Line	F
 at	C
 tað	PPNSN
 var	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 mistak	SNSN
 ,	KC
 at	C
@@ -9978,7 +9978,7 @@ hevur	VNAPS3
 játtað	VAANSN
 ,	KC
 at	C
-eini	PBNSN
+eini	RNSNI	x
 45	NO
 næmingar	SMPN
 í	DG
@@ -10005,7 +10005,7 @@ dagarnar	SMPAA
 
 Hetta	PDNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 áhugavert	APSNSN
 samstarv	SNSN
 ,	KC
@@ -11567,7 +11567,7 @@ fáa	VIA
 Føroyum	SFPD-P
 .	KE
 
-Eini	PBFSD
+Eini	RFSDI	x
 20	NO
 tilburðir	SMPN
 av	DG
@@ -12092,7 +12092,7 @@ at	C
 talan	SFSN
 er	VNAPS3
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 lamelldekk	SNSA
 ,	KC
 sigur	VNAPS3
@@ -12188,7 +12188,7 @@ so	DN
 hart	APSNSN
 ,	KC
 sum	C
-eitt	PBNSN
+eitt	RNSNI	x
 summardekk	SNSN
 ,	KC
 tá	C
@@ -12210,7 +12210,7 @@ hált	APSNSN
 «	KQ
 ,	KC
 sum	C
-eitt	PBNSN
+eitt	RNSNI	x
 summardekk	SNSN
 verður	VNAPS3
 í	DG
@@ -12347,7 +12347,7 @@ tey	PPNPN
 búgva	VIA
 upp	DN
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 brekku	SFSD
 í	DG
 Havn	SFSD-P
@@ -12663,7 +12663,7 @@ sjálva	PIFSA
 
 Her	DN
 liggur	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 krevjandi	VPA
 og	C
 rúgvusmikið	APSNSN
@@ -13776,7 +13776,7 @@ pengarnir	SMPNA
 skulu	VNAPP3
 útvegast	VIM
 til	DG
-eitt	PBNSA
+eitt	RNSAI	x
 størri	ACSNSA
 avloysaraskip	SNSA
 enn	DN
@@ -14256,7 +14256,7 @@ eigur	VNAPS3
 løgmannin	SMSAA
 .	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 sindur	SNSN
 av	DG
 uppskotum	SNPD
@@ -14626,7 +14626,7 @@ hetta	PDNSN
 sigast	VIM
 at	CI
 vera	VIA
-eitt	PBNSN
+eitt	RNSNI	x
 satt	APSNSN
 gjøgnumbrot	SNSN
 sigur	VNAPS3
@@ -15615,7 +15615,7 @@ Mtil	DN
 vit	PP1PN
 koma	VNAPP3
 til	DG
-eitt	PBNSA
+eitt	RNSAI	x
 úrslit	SNSA
 ,	KC
 sigur	VNAPS3
@@ -15708,7 +15708,7 @@ Landsstýrinum	SNSDA
 Músin	SFSNA
 kann	VNAPS3
 vera	VIA
-eitt	PBNSN
+eitt	RNSNI	x
 skaðadjór	SNSN
 
 Músaskaðarnir	SMPNA
@@ -16040,7 +16040,7 @@ arbeiði	SNSA
 Telduarbeiði	SNSN
 gevur	VNAPS3
 tær	PP2SD
-eitt	PBNSA
+eitt	RNSAI	x
 læst	APSNSA
 arbeiðsumhvørvi	SNSA
 ,	KC
@@ -16048,7 +16048,7 @@ har	DN
 tú	PP2SN
 situr	VNAPS2
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 læstari	APSFSD
 støðu	SFSD
 framman	DN
@@ -16292,7 +16292,7 @@ munin	SMSAA
 ,	KC
 t.d.	TS
 flyta	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 borðbein	SNSA
 ella	C
 ein	RMSAI	x
@@ -16475,7 +16475,7 @@ Músaskaðar	SMPN
 kunnu	VNAPP3
 standast	VIM
 av	DG
-eini	PBFSD
+eini	RFSDI	x
 samanrenning	SFSD
 av	DG
 nógvum	APSNPD
@@ -16546,7 +16546,7 @@ hvørjum	PBNSD
 einstøkum	APSNSD
 at	CI
 hava	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 gott	APSNSA
 arbeiðsumhvørvi	SNSA
 .	KE
@@ -17068,7 +17068,7 @@ at	C
 fyrireikararnir	SMPNA
 hava	VNAPP3
 lagt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 sera	DN
 stórt	APSNSA
 arbeiði	SNSA
@@ -17335,13 +17335,13 @@ fram	DN
 Talan	SFSN
 er	VNAPS3
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 modell	SNSA
 av	DG
 einum	PBMSD
 boripalli	SMSD
 og	C
-eitt	PBNSA
+eitt	RNSAI	x
 modell	SNSA
 av	DG
 einum	PBNSD
@@ -17423,7 +17423,7 @@ spurningum	SMPD
 annars	DN
 .	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 orgie	SNSN
 av	DG
 ljóði	SNSD
@@ -17460,14 +17460,14 @@ fer	VNAPS3
 at	CI
 seta	VIA
 upp	DN
-eitt	PBNSA
+eitt	RNSAI	x
 rúm	SNSA
 har	DN
 ið	C
 áhoyrararnir	SMPNA
 kunnu	VNAPP3
 uppliva	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 satt	APSNSA
 ljóð	SNSA
 -	KO
@@ -17560,7 +17560,7 @@ sum	CR
 nakað	PBNSN
 forkunnugt	APSNSN
 á	DG
-eini	PBFSD
+eini	RFSDI	x
 sølustevnu	SFSD
 ,	KC
 at	C
@@ -17569,7 +17569,7 @@ Bókagarður	SMSN
 fer	VNAPS3
 at	CI
 vísa	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 úrval	SNSA
 av	DG
 øllum	PBFPD
@@ -17598,7 +17598,7 @@ ein	RMSNI	x
 skúli	SMSN
 við	DN
 á	DG
-eini	PBFSD
+eini	RFSDI	x
 sølustevnu	SFSD
 .	KE
 
@@ -17879,7 +17879,7 @@ og	C
 tann	PDMSA
 hátt	SMSA
 gera	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 eykað	DN
 fyri	DN
@@ -18205,7 +18205,7 @@ etast	VIM
 hóast	C
 smakkurin	SMSNA
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 sindur	SNSN
 øðrvísi	DN
 enn	DN
@@ -18538,7 +18538,7 @@ Seinasta	ASSNSA
 vóru	VNAAP3
 teir	PPMPN
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 líknandi	VPA
 sølustevnu	SFSD
 í	DG
@@ -18611,7 +18611,7 @@ kommunu	SFSD
 Talan	SFSN
 er	VNAPS3
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 rættuliga	DN
 stórt	APSNSA
 øki	SNSA
@@ -18723,7 +18723,7 @@ vit	PP1PN
 vænta	VNAPP3
 ,	KC
 at	C
-einir	PBMPN
+einir	RMPNI	x
 7.000	NO
 rúmmetrar	SMPN
 verða	VNAPP3
@@ -18845,7 +18845,7 @@ kemur	VNAPS3
 av	DG
 ,	KC
 at	C
-eitt	PBNSN
+eitt	RNSNI	x
 arbeiðsøki	SNSN
 má	VNAPS3
 verða	VIA
@@ -18879,7 +18879,7 @@ tað	PPNSA
 soleiðis	DN
 ,	KC
 tí	C
-eitt	PBNSN
+eitt	RNSNI	x
 arbeiðsøki	SNSN
 verður	VNAPS3
 alneyðugt	APSNSN
@@ -18938,7 +18938,7 @@ er	VNAPS3
 liðugt	APSNSN
 ,	KC
 verður	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 øki	SNSN
 upp	DN
 á	DG
@@ -19394,7 +19394,7 @@ stuttum	APSNSD
 fevnir	VNAPS3
 leikurin	SMSNA
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 sirkus	SNSA
 ,	KC
 har	DN
@@ -19773,7 +19773,7 @@ hjá	DG
 børnunum	SNPDA
 ,	KC
 og	C
-eitt	PBNSN
+eitt	RNSNI	x
 barn	SNSN
 við	DG
 avmarkaðum	APSNSD
@@ -20963,7 +20963,7 @@ tinginum	SNSDA
 
 Hann	PPMSN
 fekk	VNAAS3
-eitt	PBNSA
+eitt	RNSAI	x
 kanónval	SNSA
 og	C
 fekk	VNAAS3
@@ -21363,7 +21363,7 @@ Til	DG
 fólkatingsvalið	SNSAA
 fekk	VNAAS3
 Sjálvstýrisflokkurin	SMSNA
-eitt	PBNSA
+eitt	RNSAI	x
 gott	APSNSA
 val	SNSA
 ,	KC
@@ -21496,7 +21496,7 @@ færri	DNC
 Tó	DN
 er	VNAPS3
 eisini	DN
-eitt	PBNSN
+eitt	RNSNI	x
 ávíst	APSNSN
 skifti	SNSN
 farið	VAANSN
@@ -22108,7 +22108,7 @@ plagar	VNAPS3
 tað	PPNSN
 at	CI
 vera	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 truplari	ACSNSN
 hjá	DG
@@ -22629,7 +22629,7 @@ So	DN
 skal	VNAPS3
 hann	PPMSN
 hava	VNAPP3
-eitt	PBNSA
+eitt	RNSAI	x
 uppskot	SNSA
 um	DN
 ,	KC
@@ -22711,7 +22711,7 @@ um	DG
 sjálvsstýrismálið	SNSAA
 ,	KC
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 ynski	SNSN
 um	DN
 ,	KC
@@ -23167,7 +23167,7 @@ hava	VNAPP3
 føroyingar	SMPN
 nú	DN
 fingið	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 rættarmál	SNSA
 í	DG
 bankasakini	SFSDA
@@ -23582,7 +23582,7 @@ arbeiðsleys	APSFSN
 
 Eysturoyggin	SFSNAP
 gjørdi	VNAAS3
-eitt	PBNSA
+eitt	RNSAI	x
 hopp	SNSA
 í	DG
 seinastu	ASWFSD
@@ -23592,7 +23592,7 @@ men	C
 tað	PPNSN
 var	VNAAS3
 bara	DN
-eitt	PBNSN
+eitt	RNSNI	x
 hopp	SNSN
 ,	KC
 tí	C
@@ -23661,7 +23661,7 @@ vakthavandi	VPA
 at	CI
 tað	PPNSN
 hendi	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 ferðsluóhapp	SNSN
 í	DG
 Kollafirði	SMSD-P
@@ -23785,7 +23785,7 @@ hálvgum	DN
 tíðina	SFSAA
 fríggjakvøldið	SNSAA
 hendi	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 ferðsluóhapp	SNSN
 stutt	APSNSN
 innanfyri	DN
@@ -23888,7 +23888,7 @@ skuldi	VNAAS3
 bakka	VIA
 út	DN
 úr	DG
-eini	PBFSD
+eini	RFSDI	x
 garagu	SFSD
 ,	KC
 men	C
@@ -24061,7 +24061,7 @@ royndir	SFPA
 bókmentaliga	DN
 partinum	SMSDA
 verður	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 úrval	SNSN
 av	DG
 tekstum	SMPD
@@ -26289,7 +26289,7 @@ at	CI
 tað	PPNSN
 er	VNAPS3
 á	DG
-eini	PBFSD
+eini	RFSDI	x
 góðari	APSFSD
 leið	SFSD
 .	KE
@@ -26728,7 +26728,7 @@ sum	CR
 lá	VNAAS3
 inni	DN
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 gjógv	SFSA
 ,	KC
 sum	CR
@@ -26813,7 +26813,7 @@ pianofestivali	SMSD
 ið	CR
 er	VNAPS3
 vorðin	VAMSN
-eitt	PBNSN
+eitt	RNSNI	x
 tiltak	SNSN
 ,	KC
 ið	CR
@@ -26943,7 +26943,7 @@ at	CI
 felagið	SNSNA
 fer	VNAPS3
 undir	DN
-eitt	PBNSN
+eitt	RNSNI	x
 stórt	APSNSN
 átak	SNSN
 ,	KC
@@ -27147,7 +27147,7 @@ hava	VIA
 skipað	VAANSN
 landið	SNSAA
 sum	CR
-eitt	PBNSA
+eitt	RNSAI	x
 opið	APSNSN
 samfelag	SNSA
 .	KE
@@ -27165,7 +27165,7 @@ Brunei	SNSN-P
 verður	VNAPS3
 roknað	VAANSN
 sum	CR
-eitt	PBNSA
+eitt	RNSAI	x
 einaræði	SNSN
 ,	KC
 har	DN
@@ -27250,7 +27250,7 @@ Svøríki	SNSN-P
 verður	VNAPS3
 skipað	VAANSN
 sum	C
-eitt	PBNSN
+eitt	RNSNI	x
 lýðveldi	SNSN
 við	DG
 einum	PBMSD
@@ -27404,7 +27404,7 @@ er	VNAPS3
 fyri	DG
 ,	KC
 at	C
-eitt	PBNSN
+eitt	RNSNI	x
 barn	SNSN
 kann	VNAPS3
 koma	VIA
@@ -27564,7 +27564,7 @@ lívshættisligur	APSMSN
 ,	KC
 tí	C
 at	C
-eitt	PBNSN
+eitt	RNSNI	x
 barn	SNSN
 kann	VNAPS3
 blíva	VIA
@@ -27596,7 +27596,7 @@ skal	VNAPS3
 talan	SFSN
 vera	VIA
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 barn	SNSA
 ,	KC
 sum	CR
@@ -27807,7 +27807,7 @@ vísir	VNAPS3
 á	DG
 ,	KC
 at	CI
-eitt	PBNSN
+eitt	RNSNI	x
 tvey	NCNPN
 til	DG
 trý	NCNPN
@@ -27932,7 +27932,7 @@ spurnartekin	SNSA
 við	DG
 ,	KC
 hvussu	DN
-eitt	PBNSN
+eitt	RNSNI	x
 barn	SNSN
 kann	VNAPS3
 detta	VIA
@@ -27940,7 +27940,7 @@ við	DG
 beinunum	SNPDA
 fyrst	DNS
 úr	DG
-eini	PBFSD
+eini	RFSDI	x
 lift	SFSD
 .	KE
 
@@ -28047,7 +28047,7 @@ málið	SNSAA
 Hetta	PDNSN
 gevur	VNAPS3
 Simo	F
-eitt	PBNSN
+eitt	RNSNI	x
 stórt	APSNSA
 sár	SNSA
 ,	KC
@@ -28129,7 +28129,7 @@ um	DG
 -	KO
 tíðina	SFSAA
 fór	VNAAS3
-ein	NCMSN
+ein	RMSNI
 trailari	SMSN
 hjá	DG
 Hera	SMSD-P
@@ -28329,7 +28329,7 @@ upptøkuna	SFSAA
 -	KO
 Tað	PPNSN
 gekk	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 sindur	SNSN
 striltið	APSNSN
 ,	KC
@@ -29798,7 +29798,7 @@ professaranum	SMSDA
 at	C
 russar	SMPN
 høvdu	VNAAP3
-eitt	PBNSA
+eitt	RNSAI	x
 vakið	APSNSA
 eyga	SNSA
 við	DG
@@ -29861,7 +29861,7 @@ at	CI
 verja	VIA
 Føroyar	SFPA-P
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 krígsstøðu	SFSD
 .	KE
 
@@ -30081,7 +30081,7 @@ fram	DN
 at	C
 Føroyar	SFPN-P
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 krígsstøðu	SFSD
 kundu	VNAAP3
 verið	VAANSN
@@ -31348,7 +31348,7 @@ fosturtøku	SFSA
 Men	C
 tað	PPNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 lítið	APSNSN
 mál	SNSN
 at	CI
@@ -31610,7 +31610,7 @@ mál	SNSA
 ,	KC
 fekk	VNAAS3
 einans	DN
-eitt	PBNSA
+eitt	RNSAI	x
 mál	SNSA
 í	DG
 dystinum	SMSDA
@@ -31807,7 +31807,7 @@ odda	SMSD
 14.	NO
 Samstundis	DN
 kom	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 sindur	SNSN
 betur	DN
 skil	SNSN
@@ -31981,7 +31981,7 @@ so	DN
 teir	PPMPN
 kundu	VNAAP3
 fáa	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 av	DG
 luft	SFSD
@@ -32327,7 +32327,7 @@ loyvi	SNSA
 til	DN
 at	CI
 spæla	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 sera	DN
 langt	APSNSA
 álop	SNSA
@@ -32463,7 +32463,7 @@ og	C
 tað	PPNSN
 var	VNAAS3
 á	DG
-eini	PBFSD
+eini	RFSDI	x
 góðari	APSFSD
 leið	SFSD
 .	KE
@@ -32484,7 +32484,7 @@ sigrinum	SMSDA
 men	C
 teir	PPMPN
 manglaðu	VNAAP3
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 av	DG
 tí	PDNSD
@@ -33632,7 +33632,7 @@ Rás	SFSD
 2	NO
 skulu	VNAPP3
 vera	VIA
-eitt	PBNSN
+eitt	RNSNI	x
 alternativ	SNSN
 til	DG
 tíðindini	SNPAA
@@ -33896,7 +33896,7 @@ at	CI
 menna	VIA
 Sosialin	SNSA
 sum	CR
-eitt	PBNSA
+eitt	RNSAI	x
 miðlahús	SNSA
 við	DG
 alskyns	AI
@@ -34050,13 +34050,13 @@ hjá	DG
 Húsamekling	SFSD
 .	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 sindur	SNSN
 eldri	ACSNPN
 hús	SNPN
 eru	VNAPP3
 ofta	DN
-eitt	PBNSN
+eitt	RNSNI	x
 sindur	SNSN
 longri	ACSFSA
 tíð	SFSA
@@ -34104,7 +34104,7 @@ sagt	VAANSN
 meðan	C
 tað	PPNSN
 gongur	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 sindur	SNSN
 meiri	DNC
 striltið	APSNSN
@@ -34118,7 +34118,7 @@ landinum	SNSDA
 har	DN
 arbeiðsmarknaðurin	SMSNA
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 sindur	SNSN
 meiri	DNC
 óstøðugur	APSMSN
@@ -34718,7 +34718,7 @@ burtur	DN
 sigur	VNAPS3
 hann	PPMSN
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 stuttari	APSFSD
 viðmerking	SFSD
 .	KE
@@ -34769,7 +34769,7 @@ Sonny	SMSN-P
 Johannesen	S----P
 
 Fyri	DG
-eini	PBFSD
+eini	RFSDI	x
 tíð	SFSD
 síðan	DN
 skrivaðu	VNAAP3
@@ -34787,7 +34787,7 @@ tá	C
 ið	C
 Enniberg	SNSN-P
 fekk	VNAAS3
-eini	PBNPA
+eini	RNPAI	x
 60	NO
 tons	SNPA
 av	DG
@@ -34811,10 +34811,10 @@ skrivaðu	VNAAP3
 at	CI
 hetta	PDNSN
 var	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 miljónahál	SNSN
 -	KO
-eitt	PBNSN
+eitt	RNSNI	x
 hál	SNSN
 ,	KC
 sum	CR
@@ -35220,7 +35220,7 @@ næsta	ASWNSA
 Strandferðslan	SFSNA
 hevur	VNAPS3
 gjørt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 uppskot	SNSA
 til	DG
 nýggja	APSFSA
@@ -36125,7 +36125,7 @@ kvøðarar	SMPN
 
 Teir	PPMPN
 hava	VNAPP3
-eitt	PBNSA
+eitt	RNSAI	x
 heilt	DN
 sermerkt	APSNSA
 dansilag	SNSA
@@ -36138,7 +36138,7 @@ at	CI
 teir	PPMPN
 hava	VNAPP3
 gjørt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 stórt	APSNSA
 arbeiði	SNSA
 fyri	DN
@@ -36229,7 +36229,7 @@ stuðlað	VAANSN
 og	C
 heiðrað	VAANSN
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 gávu	SFSD
 .	KE
 
@@ -36331,7 +36331,7 @@ var	VNAAS3
 gávan	SFSNA
 ætlað	VAANSN
 sum	C
-eitt	PBNSN
+eitt	RNSNI	x
 herðaklapp	SNSN
 fyri	DG
 arbeiðið	SNSAA
@@ -36435,7 +36435,7 @@ partur	SMSN
 av	DG
 uppskotinum	SNSDA
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 politiskt	APSNSN
 signal	SNSN
 meira	DNC
@@ -36452,7 +36452,7 @@ Jørn	SMSN-P
 Astrup	F
 Hansen	S----P
 yvirtulkar	VNAPS3
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 ,	KC
 tá	C
@@ -36558,7 +36558,7 @@ tískil	DN
 gevi	VNAPS1
 eg	PP1SN
 honum	PPMSD
-eitt	PBNSA
+eitt	RNSAI	x
 tekin	SNSA
 um	DG
 ,	KC
@@ -36763,12 +36763,12 @@ so	DN
 skuldi	VNAAS3
 mann	PBNSN
 havt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 uppskot	SNSA
 ,	KC
 sum	CR
 loyvdi	VNAAS3
-eini	PBFSD
+eini	RFSDI	x
 sølu	SFSD
 av	DG
 upp	DN
@@ -36941,7 +36941,7 @@ tilgongdina	SFSAA
 
 Hetta	PDNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 politiskt	APSNSN
 signal	SNSN
 ,	KC
@@ -37163,7 +37163,7 @@ undanfarnum	VAANPD
 gevur	VNAPS3
 Suðuroyar	SFSG-P
 Sparikassa	SMSD
-eitt	PBNSA
+eitt	RNSAI	x
 nettoúrslit	SNSA
 í	DG
 2003	NO
@@ -37252,7 +37252,7 @@ Eiði	SNSD-P
 Í	DG
 heyst	SNSA
 letur	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 slóðbrótandi	APINSN
 virki	SNSN
 upp	DN
@@ -37302,7 +37302,7 @@ Slóðbrótarar	SMPNA
 Í	DG
 heyst	SNSA
 letur	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 slóðbrótandi	APINSN
 virki	SNSN
 upp	DN
@@ -37312,7 +37312,7 @@ Eiði	SNSD-P
 
 Tað	PPNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 virki	SNSN
 ,	KC
 sum	CR
@@ -37339,7 +37339,7 @@ syftu	SFSD
 er	VNAPS3
 talan	SFSN
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 virki	SNSA
 ,	KC
 sum	CR
@@ -37447,7 +37447,7 @@ við	DG
 um	DG
 at	CI
 stovna	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 bio-tekniskt	APSNSA
 virki	SNSA
 í	DG
@@ -37741,7 +37741,7 @@ eisini	DG
 ,	KC
 at	CI
 fáa	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 gott	APSNSA
 samstarv	SNSA
 við	DG
@@ -38682,7 +38682,7 @@ veruliga	DN
 gera	VNAPP3
 .	KE
 
-Eini	PBNSN
+Eini	RNSNI	x
 95	NP
 prosent	SNPN
 av	DG
@@ -39180,7 +39180,7 @@ vórðu	VNAAP3
 av	DG
 landinum	SNSDA
 vóru	VNAAP3
-eini	PBNPN
+eini	RNPNI	x
 hjún	SNPN
 um	C
 tríati	NC
@@ -39374,7 +39374,7 @@ men	C
 hava	VNAPP3
 tó	DN
 havt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 av	DG
 sambandi	SNSD
@@ -40069,7 +40069,7 @@ samstundis	DN
 kundi	VNAAS3
 ein	PBMSN
 lesa	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 samlað	VAANSN
 yvirlit	SNSA
 sum	C
@@ -40672,7 +40672,7 @@ til	DN
 at	C
 umboð	SNPA
 fyri	DG
-eini	PBNPA
+eini	RNPAI	x
 25	NO
 fiskivinnutjóðir	SFPN
 koma	VIA
@@ -41635,7 +41635,7 @@ tú	PP2SN
 skjótt	DN
 eyga	SNSA
 á	DG
-eini	PBFSA
+eini	RFSAI	x
 2	NO
 -	KO
 3	NO
@@ -41681,7 +41681,7 @@ vildi	VNAAS3
 læna	VIA
 mær	PP1SD
 tráðuna	SFSAA
-eitt	PBNSA
+eitt	RNSAI	x
 bil	SNSA
 ,	KC
 so	DN
@@ -41689,7 +41689,7 @@ eg	PP1SN
 kundi	VNAAS1
 fiska	VIA
 honum	PPMSD
-eitt	PBNSA
+eitt	RNSAI	x
 stórt	APSNSA
 síl	SNSA
 .	KE
@@ -41879,7 +41879,7 @@ standmyndir	SFPN
 framtíðini	SFSDA
 ikki	DN
 verða	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 ferðamál	SNSN
 ,	KC
 bæði	DN
@@ -41901,7 +41901,7 @@ sær	PPMSD
 eru	VNAPP3
 hesar	PDFPN
 myndir	SFPN
-eitt	PBNSN
+eitt	RNSNI	x
 savn	SNSN
 av	DG
 stórslignari	APSFSD
@@ -41958,7 +41958,7 @@ holt	SFSA
 við	DG
 at	CI
 laga	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 torg	SNSA
 í	DG
 góðveðrinum	SNSDA
@@ -42112,7 +42112,7 @@ genta	SFSN
 kundi	VNAAS3
 geva	VIA
 okkum	PP1PD
-eitt	PBNSA
+eitt	RNSAI	x
 avrit	SNSA
 av	DG
 Varmakelduskránni	SFSD
@@ -42456,7 +42456,7 @@ Menniskja	SNSN
 og	C
 søgnum	SFPD
 -	KO
-eitt	PBNSN
+eitt	RNSNI	x
 norðurlendskt	APSNSN
 samtak	SNSN
 .	KE
@@ -42547,7 +42547,7 @@ taka	VIA
 tað	PPNSA
 upp	DN
 sum	C
-eitt	PBNSA
+eitt	RNSAI	x
 gerðarættarmál	SNSA
 .	KE
 
@@ -42830,7 +42830,7 @@ hesir	PDMPN
 tríggir	NCMPN
 seg	PPMSA
 í	DG
-eitt	PBNSA
+eitt	RNSAI	x
 felt	SNSA
 fyri	DG
 seg	PPMSA
@@ -42849,7 +42849,7 @@ metrarnar	SFPAA
 miðróðrinum	SMSDA
 misti	VNAAS3
 Sundabáturin	SMSNA
-eitt	PBNSA
+eitt	RNSAI	x
 fitt	APSNSA
 petti	SNSA
 ,	KC
@@ -43010,7 +43010,7 @@ gullinum	SNSDA
 tí	C
 tað	PPNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 stórt	APSNSN
 plástur	SNSN
 á	DG
@@ -43074,7 +43074,7 @@ Greinin	SFSNA
 er	VNAPS3
 partur	SMSN
 av	DG
-eini	PBFSD
+eini	RFSDI	x
 greinarøð	SFSD
 :	KE
 
@@ -44089,7 +44089,7 @@ Hevur	VNAPS2
 tú	PP2SN
 kikara	SMSA
 og	C
-eitt	PBNSA
+eitt	RNSAI	x
 kort	SNSA
 yvir	DG
 økið	SNSAA
@@ -44560,7 +44560,7 @@ hevði	VNAAS3
 aftur	DN
 í	DG
 fjør	SX
-eitt	PBNSA
+eitt	RNSAI	x
 hall	SNSA
 á	DG
 ársroknskapinum	SMSDA
@@ -44793,7 +44793,7 @@ Bárður	SMSN-P
 Nielsen	S----P
 ,	KC
 fær	VNAPS3
-eitt	PBNSA
+eitt	RNSAI	x
 herðaklapp	SNSA
 frá	DG
 føroysku	APWFPD
@@ -45072,7 +45072,7 @@ skilagóð	APSFSN
 avgerð	SFSN
 .	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 bræv	SNSN
 ,	KC
 har	DN
@@ -45460,7 +45460,7 @@ farnir	VAMPN
 várfjall	SNSA
 .	KE
 
-Einir	PBNPN
+Einir	RNPNI	x
 tveir	NR
 tríggir	NCMPN
 hjálparmenn	SMPN
@@ -45840,7 +45840,7 @@ ikki	DN
 á	DG
 sama	PIMSA
 hátt	SMSA
-eitt	PBNSA
+eitt	RNSAI	x
 brúkararáð	SNSA
 við	DG
 politiskum	APSFSD
@@ -45931,7 +45931,7 @@ Metiskt	APSNSA
 ókorrekt	APSNSA
 at	CI
 halda	VIA
-eini	PBFSD
+eini	RFSDI	x
 framleiðslu	SFSD
 uttanfyri	DG
 hálvalmenna	APWNSA
@@ -46118,7 +46118,7 @@ fólk	SNPN
 sum	CR
 hava	VNAPP3
 gjørt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 stórt	APSNSA
 arbeiði	SNSA
 fyri	DN
@@ -46379,7 +46379,7 @@ aftur	DN
 skapt	VAANSN
 møguleikar	SMPA
 fyri	DG
-eini	PBFSD
+eini	RFSDI	x
 øking	SFSD
 í	DG
 okkara	PP1PG
@@ -46486,7 +46486,7 @@ nú	DN
 tikin	VAMSN
 upp	DN
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 ST	TS
 -	KO
 nevnd	SFSD
@@ -46777,7 +46777,7 @@ verja	VIA
 St	F
 Kilda	F
 sum	C
-eitt	PBNSA
+eitt	RNSAI	x
 framtíðar	SFSG
 náttúruøki	SNSA
 sigur	VNAPS3
@@ -47124,7 +47124,7 @@ kunnu	VNAPP3
 verða	VNAPP3
 hótt	VAANPN
 av	DG
-eini	PBFSD
+eini	RFSDI	x
 oljuleiting	SFSD
 .	KE
 
@@ -47860,7 +47860,7 @@ vegna	DG
 plátufelagið	SNSNA
 Tutl	SNSA
 gjørt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 við	DN
 at	CI
@@ -48043,7 +48043,7 @@ fígging	SFSN
 fæst	VNMPS3
 .	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 úrslit	SNSN
 av	DG
 hesum	PDNSD
@@ -48126,7 +48126,7 @@ Mfyri	DG
 uttanfyristandandi	VPA
 ,	KC
 sum	CR
-eitt	PBNSN
+eitt	RNSNI	x
 tónleikaligt	APSNSN
 síðustykki	SNSN
 til	DG
@@ -48243,7 +48243,7 @@ vera	VIA
 Cannes	F
 ljóðar	VNAPS3
 sum	CR
-eitt	PBNSN
+eitt	RNSNI	x
 upplivilsi	SNSN
 .	KE
 
@@ -48298,7 +48298,7 @@ stóru	APWNSD
 lond	SNPN
 luttaka	VNAPP3
 og	C
-eini	PBNPN
+eini	RNPNI	x
 10.000	NO
 fólk	SNPN
 luttaka	VNAPP3
@@ -48518,7 +48518,7 @@ bási	SMSD
 er	VNAPS3
 kostnaðarmikið	APSNSN
 ,	KC
-eini	PBNPA
+eini	RNPAI	x
 50.000	NO
 krónur	SFPA
 fyri	DG
@@ -48820,7 +48820,7 @@ Eina	PBFSA
 stóra	APSFSA
 bók	SFSA
 ,	KC
-eitt	PBNSA
+eitt	RNSAI	x
 yvirlit	SNSA
 ,	KC
 har	DN
@@ -49471,7 +49471,7 @@ Paris	F
 Musicora	F
 .	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 tiltak	SNSN
 ,	KC
 við	DG
@@ -50014,7 +50014,7 @@ Kjølum	SMPD
 Flux	F
 høvdu	VNAAP3
 gjørt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 Burturúr	DG
 pallframførsluni	SFSDA
@@ -51063,14 +51063,14 @@ roknað	VAANSN
 við	DN
 ,	KC
 nú	DN
-eitt	PBNSN
+eitt	RNSNI	x
 sjáldsamt	APSNSN
 høvi	SNSN
 beyðst	VNMAS3
 til	DN
 at	CI
 síggja	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 føroyskt	APSNSA
 hondbóltslandslið	SNSA
 .	KE
@@ -52217,7 +52217,7 @@ Bygdarráðið	SNSNA
 í	DG
 Vestmanna	SFSD-P
 gjørdi	VNAAS3
-eitt	PBNSA
+eitt	RNSAI	x
 ógvuliga	DN
 stórt	APSNSA
 arbeiði	SNSA
@@ -53013,7 +53013,7 @@ Johannesen	S----P
 sigur	VNAPS3
 ,	KC
 at	C
-eitt	PBNSN
+eitt	RNSNI	x
 úrslit	SNSN
 av	DG
 fundinum	SMSDA
@@ -53399,7 +53399,7 @@ sum	CR
 keypa	VNAPP3
 fisk	SMSA
 á	DG
-eini	PBFSD
+eini	RFSDI	x
 avreiðingarmiðsstøð	SFSD
 fáa	VNAPP3
 ongan	PBMSA
@@ -53667,7 +53667,7 @@ orduliga	APSFSA
 skolu	SFSA
 og	C
 kanska	DN
-eitt	PBNSA
+eitt	RNSAI	x
 misálit	SNSA
 ,	KC
 tá	C
@@ -54385,7 +54385,7 @@ Og	C
 tí	PDNSD
 sambandinum	SNSDA
 vóru	VNAAP3
-eini	PBNPN
+eini	RNPNI	x
 40	NO
 fyrrverandi	AI
 og	C
@@ -54411,7 +54411,7 @@ brúkt	VAANSN
 morsing	SFSA
 ,	KC
 sum	CR
-eitt	PBNSN
+eitt	RNSNI	x
 "	KQ
 arbeiðstól	SNSN
 "	KQ
@@ -54599,7 +54599,7 @@ Føroya	SFPG-P
 Tele	F
 sigur	VNAPS3
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 viðmerking	SFSD
 ,	KC
 at	C
@@ -54939,7 +54939,7 @@ varð	VNAAS3
 noyddur	VAMSN
 at	CI
 turka	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 tár	SNSA
 úr	DG
 eygnakrókunum	SMPDA
@@ -55298,7 +55298,7 @@ hann	PPMSN
 vónar	VNAPS3
 at	CI
 fáa	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 sakligt	APSNSA
 og	C
 breitt	APSNSA
@@ -55524,7 +55524,7 @@ dønum	SMPD
 
 Løgmaður	SMSN
 ber	VNAPS3
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 av	DG
 ótta	SMSD
@@ -55562,7 +55562,7 @@ tingi	SNSD
 so	DN
 er	VNAPS3
 hetta	PDNSN
-eitt	PBNSN
+eitt	RNSNI	x
 øki	SNSN
 ,	KC
 sum	CR
@@ -56097,7 +56097,7 @@ vit	PP1PN
 hava	VNAPP1
 samráðst	VAMNSN
 í	DG
-eini	PBNPA
+eini	RNPAI	x
 8	NO
 ár	SNPA
 um	DG
@@ -56271,7 +56271,7 @@ hesum	PDNSD
 stóra	APWNSD
 máli	SNSD
 vera	VIA
-eitt	PBNSN
+eitt	RNSNI	x
 slag	SNSN
 av	DG
 katalysatori	SMSD
@@ -56388,7 +56388,7 @@ tað	PPNSN
 ikki	DN
 hevði	VNAAS3
 verið	VAANSN
-eitt	PBNSN
+eitt	RNSNI	x
 gott	APSNSN
 hugskot	SNSN
 at	C
@@ -56417,7 +56417,7 @@ Tað	PPNSN
 hevði	VNAAS3
 helst	DNS
 verið	VAANSN
-eitt	PBNSN
+eitt	RNSNI	x
 frálíkt	APSNSN
 hugskot	SNSN
 ,	KC
@@ -56535,7 +56535,7 @@ sum	CR
 skipar	VNAPS3
 Føroyar	SFPA-P
 sum	C
-eitt	PBNSA
+eitt	RNSAI	x
 sjálvstøðugt	APSNSA
 land	SNSA
 við	DG
@@ -56673,7 +56673,7 @@ nevndin	SFSNA
 at	CI
 semjast	VIM
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 heilsufrøðiligt	APSNSA
 samstarv	SNSA
 í	DG
@@ -56848,7 +56848,7 @@ menning	SFSA
 Arktiska	APWNSN
 Ráðið	SNSNA
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 gott	APSNSN
 dømi	SNSN
 um	DG
@@ -56994,7 +56994,7 @@ fundin	SMSAA
 ,	KC
 og	C
 var	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 formansuppskot	SNSN
 umframt	DG
 Karl	SMSA-P
@@ -57207,7 +57207,7 @@ blett	SMSA
 í	DG
 miðbýnum	SMSDA
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 ætlan	SFSD
 at	CI
 samanbinda	VIA
@@ -57387,7 +57387,7 @@ bólkur	SMSN
 við	DG
 at	CI
 gera	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 álit	SNSA
 um	DG
 ,	KC
@@ -57506,7 +57506,7 @@ at	CI
 byggja	VIA
 eldraíbúðir	SFPA
 á	DG
-eini	PBFSD
+eini	RFSDI	x
 trøð	SFSD
 ,	KC
 teir	PPMPN
@@ -57532,7 +57532,7 @@ verk	SNSA
 er	VNAPS3
 talan	SFSN
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 rættiliga	APSNSA
 stórt	APSNSA
 tal	SNSA
@@ -57640,7 +57640,7 @@ egnað	VAANPN
 til	DN
 .	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 upprit	SNSN
 er	VNAPS3
 gjørt	VAANSN
@@ -57657,7 +57657,7 @@ og	C
 hvussu	DN
 nógv	APSNPA
 fólk	SNPA
-eitt	PBNSN
+eitt	RNSNI	x
 sambýli	SNSN
 kann	VNAPS3
 hýsa	VIA
@@ -58016,7 +58016,7 @@ tí	DN
 at	C
 hann	PPMSN
 hevur	VNAPS3
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 av	DG
 skili	SNSD
@@ -58186,7 +58186,7 @@ hevur	VNAPS3
 hann	PPMSN
 sjálvandi	DN
 ikki	DN
-eitt	PBNSA
+eitt	RNSAI	x
 virði	SNSA
 upp	DN
 á	DG
@@ -58251,7 +58251,7 @@ katamaran	SMSA
 til	DG
 suðuroyarsiglingina	SFSAA
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 royndartíð	SFSD
 ,	KC
 heldur	VNAPS3
@@ -58490,7 +58490,7 @@ tað	PPNSA
 
 Teir	PPMPN
 hava	VNAPP3
-eitt	PBNSA
+eitt	RNSAI	x
 byggisnið	SNSA
 og	C
 somuleiðis	DN
@@ -58629,7 +58629,7 @@ vit	PP1PN
 kunnu	VNAPP1
 ofra	VIA
 fyri	DN
-eitt	PBNSA
+eitt	RNSAI	x
 frálíkt	APSNSA
 samband	SNSA
 350	NO
@@ -58715,7 +58715,7 @@ verður	VNAPS3
 ómøguligt	APSNSN
 at	CI
 leiga	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 skip	SNSA
 ímeðan	C
 Smyril	SMSN
@@ -58862,7 +58862,7 @@ er	VNAPS3
 framvegis	DN
 at	CI
 fyrireika	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 nýtt	APSNSA
 suðuroyarskip	SNSA
 .	KE
@@ -59444,7 +59444,7 @@ fiskivinnutjóð	SFSN
 
 Teir	PPMPN
 eru	VNAPP3
-eitt	PBNSN
+eitt	RNSNI	x
 stórt	APSNSN
 strandaland	SNSN
 ,	KC
@@ -59501,7 +59501,7 @@ Vesturvón	SFSN
 at	C
 sloppið	VAANSN
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 ávaring	SFSD
 ,	KC
 ella	C
@@ -59518,7 +59518,7 @@ fyri	DN
 at	CI
 hava	VIA
 verið	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 lítið	APSNSA
 sindur	SNSA
 við	DG
@@ -60409,7 +60409,7 @@ Um	DG
 stutta	APSFSA
 tíð	SFSA
 kemur	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 nýtt	APSNSN
 farmaskip	SNSN
 í	DG
@@ -60442,7 +60442,7 @@ at	CI
 gera	VIA
 íløgur	SFPA
 í	DG
-eitt	PBNSA
+eitt	RNSAI	x
 farmaskip	SNSA
 .	KE
 
@@ -60472,7 +60472,7 @@ bygdur	VAMSN
 í	DG
 1971	NO
 til	DG
-eitt	PBNSA
+eitt	RNSAI	x
 danskt	APSNSA
 felag	SNSA
 ,	KC
@@ -60719,7 +60719,7 @@ afturat	DN
 -	KO
 Hetta	PDNSN
 verður	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 serbygt	APSNSN
 skip	SNSN
 til	DG
@@ -60860,7 +60860,7 @@ neyðugt	APSNSN
 at	CI
 útvega	VIA
 okkum	PP1PD
-eitt	PBNSA
+eitt	RNSAI	x
 skip	SNSA
 ,	KC
 sum	CR
@@ -60907,7 +60907,7 @@ Tí	C
 hava	VNAPP3
 teir	PPMPN
 keypt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 stórt	APSNSA
 skip	SNSA
 til	DG
@@ -60998,7 +60998,7 @@ mánadagin	SMSAA
 
 Mánadagin	SMSAA
 opnaði	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 nýtt	APSNSN
 marknaðarførings	SNSN
 -	KO
@@ -61725,7 +61725,7 @@ ein	PBMSN
 ,	KC
 ið	CR
 keypir	VNAPS3
-eitt	PBNSA
+eitt	RNSAI	x
 grundøki	SNSA
 frá	DG
 Tórshavnar	SFSG-P
@@ -61875,7 +61875,7 @@ metir	VNAPS3
 at	C
 talan	SFSN
 um	DG
-eini	PBNPA
+eini	RNPAI	x
 50	NO
 -	KO
 100	NO
@@ -62127,7 +62127,7 @@ Og	C
 tað	PPNSN
 skuldi	VNAAS3
 bøtt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 um	DG
 støðuna	SFSAA
@@ -62233,7 +62233,7 @@ var	VNAAS3
 eisini	DN
 í	DG
 semingsuppskotinum	SNSDA
-eitt	PBNSN
+eitt	RNSNI	x
 protokollat	SNSN
 viðvíkjandi	DG
 edv	TS
@@ -62656,7 +62656,7 @@ tosa	VIA
 um	DN
 at	CI
 fáa	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 undirhús	SNSA
 .	KE
 
@@ -63426,7 +63426,7 @@ hava	VNAPP1
 vit	PP1PN
 leigað	VAANSN
 okkum	PP1PD
-eini	PBNSA
+eini	RNSAI	x
 hús	SNSA
 ,	KC
 og	C
@@ -64145,7 +64145,7 @@ túr	SMSA
 Væntandi	VPA
 verða	VNAPP3
 tað	PPNSN
-einir	PBMPN
+einir	RMPNI	x
 seks	NC
 súkklarar	SMPN
 ,	KC
@@ -66101,7 +66101,7 @@ niður	DN
 endaði	VNAAS3
 ósemjan	SFSNA
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 avtalu	SFSD
 ímillum	DG
 sjúkrasystrafelagið	SNSAA
@@ -66535,10 +66535,10 @@ hjá	DG
 portørunum	SMPDA
 at	CI
 hava	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 kuffert	SNSA
 við	DG
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 av	DG
 hjálpiútgerð	SFSD
@@ -66811,7 +66811,7 @@ Jacobsen	S----P
 vera	VIA
 nógv	DN
 fyri	DG
-eitt	PBNSA
+eitt	RNSAI	x
 neyðsendarafar	SNSA
 .	KE
 
@@ -67037,7 +67037,7 @@ vann	VNAAS3
 Í	DG
 fjør	SNSA
 gekk	VNAAS3
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 upp	DN
 og	C
@@ -68189,7 +68189,7 @@ Johan	SMSN-P
 í	DG
 Kollafirði	SMSD-P
 sær	VNAPS3
-eitt	PBNSA
+eitt	RNSAI	x
 lítið	APSNSA
 prát	SNSA
 við	DG
@@ -68272,7 +68272,7 @@ bólkin	SMSAA
 og	C
 vantaði	VNAAS3
 kanska	DN
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 av	DG
 veniing	SFSD
@@ -68372,7 +68372,7 @@ sungu	VNAAP3
 við	DN
 og	C
 fluttu	VNAAP3
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 runt	DN
 við	DG
@@ -68410,7 +68410,7 @@ loftinum	SNSDA
 var	VNAAS3
 skipað	VAANSN
 fyri	DG
-eini	PBFSD
+eini	RFSDI	x
 sokallaðari	APSFSD
 pool	F
 -	KO
@@ -68587,14 +68587,14 @@ annað	PBNSA
 var	VNAAS3
 skipað	VAANSN
 fyri	DG
-eini	PBFSD
+eini	RFSDI	x
 kapping	SFSD
 ,	KC
 har	DN
-eitt	PBNSN
+eitt	RNSNI	x
 konufólk	SNSN
 og	C
-eitt	PBNSN
+eitt	RNSNI	x
 mannfólk	SNSN
 í	DG
 felag	SNSD
@@ -68790,7 +68790,7 @@ at	C
 fólkið	SNSNA
 eisini	DN
 spjaddist	VNMAS3
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 runt	DN
 í	DG
@@ -68856,7 +68856,7 @@ hátalara	SMSD
 Tað	PPNSN
 var	VNAAS3
 tó	DN
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 ov	DN
 nógv	DN
@@ -70641,7 +70641,7 @@ sparingar	SFPA
 ,	KC
 metast	VIM
 sum	C
-eitt	PBNSN
+eitt	RNSNI	x
 greitt	APSNSN
 tekin	SNSN
 frá	DG
@@ -71029,7 +71029,7 @@ hava	VNAPP3
 tær	PPFPN
 strekt	VAANSN
 til	DG
-eitt	PBNSA
+eitt	RNSAI	x
 so	DN
 dýrt	APSNSA
 tól	SNSA
@@ -71137,7 +71137,7 @@ aftur	DN
 -	KO
 Skannarin	SMSNA
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 slag	SNSN
 av	DG
 røntgentóli	SNSD
@@ -71244,7 +71244,7 @@ nú	DN
 nøkur	PBNPA
 ár	SNPA
 havt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 álvarsligt	APSNSA
 plásstrot	SNSA
 at	CI
@@ -71270,7 +71270,7 @@ stríðst	VIM
 við	DN
 at	CI
 finna	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 pláss	SNSA
 at	CI
 seta	VIA
@@ -71362,7 +71362,7 @@ loysn	SFSA
 -	KO
 Hetta	PDNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 mál	SNSN
 ,	KC
 sum	CR
@@ -71453,7 +71453,7 @@ og	C
 væl	DN
 sum	C
 eftir	DG
-eini	PBFSD
+eini	RFSDI	x
 linial	SFSD
 .	KE
 
@@ -71616,7 +71616,7 @@ brúka	VIA
 hann	PPMSA
 .	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 stórt	APSNSN
 framstig	SNSN
 
@@ -71627,7 +71627,7 @@ at	C
 hesin	PDMSN
 skannarin	SMSNA
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 sera	DN
 stórt	APSNSN
 framstig	SNSN
@@ -71712,7 +71712,7 @@ sjúkrahúsi	SNSD
 -	KO
 Hetta	PDNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 tól	SNSN
 ,	KC
 sum	CR
@@ -71728,7 +71728,7 @@ fáa	VIA
 -	KO
 Hetta	PDNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 tól	SNSN
 ,	KC
 sum	CR
@@ -71750,7 +71750,7 @@ Ree	S----P
 sigur	VNAPS3
 ,	KC
 at	C
-eitt	PBNSN
+eitt	RNSNI	x
 úrslit	SNSN
 av	DG
 hesum	PDNSD
@@ -71843,7 +71843,7 @@ long	APSFSN
 tilgongd	SFSN
 at	CI
 ættleiða	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 barn	SNSA
 .	KE
 
@@ -72033,7 +72033,7 @@ góðkenningum	SFPD
 av	DG
 ættleiðingarforeldrum	SNPD
 til	DG
-eitt	PBNSA
+eitt	RNSAI	x
 útlendskt	APSNSA
 barn	SNSA
 ,	KC
@@ -72187,12 +72187,12 @@ foreldur	SNPN
 ,	KC
 ið	CR
 ættleiða	VNAPP3
-eitt	PBNSA
+eitt	RNSAI	x
 útlendskt	APSNSA
 barn	SNSA
 ,	KC
 fáa	VNAPP3
-eitt	PBNSA
+eitt	RNSAI	x
 ættleiðingarískoyti	SNSA
 á	DG
 15.000	NO
@@ -73238,7 +73238,7 @@ tað	PPNSN
 er	VNAPS3
 neyðugt	APSNSN
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 størri	ACSFSD
 tyrlu	SFSD
 ,	KC
@@ -73269,7 +73269,7 @@ huga	SMSD
 ,	KC
 men	C
 eisini	DN
-eini	PBFSD
+eini	RFSDI	x
 møguligari	APSFSD
 frálandavinnu	SFSD
 .	KE
@@ -73296,7 +73296,7 @@ felagið	SNSNA
 løtuni	SFSDA
 arbeiðir	VNAPS3
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 frágreiðing	SFSD
 til	DG
 myndugleikarnar	SMPAA
@@ -74471,7 +74471,7 @@ neyðugt	APSNSN
 at	CI
 stilla	VIA
 búskapin	SMSAA
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 .	KE
 
@@ -75031,7 +75031,7 @@ so	DN
 virkið	VAANSN
 .	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 Manskór	SNSN
 var	VNAAS3
 í	DG
@@ -75443,7 +75443,7 @@ um	DG
 eina	PBFSA
 lønarhækking	SFSA
 uppá	DG
-eini	PBNPA
+eini	RNPAI	x
 28	NP
 %	M
 .	KE
@@ -75555,7 +75555,7 @@ vísur	APSMSN
 í	DG
 at	CI
 fáa	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 aftursvar	SMPNA
 frá	DG
 okkum	PP1PD
@@ -75932,7 +75932,7 @@ Norðurlond	SNPN-P
 sett	VAANPN
 fram	DN
 sum	CR
-eitt	PBNSN
+eitt	RNSNI	x
 einsháttað	APSNSN
 øki	SNSN
 ,	KC
@@ -76124,7 +76124,7 @@ klettar	SMPN
 ein	PBMSA
 teirra	PPMPG
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 skelti	SNSN
 við	DG
 navninum	SNSDA
@@ -76182,7 +76182,7 @@ skeltum	SNPDA
 Kvívalsheygur	SMSN-P
 er	VNAPS3
 bert	DN
-eitt	PBNSN
+eitt	RNSNI	x
 stað	SNSN
 ;	KC
 skelti	SNPN
@@ -76582,7 +76582,7 @@ kommununi	SFSDA
 væntar	VNAPS3
 ,	KC
 at	C
-eini	PBNPN
+eini	RNPNI	x
 tíggju	NCNPN
 byggiloyvi	SNPN
 fara	VNAPP3
@@ -78416,7 +78416,7 @@ at	CI
 stuðla	VIA
 henni	PPFSD
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 árligari	APSFSD
 upphædd	SFSD
 til	DG
@@ -78455,7 +78455,7 @@ fíggjarlógina	SFSAA
 tí	C
 hon	PPFSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 stórfingið	VAANSN
 umboð	SNSN
 fyri	DG
@@ -78669,7 +78669,7 @@ var	VNAAS3
 drápið	SNSNA
 liðugt	APSNSN
 ;	KC
-eitt	PBNSN
+eitt	RNSNI	x
 sindur	SNSN
 striltið	APSNSN
 gekst	VNMAS3
@@ -78958,7 +78958,7 @@ nú	DN
 valt	VAANSN
 at	CI
 leiga	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 skip	SNSA
 og	C
 so	DN
@@ -79501,7 +79501,7 @@ heldur	DNC
 til	DN
 at	CI
 brúka	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 av	DG
 pengum	SMPD
@@ -79756,7 +79756,7 @@ hesar	PDFPA
 fýra	NC
 leiðir	SFPA
 ,	KC
-eitt	PBNSN
+eitt	RNSNI	x
 gott	APSNSN
 grundarlag	SNSN
 fyri	DG
@@ -79878,7 +79878,7 @@ at	DG
 fullveldinum	SNSDA
 og	C
 ger	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 møguligt	APSNSN
 skifti	SNSN
 til	DG
@@ -80193,7 +80193,7 @@ avgerandi	VPA
 at	C
 vit	PP1PN
 fáa	VNAPP3
-einar	PBFPA
+einar	RFPAI	x
 frælsar	APSFPA
 Føroyar	SFPA-P
 við	DG
@@ -80338,7 +80338,7 @@ til	DN
 ,	KC
 at	CI
 hava	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 sjálvstøðugt	APSNSA
 land	SNSA
 ,	KC
@@ -80362,7 +80362,7 @@ sýnir	VNAPS3
 okkum	PP1PA
 ,	KC
 at	C
-eini	PBFSD
+eini	RFSDI	x
 tjóð	SFSD
 ikki	DN
 longur	DN
@@ -80816,7 +80816,7 @@ noyddur	VAMSN
 til	DG
 at	CI
 hyggja	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 breiðari	DNC
 uppá	DG
@@ -81056,7 +81056,7 @@ bað	VNAAS3
 landsstýrismannin	SMSAA
 koma	VIA
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 skrivligari	APSFSD
 fráboðan	SFSD
 um	DG
@@ -81225,7 +81225,7 @@ noyddur	VAMSN
 til	DG
 at	CI
 hyggja	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 breiðari	DNC
 uppá	DG
@@ -81634,7 +81634,7 @@ vera	VIA
 Eg	PP1SN
 skal	VNAPS3
 brúka	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 skotbrá	SNSA
 uppá	DN
 nakrar	PBMPA
@@ -83179,7 +83179,7 @@ hita	VIA
 upp	DN
 ,	KC
 tosa	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 saman	DN
 og	C
@@ -83408,7 +83408,7 @@ Vit	PP1PN
 koma	VNAPP1
 at	CI
 sita	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 longri	DNC
 frá	DG
@@ -83689,7 +83689,7 @@ Suðuroynni	SFSDAP
 
 Tað	PPNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 ómataligt	APSNSN
 fall	SNSN
 ,	KC
@@ -84311,7 +84311,7 @@ umheimin	SMSAA
 soleiðis	DN
 ,	KC
 at	C
-eitt	PBNSN
+eitt	RNSNI	x
 skip	SNSN
 siglir	VNAPS3
 kring	DG
@@ -85032,7 +85032,7 @@ verður	VNAPS3
 at	C
 bilurin	SMSNA
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 amboð	SNSN
 ,	KC
 og	C
@@ -85193,7 +85193,7 @@ verður	VNAPS3
 nevniliga	DN
 selt	VAANSN
 til	DG
-eitt	PBNSA
+eitt	RNSAI	x
 reiðarí	SNSA
 við	DG
 íslendskum	APSMSD
@@ -85404,7 +85404,7 @@ vilji	SMSN
 -	KO
 Tað	PPNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 ógvuliga	DN
 tungt	APSNSN
 tak	SNSN
@@ -85509,7 +85509,7 @@ við	DN
 at	CI
 leggja	VIA
 fram	DN
-eitt	PBNSA
+eitt	RNSAI	x
 uppskot	SNSA
 um	DG
 endurnýggjan	SFSA
@@ -85725,7 +85725,7 @@ at	CI
 fáa	VIA
 fígging	SFSA
 til	DG
-eitt	PBNSA
+eitt	RNSAI	x
 nýtt	APSNSA
 skip	SNSA
 ,	KC
@@ -86502,7 +86502,7 @@ islam	SNSAA
 .	KE
 
 Og	C
-eitt	PBNSA
+eitt	RNSAI	x
 hálvt	APSNSA
 ár	SNSA
 eftir	DG
@@ -86771,7 +86771,7 @@ og	C
 maður	SMSN
 hennara	PPFSG
 hava	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 barn	SNSA
 .	KE
 
@@ -87579,7 +87579,7 @@ eru	VNAPP1
 eisini	DN
 regluliga	DN
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 moské	SFSD
 her	DN
 í	DG
@@ -87595,7 +87595,7 @@ at	C
 eg	PP1SN
 eri	VNAPS1
 vorðin	VAAFSN
-eitt	PBNSN
+eitt	RNSNI	x
 betri	DNC
 menniskja	SNSN
 ,	KC
@@ -87820,7 +87820,7 @@ hjálpa	VIA
 fólkinum	SNSDA
 .	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 flogfar	SNSN
 hevur	VNAPS3
 eisini	DN
@@ -88442,11 +88442,11 @@ Men	C
 er	VNAPS3
 tað	PPNSN
 ikki	DN
-eitt	PBNSN
+eitt	RNSNI	x
 sindur	SNSN
 nasadjarvt	APSNSN
 av	DG
-eini	PBFSD
+eini	RFSDI	x
 fremmandari	APSFSD
 mentan	SFSD
 at	CI
@@ -88943,7 +88943,7 @@ At	CI
 fita	VIA
 teir	PPMPA
 eru	VNAPP3
-eini	PBNPN
+eini	RNPNI	x
 vísindi	SNPN
 heilt	DN
 fyri	DG
@@ -89166,7 +89166,7 @@ tó	DN
 at	C
 tað	PPNSN
 vigar	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 sindur	SNSN
 minni	DNC
 og	C
@@ -89997,7 +89997,7 @@ hví	DN
 ein	RMSNI	x
 veðrur	SMSN
 ella	C
-eitt	PBNSN
+eitt	RNSNI	x
 lamb	APSNSN
 hilnaðist	VNMAS3
 betur	DN
@@ -90464,7 +90464,7 @@ tað	PPNSN
 tó	DN
 ,	KC
 at	C
-eitt	PBNSN
+eitt	RNSNI	x
 standard	F
 DRAM	F
 -	KO
@@ -91256,7 +91256,7 @@ luktar	VNAPS3
 langan	APSMSA
 veg	SMSA
 av	DG
-eini	PBFSD
+eini	RFSDI	x
 fyritøku	SFSD
 ,	KC
 sum	CR
@@ -91653,7 +91653,7 @@ Føroya	SFPG-P
 Lærarafelag	SNSN
 sigur	VNAPS3
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 viðmerking	SFSD
 ,	KC
 at	C
@@ -92191,12 +92191,12 @@ er	VNAPS3
 at	CI
 sleppa	VIA
 tí	PDFSD
-eini	PBFSD
+eini	RFSDI	x
 ferðini	SFSDA
 mánadag	SMSA
 og	C
 tí	PDFSD
-eini	PBFSD
+eini	RFSDI	x
 ferðini	SFSDA
 leygardag	SMSA
 .	KE
@@ -92300,7 +92300,7 @@ bíða	VIA
 Eisini	DN
 tað	PPNSN
 var	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 mál	SNSN
 ,	KC
 sum	CR
@@ -93891,7 +93891,7 @@ smá	APSNPN
 fáa	VNAPP3
 t-blusur	SFPA
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 tekning	SFSD
 ,	KC
 sum	CR
@@ -94393,7 +94393,7 @@ Framtíð	SFSA
 Føroya	SFPG-P
 .	KE
 
-Eini	PBNSD
+Eini	RNSDI	x
 130	NO
 ungfólk	SNPN
 høvdu	VNAAP3
@@ -94403,7 +94403,7 @@ til	DN
 men	C
 luttakaratalið	SNSNA
 varð	VNAAS3
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 lægri	ACSNSN
 tá	C
@@ -96232,7 +96232,7 @@ dag	SMSA
 -	KO
 Tað	PPNSN
 var	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 óhapp	SNSN
 av	DG
 tí	PDNSD
@@ -96392,7 +96392,7 @@ til	DN
 ,	KC
 so	DN
 sá	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 hugskot	SNSN
 dagsins	SMSGA
 ljós	SNSA
@@ -96482,7 +96482,7 @@ Tá	C
 ið	C
 tú	PP2SN
 fært	VNAPS2
-eitt	PBNSA
+eitt	RNSAI	x
 slíkt	PINSA
 hugskot	SNSA
 ,	KC
@@ -96729,7 +96729,7 @@ karðalási	SNSD
 Vit	PP1PN
 hava	VNAPP1
 gjørt	VAANSN
-eitt	PBFSA
+eitt	RFSAI	x
 slag	SNSA
 ,	KC
 men	C
@@ -96912,7 +96912,7 @@ fyrst	DNS
 mugu	VNAPP1
 vit	PP1PN
 finna	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 størri	ACSNSA
 vøruúrval	SNSA
 .	KE
@@ -97560,7 +97560,7 @@ fáa	VIA
 nakað	PBNSA
 burtur	DN
 úr	DG
-eini	PBFSD
+eini	RFSDI	x
 føroyskari	APSFSD
 oljuvinnu	SFSD
 ,	KC
@@ -97613,7 +97613,7 @@ verður	VNAPS3
 lagt	VAANSN
 støði	SNSN
 undir	DG
-eini	PBFSD
+eini	RFSDI	x
 komandi	VPA
 føroyskari	APSFSD
 oljuvinnu	SFSD
@@ -97740,7 +97740,7 @@ millum	DG
 føroyingar	SMPA
 er	VNAPS3
 vorðið	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 slag	SNSA
 av	DG
 fólksins	SNSGA
@@ -97857,7 +97857,7 @@ Petroleum	F
 ,	KC
 sum	CR
 hevur	VNAPS3
-eitt	PBNSA
+eitt	RNSAI	x
 marknaðarvirði	SNSA
 uppá	DG
 250	NO
@@ -97928,7 +97928,7 @@ til	DN
 dag	SMSA
 at	CI
 vera	VIA
-eitt	PBNSN
+eitt	RNSNI	x
 rættiliga	DN
 vælvirkandi	VPA
 og	C
@@ -98064,7 +98064,7 @@ gera	VIA
 í	DN
 at	CI
 bora	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 hol	SNSA
 ,	KC
 sum	CR
@@ -98187,7 +98187,7 @@ neyðugt	APSNSN
 Tú	PP2SN
 kanst	VNMPS2
 bora	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 hol	SNSA
 ,	KC
 sjey	NC
@@ -98614,7 +98614,7 @@ selja	VIA
 síni	PPNPA
 partabrøv	SNPA
 til	DG
-eitt	PBNSA
+eitt	RNSAI	x
 hægri	ACSNSA
 virði	SNSA
 .	KE
@@ -98676,7 +98676,7 @@ føroyingur	SMSN
 Føroya	SFPG-P
 Kolvetni	SNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 føroyskt	APSNSN
 felag	SNSN
 ,	KC
@@ -98718,7 +98718,7 @@ modelli	SNSD
 
 Tað	PPNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 kommercielt	APSNSN
 felag	SNSN
 ,	KC
@@ -98871,7 +98871,7 @@ Investment	F
 ,	KC
 sum	CR
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 íløgufelag	SNSN
 skrásett	VAANSN
 á	DG
@@ -98923,7 +98923,7 @@ Her	DN
 er	VNAPS3
 talan	SFSN
 um	DG
-eitt	NCNSA
+eitt	RNSAI	x
 modell	SNSA
 ,	KC
 sum	CR
@@ -99063,7 +99063,7 @@ fáa	VIA
 nakað	PBNSA
 burtur	DN
 úr	DG
-eini	PBFSD
+eini	RFSDI	x
 føroyskari	APSFSD
 oljuvinnu	SFSD
 .	KE
@@ -99680,7 +99680,7 @@ Hetta	PDNSA
 hildu	VNAAP3
 vit	PP1PN
 vera	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 gott	APSNSA
 hugkot	SNSA
 ,	KC
@@ -100093,7 +100093,7 @@ bygdar	VAAFPN
 
 Men	C
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 andaligari	APSFSD
 veking	SFSD
 fyrst	DNS
@@ -100104,7 +100104,7 @@ seinastu	ASSFSD
 fekk	VNAAS3
 føroyski	APWMSN
 dansurin	SMSNA
-eitt	PBNSA
+eitt	RNSAI	x
 rættiligt	APSNSA
 slag	SNSA
 fyri	DG
@@ -101059,7 +101059,7 @@ enntá	DN
 við	DG
 løgmansluttøku	SFSD
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 tekin	SNSN
 um	DG
 vágafýsni	SNSA
@@ -101366,7 +101366,7 @@ valið	SNSAA
 av	DG
 borgarstjóra	SMSD
 til	DG
-eitt	PBNSA
+eitt	RNSAI	x
 beinleiðis	DN
 val	SNSA
 .	KE
@@ -101383,7 +101383,7 @@ Mortensen	S----P
 ,	KC
 vil	VNAPS3
 fáa	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 kjak	SNSA
 í	DG
 lag	SNSA
@@ -101477,7 +101477,7 @@ veruleiki	SMSN
 er	VNAPS3
 neyðugt	APSNSN
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 lógarbroyting	SFSD
 í	DG
 vallógini	SFSDA
@@ -101784,7 +101784,7 @@ Meðan	C
 flestu	ASSMPN
 býráðslimir	SMPN
 hava	VNAPP3
-eitt	PBNSA
+eitt	RNSAI	x
 borgarligt	APSNSA
 starv	SNSA
 við	DG
@@ -101811,7 +101811,7 @@ heldur	VNAPS3
 ein	RMSNI	x
 leiðari	SMSN
 av	DG
-eini	PBFSD
+eini	RFSDI	x
 umsiting	SFSD
 ,	KC
 sigur	VNAPS3
@@ -102139,7 +102139,7 @@ bara	DN
 um	C
 vit	PP1PN
 fáa	VNAPP1
-eitt	PBNSA
+eitt	RNSAI	x
 gott	APSNSA
 tilboð	SNSA
 ,	KC
@@ -102659,7 +102659,7 @@ Føroyum	SFPD-P
 
 Breiðband	SNSN
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 samstarv	SNSN
 millum	DG
 Føroya	SFPG-P
@@ -102912,7 +102912,7 @@ ella	C
 heima	DN
 .	KE
 
-Einar	PBFPN
+Einar	RFPNI	x
 framkomnar	VAAFPN
 Føroyar	SFPN-P
 
@@ -103536,7 +103536,7 @@ hon	PPFSN
 hevur	VNAPS3
 sjálv	PIFSN
 skrivað	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 enskt	APSNSA
 lag	SNSA
 til	DG
@@ -103746,7 +103746,7 @@ Eimskip	SNPN
 Føroyum	SFPD-P
 .	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 starv	SNSN
 hann	PPMSN
 hevur	VNAPS3
@@ -104127,7 +104127,7 @@ Fríði	APSMSN
 á	DG
 Kollafjørð	SMSA-P
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 last	SFSD
 av	DG
 norðhavssild	SFSD
@@ -104307,7 +104307,7 @@ skuldi	VNAAS3
 virkið	SNSNA
 kunna	VIA
 virkað	VAANSN
-eini	PBNPA
+eini	RNPAI	x
 30	NO
 -	KO
 40.000	NO
@@ -104547,7 +104547,7 @@ einum	PBNSD
 ári	SNSD
 síðani	DN
 keypti	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 samtak	SNSN
 millum	DG
 Føroya	SFPG-P
@@ -106320,7 +106320,7 @@ kommunuvalinum	SNSDA
 verður	VNAPS3
 talan	SFSN
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 nýbrot	SNSA
 .	KE
 
@@ -106366,10 +106366,10 @@ standa	VIA
 á	DG
 odda	SMSD
 fyri	DG
-eini	PBFSD
+eini	RFSDI	x
 kommunu	SFSD
 ella	C
-eini	PBFSD
+eini	RFSDI	x
 stjórn	SFSD
 .	KE
 
@@ -106383,7 +106383,7 @@ beinleiðis	DN
 val	SNSN
 er	VNAPS3
 hetta	PDNSN
-eitt	PBNSN
+eitt	RNSNI	x
 brot	SNSN
 við	DG
 siðvenjuna	SFSAA
@@ -106422,7 +106422,7 @@ kortini	DN
 gleðiligt	APSNSN
 at	CI
 fáa	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 kjak	SNSA
 í	DG
 lag	SNSA
@@ -106848,7 +106848,7 @@ vóru	VNAAP3
 ,	KC
 vóru	VNAAP3
 bert	DN
-eitt	PBNSN
+eitt	RNSNI	x
 dømi	SNSN
 .	KE
 
@@ -107263,7 +107263,7 @@ Danmark	SNSN-P
 sum	CR
 eisini	DN
 hevur	VNAPS3
-eitt	PBNSA
+eitt	RNSAI	x
 sera	DN
 høgt	APSNSA
 avgjald	SNSA
@@ -107636,7 +107636,7 @@ Samskip	SNPN
 Harumframt	DN
 er	VNAPS3
 eisini	DN
-eitt	PBNSN
+eitt	RNSNI	x
 avgreiðslufólk	SNSN
 í	DG
 Klaksvík	SFSD-P
@@ -108907,7 +108907,7 @@ Vinstraflokkurin	SMSNA
 leiðsluni	SFSDA
 í	DG
 Eysturtýsklandi	SNSD-P
-eitt	PBNSA
+eitt	RNSAI	x
 fjarrit	SNSA
 við	DG
 ymskjum	SNPD
@@ -109127,7 +109127,7 @@ frá	DN
 Hóast	C
 tað	PPNSN
 regnaði	VNAAS3
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 hendan	PDMSA
 dagin	SMSAA
@@ -109721,7 +109721,7 @@ Ferðaráðnum	SNSDA
 at	C
 tað	PPNSN
 tykist	VNMPS3
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 ógreitt	APSNSN
 ,	KC
@@ -109915,7 +109915,7 @@ tá	C
 Torstein	SMSN-P
 brádliga	DN
 datt	VNAAS3
-einar	PBMPA
+einar	RMPAI	x
 fimm	NC
 ella	C
 seks	NC
@@ -110035,7 +110035,7 @@ og	C
 lendi	VNAAS3
 í	DG
 sjónum	SMSDA
-einar	PBMPA
+einar	RMPAI	x
 seks	NC
 metrar	SMPA
 niðriundir	DN
@@ -110558,7 +110558,7 @@ vinstra	APSNSD
 eyga	SNSD
 hevði	VNAAS3
 fingið	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 knekk	SNSA
 .	KE
 
@@ -110639,7 +110639,7 @@ náttina	SFSAA
 sjúkrahúsinum	SNSDA
 droymdi	VNAAS3
 hann	PPMSN
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 ,	KC
 men	C
@@ -110689,7 +110689,7 @@ at	CI
 vera	VIA
 vitni	SNPN
 til	DG
-eitt	PBNSA
+eitt	RNSAI	x
 slíkt	PINSA
 óhapp	SNSA
 ,	KC
@@ -110792,7 +110792,7 @@ verndareingil	SMSA
 Talan	SFSN
 var	VNAAS3
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 hendiligt	APSNSA
 óhapp	SNSA
 hendan	PDMSA
@@ -111099,7 +111099,7 @@ at	CI
 skapa	VIA
 karmar	SMPA
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 dynamiskt	APSNSA
 ,	KC
 effektiviserað	APSNSA
@@ -111414,7 +111414,7 @@ vegir	SMPA
 -	KO
 Tá	C
 ið	C
-eitt	PBNSN
+eitt	RNSNI	x
 felag	SNSN
 ella	C
 ein	RMSNI	x
@@ -112189,7 +112189,7 @@ blómaði	VNAAS3
 Tað	PPNSN
 var	VNAAS3
 ikki	DN
-eitt	PBNSN
+eitt	RNSNI	x
 møti	SNSN
 .	KE
 
@@ -112394,7 +112394,7 @@ undan	DG
 fundinum	SMSDA
 givið	VAANSN
 flokkunum	SMPDA
-eitt	PBNSA
+eitt	RNSAI	x
 upplegg	SNSA
 ,	KC
 sum	CR
@@ -112463,7 +112463,7 @@ fundinum	SMSDA
 var	VNAAS3
 at	CI
 fáa	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 orðaskiftið	SNSAA
 í	DG
 lag	SNSA
@@ -112477,7 +112477,7 @@ samkomur	SFPA
 og	C
 tí	C
 kom	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 sindur	SNSN
 dátt	APSNSN
 við	DN
@@ -112866,7 +112866,7 @@ orðstýrarin	SMSNA
 at	C
 stýrt	VAANSN
 við	DG
-eitt	PBNSA
+eitt	RNSAI	x
 sindur	SNSA
 harðari	ACSFSD
 hond	SFSD
@@ -113635,7 +113635,7 @@ tú	PP2SN
 fyrst	DNS
 hevur	VNAPS3
 fingið	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 stempul	SNPA
 í	DG
 bonuskortið	SNSAA
@@ -114331,7 +114331,7 @@ hond	SFSA
 ,	KC
 er	VNAPS3
 tað	PPNSN
-eitt	PBNSN
+eitt	RNSNI	x
 stórt	APSNSN
 bakkast	SNSN
 fyri	DG
@@ -114371,7 +114371,7 @@ er	VNAPS3
 hent	VAANSN
 ,	KC
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 álvarsligt	APSNSN
 skot	SNSN
 fyri	DG
@@ -114910,7 +114910,7 @@ um	DN
 -	KO
 Tað	PPNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 sindur	SNSN
 øðrvísi	DN
 ,	KC
@@ -114918,7 +114918,7 @@ tá	C
 tú	PP2SN
 situr	VNAPS2
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 rutu	SFSD
 ,	KC
 sum	C
@@ -115328,7 +115328,7 @@ nýggju	APWFPN
 maskinurnar	SFPNA
 .	KE
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 lið	SNSN
 av	DG
 donskum	APSNPD
@@ -116269,10 +116269,10 @@ prýði	SNSN
 
 Hava	VNAPP3
 fólk	SNPN
-eitt	PBNSA
+eitt	RNSAI	x
 stakitt	SNSA
 ,	KC
-eitt	PBNSA
+eitt	RNSAI	x
 træ	SNSA
 ella	C
 hvat	PQNSA
@@ -116307,7 +116307,7 @@ vøkur	APSFSN
 sjón	SFSN
 at	CI
 síggja	VIA
-eitt	PBNSA
+eitt	RNSAI	x
 peruskrýtt	VAANSA
 træ	SNSA
 .	KE
@@ -116334,7 +116334,7 @@ Húsið	SNSNA
 myndini	SFSDA
 er	VNAPS3
 sanniliga	DN
-eitt	PBNSN
+eitt	RNSNI	x
 tekin	SNSN
 um	DG
 tað	PPNSA
@@ -116373,7 +116373,7 @@ niður	DN
 ,	KC
 er	VNAPS3
 hetta	PDNSN
-eitt	PBNSN
+eitt	RNSNI	x
 hús	SNSN
 ,	KC
 sum	CR
@@ -116734,7 +116734,7 @@ bygnaðin	SMSAA
 Rás	SFSD
 2	NO
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 høgt	APSNSN
 stig	SNSN
 av	DG
@@ -116757,7 +116757,7 @@ at	C
 støðin	SFSNA
 hevur	VNAPS3
 uppbygt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 egið	SNSA
 sendinet	APSNSN
 ið	CR
@@ -116903,10 +116903,10 @@ Rás	SFSA
 til	DG
 útvarpslýsingarnar	SFPAA
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 herðaklapp	SNSN
 og	C
-eitt	PBNSN
+eitt	RNSNI	x
 gott	APSNSN
 ískoyti	SNSN
 sum	CR
@@ -117065,7 +117065,7 @@ studio	SNPA
 í	DG
 Søldafirði	SMSD-P
 og	C
-eitt	PBNSA
+eitt	RNSAI	x
 stórt	APSNSA
 studio	SNSA
 í	DG
@@ -117082,7 +117082,7 @@ Roknskapurin	SMSNA
 fyri	DG
 2003	NO
 vísti	VNAAS3
-eitt	PBNSA
+eitt	RNSAI	x
 lítið	APSNSA
 yvirskot	SNSA
 upp	DN
@@ -117127,7 +117127,7 @@ at	C
 vit	PP1PN
 hava	VNAPP1
 fingið	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 positivt	APSNSA
 úrslit	SNSA
 í	DG
@@ -117172,7 +117172,7 @@ hetta	PDNSN
 er	VNAPS3
 hóast	C
 alt	PBNSA
-eitt	PBNSN
+eitt	RNSNI	x
 sera	DN
 spennandi	APINSN
 arbeiði	SNSN
@@ -117189,7 +117189,7 @@ Talan	SFSN
 er	VNAPS3
 tilsamans	DN
 um	DG
-eini	PBNPA
+eini	RNPAI	x
 fýra	NC
 heiltíðarstørv	SNPA
 á	DG
@@ -117342,7 +117342,7 @@ staðið	VAANSN
 dag	SMSA
 dekka	VNAPP1
 vit	PP1PN
-eini	PBNPA
+eini	RNPAI	x
 95	NO
 -	KO
 98	NP
@@ -117584,7 +117584,7 @@ kringvarp	SNSA
 í	DG
 Føroyum	SFPD-P
 ,	KC
-eitt	PBNSA
+eitt	RNSAI	x
 orðaskifti	SNSA
 sum	CR
 ikki	DN
@@ -117912,7 +117912,7 @@ haldi	VNAPS1
 hetta	PDNSN
 má	VNAPS3
 vera	VIA
-eitt	PBNSN
+eitt	RNSNI	x
 mál	SNSN
 fyri	DG
 Kappingarráðið	SNSAA
@@ -118220,7 +118220,7 @@ latast	VIM
 upp	DN
 aftur	DN
 
-Eitt	PBNSN
+Eitt	RNSNI	x
 tjúkt	APSNSN
 lag	SNSN
 av	DG
@@ -118702,10 +118702,10 @@ rødd	SFSA
 
 Teksturin	SMSNA
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 dømi	SNSN
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 slag	SNSA
 av	DG
 uppaling	SFSD
@@ -119261,7 +119261,7 @@ menniskja	SNSA
 sum	C
 lið	SNSA
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 óendaligari	APSFSD
 ringrás	SFSD
 .	KE
@@ -119406,7 +119406,7 @@ tað	PPNSA
 sum	CR
 part	SMSA
 av	DG
-eini	PBFSD
+eini	RFSDI	x
 fortíð	SFSD
 ,	KC
 sum	CR
@@ -119452,7 +119452,7 @@ Fortíðin	SFSNA
 verður	VNAPS3
 óbrúkilig	APSFSN
 ,	KC
-eitt	PBNSN
+eitt	RNSNI	x
 sorgblítt	APSNSN
 minni	SNSN
 um	DG
@@ -119590,7 +119590,7 @@ lýsa	VIA
 okkum	PP1PA
 sjálvi	PINPA
 sum	C
-eitt	PBNSA
+eitt	RNSAI	x
 fólk	SNSA
 ,	KC
 við	DG
@@ -119670,7 +119670,7 @@ vegin	SMSAA
 Eg	PP1SN
 eri	VNAPS1
 grundleggjandi	VPA
-eitt	PBNSN
+eitt	RNSNI	x
 positivt	APSNSN
 menniskja	SNSN
 ,	KC
@@ -119773,7 +119773,7 @@ gjørt	VAANSN
 sær	PPFSD
 ,	KC
 í	DG
-eini	PBFSD
+eini	RFSDI	x
 longdari	APSFSD
 "	KQ
 nú	DN
@@ -119909,7 +119909,7 @@ lívinum	SNSDA
 sum	CR
 altíð	DN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 slag	SNSN
 av	DG
 heildarúrsliti	SNSD
@@ -120094,7 +120094,7 @@ Aftur	DN
 Nú	DN
 "	KQ
 bara	DN
-eitt	PBNSN
+eitt	RNSNI	x
 evarska	DN
 lítið	APSNSN
 brot	SNSN
@@ -120108,7 +120108,7 @@ farið	VAANSN
 víðari	DNC
 og	C
 vorðið	VAANSN
-eitt	PBNSN
+eitt	RNSNI	x
 lítið	APSNSN
 brot	SNSN
 í	DG
@@ -120157,7 +120157,7 @@ leysan	APSMSA
 í	DG
 sambandi	SNSD
 við	DG
-eitt	PBNSA
+eitt	RNSAI	x
 ógvusligt	APSNSA
 ferðsluóhapp	SNSA
 í	DG
@@ -120169,7 +120169,7 @@ hósdagin	SMSAA
 Seinnapartin	SMSAA
 hósdagin	SMSAA
 var	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 ógvusligt	APSNSN
 ferðsluóhapp	SNSN
 á	DG
@@ -120275,7 +120275,7 @@ sambandi	SNSD
 við	DG
 ferðsluóhappið	SNSAA
 var	VNAAS3
-eitt	PBNSN
+eitt	RNSNI	x
 strekki	SNSN
 av	DG
 RC	TS
@@ -121027,7 +121027,7 @@ hósnáttina	SFSAA
 fýra	NC
 fólk	SNPA
 á	DG
-eini	PBFSD
+eini	RFSDI	x
 konsert	SFSD
 í	DG
 Columbus	F
@@ -121247,7 +121247,7 @@ inn	DN
 á	DG
 náttklubban	SMSA
 gjøgnum	DG
-einar	NCMPA
+einar	RMPAI	x
 bakdyr	SFPA
 .	KE
 
@@ -121851,7 +121851,7 @@ at	C
 tað	PPNSN
 er	VNAPS3
 gjørt	VAANSN
-eitt	PBNSA
+eitt	RNSAI	x
 stórt	APSNSN
 fund	SNSN
 hinumegin	DG
@@ -122183,7 +122183,7 @@ tann	PDFSN
 at	C
 Statoil	F
 hevur	VNAPS3
-eitt	PBNSA
+eitt	RNSAI	x
 9	NO
 ára	SNPG
 loyvi	SNSA
@@ -122205,7 +122205,7 @@ Her	DN
 er	VNAPS3
 talan	SFSN
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 spennandi	APINSA
 prospekt	SNSA
 ,	KC
@@ -122260,7 +122260,7 @@ Anadarko	F
 ,	KC
 sum	CR
 eigur	VNAPS3
-eitt	PBNSA
+eitt	RNSAI	x
 9	NO
 ára	SNPG
 loyvi	SNSA
@@ -122427,7 +122427,7 @@ sonevndan	APSMSA
 infostandara	SMSA
 ,	KC
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 teldu	SFSD
 .	KE
 
@@ -122998,7 +122998,7 @@ gerandisvørur	SFPA
 og	C
 sum	CR
 hava	VNAPP3
-eitt	PBNSA
+eitt	RNSAI	x
 sølupláss	SNSA
 ,	KC
 sum	CR
@@ -123388,7 +123388,7 @@ tað	PPNSN
 er	VNAPS3
 átrokandi	VPA
 við	DG
-eini	PBFSD
+eini	RFSDI	x
 nýggjari	APSFSD
 lóg	SFSD
 ,	KC
@@ -123399,7 +123399,7 @@ heldur	VNAPS3
 at	C
 hetta	PDNSN
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 sera	DN
 gott	APSNSN
 uppskot	SNSN
@@ -123578,10 +123578,10 @@ tykist	VNMPS3
 -	KO
 Teksturin	SMSNA
 er	VNAPS3
-eitt	PBNSN
+eitt	RNSNI	x
 dømi	SNSN
 um	DG
-eitt	PBNSA
+eitt	RNSAI	x
 slag	SNSA
 av	DG
 uppaling	SFSD
@@ -123681,7 +123681,7 @@ tað	PPNSA
 sum	CR
 part	SMSA
 av	DG
-eini	PBFSD
+eini	RFSDI	x
 fortíð	SFSD
 ,	KC
 sum	CR
@@ -123704,7 +123704,7 @@ framtíðina	SFSAA
 Eg	PP1SN
 eri	VNAPS1
 grundleggjandi	VPA
-eitt	PBNSN
+eitt	RNSNI	x
 positivt	APSNSN
 menniskja	SNSN
 ,	KC
