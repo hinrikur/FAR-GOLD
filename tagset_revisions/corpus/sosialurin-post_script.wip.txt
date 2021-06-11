@@ -1445,8 +1445,8 @@ sær	PPNPD
 til	DG
 Bergen	F
 at	CI
-ferðast	VIA
-M,	KC
+ferðast	VIM
+,	KC
 eiga	VNAPP3
 at	CI
 ansa	VIA
@@ -6461,8 +6461,8 @@ at	C
 tað	PPNSN
 fer	VNAPS3
 at	CI
-spyrjast	VIA
-Monkur	PBFSN
+spyrjast	VIM
+onkur	PBFSN
 loysn	SFSN
 burtur	DN
 úr	DG
@@ -9612,8 +9612,8 @@ hjá	DG
 Smyril	SMSN
 Line	F
 ,	KC
-ivast	VIA
-Mhann	PPMSN
+ivast	VIM
+hann	PPMSN
 í	DN
 ,	KC
 um	DN
@@ -9765,8 +9765,8 @@ fyrri	DNC
 fundurin	SMSNA
 yvirhøvur	DN
 kann	VNAPS3
-sigast	VIA
-Mat	CI
+sigast	VIM
+at	CI
 hava	VIA
 verið	VAANSN
 lógliga	DN
@@ -9795,8 +9795,8 @@ partapeningin	SMSAA
 ,	KC
 yvirhøvur	DN
 kunnu	VNAPP3
-sigast	VIA
-Mat	CI
+sigast	VIM
+at	CI
 vera	VIA
 lógligar	APSFPN
 .	KE
@@ -10455,8 +10455,8 @@ liðini	SNPNA
 ,	KC
 ið	CR
 skulu	VNAPP3
-berjast	VIA
-Mum	DG
+berjast	VIM
+um	DG
 tvey	NCNPA
 tey	PPNPA
 seinastu	ASWNPA
@@ -12056,8 +12056,8 @@ vetrardekk	SNSA
 
 Vit	PP1PN
 skulu	VNAPP1
-minnast	VIA
-Mtil	DN
+minnast	VIM
+til	DN
 ,	KC
 at	C
 flestu	ASSNPN
@@ -13043,8 +13043,8 @@ rætt	DN
 og	CI
 fáa	VIA
 sum	C
-flest	VIA
-Mat	CI
+flest	VIM
+at	CI
 gera	VIA
 íløgur	SFPA
 her	DN
@@ -15241,8 +15241,8 @@ skal	VNAPS3
 fara	VIA
 niður	DN
 at	CI
-samráðast	VIA
-Mella	C
+samráðast	VIM
+ella	C
 ikki	DN
 ,	KC
 sakar	VNAPS3
@@ -15369,8 +15369,8 @@ skal	VNAPS3
 ikki	DN
 niður	DN
 at	CI
-samráðast	VIA
-M,	KC
+samráðast	VIM
+,	KC
 tí	C
 tað	PPNSA
 hevur	VNAPS3
@@ -15610,8 +15610,8 @@ fyri	DG
 hvør	PBNPD
 øðrum	PBNPD
 skulu	VNAPP3
-samráðast	VIA
-Mtil	DN
+samráðast	VIM
+til	DN
 vit	PP1PN
 koma	VNAPP3
 til	DG
@@ -20756,8 +20756,8 @@ tey	PPNPN
 hava	VIA
 møguleikan	SMSAA
 at	CI
-ferðast	VIA
-Maftur	DN
+ferðast	VIM
+aftur	DN
 og	C
 fram	DN
 .	KE
@@ -21530,8 +21530,8 @@ spennandi	AI
 hvat	PQNSN
 fer	VNAPS3
 at	CI
-spyrjast	VIA
-Mburturúr	DN
+spyrjast	VIM
+burturúr	DN
 og	C
 um	C
 tað	PPNSN
@@ -21949,8 +21949,8 @@ at	C
 feløgini	SNPNA
 ,	KC
 sum	CR
-kappast	VIA
-Mum	DG
+kappast	VIM
+um	DG
 uppflyting	SFSA
 ,	KC
 eru	VNAPP3
@@ -22836,8 +22836,8 @@ vit	PP1PN
 heila	APSNSD
 tikið	VAANSN
 skulu	VNAPP3
-samráðast	VIA
-Mvið	DG
+samráðast	VIM
+við	DG
 danir	SMPA
 um	DN
 .	KE
@@ -22986,8 +22986,8 @@ tey	PPNPN
 hava	VNAPP3
 einki	DN
 at	CI
-óttast	VIA
-M,	KC
+óttast	VIM
+,	KC
 tí	C
 tað	PPNSN
 hendir	VNAPS3
@@ -23295,8 +23295,8 @@ týsdagin	SMSAA
 
 Um	C
 tað	PPNSN
-eydnast	VIA
-Mat	CI
+eydnast	VIM
+at	CI
 fáa	VIA
 eina	PBFSA
 semju	SFSA
@@ -24964,8 +24964,8 @@ hjá	DG
 ferðafólki	SNSD
 ,	KC
 ið	CR
-ferðast	VIA
-Mmillum	DG
+ferðast	VIM
+millum	DG
 Føroyar	SFPA-P
 og	C
 restina	SFSAA
@@ -26819,8 +26819,8 @@ tiltak	SNSN
 ið	CR
 heimskendir	VAMPN
 pianistar	SMPN
-kappast	VIA
-Mum	DN
+kappast	VIM
+um	DN
 at	CI
 sleppa	VIA
 við	DN
@@ -36046,8 +36046,8 @@ høvdavirkinum	SNSDA
 Lesarin	SMSNA
 sigur	VNAPS3
 seg	PPMSA
-ivast	VIA
-Mí	DN
+ivast	VIM
+í	DN
 ,	KC
 um	C
 allir	PBMPN
@@ -38934,8 +38934,8 @@ kann	VNAPS3
 ikki	DN
 annað	PBNSN
 enn	DN
-síggjast	VIA
-Maftur	DN
+síggjast	VIM
+aftur	DN
 í	DG
 heimarøktini	SFSDA
 .	KE
@@ -39416,8 +39416,8 @@ europear	SMPA
 
 Tey	PPNPN
 høvdu	VNAAP3
-ferðast	VIA
-Mí	DG
+ferðast	VIM
+í	DG
 fimm	NC
 mánar	SMPA
 ymsastaðni	DN
@@ -40270,8 +40270,8 @@ er	VNAPS3
 farin	VAAFSN
 frá	DG
 at	CI
-klandrast	VIA
-Mmillum	DG
+klandrast	VIM
+millum	DG
 smáar	APSFPA
 bygdir	SFPA
 ella	C
@@ -41729,8 +41729,8 @@ so	DN
 byrjaði	VNAAS3
 tað	PPNSN
 at	CI
-fonglast	VIA
-Mvið	DG
+fonglast	VIM
+við	DG
 agnið	SNSAA
 -	KO
 og	C
@@ -45413,8 +45413,8 @@ ikki	DN
 óvanligt	APSNSN
 ,	KC
 tá	C
-ferðast	VIA
-Mverður	VNAPS3
+ferðast	VIM
+verður	VNAPS3
 eftir	DG
 vegunum	SMPDA
 hesar	PDMPA
@@ -45739,8 +45739,8 @@ aftur	DN
 Og	C
 heimildamaður	SMSN
 okkara	PP1PG
-ivast	VIA
-Mí	DG
+ivast	VIM
+í	DG
 ,	KC
 um	C
 hann	PPMSN
@@ -45926,8 +45926,8 @@ og	C
 eg	PP1SN
 meti	VNAPS1
 tað	PPNSA
-tykjast	VIA
-Metiskt	APSNSA
+tykjast	VIM
+etiskt	APSNSA
 ókorrekt	APSNSA
 at	CI
 halda	VIA
@@ -46454,8 +46454,8 @@ hvussu	DN
 avtalan	SFSNA
 fer	VNAPS3
 at	CI
-hilnast	VIA
-Mí	DG
+hilnast	VIM
+í	DG
 verki	SNSD
 .	KE
 
@@ -47131,8 +47131,8 @@ oljuleiting	SFSD
 Tað	PPNSN
 hevur	VNAPS3
 ikki	DN
-eydnast	VIA
-Mokkum	PP1PD
+eydnast	VIM
+okkum	PP1PD
 at	CI
 fáa	VIA
 eina	PBFSA
@@ -48121,8 +48121,8 @@ Midem	F
 kann	VNAPS3
 møguliga	DN
 best	DNS
-lýsast	VIA
-Mfyri	DG
+lýsast	VIM
+fyri	DG
 uttanfyristandandi	VPA
 ,	KC
 sum	CR
@@ -48280,8 +48280,8 @@ fólk	SNPA
 Og	C
 eingin	PBMSN
 skal	VNAPS3
-ivast	VIA
-Mí	DG
+ivast	VIM
+í	DG
 ,	KC
 at	C
 hetta	PDNSN
@@ -48801,8 +48801,8 @@ gera	VIA
 húsarnar	SMPAA
 .	KE
 
-Fundast	VIA
-M
+Fundast	VIM
+
 Við	DG
 sær	PPNPD
 úr	DG
@@ -48850,8 +48850,8 @@ básinum	SMSDA
 og	CI
 práta	VIA
 og	C
-fundast	VIA
-Mso	DN
+fundast	VIM
+so	DN
 við	DG
 fólk	SNPA
 .	KE
@@ -64720,8 +64720,8 @@ liðini	SNPAA
 Einki	PBNSN
 er	VNAPS3
 at	CI
-ivast	VIA
-Mí	DN
+ivast	VIM
+í	DN
 ,	KC
 at	C
 nógv	APSNPN
@@ -80458,8 +80458,8 @@ Neyvan	DN
 man	VNAPS3
 nakar	PBMSN
 føroyingur	SMSN
-ivast	VIA
-Mí	DG
+ivast	VIM
+í	DG
 ,	KC
 at	C
 vit	PP1PN
@@ -84622,8 +84622,8 @@ ber	VNAPS3
 ikki	DN
 til	DN
 at	CI
-ivast	VIA
-Mí	DN
+ivast	VIM
+í	DN
 .	KE
 
 Hon	PPFSN
@@ -87504,8 +87504,8 @@ súlurnar	SFPAA
 Ikki	DN
 minst	DNS
 at	CI
-minnast	VIA
-Mtær	PDFPA
+minnast	VIM
+tær	PDFPA
 fimm	NC
 bønirnar	SFPAA
 til	DG
@@ -92547,8 +92547,8 @@ at	C
 tað	PPNSN
 fer	VNAPS3
 at	CI
-eydnast	VIA
-Mat	CI
+eydnast	VIM
+at	CI
 vinna	VIA
 í	DG
 dag	SMSA
@@ -93644,8 +93644,8 @@ eg	PP1SN
 tískil	DN
 royndir	SFPA
 at	CI
-samráðast	VIA
-M.	KE
+samráðast	VIM
+.	KE
 
 Og	C
 eg	PP1SN
@@ -93768,8 +93768,8 @@ aftur	DN
 somu	PIMPN
 trupulleikar	SMPN
 at	CI
-samráðast	VIA
-Mum	DN
+samráðast	VIM
+um	DN
 .	KE
 
 250	NO
@@ -101957,8 +101957,8 @@ at	C
 tað	PPNSN
 fer	VNAPS3
 at	CI
-eydnast	VIA
-Mteimum	PPNPD
+eydnast	VIM
+teimum	PPNPD
 at	CI
 náa	VIA
 tað	PPNSA
@@ -109832,8 +109832,8 @@ at	CI
 meta	VIA
 tað	PPNSA
 at	CI
-ferðast	VIA
-Mí	DG
+ferðast	VIM
+í	DG
 egnum	APSNSD
 landi	SNSD
 sum	C
@@ -113685,8 +113685,8 @@ til	DN
 ,	KC
 fóru	VNAAP3
 at	CI
-ferðast	VIA
-Mvið	DG
+ferðast	VIM
+við	DG
 Atlantsflog	SNSD
 burturav	DN
 ,	KC
@@ -114397,8 +114397,8 @@ stórur	APSMSN
 keypari	SMSN
 minni	DNC
 at	CI
-kappast	VIA
-Mum	DG
+kappast	VIM
+um	DG
 fiskin	SMSAA
 .	KE
 
@@ -117898,8 +117898,8 @@ fingið	VAANSN
 fríar	APSFPA
 hendur	SFPA
 at	CI
-kappast	VIA
-Mímóti	DG
+kappast	VIM
+ímóti	DG
 okkum	PP1PD
 um	DG
 tær	PDFPA
@@ -120121,8 +120121,8 @@ sum	CR
 kanska	DN
 fer	VNAPS3
 at	CI
-minnast	VIA
-M,	KC
+minnast	VIM
+,	KC
 hvat	PQNSN
 hann	PPMSN
 gloymdi	VNAAS3

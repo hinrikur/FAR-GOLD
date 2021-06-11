@@ -32,7 +32,7 @@ def regex_replacer(file):
 
     # Change VI tags to VIM (M for medium voice) for words
     # ending with "-st"
-    file = re.sub(r"(st\tVI\n)", r"\1M", file)
+    file = re.sub(r"(st\tVI)\n", r"\1M\n", file)
 
     # Add a medium voice tag for tags paired with "-st" suffixed
     # words. Only changes tags consisting of 5 letters.
