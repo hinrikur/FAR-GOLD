@@ -167,7 +167,7 @@ skroypiligheit	SFSN
 og	C
 styrki	SFSN
 og	C
-tann	PDFSA
+tann	RFSAD	x
 vanvarda	APWFSA
 javnvágin	SFSNA
 har	DN
@@ -2371,7 +2371,7 @@ ikki	DN
 tað	PPNSA
 ,	KC
 sum	CR
-tann	PDMSN
+tann	RMSND	x
 gamli	APWMSN
 báturin	SMSNA
 gjørdi	VNAAS3
@@ -3066,7 +3066,7 @@ tað	PPNSN
 ,	KC
 at	CI
 júst	DN
-tann	PDMSN
+tann	RMSND	x
 11.	NO
 december	SMSN
 var	VNAAS3
@@ -3479,7 +3479,7 @@ uttanríkisráðharran	SMSAA
 Onnu	SFSA-P
 Lindh	S----P
 ,	KC
-tann	PDMSN
+tann	RMSND	x
 10.	NO
 september	SMSA
 í	DG
@@ -4467,7 +4467,7 @@ hátt	SMSA
 fingu	VNAAP3
 teir	PPMPN
 broytt	VAANSN
-tann	PDMSA
+tann	RMSAD	x
 politiska	APWMSA
 viljan	SMSAA
 í	DG
@@ -5460,7 +5460,7 @@ frystan	APSMSA
 
 Tí	C
 varð	VNAAS3
-tann	PDMSN
+tann	RMSND	x
 frysti	APWMSN
 laksurin	SMSNA
 koyrdur	VAMSN
@@ -6678,7 +6678,7 @@ Vit	PP1PN
 hava	VNAPP1
 ikki	DN
 sæð	VAANSN
-tann	PDMSA
+tann	RMSAD	x
 neyðuga	APWMSA
 viljan	SMSAA
 at	CI
@@ -6970,7 +6970,7 @@ til	DG
 at	CI
 slaka	VIA
 men	C
-tann	PDMSA
+tann	RMSAD	x
 stóra	APWFSN
 avgerðin	SFSNA
 í	DG
@@ -7029,7 +7029,7 @@ eitt	RNSNI	x
 uttanríkismál	SNSN
 ,	KC
 men	C
-tann	PDMSN
+tann	RMSND	x
 føroyski	APWMSN
 leiðarin	SMSNA
 vil	VNAPS3
@@ -9086,7 +9086,7 @@ at	CI
 krevja	VIA
 endurgjald	SNSA
 fyri	DG
-tann	PDMSA
+tann	RMSAD	x
 fíggjarliga	APSMSA
 miss	SMSA
 ,	KC
@@ -10275,7 +10275,7 @@ ella	C
 tvey	NCNPN
 .	KE
 
-Tann	PDMSN
+Tann	RMSND	x
 dysturin	SMSNA
 ,	KC
 sum	CR
@@ -16286,7 +16286,7 @@ tað	PPNSN
 lítið	APSNSN
 sum	C
 ger	VNAPS3
-tann	PDMSA
+tann	RMSAD	x
 stóra	APWMSA
 munin	SMSAA
 ,	KC
@@ -17041,7 +17041,7 @@ TB	TS
 er	VNAPS3
 tað	PPNSN
 samstundis	DN
-tann	PDFSN
+tann	RFSND	x
 størsta	ASWFSN
 og	C
 best	DNS
@@ -17126,7 +17126,7 @@ gjørligt	APSNSN
 verður	VNAPS3
 kapping	SFSN
 um	DG
-tann	PDMSA
+tann	RMSAD	x
 vakrasta	DN
 básin	SMSAA
 har	DN
@@ -17309,7 +17309,7 @@ síggja	VIA
 ,	KC
 verður	VNAPS3
 ein	PBMSN
-tann	PDMSN
+tann	RMSND	x
 størsti	ASWMSN
 áskoðaramagneturin	SMSNA
 á	DG
@@ -17430,7 +17430,7 @@ ljóði	SNSD
 
 Eisini	DN
 innan	DG
-tann	PDMSA
+tann	RMSAD	x
 fínara	ACWMSA
 háteknikkin	SMSAA
 verður	VNAPS3
@@ -17453,7 +17453,7 @@ oyruni	SNPAA
 .	KE
 
 Tí	C
-tann	PDMSN
+tann	RMSND	x
 eini	APWMSN
 sjónvarpshandilin	SMSNA
 fer	VNAPS3
@@ -18209,7 +18209,7 @@ eitt	RNSNI	x
 sindur	SNSN
 øðrvísi	DN
 enn	DN
-tann	PDMSN
+tann	RMSND	x
 turri	APWMSN
 fiskurin	SMSNA
 vit	PP1PN
@@ -19956,7 +19956,7 @@ Heim	DN
 úr	DG
 Sudan	SNSD-P
 
-Tann	PDFSN
+Tann	RFSND	x
 33	NO
 ára	SNPG
 gamla	APWFSN
@@ -20469,7 +20469,7 @@ teirri	PDFSD
 at	CI
 byrjast	VIM
 skuldi	VNAAS3
-tann	PDMSA
+tann	RMSAD	x
 1.	NO
 juni	SMSA
 ,	KC
@@ -20924,7 +20924,7 @@ Tjóðveldisflokkurin	SMSNA
 ,	KC
 sum	CR
 gjørdist	VNMAS3
-tann	PDMSN
+tann	RMSND	x
 heilt	DN
 stóri	APWMSN
 sigursharrin	SMSNA
@@ -21550,7 +21550,7 @@ lá	VNAAS3
 eftirá	DN
 
 Men	C
-tann	PDMSN
+tann	RMSND	x
 heilt	DN
 stóri	APWMSN
 taparin	SMSNA
@@ -21846,7 +21846,7 @@ september	SMSD
 ,	KC
 sum	CR
 er	VNAPS3
-tann	PDMSA
+tann	RMSAD	x
 26.	NO
 ,	KC
 verður	VNAPS3
@@ -22941,7 +22941,7 @@ verður	VNAPS3
 ein	RFSNI	x
 fólkaatkvøða	SFSN
 um	DG
-tann	PDMSA
+tann	RMSAD	x
 nýggja	APWMSA
 sáttmálan	SMSAA
 millum	DG
@@ -24414,7 +24414,7 @@ Eidesgaard	S----P
 hevur	VNAPS3
 tó	DN
 roynt	VAANSN
-tann	PDMSA
+tann	RMSAD	x
 politiska	APWFSA
 vegin	SMSAA
 .	KE
@@ -26203,7 +26203,7 @@ miðil	SMSA
 Telefonverkið	SNSNA
 merkir	VNAPS3
 eisini	DN
-tann	PDMSA
+tann	RMSAD	x
 vaksandi	VPA
 áhugan	SMSAA
 .	KE
@@ -27383,7 +27383,7 @@ Føroyum	SFPD-P
 Talan	SFSN
 er	VNAPS3
 um	DG
-tann	PDMSA
+tann	RMSAD	x
 vælumtókta	APWMSA
 Simo	F
 kombivognin	SMSAA
@@ -35361,7 +35361,7 @@ leiðir	SFPA
 .	KE
 
 Men	C
-tann	PDFSN
+tann	RFSND	x
 mest	DNS
 týðandi	APIFSN
 broytingin	SFSNA
@@ -36007,7 +36007,7 @@ við	DG
 vegin	SMSAA
 ,	KC
 har	DN
-tann	PDFSN
+tann	RFSND	x
 nógva	APWFSN
 ferðslan	SFSNA
 gongur	VNAPS3
@@ -36156,7 +36156,7 @@ kvæðini	SNPAA
 ,	KC
 vísurnar	SFPAA
 og	C
-tann	PDMSA
+tann	RMSAD	x
 føroyska	APWMSA
 dansin	SMSAA
 .	KE
@@ -36628,7 +36628,7 @@ hann	PPMSN
 .	KE
 
 -	KO
-Tann	PDMSN
+Tann	RMSND	x
 týdningarmesti	ASWMSN
 parturin	SMSNA
 av	DG
@@ -37752,7 +37752,7 @@ Sandavági	SMSD-P
 ,	KC
 so	DN
 at	C
-tann	PDFSN
+tann	RFSND	x
 besta	ASWFSN
 livurin	SFSNA
 kann	VNAPS3
@@ -40329,7 +40329,7 @@ ráðstevnuni	SFSDA
 
 -	KO
 Um	DG
-tann	PDFSA
+tann	RFSAD	x
 føroyska	APWFSN
 fiskivinnan	SFSNA
 ella	C
@@ -40512,7 +40512,7 @@ brotið	VAANSN
 roknskapartølini	SNPAA
 niður	DN
 í	DG
-tann	PDMSA
+tann	RMSAD	x
 minsta	ASWMSA
 smálutin	SMSAA
 og	C
@@ -42574,7 +42574,7 @@ sjálvt	DN
 um	C
 vit	PP1PN
 fara	VIA
-tann	PDMSA
+tann	RMSAD	x
 rættarliga	DN
 vegin	SMSAA
 ,	KC
@@ -44147,7 +44147,7 @@ avstað	DN
 
 Hetta	PDNSN
 er	VNAPS3
-tann	PDMSN
+tann	RMSND	x
 fimti	ASWMSN
 gongutúrurin	SMSNA
 kunningarstovurnar	SFPNA
@@ -44818,13 +44818,13 @@ toll	SMSA
 fyri	DG
 kundar	SMPA
 
-Tann	PDMSA
+Tann	RMSAD	x
 1.	NO
 juli	SMSA
 í	DG
 ár	SNSA
 kom	VNAAS3
-tann	PDFSN
+tann	RFSND	x
 nýggja	APWFSN
 e	X
 -	KO
@@ -49557,7 +49557,7 @@ sligið	VAANSN
 seg	PPMPA
 fastar	APSMPA
 í	DG
-tann	PDMSA
+tann	RMSAD	x
 føroyska	APWMSA
 tónleikaheimin	SMSAA
 .	KE
@@ -49687,7 +49687,7 @@ heldur	DNC
 ikki	DN
 ,	KC
 tá	C
-tann	PDMSN
+tann	RMSND	x
 fyrsti	ASWMSN
 bólkurin	SMSNA
 ,	KC
@@ -50189,7 +50189,7 @@ landsvegin	SMSAA
 ,	KC
 sum	CR
 er	VNAPS3
-tann	PDMSN
+tann	RMSND	x
 ringasti	ASWMSN
 í	DG
 landinum	SNSDA
@@ -50292,7 +50292,7 @@ kunnu	VNAPP1
 vænta	VIA
 ,	KC
 at	C
-tann	PDFSN
+tann	RFSND	x
 endaliga	APWFSN
 avgerðin	SFSNA
 um	DG
@@ -63705,7 +63705,7 @@ trý	NO
 Súkkling	SFSN
 er	VNAPS3
 ein	PBFSN
-tann	PDFSN
+tann	RFSND	x
 minsta	ASWFSN
 ítróttargreinin	SFSNA
 her	DN
@@ -63900,7 +63900,7 @@ Olsen	S----P
 sum	CR
 er	VNAPS3
 ein	PBMSN
-tann	PDMSN
+tann	RMSND	x
 royndasti	ASWMSN
 og	C
 ídnasti	ASWMSN
@@ -64184,7 +64184,7 @@ Norðoyarstevnu	SFSD
 ,	KC
 tá	C
 ið	C
-tann	PDFSN
+tann	RFSND	x
 fyrsta	ASWFSN
 summarkappingin	SFSNA
 verður	VNAPS3
@@ -65809,7 +65809,7 @@ nýggi	APWMSN
 stovnurin	SMSNA
 er	VNAPS3
 ein	PBMSN
-tann	PDMSN
+tann	RMSND	x
 mest	DNS
 praktiski	APWMSN
 stovnurin	SMSNA
@@ -68311,7 +68311,7 @@ hjá	DG
 teimum	PPMPD
 .	KE
 
-Tann	PDMSN
+Tann	RMSND	x
 fjórði	APWMSN
 og	C
 seinasti	ASWMSN
@@ -71163,7 +71163,7 @@ røntgendeildini	SFSDA
 .	KE
 
 -	KO
-Tann	PDMSN
+Tann	RMSND	x
 stóri	APWMSN
 trupulleikin	SMSNA
 hjá	DG
@@ -86946,7 +86946,7 @@ greitt	APSNSN
 at	C
 Koranin	SFSNA
 var	VNAAS3
-tann	PDMSA
+tann	RMSAD	x
 sanna	APWFSN
 og	C
 rætta	APWFSN
@@ -101163,7 +101163,7 @@ vísir	VNAPS3
 alt	DN
 
 Leygardagin	SMSAA
-tann	PDMSA
+tann	RMSAD	x
 4.	NO
 september	SMSA
 tekur	VNAPS3
@@ -101193,7 +101193,7 @@ dagar	SMPA
 seinni	DNC
 ,	KC
 mikudagin	SMSAA
-tann	PDMSA
+tann	RMSAD	x
 8.	NO
 september	SMSA
 ,	KC
@@ -101841,7 +101841,7 @@ byggjast	VIM
 og	C
 verða	VIA
 klár	DN
-tann	PDMSA
+tann	RMSAD	x
 1.	NO
 januar	SMSA
 .	KE
@@ -101917,7 +101917,7 @@ tey	PPNPN
 skulu	VNAPP3
 brúka	VIA
 hølini	SNPAA
-tann	PDMSA
+tann	RMSAD	x
 1.	NO
 januar	SMSA
 .	KE
@@ -102042,7 +102042,7 @@ ikki	DN
 náa	VIA
 at	CI
 fáa	VIA
-tann	PDMSA
+tann	RMSAD	x
 nýggja	APWMSA
 bygningin	SMSAA
 lidnan	APSMSN
@@ -104504,7 +104504,7 @@ kilo	SNPA
 eskjur	SFPA
 .	KE
 
-Tann	PDMSN
+Tann	RMSND	x
 virkaði	VAMSN
 fiskurin	SMSNA
 verður	VNAPS3
@@ -104724,7 +104724,7 @@ virkið	SNSNA
 ikki	DN
 hevur	VNAPS3
 fingið	VAANSN
-tann	PDMSA
+tann	RMSAD	x
 neyðuga	APWMSA
 fiskin	SMSAA
 at	CI
@@ -108922,7 +108922,7 @@ vónum	SFPD
 um	DG
 ,	KC
 at	C
-tann	PDFSN
+tann	RFSND	x
 kommunistiska	APWFSN
 leiðslan	SFSNA
 í	DG
@@ -109998,7 +109998,7 @@ skrekkinum	SMSDA
 ,	KC
 tá	C
 hann	PPMSN
-tann	PDMSA
+tann	RMSAD	x
 21.	NO
 oktober	SMSA
 kom	VNAAS3
@@ -116707,7 +116707,7 @@ og	C
 fyllir	VNAPS3
 fimm	NC
 ár	SNSA
-tann	PDMSA
+tann	RMSAD	x
 14.	NO
 í	DG
 hesum	PDMSD
@@ -116826,7 +116826,7 @@ er	VNAPS3
 .	KE
 
 Men	C
-tann	PDFSN
+tann	RFSND	x
 væleydnaða	APWFSN
 gongdin	SFSNA
 í	DG
@@ -116854,7 +116854,7 @@ eru	VNAPP1
 ógvuliga	DN
 glað	APSNPN
 fyri	DG
-tann	PDMSA
+tann	RMSAD	x
 fíggjarliga	APSMSA
 stuðul	SMSA
 vit	PP1PN
@@ -117242,7 +117242,7 @@ ger	VNAPS3
 eisini	DN
 lýsingar	SFPA
 ;	KC
-tann	PDMSN
+tann	RMSND	x
 yngsti	ASWMSN
 sonurin	SMSNA
 ,	KC
@@ -117260,7 +117260,7 @@ sær	VNAPS3
 til	DN
 at	C
 øll	PBFSN
-tann	PDFSN
+tann	RFSND	x
 digitala	APWFSN
 maskinan	SFSNA
 koyrir	VNAPS3
@@ -117297,7 +117297,7 @@ uppgávum	SFPD
 ,	KC
 har	DN
 ímillum	DG
-tann	PDFSA
+tann	RFSAD	x
 dagliga	APWFSN
 sendingin	SFSNA
 ?	KE
@@ -117434,7 +117434,7 @@ takka	VIA
 .	KE
 
 »	KQ
-Tann	PDFSN
+Tann	RFSND	x
 talgilda	APWFSN
 tøknifrøðin	SFSNA
 hevur	VNAPS3
@@ -117602,7 +117602,7 @@ spurningin	SMSAA
 um	DG
 hvat	PQNSA
 ið	CR
-tann	PDMSN
+tann	RMSND	x
 politiski	APWMSN
 myndugleikin	SMSNA
 ætlar	VNAPS3
@@ -117879,7 +117879,7 @@ fíggjarliga	DN
 og	C
 so	DN
 kemur	VNAPS3
-tann	PDMSN
+tann	RMSND	x
 avgerandi	VPA
 skeivleikin	SMSNA
 sum	CR
@@ -121068,7 +121068,7 @@ at	CI
 spæla	VIA
 ,	KC
 segði	VNAAS3
-tann	PDMSN
+tann	RMSND	x
 25	NO
 ára	SNPG
 gamli	APWMSN
