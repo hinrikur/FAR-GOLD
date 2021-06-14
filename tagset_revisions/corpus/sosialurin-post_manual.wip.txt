@@ -10217,7 +10217,7 @@ spennandi	APIMSA
 dyst	SMSA
 og	C
 vóru	VNAAP3
-tað	PDNSN
+tað	RNSND	x
 betra	ACWNSN
 liðið	SNSNA
 ,	KC
@@ -35133,7 +35133,7 @@ skal	VNAPS3
 vera	VIA
 í	DG
 gildi	SNSD
-tað	PDNSA
+tað	RNSAD	x
 komandi	VPA
 árið	SNSAA
 og	C
@@ -35835,7 +35835,7 @@ blaðið	SNSAA
 Tit	PP2PN
 skriva	VIA
 um	DG
-tað	PDNSA
+tað	RNSAD	x
 eina	APINSA
 óhappið	SNSAA
 ,	KC
@@ -41296,7 +41296,7 @@ góðar	DG
 Okkurt	PBNSA
 árið	SNSAA
 fellur	VNAPS3
-tað	PDNSN
+tað	RNSND	x
 góða	APSNSN
 veðrið	SNSNA
 á	DG
@@ -41711,7 +41711,7 @@ og	C
 kastaði	VNAAS1
 beint	DN
 frammanfyri	DG
-tað	PDNSA
+tað	RNSAD	x
 eina	APINSA
 sílið	SNSAA
 .	KE
@@ -43176,7 +43176,7 @@ luftina	SFSAA
 .	KE
 
 Tá	C
-tað	PDNSN
+tað	RNSND	x
 síðsta	ASWNSN
 skotið	SNSNA
 varð	VNAAS3
@@ -43281,7 +43281,7 @@ sigur	VNAPS3
 eygnavitnið	SNSNA
 .	KE
 
-Tað	PDNSN
+Tað	RNSND	x
 seinna	ACWNSN
 skotið	SNSNA
 ,	KC
@@ -50561,7 +50561,7 @@ byggja	VIA
 tunnil	SMSA
 ístaðin	DN
 fyri	DG
-tað	PDNSA
+tað	RNSAD	x
 sera	DN
 trupla	APWNSA
 arbeiði	SNSA
@@ -53227,7 +53227,7 @@ til	DG
 ,	KC
 var	VNAAS3
 so	DN
-tað	PDNSN
+tað	RNSND	x
 ringasta	ASWNSN
 av	DG
 øllum	PBNPD
@@ -55127,7 +55127,7 @@ alt	DN
 meira	DNC
 viðkomandi	VPA
 fyri	DG
-tað	PDNSA
+tað	RNSAD	x
 føroyska	APWNSA
 samfelagið	SNSA
 .	KE
@@ -56685,7 +56685,7 @@ Annars	DN
 verður	VNAPS3
 víst	VAMNSN
 til	DG
-tað	PDNSA
+tað	RNSAD	x
 Reyða	APWNSA
 Álitið	SNSAA
 ,	KC
@@ -58988,7 +58988,7 @@ uppá	DG
 tal	SNSA
 at	CI
 byggja	VIA
-tað	PDNSA
+tað	RNSAD	x
 nýggja	APWNSA
 vaktarskipið	SNSAA
 í	DG
@@ -59845,7 +59845,7 @@ uppá	DG
 tal	SNSA
 at	CI
 byggja	VIA
-tað	PDNSA
+tað	RNSAD	x
 nýggja	APWNSA
 ,	KC
 føroyska	APWNSA
@@ -60449,7 +60449,7 @@ farmaskip	SNSA
 Talan	SFSN
 er	VNAPS3
 um	DG
-tað	PDNSA
+tað	RNSAD	x
 28	NO
 ára	SNPG
 gamla	APWNSA
@@ -79433,7 +79433,7 @@ at	C
 tey	PPNPN
 skuldu	VNAAP3
 fáa	VIA
-tað	PDNSA
+tað	RNSAD	x
 gamla	APWNSA
 graslíkið	SNSAA
 ,	KC
@@ -83789,7 +83789,7 @@ at	C
 ein	RFSNI	x
 orsøk	SFSN
 til	DG
-tað	PDNSA
+tað	RNSAD	x
 metlága	APWNSA
 barnsburðartalið	SNSAA
 ,	KC
@@ -95959,7 +95959,7 @@ fyri	DG
 sjálvar	PIFPA
 oyggjarnar	SFPAA
 og	C
-tað	PDNSN
+tað	RNSND	x
 allarnærmasta	ASWNSA
 økið	SNSAA
 rundanum	DN
@@ -98079,7 +98079,7 @@ Vit	PP1PN
 kenna	VNAPP1
 søguna	SFSAA
 um	DG
-tað	PDNSA
+tað	RNSAD	x
 eina	APINSA
 holið	SNSAA
 ,	KC
@@ -98429,7 +98429,7 @@ við	DG
 Føroya	SFPG-P
 Kolvetni	SNSD
 er	VNAPS3
-tað	PDNSN
+tað	RNSND	x
 rætta	APWNSN
 modellið	SNSNA
 .	KE
@@ -99873,7 +99873,7 @@ at	C
 skiparin	SMSNA
 kann	VNAPS3
 fáa	VIA
-tað	PDNSA
+tað	RNSAD	x
 rætta	APWNSA
 sambandið	SNSAA
 við	DG
@@ -107059,7 +107059,7 @@ sodavatnið	SNSNA
 ,	KC
 sum	CR
 er	VNAPS3
-tað	PDNSN
+tað	RNSND	x
 einasta	ASWNSN
 sodavatnið	SNSNA
 diabetikarar	SMPN
@@ -108983,7 +108983,7 @@ seg	PPFSA
 ,	KC
 og	C
 at	C
-tað	PDNSN
+tað	RNSND	x
 unga	APWNSN
 ættarliðið	SNSNA
 má	VNAPS3
@@ -117705,7 +117705,7 @@ Rás	SFSA
 í	DG
 mun	SMSA
 til	DG
-tað	PDNSA
+tað	RNSAD	x
 almenna	APWNSA
 Útvarpið	SNSAA
 ,	KC
@@ -117734,7 +117734,7 @@ vera	VIA
 so	DN
 .	KE
 
-Tað	PDNSN
+Tað	RNSND	x
 almenna	APWNSN
 Útvarpið	SNSNA
 er	VNAPS3
@@ -117787,7 +117787,7 @@ undirhaldsútvarp	SNSN
 .	KE
 
 Meðan	C
-tað	PDNSN
+tað	RNSND	x
 almenna	APWNSN
 Útvarpið	SNSNA
 verður	VNAPS3
@@ -118838,10 +118838,10 @@ bara	DN
 lært	VAANSN
 ,	KC
 at	C
-tað	PDNSN
+tað	RNSND	x
 logiska	APWNSN
 er	VNAPS3
-tað	PDNSN
+tað	RNSND	x
 skilagóða	APWNSN
 ,	KC
 men	C
@@ -119493,7 +119493,7 @@ okkum	PP1PD
 .	KE
 
 Eitt	PBNSN
-tað	PDNSN
+tað	RNSND	x
 besta	ASSNSN
 dømi	SNSN
 er	VNAPS3
