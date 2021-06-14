@@ -54,7 +54,7 @@ def regex_replacer(file):
 
     # Add an active voice to all past participle verbs that
     # have not been asigned a medium voice - (might need verification)
-    file = re.sub(r"(\tVA)([^M]{3})", r"\1A\2", file)
+    file = re.sub(r"(\tVA)(\w{3}\n)", r"\1A\2", file)
 
     # Add tags to indeclinable adjectives, taking information
     # from preceding nouns
@@ -62,7 +62,7 @@ def regex_replacer(file):
 
     # Adds tags to indeclinable adjectives, taking information
     # from the succeeding nouns. Also adds a positive degree.
-    file = re.sub(r"\tAI(\n\w*\tS(\w{3}).*)", r"\tAPI\2\1", file)
+    file = re.sub(r"\tAI(\n.*\tS(\w{3}).*)", r"\tAPI\2\1", file)
 
     # Change all SXP tags to S----P
     file = re.sub(r"\tSXP", r"\tS----P", file)
@@ -70,14 +70,20 @@ def regex_replacer(file):
     # Add a hyphen where the article tag is missing in noun tags
     file = re.sub(r"\t(S\w{3})P", r"\t\1-P", file)
 
+    # Change all "stak" words to DN
+    file = re.sub(r"(\nstak\t).*\n", r"\1DN\n", file)
+
 
     return file
+
 
 
 def main():
     file_stream = open_file()
     file_text = file_stream.read()
     altered_text = regex_replacer(file_text)
+    # text_split = altered_text.split('\n')
+
     save_file(altered_text)
 
     file_stream.close()
