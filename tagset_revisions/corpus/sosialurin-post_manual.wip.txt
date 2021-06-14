@@ -3888,7 +3888,7 @@ til	DG
 Íslands	SNSG-P
 .	KE
 
-Einir	RNPNI	x
+Einir	PBNPN	x
 100	NO
 íslendingar	SMPN
 vitjaðu	VNAAP3
@@ -18723,7 +18723,7 @@ vit	PP1PN
 vænta	VNAPP3
 ,	KC
 at	C
-einir	RMPNI	x
+einir	PBMPN	x
 7.000	NO
 rúmmetrar	SMPN
 verða	VNAPP3
@@ -45460,7 +45460,7 @@ farnir	VAMPN
 várfjall	SNSA
 .	KE
 
-Einir	RNPNI	x
+Einir	PBNPN	x
 tveir	NR
 tríggir	NCMPN
 hjálparmenn	SMPN
@@ -64145,7 +64145,7 @@ túr	SMSA
 Væntandi	VPA
 verða	VNAPP3
 tað	PPNSN
-einir	RMPNI	x
+einir	PBMPN	x
 seks	NC
 súkklarar	SMPN
 ,	KC
@@ -80193,7 +80193,7 @@ avgerandi	VPA
 at	C
 vit	PP1PN
 fáa	VNAPP3
-einar	RFPAI	x
+einar	PBFPA	x
 frælsar	APSFPA
 Føroyar	SFPA-P
 við	DG
@@ -102912,7 +102912,7 @@ ella	C
 heima	DN
 .	KE
 
-Einar	RFPNI	x
+Einar	PBFPN	x
 framkomnar	VAAFPN
 Føroyar	SFPN-P
 
@@ -109915,7 +109915,7 @@ tá	C
 Torstein	SMSN-P
 brádliga	DN
 datt	VNAAS3
-einar	RMPAI	x
+einar	PBMPA	x
 fimm	NC
 ella	C
 seks	NC
@@ -110035,7 +110035,7 @@ og	C
 lendi	VNAAS3
 í	DG
 sjónum	SMSDA
-einar	RMPAI	x
+einar	PBMPA	x
 seks	NC
 metrar	SMPA
 niðriundir	DN
@@ -121247,7 +121247,7 @@ inn	DN
 á	DG
 náttklubban	SMSA
 gjøgnum	DG
-einar	RMPAI	x
+einar	PBMPA	x
 bakdyr	SFPA
 .	KE
 
