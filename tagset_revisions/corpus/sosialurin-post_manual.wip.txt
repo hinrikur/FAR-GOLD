@@ -12647,7 +12647,7 @@ at	CI
 verða	VIA
 viðgjørtd	VAANSN
 í	DG
-tí	PDNSD
+tí	RNSDD	x
 stóra	APSNSD
 arbeiði	SNSD
 ,	KC
@@ -14506,7 +14506,7 @@ at	CI
 loysa	VIA
 gátuna	SFSAA
 við	DG
-tí	PDNSD
+tí	RNSDD	x
 tjúkka	APWNSD
 basaltinum	SNSDA
 .	KE
@@ -17473,7 +17473,7 @@ ljóð	SNSA
 -	KO
 orgie	SNSA
 við	DG
-tí	PDNSD
+tí	RNSDD	x
 nýggjasta	ASWNSD
 surround	F
 ljóðinum	SNSDA
@@ -26950,7 +26950,7 @@ stórt	APSNSN
 sum	CR
 skal	VNAPS3
 hjálpa	VIA
-tí	PDNSD
+tí	RNSDD	x
 illa	DN
 stadda	APWNSD
 felagnum	SNSDA
@@ -39988,7 +39988,7 @@ ein	RMSNI	x
 virkin	VAMSN
 partur	SMSN
 av	DG
-tí	PDNSD
+tí	RNSDD	x
 globaliseraða	APWMSD
 heiminum	SMSDA
 ,	KC
@@ -40561,7 +40561,7 @@ og	C
 annað	PBNSA
 sum	CR
 stýrdi	VNAAS3
-tí	PDFSD
+tí	RFSDD	x
 heimligu	APSFSD
 fiskivinnuni	SFSDA
 .	KE
@@ -46566,7 +46566,7 @@ verja	VIA
 St	F
 Kilda	F
 og	C
-tí	PDNSD
+tí	RNSDD	x
 ríka	APWNSD
 og	C
 sermerkta	ASWNSD
@@ -49060,7 +49060,7 @@ vegin	SMSAA
 .	KE
 
 Frá	DG
-tí	PDNSD
+tí	RNSDD	x
 etniska	APWNSD
 til	DG
 harðan	APSMSA
@@ -55095,7 +55095,7 @@ um	DG
 leiklut	SMSA
 Føroya	SFPG-P
 á	DG
-tí	PDNSD
+tí	RNSDD	x
 uttanlandspolitiska	APWNSD
 økinum	SNSDA
 .	KE
@@ -55332,11 +55332,11 @@ fleiri	ACSNPD
 ,	KC
 bæði	DN
 á	DG
-tí	PDNSD
+tí	RNSDD	x
 handilspolitiska	APWNSD
 og	C
 á	DG
-tí	PDNSD
+tí	RNSDD	x
 meira	DNC
 globala	APWNSD
 .	KE
@@ -55355,7 +55355,7 @@ so	DN
 stóran	APSMSA
 áhuga	SMSA
 fyri	DG
-tí	PDNSD
+tí	RNSDD	x
 uttanríkispolitiska	APWNSD
 økinum	SNSDA
 ,	KC
@@ -55706,7 +55706,7 @@ vit	PP1PN
 føroyingar	SMPN
 eru	VNAPP3
 í	DG
-tí	PDFSD
+tí	RFSDD	x
 sera	DN
 óhepnu	APWFSD
 støðu	SFSD
@@ -56458,7 +56458,7 @@ viku	SFSD
 Leiklutur	SMSN
 Føroya	SFPG-P
 á	DG
-tí	PDNSD
+tí	RNSDD	x
 uttanlandspolitiska	APWNSD
 økinum	SNSDA
 økist	VNMPS3
@@ -56489,7 +56489,7 @@ røð	SFSA
 av	DG
 málum	SNPD
 á	DG
-tí	PDNSD
+tí	RNSDD	x
 uttanlandspolitiska	APWNSD
 økinum	SNSDA
 .	KE
@@ -56600,7 +56600,7 @@ máli	SNSD
 .	KE
 
 Á	DG
-tí	PDNSD
+tí	RNSDD	x
 handilspolitiska	APWNSD
 økinum	SNSDA
 hevur	VNAPS3
@@ -56760,7 +56760,7 @@ heiminum	SMSDA
 
 Støðið	SNSNA
 undir	DG
-tí	PDMSD
+tí	RMSDD	x
 føroyska	APWMSD
 búskapinum	SMSDA
 er	VNAPS3
@@ -68861,7 +68861,7 @@ sindur	SNSA
 ov	DN
 nógv	DN
 av	DG
-tí	PDNSD
+tí	RNSDD	x
 góða	APWNSD
 at	CI
 hoyra	VIA
@@ -72294,7 +72294,7 @@ donsk	APSNPN
 ættleiðingarforeldur	SNPN
 fáa	VNAPP3
 frá	DG
-tí	PDNSD
+tí	RNSDD	x
 almenna	APSNSD
 er	VNAPS3
 32.000	NO
@@ -73953,7 +73953,7 @@ sum	CR
 er	VNAPS3
 trupulleikin	SMSNA
 í	DG
-tí	PDMSD
+tí	RMSDD	x
 føroyska	APWMSD
 búskapinum	SMSDA
 í	DG
@@ -91625,7 +91625,7 @@ eru	VNAPP3
 ein	RFSNI	x
 fylgja	SFSN
 av	DG
-tí	PDFSD
+tí	RFSDD	x
 nýggju	APWFSD
 fólkaskúlalógini	SFSDA
 ,	KC
@@ -92190,13 +92190,13 @@ er	VNAPS3
 ætlanin	SFSNA
 at	CI
 sleppa	VIA
-tí	PDFSD
-eini	RFSDI	x
+tí	RFSDD	x
+eini	PBFSD
 ferðini	SFSDA
 mánadag	SMSA
 og	C
-tí	PDFSD
-eini	RFSDI	x
+tí	RFSDD	x
+eini	PBFSD
 ferðini	SFSDA
 leygardag	SMSA
 .	KE
@@ -93238,7 +93238,7 @@ Violinin	SFSNA
 var	VNAAS3
 gjørd	VAAFSN
 av	DG
-tí	PDMSD
+tí	RMSDD	x
 tiltikna	APWMSD
 italska	APWMSD
 violinmakaranum	SMSDA
@@ -93466,7 +93466,7 @@ meðan	C
 Sámal	SMSN-P
 Petersen	S----P
 stóð	VNAAS3
-tí	PDNSD
+tí	RNSDD	x
 meira	DNC
 skikkaða	APWNSD
 ískoytinum	SNSDA
@@ -94872,7 +94872,7 @@ hesum	PDMSD
 spennandi	APIMSD
 fyrilestri	SMSD
 og	C
-tí	PDNSD
+tí	RNSDD	x
 góða	APWNSD
 pallborðsorðaskifti	SNSD
 ,	KC
@@ -97637,13 +97637,13 @@ tó	DN
 annað	PBNSA
 teirra	PPNPG
 í	DG
-tí	PDMSD
+tí	RMSDD	x
 útlendska	APWMSD
 partinum	SMSDA
 og	C
 hitt	PDNSA
 í	DG
-tí	PDMSD
+tí	RMSDD	x
 føroyska	APWMSD
 partinum	SMSDA
 .	KE
@@ -98168,7 +98168,7 @@ brúka	VIA
 ov	DN
 nógv	DN
 av	DG
-tí	PDMSD
+tí	RMSDD	x
 føroyska	APWMSD
 kapitalinum	SMSDA
 til	DG
@@ -98705,7 +98705,7 @@ Kolvetni	SNSN
 koyrir	VNAPS3
 nevniliga	DN
 eftir	DG
-tí	PDNSD
+tí	RNSDD	x
 vanliga	DN
 oljufelagsmodellinum	SNSDA
 og	C
@@ -104533,7 +104533,7 @@ at	CI
 selja	VIA
 fiskin	SMSAA
 á	DG
-tí	PDMSD
+tí	RMSDD	x
 eysturevropeiska	APWMSD
 og	C
 russiska	APWMSD
@@ -105822,7 +105822,7 @@ perspektiv	SNSA
 og	C
 at	CI
 sleppa	VIA
-tí	PDNSD
+tí	RNSDD	x
 sjálvsagda	APWNSD
 og	C
 siðbundna	APWNSD
@@ -113051,7 +113051,7 @@ eisini	DN
 seinasti	ASWMSN
 flogtúrurin	SMSNA
 hjá	DG
-tí	PDMSD
+tí	RMSDD	x
 royndasta	ASWMSD
 flogskiparanum	SMSDA
 á	DG
@@ -113759,7 +113759,7 @@ arbeiðið	SNSNA
 verður	VNAPS3
 gjørt	VAANSN
 í	DG
-tí	PDNSD
+tí	RNSDD	x
 dulda	APSNSD
 ,	KC
 heldur	VNAPS3
@@ -116441,7 +116441,7 @@ alt	DN
 ov	DN
 nógv	DN
 av	DG
-tí	PDNSD
+tí	RNSDD	x
 góða	APWNSD
 ,	KC
 men	C
@@ -116665,7 +116665,7 @@ ta	RFSAD	x
 formellu	APWFSA
 avtøkuna	SFSAA
 av	DG
-tí	PDNSD
+tí	RNSDD	x
 føroyska	APWNSD
 loftmiðla	APWNSD
 monopolinum	SNSDA
@@ -117209,7 +117209,7 @@ tekur	VNAPS3
 sær	PPMSD
 sjálvur	PIMSN
 av	DG
-tí	PDNSD
+tí	RNSDD	x
 analoga	APWNSD
 sendinetinum	SNSDA
 ,	KC
@@ -117228,7 +117228,7 @@ sær	PPFSD
 av	DG
 bókhaldinum	SNSDA
 og	C
-tí	PDNSD
+tí	RNSDD	x
 fíggjarliga	APWNSD
 ;	KC
 næstyngsti	ASWMSN
@@ -117508,7 +117508,7 @@ vit	PP1PN
 kunnu	VNAPP1
 somuleiðis	DN
 stýra	VIA
-tí	PDNSD
+tí	RNSDD	x
 grundleggjandi	VPA
 arbeiðinum	SNSDA
 á	DG
@@ -117687,7 +117687,7 @@ Rás	SFSN
 2	NO
 er	VNAPS3
 av	DG
-tí	PDMSD
+tí	RMSDD	x
 ónda	APWMSD
 ?	KE
 
@@ -117742,7 +117742,7 @@ ein	RMSNI	x
 stovnur	SMSN
 ið	C
 av	DG
-tí	PDMSD
+tí	RMSDD	x
 politiska	APWMSD
 myndugleikanum	SMSDA
 er	VNAPS3
@@ -118049,7 +118049,7 @@ destruktivt	DN
 máa	VIA
 støðið	SNSAA
 undan	DG
-tí	PDNSD
+tí	RNSDD	x
 dygdargóða	APWNSD
 public	F
 service	F
@@ -119286,7 +119286,7 @@ náttúruni	SFSDA
 rundanum	DG
 okkum	PP1PA
 og	C
-tí	PDMSD
+tí	RMSDD	x
 andaliga	APWMSD
 heiminum	SMSDA
 ,	KC
@@ -121869,7 +121869,7 @@ nakað	PBNSA
 í	DG
 nánd	SFSD
 av	DG
-tí	PDNSD
+tí	RNSDD	x
 føroyska	APWNSD
 markinum	SNSDA
 ,	KC
@@ -122102,7 +122102,7 @@ løku	APWNPA
 av	DG
 boringunum	SFPDA
 í	DG
-tí	PDNSD
+tí	RNSDD	x
 sokallaða	APWNSD
 Gullhorninum	SNSDA
 hava	VNAPP3
