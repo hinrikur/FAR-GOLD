@@ -3672,7 +3672,7 @@ talið	SNSAA
 á	DG
 apotekum	SNPDA
 í	DG
-teimum	PDMPD
+teimum	RMPDD	x
 donsku	APWMPD
 býunum	SMPDA
 .	KE
@@ -14077,7 +14077,7 @@ at	C
 vanliga	APWFSN
 hugsanin	SFSNA
 hjá	DG
-teimum	PDMPD
+teimum	RMPDD	x
 sokallaðu	APWMPD
 borgarligu	APWMPD
 politikarunum	SMPDA
@@ -17252,7 +17252,7 @@ síggja	VIA
 ,	KC
 líka	DN
 frá	DG
-teimum	PDNPD
+teimum	RNPDD	x
 fittligastu	ASWNPD
 undirklæðunum	SNPDA
 ,	KC
@@ -19591,7 +19591,7 @@ at	CI
 endurtaka	VIA
 nøvnini	SNPAA
 á	DG
-teimum	PDNPD
+teimum	RNPDD	x
 ymisku	APWNPD
 ljóðførunum	SNPDA
 ,	KC
@@ -19865,7 +19865,7 @@ og	C
 læra	VIA
 heitini	SNPAA
 á	DG
-teimum	PDNPD
+teimum	RNPDD	x
 ymisku	APWNPD
 ljóðførunum	SNPDA
 .	KE
@@ -21194,7 +21194,7 @@ fekk	VNAAS3
 ikki	DN
 mann	SMSA
 í	DG
-teimum	PDMPD
+teimum	RMPDD	x
 »	KQ
 bíligu	APSNPD
 «	KQ
@@ -21216,7 +21216,7 @@ mann	SMSA
 valdan	VAMSN
 í	DG
 øllum	PBNPD
-teimum	PDNPD
+teimum	RNPDD	x
 »	KQ
 bíligu	APSNPD
 «	KQ
@@ -21641,7 +21641,7 @@ tað	PPNSN
 verður	VNAPS3
 støðan	SFSNA
 hjá	DG
-teimum	PDNPD
+teimum	RNPDD	x
 kristiligu	APWNPD
 er	VNAPS3
 ivasamt	APSNSN
@@ -23557,7 +23557,7 @@ sær	PPMSD
 í	DG
 nakkanum	SMSDA
 á	DG
-teimum	PDFPD
+teimum	RFPDD	x
 ymsu	APSFPD
 løgreglustovunum	SFSDA
 kring	DG
@@ -26057,7 +26057,7 @@ var	VNAAS3
 tað	PPNSN
 ein	PBMSN
 av	DG
-teimum	PDMPD
+teimum	RMPDD	x
 bretsku	APWMPD
 luttakarunum	SMPDA
 ,	KC
@@ -29265,7 +29265,7 @@ Beint	DN
 undir	DG
 brúnni	SFSDA
 við	DG
-teimum	PDNPD
+teimum	RNPDD	x
 smáu	APWNPD
 vindeygunum	SNPDA
 ,	KC
@@ -31486,7 +31486,7 @@ teir	PPMPN
 hava	VNAPP3
 takið	SNSAA
 á	DG
-teimum	PDMPD
+teimum	RMPDD	x
 grønu	APWMPD
 úr	DG
 Havn	SFSD-P
@@ -36267,7 +36267,7 @@ sumbingar	SMPN
 føroyskan	APSMSA
 dans	SMSA
 fyri	DG
-teimum	PDMPD
+teimum	RMPDD	x
 ógvuliga	DN
 hugtiknu	APWMPD
 íslendingunum	SMPDA
@@ -44289,7 +44289,7 @@ at	C
 varði	SMSN
 varð	VNAAS3
 reistur	VAMSN
-teimum	PDMPD
+teimum	RMPDD	x
 mykinesmonnum	SMPD
 til	DG
 minnis	SNSG
@@ -54928,7 +54928,7 @@ skipini	SNPAA
 hóast	C
 onkur	PBMSN
 av	DG
-teimum	PDMPD
+teimum	RMPDD	x
 "	KQ
 gomlu	APWMPD
 "	KQ
@@ -55462,7 +55462,7 @@ at	CI
 standa	VIA
 fyri	DG
 øllum	PBNPD
-teimum	PDNPD
+teimum	RNPDD	x
 uttanríkispolitisku	APWNPD
 málunum	SNPDA
 ,	KC
@@ -56892,7 +56892,7 @@ einari	RFSDI	x
 øktari	APSFSD
 luttøku	SFSD
 í	DG
-teimum	PDFPD
+teimum	RFPDD	x
 altjóða	APSFPD
 avbjóðingum	SFPD
 og	C
@@ -66019,7 +66019,7 @@ fyri	DG
 limir	SMPA
 okkara	PP1PG
 í	DG
-teimum	PDFPD
+teimum	RFPDD	x
 framhaldandi	APIFPD
 royndunum	SFPDA
 at	CI
@@ -66253,7 +66253,7 @@ bindandi	VPA
 fyri	DG
 limirnar	SMPAA
 í	DG
-teimum	PDFPD
+teimum	RFPDD	x
 framhaldandi	VPA
 royndunum	SFPDA
 at	CI
@@ -68175,7 +68175,7 @@ Tá	C
 ið	C
 Fluxmanningin	SFSNA
 við	DG
-teimum	PDNPD
+teimum	RNPDD	x
 litføgru	APWNPD
 hárunum	SNPDA
 var	VNAAS3
@@ -74265,7 +74265,7 @@ sum	CR
 verður	VNAPS3
 førdur	VAMSN
 í	DG
-teimum	PDNPD
+teimum	RNPDD	x
 ymsu	APWNPD
 økjunum	SNPDA
 í	DG
@@ -74303,7 +74303,7 @@ mun	SMSA
 á	DG
 fíggjarpolitikkinum	SMSDA
 í	DG
-teimum	PDNPD
+teimum	RNPDD	x
 ymsu	APWNPD
 økjunum	SNPDA
 í	DG
@@ -75831,7 +75831,7 @@ fólkaræði	SNSN
 Norðurlondum	SNPD-P
 ,	KC
 umframt	DN
-teimum	PDNPD
+teimum	RNPDD	x
 sjálvstýrandi	VPA
 økjunum	SNPDA
 ,	KC
@@ -84001,7 +84001,7 @@ gera	VIA
 álvara	SMSA
 burturúr	DG
 øllum	PBNPD
-teimum	PDNPD
+teimum	RNPDD	x
 føgru	APSNPD
 orðum	SNPD
 ,	KC
@@ -101264,7 +101264,7 @@ hvør	PQMSN
 fær	VNAPS3
 borgarstjórasessin	SMSAA
 í	DG
-teimum	PDFPD
+teimum	RFPDD	x
 ymisku	APWFPD
 kommununum	SFPDA
 ,	KC
@@ -101346,7 +101346,7 @@ hvør	PBMSN
 røkja	VIA
 borgarstjórasessin	SMSAA
 í	DG
-teimum	PDFPD
+teimum	RFPDD	x
 ymisku	APWFPD
 kommununum	SFPDA
 skal	VNAPS3
@@ -106456,7 +106456,7 @@ eru	VNAPP3
 fremsta	APWNSN
 valevnið	SNSNA
 hjá	DG
-teimum	PDMPD
+teimum	RMPDD	x
 ymisku	APWMPD
 flokkunum	SMPDA
 .	KE
@@ -118062,7 +118062,7 @@ metir	VNAPS3
 at	C
 marknaðurin	SMSNA
 hjá	DG
-teimum	PDNPD
+teimum	RNPDD	x
 kommerciellu	APSNPD
 ,	KC
 sum	CR
