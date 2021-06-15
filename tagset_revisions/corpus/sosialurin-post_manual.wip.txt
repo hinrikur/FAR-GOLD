@@ -11394,7 +11394,7 @@ Trupulleikarnir	SMPNA
 í	DG
 Danmark	SNSD-P
 eru	VNAPP3
-tær	PDFPN
+tær	RFPND	x
 longu	APWFPN
 bíðitíðirnar	SFPNA
 til	DG
@@ -27058,7 +27058,7 @@ er	VNAPS3
 likið	VAANSN
 út	DN
 um	DG
-tær	PDFPA
+tær	RFPAD	x
 nýggju	APWFPA
 ætlaninar	SFPAA
 .	KE
@@ -39905,7 +39905,7 @@ mánað	SMSA
 upp	DN
 á	DG
 gera	VIA
-tær	PDNPA
+tær	RNPAD	x
 neyðugu	APWNPA
 innstalatiónirnar	SNPAA
 við	DG
@@ -40209,7 +40209,7 @@ situr	VNAPS3
 Samró	S----P
 og	C
 ger	VNAPS3
-tær	PDFPA
+tær	RFPAD	x
 endaligu	APWFPA
 niðurstøðurnar	SFPAA
 ,	KC
@@ -51488,7 +51488,7 @@ fiska	VIA
 á	DG
 Norðhavinum	SNSD-P
 í	DG
-teirri	PDFSD
+teirri	RFSDD	x
 friðaðu	APWFSD
 gýtingartíðini	SFSDA
 ,	KC
@@ -52832,7 +52832,7 @@ hættisligari	ACWFSN
 
 -	KO
 Og	C
-tær	PDFPN
+tær	RFPND	x
 ringu	APWFPN
 vónirnar	SFPNA
 ,	KC
@@ -60340,7 +60340,7 @@ fund	SMSA
 at	CI
 tosa	VIA
 um	DG
-tær	PDFPA
+tær	RFPAD	x
 stóru	APWFPA
 linjurnar	SFPAA
 í	DG
@@ -71064,7 +71064,7 @@ ikki	DN
 meir	DNC
 .	KE
 
-Tær	PDFPN
+Tær	RFPND	x
 sjey	NC
 milliónirnar	SFPNA
 standa	VNAPP3
@@ -74488,7 +74488,7 @@ so	DN
 at	C
 vit	PP1PN
 finna	VNAPP1
-tær	PDFPA
+tær	RFPAD	x
 neyðugu	APWFPA
 semjurnar	SFPAA
 ,	KC
@@ -102967,7 +102967,7 @@ Føroyar	SFPA-P
 til	DG
 landið	SNSAA
 við	DG
-teirri	PDFSD
+teirri	RFSDD	x
 mest	DNS
 fyrimyndarligu	APWFSD
 nýtsluni	SFSDA
@@ -107737,7 +107737,7 @@ av	DG
 tí	PPNSD
 ,	KC
 at	C
-tær	PDFPN
+tær	RFPND	x
 stóru	APWFPN
 fiskanøgdirnar	SFPNA
 vanliga	DN
@@ -108832,7 +108832,7 @@ Vinstraflokkinum	SMSDA
 og	C
 brennivín	SNSA
 frá	DG
-teirri	PDFSD
+teirri	RFSDD	x
 eysturtýsku	APWFSD
 sendistovuni	SFSDA
 ,	KC
@@ -110668,7 +110668,7 @@ høvdu	VNAAP3
 tað	PPNSA
 so	DN
 lætt	APSNSA
-tær	PDFPA
+tær	RFPAD	x
 fyrstu	ASWFPA
 næturnar	SFPAA
 aftaná	DN
@@ -114720,7 +114720,7 @@ munnu	VNAPP3
 hava	VIA
 gingið	VAANSN
 í	DG
-teirri	PDFSD
+teirri	RFSDD	x
 »	KQ
 saligu	APWFSD
 «	KQ
@@ -115323,7 +115323,7 @@ viku	SFSD
 síðani	DN
 komu	VNAAP3
 allar	PBFPN
-tær	PDFPN
+tær	RFPND	x
 nýggju	APWFPN
 maskinurnar	SFPNA
 .	KE
@@ -117902,7 +117902,7 @@ kappast	VIA
 Mímóti	DG
 okkum	PP1PD
 um	DG
-tær	PDFPA
+tær	RFPAD	x
 handilsligu	APWFPA
 lýsingarnar	SFPAA
 .	KE
@@ -117954,7 +117954,7 @@ og	C
 øðrum	PBMPD
 miðlum	SMPD
 um	DG
-tær	PDFPA
+tær	RFPAD	x
 handilsligu	APWFPA
 lýsingarnar	SFPAA
 ,	KC
