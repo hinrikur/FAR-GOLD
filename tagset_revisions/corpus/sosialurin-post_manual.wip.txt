@@ -9910,7 +9910,7 @@ Klaksvík	SFSD-P
 og	C
 tað	PPNSN
 er	VNAPS3
-umráðandi	AI
+umráðandi	AINSN   x
 fyri	DG
 reiðaríið	SNSAA
 ,	KC
@@ -10326,7 +10326,7 @@ seinastuni	SFSDA
 So	DN
 tað	PPNSN
 verður	VNAPS3
-spennandi	AI
+spennandi	AINSN   x
 at	CI
 síggja	VIA
 ,	KC
@@ -10922,7 +10922,7 @@ halda	VNAPP3
 tað	PPNSA
 eisini	DN
 vera	VIA
-umráðandi	AI
+umráðandi	AINSN   x
 at	CI
 tosa	VIA
 um	DG
@@ -11253,7 +11253,7 @@ samdir	APSMPN
 um	DN
 ,	KC
 hvussu	DN
-umráðandi	AI
+umráðandi	AINSN x
 tað	PPNSN
 er	VNAPS3
 ,	KC
@@ -11804,7 +11804,7 @@ Tað	PPNSN
 sum	CR
 er	VNAPS3
 mest	DNS
-umráðandi	AI
+umráðandi	AINSN   x
 í	DG
 hálkukoyring	SFSD
 er	VNAPS3
@@ -11909,7 +11909,7 @@ Tað	PPNSN
 sum	CR
 er	VNAPS3
 mest	DNS
-umráðandi	AI
+umráðandi	AINSN   x
 í	DG
 hálkukoyring	SFSD
 er	VNAPS3
@@ -11933,7 +11933,7 @@ tað	PPNSN
 ikki	DN
 altíð	DN
 so	DN
-umráðandi	AI
+umráðandi	AINSN   x
 ,	KC
 um	DN
 tú	PP2SN
@@ -18977,7 +18977,7 @@ bakkanum	SMSDA
 so	DN
 har	DN
 verður	VNAPS3
-munandi	AI
+munandi	AINSN   x
 betur	DN
 pláss	SNSN
 ,	KC
@@ -21526,7 +21526,7 @@ nývaldir	VAMPN
 og	C
 tí	C
 verður	VNAPS3
-spennandi	AI
+spennandi	AINSN   x
 hvat	PQNSN
 fer	VNAPS3
 at	CI
@@ -24828,7 +24828,7 @@ við	DG
 Golden	F
 Star	F
 (	KO
-fyrrverandi	AI
+fyrrverandi	AINSN   x
 Cindy	F
 )	KO
 ,	KC
@@ -25758,7 +25758,7 @@ umboðsstovuni	SFSDA
 Aberdeen	F
 hava	VNAPP3
 verið	VAANSN
-spennandi	AI
+spennandi	AINPN   x
 og	C
 innihaldsrík	APSNPN
 .	KE
@@ -29550,7 +29550,7 @@ suðurlondum	SFPD
 ,	KC
 gongur	VNAPS3
 tað	PPNSN
-munandi	AI
+munandi	AINSN   x
 harðari	DNC
 fyri	DG
 seg	PPMSA
@@ -39325,7 +39325,7 @@ til	DG
 fráfaringarhøllina	SFSAA
 .	KE
 
-Berandi	AI
+Berandi	AINSA   x
 lítla	APWNSA
 barnið	SNSAA
 ,	KC
@@ -41144,7 +41144,7 @@ nakað	PBNSN
 serligt	APSNSN
 ,	KC
 og	C
-munandi	AI
+munandi	AINSN   x
 meira	DNC
 verður	VNAPS3
 gjørt	VAANSN
@@ -42377,7 +42377,7 @@ nakað	PBNSN
 serligt	APSNSN
 ,	KC
 og	C
-munandi	AI
+munandi	AINSN   x
 meira	DNC
 verður	VNAPS3
 gjørt	VAANSN
@@ -42768,7 +42768,7 @@ við	DG
 monnum	SMPD
 gjørdist	VNMAS3
 rættuliga	DN
-spennandi	AI
+spennandi	AIMSN   x
 .	KE
 
 Tað	PPNSN
@@ -46034,7 +46034,7 @@ brotin	VAAFSN
 
 Kann	VNAPS1
 økja	VIA
-munandi	AI
+munandi	AINSN   x
 um	DG
 útflutningin	SMSAA
 í	DG
@@ -46246,7 +46246,7 @@ Løgmaður	SMSN
 sigur	VNAPS3
 tað	PPNSA
 vera	VIA
-spennandi	AI
+spennandi	AINSN   x
 at	CI
 síggja	VIA
 ,	KC
@@ -48642,7 +48642,7 @@ vit	PP1PN
 kanska	DN
 ikki	DN
 so	DN
-spennandi	AI
+spennandi	AINPN   x
 .	KE
 
 Har	DN
@@ -51242,7 +51242,7 @@ leiðum	SFPD
 Tað	PPNSN
 hevði	VNAAS3
 lætt	VAANSN
-munandi	AI
+munandi	AINSN   x
 um	DN
 hjá	DG
 útróðrinum	SMSDA
@@ -54298,7 +54298,7 @@ fyri	DG
 lítlari	APSFSD
 samkomu	SFSD
 fyri	DG
-núverandi	AI
+núverandi	AINPD   x
 og	C
 fyrrverandi	APINPD
 starvsfólkum	SNPD
@@ -54387,7 +54387,7 @@ sambandinum	SNSDA
 vóru	VNAAP3
 eini	RNPNI	x
 40	NO
-fyrrverandi	AI
+fyrrverandi	AINPN   x
 og	C
 núverandi	APINPN
 starvsfólk	SNPN
@@ -55656,7 +55656,7 @@ heldur	VNAPS3
 tað	PPNSA
 sjálvandi	DN
 vera	VIA
-umráðandi	AI
+umráðandi	AINSN   x
 at	CI
 viðgera	VIA
 og	C
@@ -67740,7 +67740,7 @@ henda	PDFSN
 kappingin	SFSNA
 verður	VNAPS3
 sera	DN
-spennandi	AI
+spennandi	AIFSN   x
 ,	KC
 tá	C
 hósvíkingar	SMPN
@@ -68284,7 +68284,7 @@ tóktist	VNMAS3
 at	CI
 vera	VIA
 batnað	VAANSN
-munandi	AI
+munandi	AINSN   x
 .	KE
 
 Diatribes	F
@@ -68303,7 +68303,7 @@ tónleikaheiminum	SMSDA
 og	C
 tað	PPNSN
 verður	VNAPS3
-spennandi	AI
+spennandi	AINSN   x
 at	CI
 fylgja	VIA
 gongdini	SFSDA
@@ -71687,7 +71687,7 @@ Hetta	PDNSN
 er	VNAPS3
 ein	RFSNI	x
 serstakliga	DN
-spennandi	AI
+spennandi	AINSN	x
 og	C
 áhugaverd	APSFSN
 avbjóðing	SFSN
@@ -76539,7 +76539,7 @@ er	VNAPS3
 hetta	PDNSN
 virksemið	SNSNA
 økt	VAANSN
-munandi	AI
+munandi	AINSN	x
 ,	KC
 nú	DN
 uppgangurin	SMSNA
@@ -86378,7 +86378,7 @@ Poulsen	S----P
 helt	VNAAS3
 læknavísindina	SFSAA
 vera	VIA
-spennandi	AI
+spennandi	AIFSN	x
 ,	KC
 og	C
 gjørdi	VNAAS3
@@ -86464,7 +86464,7 @@ islam	SNSAA
 
 Tær	PPFPN
 eru	VNAPP3
-spennandi	AI
+spennandi	AIFPN	x
 ,	KC
 heldur	VNAPS3
 hon	PPFSN
@@ -88195,7 +88195,7 @@ hví	DN
 er	VNAPS3
 tað	PPNSN
 so	DN
-umráðandi	AI
+umráðandi	AINSN	x
 at	CI
 goyma	VIA
 hárið	SNSAA
@@ -88616,7 +88616,7 @@ vit	PP1PN
 ikki	DN
 eru	VNAPP3
 serliga	DN
-spennandi	AI
+spennandi	AINPN	x
 at	CI
 vera	VIA
 saman	DN
@@ -94328,7 +94328,7 @@ august	SMSA
 
 Hann	PPMSN
 er	VNAPS3
-munandi	AI
+munandi	AIMSN	x
 betri	DNC
 enn	DN
 tann	PDMSN
@@ -94415,7 +94415,7 @@ var	VNAAS3
 sera	DN
 umfevnandi	VPA
 ,	KC
-spennandi	AI
+spennandi	AIFSN	x
 og	C
 siðilig	APSFSN
 ,	KC
@@ -96487,7 +96487,7 @@ slíkt	PINSA
 hugskot	SNSA
 ,	KC
 er	VNAPS3
-umráðandi	AI
+umráðandi	AINSN	x
 ,	KC
 at	C
 tú	PP2SN
@@ -96694,7 +96694,7 @@ framleiðslu	SFSA
 Tað	PPNSN
 er	VNAPS3
 ógvuliga	DN
-umráðandi	AI
+umráðandi	AINSN	x
 fyri	DG
 lidnu	APWFSA
 vøruna	SFSAA
@@ -100987,7 +100987,7 @@ kjakið	SNSNA
 sum	C
 heild	SFSN
 er	VNAPS3
-misvísandi	AI
+misvísandi	AIFSN	x
 .	KE
 
 Hann	PPMSN
@@ -102149,7 +102149,7 @@ handilin	SMSAA
 Klaksvík	SFSD-P
 er	VNAPS3
 sera	DN
-spennandi	AI
+spennandi	AIMSN	x
 ,	KC
 sigur	VNAPS3
 hon	PPFSN
@@ -103799,7 +103799,7 @@ tað	PDNSN
 sama	PINSN
 flutningsvirksemið	SNSNA
 rekast	VIM
-munandi	AI
+munandi	AINSN	x
 bíligari	DNC
 enn	DN
 áður	DN
@@ -105116,7 +105116,7 @@ vísir	VNAPS3
 at	C
 tað	PPNSN
 er	VNAPS3
-týðandi	AI
+týðandi	AINSN	x
 at	CI
 fáa	VIA
 at	CI
@@ -105330,9 +105330,9 @@ aldrinum	SMSDA
 ár	SNPN
 .	KE
 
-Spennandi	AI
+Spennandi	AINSN	x
 og	C
-slóðbrótandi	AI
+slóðbrótandi	AINSN	x
 
 Men	C
 talan	SFSN
@@ -105669,7 +105669,7 @@ Tað	PPNSN
 sum	CR
 er	VNAPS3
 so	DN
-facinerandi	AI
+facinerandi	AINSN	x
 við	DG
 upptøkutólinum	SNSDA
 er	VNAPS3
@@ -105968,7 +105968,7 @@ royna	VIA
 nakað	PBNSA
 nýtt	APSNSA
 og	C
-eksperimenterandi	AI
+eksperimenterandi	AINSA	x
 .	KE
 
 Filmurin	SMSNA
@@ -106183,7 +106183,7 @@ ein	RMSAI	x
 hátt	SMSA
 .	KE
 
-Spennandi	AI
+Spennandi	AINSN	x
 verður	VNAPS3
 at	CI
 síggja	VIA
@@ -108032,7 +108032,7 @@ Og	C
 við	DN
 at	CI
 betra	VIA
-munandi	AI
+munandi	AINSN	x
 um	DG
 útflutnignsmøguleikarnar	SMPAA
 heldur	VNAPS3
@@ -114075,7 +114075,7 @@ Men	C
 tað	PPNSN
 var	VNAAS3
 alt	DN
-umráðandi	AI
+umráðandi	AINSN	x
 fyri	DG
 Fiskavirking	SFSA
 at	CI
@@ -115678,7 +115678,7 @@ maskinum	SFPD
 Alt	PBNSN
 hetta	PDNSN
 bøtir	VNAPS3
-munandi	AI
+munandi	AINSN	x
 um	DG
 arbeiðsumstøðurnar	SFPAA
 og	C
@@ -115753,7 +115753,7 @@ annað	PBNSN
 sum	CR
 eisini	DN
 lættir	VNAPS3
-munandi	AI
+munandi	AINSN	x
 um	DN
 hjá	DG
 teimum	PPMPD
@@ -116162,7 +116162,7 @@ Og	C
 tað	PPNSN
 er	VNAPS3
 so	DN
-spennandi	AI
+spennandi	AINSN	x
 .	KE
 
 Fyrr	DNC
@@ -116170,7 +116170,7 @@ var	VNAAS3
 tað	PPNSN
 óivað	DN
 líka	DN
-spennandi	AI
+spennandi	AINSN	x
 at	CI
 prýða	VIA
 til	DG
@@ -121469,7 +121469,7 @@ oljufund	SNSA
 
 Tað	PPNSN
 sær	VNAPS3
-spennandi	AI
+spennandi	AINSN	x
 út	DN
 
 BP	TS
@@ -121538,7 +121538,7 @@ fundið	SNSNA
 við	DG
 markið	SNSAA
 er	VNAPS3
-spennandi	AI
+spennandi	AINSN	x
 ,	KC
 men	C
 hann	PPMSN
@@ -121626,7 +121626,7 @@ sum	CR
 tey	PPNPN
 hildu	VNAAP3
 var	VNAAS3
-spennandi	AI
+spennandi	AINSN	x
 ,	KC
 var	VNAAS3
 ikki	DN
