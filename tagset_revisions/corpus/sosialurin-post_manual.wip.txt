@@ -15774,7 +15774,7 @@ Teldan	SFSNA
 er	VNAPS3
 ivaleyst	DN
 eitt	PBNSN
-hitt	PDNSN
+hitt	RNSND	x
 mest	DNS
 nýtta	VAANSN
 arbeiðstólið	SNSNA
@@ -76309,7 +76309,7 @@ Toppstein	SMSDAP
 
 Tá	C
 verður	VNAPS3
-hitt	PDNSN
+hitt	RNSND	x
 tíggjunda	APWNSN
 skeltið	SNSNA
 boltað	VAANSN
@@ -78726,7 +78726,7 @@ til	DN
 í	DG
 Klaksvík	SFSD-P
 var	VNAAS3
-hin	PDMSA
+hin	RMSAD	x
 26.	NO
 august	SMSA
 í	DG
@@ -97703,7 +97703,7 @@ nevndarformaður	SMSN
 
 Eins	C
 og	C
-hitt	PDNSN
+hitt	RNSND	x
 føroyska	APWNSN
 oljufelagið	SNSNA
 ,	KC
@@ -102815,7 +102815,7 @@ nýggjum	APSNPD
 endamálum	SNPD
 .	KE
 
-Hin	PDFSN
+Hin	RFSND	x
 best	DNS
 kenda	APWFSN
 tænastan	SFSNA
@@ -106580,7 +106580,7 @@ at	C
 arbeiðsfriðurin	SMSNA
 ikki	DN
 verður	VNAPS3
-hin	PDMSN
+hin	RMSND	x
 besti	ASWMSN
 ,	KC
 sigur	VNAPS3
