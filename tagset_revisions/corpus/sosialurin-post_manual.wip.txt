@@ -4720,7 +4720,7 @@ stykkis	SNSG
 kemur	VNAPS3
 ,	KC
 fara	VNAPP3
-teir	PDMPN
+teir	RMPND	x
 hóvligaru	ASWMPN
 flokkarnir	SMPNA
 at	CI
@@ -10148,7 +10148,7 @@ Frederiksberg	F
 Volley	F
 nú	DN
 vunnið	VAANSN
-teir	PDMPA
+teir	RMPAD	x
 báðar	PBMPA
 seinastu	ASSMSA
 dystirnar	SMPAA
@@ -17265,7 +17265,7 @@ teldurnar	SFPAA
 heilt	DN
 fram	DN
 til	DG
-teir	PDMPA
+teir	RMPAD	x
 allar	X
 nýggjastu	ASWMPA
 bilarnar	SMPAA
@@ -18932,7 +18932,7 @@ borgarstjórin	SMSNA
 ,	KC
 at	C
 tá	C
-tað	PDNSN
+tað	RNSND	x
 arbeiðið	SNSNA
 er	VNAPS3
 liðugt	APSNSN
@@ -20946,7 +20946,7 @@ Tapararnir	SMPNA
 gjørdust	VNMAP3
 Sambandsflokkurin	SMSNA
 og	C
-teir	PDNPN
+teir	RNPND	x
 smærru	ACWNPN
 flokkarnir	SMPNA
 
@@ -21450,7 +21450,7 @@ valinum	SNSDA
 vóru	VNAAP3
 Sambandsflokkurin	SMSNA
 og	C
-teir	PDMPN
+teir	RMPND	x
 smáu	APWMPN
 flokkarnir	SMPNA
 .	KE
@@ -41192,7 +41192,7 @@ Jacobsen	S----P
 
 Varmakelda	SFSN-P
 
-Teir	PDMPN
+Teir	RMPND	x
 góðu	APWMPN
 dagarnir	SMPNA
 í	DG
@@ -49724,7 +49724,7 @@ var	VNAAS3
 gott	APSNSN
 ,	KC
 og	C
-teir	PDMPN
+teir	RMPND	x
 fáu	APWMPN
 áhoyrararnir	SMPNA
 ,	KC
@@ -51545,7 +51545,7 @@ hava	VIA
 stóran	APSMSA
 týdning	SMSA
 fyri	DG
-teir	PDMPA
+teir	RMPAD	x
 einstøku	APWMPA
 bátarnar	SMPAA
 .	KE
@@ -58905,7 +58905,7 @@ Smyril	SMSA
 
 Norðmenn	SMPN
 eru	VNAPP3
-teir	PDMPN
+teir	RMPND	x
 ringastu	ASWMPN
 fíggindarnir	SMPNA
 hjá	DG
@@ -71889,7 +71889,7 @@ Føroyum	SFPD-P
 hevur	VNAPS3
 samstarv	SNSA
 við	DG
-teir	PDMPA
+teir	RMPAD	x
 tríggjar	NCMPA
 góðkendu	VAMPA
 stovnarnar	SMPAA
@@ -73721,7 +73721,7 @@ tiltøk	SNPA
 verk	SNSA
 
 -	KO
-Teir	PDMPN
+Teir	RMPND	x
 almennu	APWMPN
 kassarnir	SMPNA
 hava	VNAPP3
@@ -74143,7 +74143,7 @@ um	DN
 .	KE
 
 -	KO
-Teir	PDMPN
+Teir	RMPND	x
 almennu	APWMPN
 kassarnir	SMPNA
 hava	VNAPP3
@@ -74240,7 +74240,7 @@ er	VNAPS3
 ymiskt	APSNSN
 ,	KC
 sum	C
-teir	PDMPN
+teir	RMPND	x
 ymsu	APWMPN
 landspartarnir	SMPNA
 í	DG
@@ -74286,7 +74286,7 @@ er	VNAPS3
 ymiskt	APSNSN
 ,	KC
 hvussu	DN
-teir	PDNPN
+teir	RNPND	x
 ymsu	APWMPN
 partarnir	SMPNA
 í	DG
@@ -74783,7 +74783,7 @@ tað	PPNSN
 er	VNAPS3
 kapping	SFSN
 um	DG
-teir	PDMPA
+teir	RMPAD	x
 góðu	APWMPA
 sangararnar	SMPAA
 .	KE
@@ -84979,7 +84979,7 @@ fólk	SNPA
 .	KE
 
 -	KO
-Teir	PDMPN
+Teir	RMPND	x
 mongu	APWMPN
 sorgarleikirnir	SMPNA
 í	DG
@@ -93482,7 +93482,7 @@ gjár	SMSA
 ,	KC
 tá	C
 allir	PBMPN
-teir	PDMPN
+teir	RMPND	x
 útlendsku	APWMPN
 tónleikararnir	SMPNA
 fóru	VNAAP3
@@ -104370,7 +104370,7 @@ stjóri	SMSN
 er	VNAPS3
 at	CI
 fáa	VIA
-teir	PDMPA
+teir	RMPAD	x
 flestu	ASWMPA
 føroysku	APWMPA
 bátarnar	SMPAA
@@ -104517,7 +104517,7 @@ Kloosterboer	F
 Kollafirði	SMSD-P
 ,	KC
 sum	CR
-teir	PDMPN
+teir	RMPND	x
 upprunaligu	APWMPN
 eigararnir	SMPNA
 av	DG
@@ -108601,7 +108601,7 @@ kravt	VAANSN
 minst	DNS
 20	NO
 mannalív	SNPA
-teir	PDMPA
+teir	RMPAD	x
 seinastu	ASWMPA
 níggju	NC
 mánaðarnar	SMPAA
@@ -108760,7 +108760,7 @@ hevði	VNAAS3
 gott	APSNSA
 samband	SNSA
 við	DG
-teir	PDMPA
+teir	RMPAD	x
 ráðandi	VPA
 flokkarnar	SMPAA
 í	DG
@@ -117306,7 +117306,7 @@ Orðið	SNSNA
 ?	KE
 .	KE
 
-Teir	PDMPN
+Teir	RMPND	x
 eldru	ACWMPN
 synirnir	SMPNA
 Jan	SMSN-P
@@ -121956,7 +121956,7 @@ burtur	DN
 ,	KC
 fyrr	DNC
 enn	C
-teir	PDMPN
+teir	RMPND	x
 neyðugu	APWMPN
 avmarkingarbrunnarnir	SMPNA
 eru	VNAPP3
