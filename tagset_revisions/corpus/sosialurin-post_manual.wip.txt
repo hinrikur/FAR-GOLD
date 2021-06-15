@@ -3688,7 +3688,7 @@ skipanina	SFSAA
 við	DG
 ,	KC
 at	C
-tey	PDNPN
+tey	RNPND	x
 stóru	APWNPN
 apotekini	SNPNA
 skulu	VNAPP3
@@ -12598,7 +12598,7 @@ myndugleikar	SMPN
 við	DN
 at	CI
 fáa	VIA
-tey	PDNPA
+tey	RNPAD	x
 ymsu	APWNPA
 viðurskiftini	SNPAA
 uppá	DN
@@ -19567,7 +19567,7 @@ børnini	SNPNA
 eisini	DN
 ,	KC
 hvussu	DN
-tey	PDNPN
+tey	RNPND	x
 ymisku	APWNPN
 ljóðførini	SNPNA
 ,	KC
@@ -21460,7 +21460,7 @@ stríðið	SNSAA
 í	DG
 Sambandsflokkinum	SMSDA
 og	C
-tey	PDNPN
+tey	RNPND	x
 vantandi	VPA
 evnini	SNPAA
 hjá	DG
@@ -25749,7 +25749,7 @@ bøkur	SFPN
 um	DN
 .	KE
 
-Tey	PDNPN
+Tey	RNPND	x
 50	NO
 árini	SNPAA
 á	DG
@@ -29274,7 +29274,7 @@ manningarrúm	SNPN
 .	KE
 
 Og	C
-tey	PDNPN
+tey	RNPND	x
 stóru	APWNPN
 vindeyguni	SNPNA
 eru	VNAPP3
@@ -33058,7 +33058,7 @@ fólk	SNPN
 sum	CR
 eru	VNAPP3
 um	DG
-tey	PDNPA
+tey	RNPAD	x
 50	NO
 -	KO
 60	NO
@@ -43962,7 +43962,7 @@ søgurnar	SFPNA
 siga	VNAPP3
 frá	DN
 um	DG
-tey	PDNPA
+tey	RNPAD	x
 mongu	APWNPA
 trøllini	SNPAA
 ,	KC
@@ -48469,7 +48469,7 @@ túrin	SMSAA
 har	DN
 tey	PPNPN
 sóu	VNAAP3
-tey	PDNPA
+tey	RNPAD	x
 stóru	APWNPA
 framføra	VNAPP3
 og	C
@@ -49592,7 +49592,7 @@ fingu	VNAAP3
 atgongumerki	SNPA
 .	KE
 
-Tey	PDNPN
+Tey	RNPND	x
 450	NO
 fólkini	SNPNA
 ,	KC
@@ -49646,7 +49646,7 @@ fjølbroytt	APSNSN
 til	DG
 gangns	SNSG
 fyri	DG
-tey	PDNPA
+tey	RNPAD	x
 ymisku	APWNPA
 tónleikaoyruni	SNPNA
 ,	KC
@@ -56734,7 +56734,7 @@ Tá	C
 ið	C
 handilssáttmálarnir	SMPNA
 við	DG
-tey	PDNPA
+tey	RNPAD	x
 mið-	APWNPA
 og	C
 eysturevropeisku	APWNPA
@@ -63096,7 +63096,7 @@ verið	VAANSN
 høvuðsstaðnum	SMSDA
 ,	KC
 og	C
-tey	PDNPA
+tey	RNPAD	x
 seinnu	ACWNPA
 árini	SNPAA
 hevur	VNAPS3
@@ -79587,7 +79587,7 @@ tað	PPNSN
 vera	VNAPP3
 ikki	DN
 bara	DN
-tey	PDNPN
+tey	RNPND	x
 smáu	APWNPN
 børnini	SNPNA
 ,	KC
@@ -80932,7 +80932,7 @@ verður	VNAPS3
 meira	DNC
 útjavnaður	VAMSN
 millum	DG
-tey	PDNPA
+tey	RNPAD	x
 einstøku	APWNPA
 arbeiðsplássini	SNPAA
 .	KE
@@ -82415,7 +82415,7 @@ spildurnýtt	APSNSN
 Oddfríður	SMSN-P
 var	VNAAS3
 ímillum	DG
-tey	PDNPA
+tey	RNPAD	x
 fáu	APWNPA
 útvaldu	VAANPA
 ,	KC
@@ -83578,7 +83578,7 @@ elvir	VNAPS3
 til	DG
 ,	KC
 at	C
-tey	PDNPN
+tey	RNPND	x
 ungu	APWNPN
 húskini	SNPNA
 ikki	DN
@@ -83619,7 +83619,7 @@ er	VNAPS3
 ,	KC
 at	C
 øll	PBNPN
-tey	PDNPN
+tey	RNPND	x
 føgru	APWNPN
 orðini	SNPNA
 um	DG
@@ -87305,7 +87305,7 @@ Islam	SNSNA
 hevur	VNAPS3
 t.d.	TS
 ikki	DN
-tey	PDNPA
+tey	RNPAD	x
 10	NO
 -	KO
 boðini	SNPAA
@@ -93373,7 +93373,7 @@ sunnudagin	SMSAA
 ,	KC
 vóru	VNAAP3
 øll	PBNPN
-tey	PDNPN
+tey	RNPND	x
 luttakandi	VPA
 fólkini	SNPNA
 -	KO
@@ -105550,7 +105550,7 @@ har	DN
 .	KE
 
 Men	C
-tey	PDNPN
+tey	RNPND	x
 ungu	APWNPN
 í	DG
 Føroyum	SFPD-P
@@ -108571,7 +108571,7 @@ roynt	VAANSN
 at	CI
 basa	VIA
 sjúkuni	SFSDA
-tey	PDNPA
+tey	RNPAD	x
 seinastu	ASWNPA
 tíggju	NC
 árini	SNPA
@@ -116497,7 +116497,7 @@ at	CI
 síggja	VIA
 ,	KC
 at	C
-tey	PDNPN
+tey	RNPND	x
 vaksnu	APWNPN
 í	DG
 hesum	PDNSD
@@ -117889,7 +117889,7 @@ javnvág	SFSD
 -	KO
 samstundis	DN
 sum	C
-tey	PDNPN
+tey	RNPND	x
 alment	APSNSN
 fíggjaðu	APWNPN
 vørpini	SNPNA
@@ -117966,7 +117966,7 @@ aftur	DN
 hann	PPMSN
 meinar	VNAPS3
 at	C
-tey	PDNPN
+tey	RNPND	x
 almennu	APWNPN
 vørpini	SNPNA
 hava	VNAPP3
