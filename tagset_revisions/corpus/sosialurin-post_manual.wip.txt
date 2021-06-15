@@ -1463,7 +1463,7 @@ uppi	DN
 sær	PPNPD
 .	KE
 
-Ta	PDFSA
+Ta	RFSAD	x
 seinastu	ASWFSA
 vikuna	SFSAA
 hevur	VNAPS3
@@ -20417,7 +20417,7 @@ Skopunarfjørð	SMSA-P
 Hann	PPMSN
 vil	VNAPS3
 hava	VIA
-ta	PDFSA
+ta	RFSAD	x
 játtaðu	APWFSA
 milliónina	SFSAA
 til	DG
@@ -22955,7 +22955,7 @@ verður	VNAPS3
 ein	RFSNI	x
 fólkaatkvøða	SFSN
 um	DG
-ta	PDFSA
+ta	RFSAD	x
 føroysku	APWFSN
 grundlógina	SFSAA
 .	KE
@@ -29559,7 +29559,7 @@ her	DN
 hjá	DG
 okkum	PP1PD
 og	C
-ta	PDFSA
+ta	RFSAD	x
 einu	APWFSA
 ferðina	SFSAA
 komu	VNAAP3
@@ -92713,7 +92713,7 @@ men	C
 tað	PPNSN
 verður	VNAPS3
 bara	DN
-ta	PDFSA
+ta	RFSAD	x
 fyrstu	ASWFSA
 løtuna	SFSAA
 ,	KC
@@ -110632,7 +110632,7 @@ av	DG
 óhappinum	SNSDA
 .	KE
 
-Ta	PDFSA
+Ta	RFSAD	x
 fyrstu	ASWFSA
 náttina	SFSAA
 á	DG
@@ -115447,7 +115447,7 @@ við	DN
 at	CI
 seta	VIA
 alla	PBFSA
-ta	PDFSA
+ta	RFSAD	x
 nýggju	APWFSA
 útgerðina	SFSAA
 upp	DN
@@ -116661,7 +116661,7 @@ síðst	DNS
 1990unum	SNPDA
 aftan	DN
 á	DG
-ta	PDFSA
+ta	RFSAD	x
 formellu	APWFSA
 avtøkuna	SFSAA
 av	DG
