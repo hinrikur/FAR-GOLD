@@ -8912,9 +8912,7 @@ onnur	PBNPA
 .	KE
 
 Vilhelm	SMSN-P
-M	X
-.	KE
-
+M.	S----P
 Johannesen	S----P
 ,	KC
 formaður	SMSN
@@ -8981,9 +8979,7 @@ síðani	DN
 ,	KC
 sigur	VNAPS3
 Vilhelm	SMSN-P
-M	X
-.	KE
-
+M.	S----P
 Johannesen	S----P
 .	KE
 
@@ -19870,9 +19866,7 @@ ymisku	APWNPD
 ljóðførunum	SNPDA
 .	KE
 
-G	X
-!	KE
-
+G!	S----P
 og	C
 Ólavsøka	SFSN
 
@@ -19927,9 +19921,7 @@ verður	VNAPS3
 leikurin	SMSNA
 sýndur	VAAMSN
 á	DG
-G	X
-!	KE
-
+G!	S----P
 Festivalinum	SMSD
 ,	KC
 og	C
@@ -25247,12 +25239,7 @@ hjá	DG
 Maersk	F
 .	KE
 
-T	X
-.	KE
-
-d	X
-.	KE
-
+T.d.	TS
 er	VNAPS3
 leiðin	SFSNA
 millum	DG
@@ -25289,9 +25276,7 @@ innanríkis	SNSG
 nú	DN
 sigur	VNAPS3
 Ejvin	SMSNAP
-L	X
-.	KE
-
+L.	S----P
 Petersen	S----P
 vera	VIA
 ,	KC
@@ -26998,12 +26983,8 @@ milliónir	SFPA
 krónur	SFPA
 frá	DG
 móðurfelagnum	SNSDA
-A	X
-.	KE
-
-P	X
-.	KE
-
+A.	S----P
+P.	S----P
 Møller	S----P
 ,	KC
 men	C
@@ -30850,11 +30831,11 @@ sum	CR
 nevnist	VNMPS3
 Blues	F
 í	DG
-C	X
+C	SNSD
 ella	C
 Jam	F
 í	DG
-C	X
+C	SNSD
 ,	KC
 ella	C
 okkurt	PBNSN
@@ -32533,7 +32514,7 @@ sagt	VAANSN
 ,	KC
 at	C
 Jógvan	SMSN-P
-S	X
+S	S----P
 skal	VNAPS3
 hava	VIA
 fiskiloyvið	SNSAA
@@ -32560,7 +32541,7 @@ um	DG
 fiskiloyvið	SNSAA
 hjá	DG
 Jógvani	SMSD-P
-S	X
+S	S----P
 .	KE
 
 Landsstýrismaðurin	SMSNA
@@ -37221,9 +37202,7 @@ vald	VAANSN
 nevndina	SFSAA
 fyri	DG
 Jacob	SMSA-P
-P	X
-.	KE
-
+P.	S----P
 Magnussen	S----P
 og	C
 Any	SFSA-P
@@ -40117,8 +40096,8 @@ tølum	SNPD
 og	C
 prísum	SMPD
 sum	CR
-til	X
-samans	X
+til	DG
+samans	DN
 avdúka	VIA
 hvussu	DN
 gongdin	SFSNA
@@ -44442,9 +44421,7 @@ varðan	SMSAA
 Tað	PPNSN
 var	VNAAS3
 Poul	SMSN-P
-E	X
-.	KE
-
+E.	S----P
 Petersen	S----P
 ,	KC
 sum	CR
@@ -44748,9 +44725,7 @@ Nielsen	S----P
 sambandi	SNSD
 við	DG
 nýggju	APWFSA
-e	X
--	KO
-toll	SMSA
+e-toll	SMSA
 skipanina	SFSAA
 hjá	DG
 Toll	SMSA
@@ -44826,9 +44801,7 @@ juli	SMSA
 kom	VNAAS3
 tann	RFSND
 nýggja	APWFSN
-e	X
--	KO
-toll	SMSA
+e-toll	SMSA
 skipanin	SFSNA
 hjá	DG
 Toll	SMSA
@@ -45253,9 +45226,7 @@ komin	VAANPN
 við	DN
 í	DG
 nýggju	APWFSA
-e	X
--	KO
-toll	SMSA
+e-toll	SMSA
 skipanina	SFSAA
 ,	KC
 men	C
@@ -50985,9 +50956,7 @@ er	VNAPS3
 grundarlag	SNSN
 fyri	DG
 einum	RMSDI
-A	X
--	KO
-landsliði	SNSD
+A-landsliði	SNSD
 ,	KC
 sum	CR
 eisini	DN
@@ -54212,20 +54181,14 @@ styrkislistanum	SMSDA
 Samlaða	VAANSN
 hallið	SNSNA
 av	DG
-U	X
--	KO
-18	NO
+U-18	S----P
 landsliðunum	SNPDA
 báðum	PBNPD
 ,	KC
-U	X
--	KO
-16	NO
+U-16    S----P
 landsliðnum	SNSDA
 og	C
-U	X
--	KO
-15	NO
+U-15	S----P
 landsliðnum	SNSDA
 var	VNAAS3
 775.677	NO
@@ -57878,9 +57841,7 @@ bil	SMSA
 ,	KC
 ger	VNAPS3
 Christian	SMSN-P
-C	X
-.	KE
-
+C.	S----P
 Nielsen	S----P
 ,	KC
 stjóri	SMSN
@@ -57964,9 +57925,7 @@ fyri	DN
 ,	KC
 sigur	VNAPS3
 Christian	SMSN-P
-C	X
-.	KE
-
+C.	S----P
 Nielsen	S----P
 .	KE
 
@@ -58006,9 +57965,7 @@ tryggjaðar	VAAMPA
 .	KE
 
 Christian	SMSN-P
-C	X
-.	KE
-
+C.	S----P
 Nielsen	S----P
 sigur	VNAPS3
 tí	DN
@@ -58159,7 +58116,7 @@ bilur	SMSN
 ,	KC
 sigur	VNAPS3
 Christian	SMSN-P
-C	X
+C	S----P
 .	KE
 
 Hann	PPMSN
@@ -61244,12 +61201,8 @@ bygninginum	SMSDA
 hjá	DG
 Farex	F
 á	DG
-R	X
-.	KE
-
-C	X
-.	KE
-
+R.	S----P
+C.	S----P
 Effersøesgøtu	SFSD
 22	NO
 
@@ -62582,9 +62535,7 @@ bakarunum	SMPDA
 Havn	SFSD-P
 ,	KC
 síðani	DN
-M	X
-.	KE
-
+M.	S----P
 Restorff	S----P
 gamli	APWMSN
 læt	VNAAS3
@@ -66224,9 +66175,7 @@ Landssjúkrahúsinum	SNSDA
 
 Men	C
 Jes	SMSN-P
-B	X
-.	KE
-
+B.	S----P
 Foss	S----P
 í	DG
 danska	APWNSD
@@ -66265,9 +66214,7 @@ Landssjúkrahúsinum	SNSDA
 ,	KC
 sigur	VNAPS3
 Jes	SMSN-P
-B	X
-.	KE
-
+B.	S----P
 Foss	S----P
 ,	KC
 sum	CR
@@ -76081,9 +76028,7 @@ Ramstedt	S----P
 Silén	SFSN-P
 ,	KC
 Nina	SFSN-P
-C	X
-.	KE
-
+C.	S----P
 Raaum	S----P
 ,	KC
 og	C
@@ -82391,9 +82336,7 @@ uttanlands	DN
 .	KE
 
 Oddfríður	SMSN-P
-M	X
-.	KE
-
+M.	S----P
 Rasmussen	S----P
 ,	KC
 skald	SNSN
@@ -91754,7 +91697,7 @@ ein	PBFSN
 onnur	PBFSN
 ,	KC
 um	C
-løgtings-	X
+løgtings-	TS
 og	C
 landsstýrislimir	SMPN
 høvdu	VNAAP3
@@ -93561,9 +93504,7 @@ samráðingar	SFPA
 Hetta	PDNSA
 sigur	VNAPS3
 Andras	SMSN-P
-L	X
-.	KE
-
+L.	S----P
 Samuelsen	S----P
 ,	KC
 ein	PBMSN
@@ -93590,9 +93531,7 @@ Fíggjarmálastýrinum	SNSDA
 .	KE
 
 Andras	SMSN-P
-L	X
-.	KE
-
+L.	S----P
 Samuelsen	S----P
 er	VNAPS3
 einasti	APWMSN
@@ -97379,9 +97318,7 @@ Formaður	SMSN
 Tjóðveldisfloksins	SMSGA
 ,	KC
 Heini	SMSN-P
-O	X
-.	KE
-
+O.	S----P
 Heinesen	S----P
 ,	KC
 hevur	VNAPS3
@@ -97408,9 +97345,7 @@ uppskotinum	SNSDA
 .	KE
 
 Heini	SMSN-P
-O	X
-.	KE
-
+O.	S----P
 Heinesen	S----P
 hevur	VNAPS3
 fyrr	DNC
@@ -101621,9 +101556,7 @@ tíðarskeiðnum	SNSDA
 97	NO
 ,	KC
 Lisbeth	SFSN-P
-L	X
-.	KE
-
+L.	S----P
 Petersen	S----P
 ,	KC
 gjørdist	VNMAS3
@@ -102321,9 +102254,7 @@ djúphavnina	SFSAA
 Vági	SMSD-P
 
 Simone	F
-J	X
-.	KE
-
+J.	S----P
 legði	VNAAS3
 at	DN
 í	DG
@@ -102408,9 +102339,7 @@ varð	VNAAS3
 farmaskipið	SNSNA
 ,	KC
 Simone	F
-J	X
-.	KE
-
+J.	S----P
 sum	CR
 fekk	VNAAS3
 heiðurin	SMSAA
@@ -102427,9 +102356,7 @@ djúphavnina	SFSAA
 .	KE
 
 Simona	F
-J	X
-.	KE
-
+J.	S----P
 kom	VNAAS3
 á	DG
 Vág	SMSA-P
@@ -102635,12 +102562,8 @@ breiðband	SNSA
 Føroya	SFPG-P
 Tele	F
 og	C
-L	X
-.	KE
-
-M	X
-.	KE
-
+L.	S----P
+M.	S----P
 Ericsson	F
 hava	VNAPP3
 gjørt	VAANSN
@@ -102665,9 +102588,7 @@ millum	DG
 Føroya	SFPG-P
 Tele	F
 og	C
-L	X
-.	KE
-
+L.	S----P
 Ericsson	F
 ber	VNAPS3
 í	DG
@@ -109980,13 +109901,13 @@ harður	APSMSN
 Mynd	SFSN
 :	KE
 Jens	SMSN-P
-K.	X
+K.	S----P
 Vang	S----P
 
 Foto	F
 :	KE
 Jens	SMSN-P
-K.	X
+K.	S----P
 Vang	S----P
 
 Torstein	SMSN-P
@@ -110944,7 +110865,7 @@ Løgtingsmaður	SMSN
 Sjálvstýrisfloksins	SMSGA
 ,	KC
 Kári	SMSN-P
-P.	X
+P.	S----P
 Højgaard	S----P
 ,	KC
 sigur	VNAPS3
@@ -110987,7 +110908,7 @@ Formaðurin	SMSNA
 Sjálvstýrisflokkinum	SMSDA
 ,	KC
 Kári	SMSN-P
-P.	X
+P.	S----P
 Højgaard	S----P
 ,	KC
 sum	CR
@@ -111448,7 +111369,7 @@ hurðina	SFSAA
 ,	KC
 sigur	VNAPS3
 Kári	SMSN-P
-P.	X
+P.	S----P
 Højgaard	S----P
 .	KE
 
@@ -118955,9 +118876,9 @@ vórðu	VNAAP3
 býtt	VAANPN
 upp	DN
 í	DG
-A	X
+A	SNSA
 og	C
-B	X
+B	SNSA
 menniskju	SNPA
 ,	KC
 alt	DN
@@ -120193,7 +120114,7 @@ Tjaldursvegnum	SMSDA
 og	C
 út	DN
 á	DG
-RC	X
+RC	TS
 Effersøesgøtu	SFSA
 ,	KC
 koyrdi	VNAAS3
