@@ -3151,7 +3151,7 @@ at	CI
 siga	VIA
 nøkur	PBNSA
 skilagóð	APSNPA
-umum	X
+um	DG
 tað	PPNSA
 skilagóða	APWNSA
 at	CI
@@ -65665,7 +65665,7 @@ Undir	DG
 Fjalli	SMSD-P
 og	C
 Á	DG
-Flat	X
+Flat	SNSD-P
 eru	VNAPP3
 útbygd	VAANPN
 ,	KC
@@ -73468,7 +73468,7 @@ sum	CR
 er	VNAPS3
 prentað	VAAFSN
 hjá	DG
-Estra	X
+Estra	SNSA
 í	DG
 Gøtu	SFSD-P
 er	VNAPS3
@@ -106366,13 +106366,9 @@ landinum	SNSDA
 
 Hetta	PDNSN
 er	VNAPS3
-60	NO
-'	KQ
-ara	X
+60'ara	SMSN
 og	C
-70	NO
-'	KQ
-ara	X
+70'ara	SMSN
 politikkur	SMSN
 ,	KC
 sum	CR
