@@ -1,17 +1,9 @@
 import json
-import os
+import argparse
+import subprocess
+import io
 
 
-TAGSETS_DIR = 'tagsets'
-CORPUS_DIR = 'corpus'
-SCHEMA_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', TAGSETS_DIR))
-CORPUS_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', CORPUS_DIR))
-
-schema_file =  os.path.join(SCHEMA_PATH, 'fo_tagset-revised_isl.json')
-taglist_file = os.path.join(CORPUS_PATH, 'sosialurin-unique_tags.txt')
-
-with open(schema_file) as j_file:
-    tag_dict = json.load(j_file)
 
 def extend_tag(tag:str, tag_set:dict):
 
@@ -38,15 +30,27 @@ def extend_tag(tag:str, tag_set:dict):
     return expanded_tag
 
     
-if __name__ == '__main__': 
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Script for validating tags within a corpus. Needs both a corpus file and a json tagset file.')
+    parser.add_argument('--tagset', '-t', required=True, help='Choose a tagset for baseline')
+    parser.add_argument('--input', '-i', required=True, help='Input file')
+
+    args = parser.parse_args()
+    process = subprocess.Popen(['bash', 'get_unique_tags.sh',args.input], stdout=subprocess.PIPE)
+
+    
+    with io.TextIOWrapper(process.stdout, encoding='utf-8') as text:
+        tag_list = [tag.strip('\n') for tag in text.readlines()]
+
+    with open(args.tagset) as j_file:
+        tag_dict = json.load(j_file)
+
     illegal_tags = []
-    with open(taglist_file, 'r') as tag_file:
-        for line in tag_file.readlines():
-            tag = line.strip('\n')
-            try:
-                extend_tag(tag, tag_dict)
-            except:
-                illegal_tags.append(tag)
+    for tag in tag_list:
+        try:
+            extend_tag(tag, tag_dict)
+        except:
+            illegal_tags.append(tag)
     
     if illegal_tags:
         print(f'The following {len(illegal_tags)} tag(s) are not permitted:')

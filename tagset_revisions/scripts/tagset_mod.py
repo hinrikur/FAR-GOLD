@@ -1,19 +1,7 @@
 import os, re
-
-FILE_NAME = "sosialurin.wip.txt"
-DIRECTORY = "corpus"
-NEW_FILE_NAME = "sosialurin-post_script.wip.txt"
-FULLPATH = os.path.abspath(os.path.join(os.path.dirname(__file__),'..','corpus'))
-
-def open_file():
-    file_path = os.path.join(FULLPATH, FILE_NAME)
-    return open(file_path, 'r')
-
-
-def save_file(tag_list):
-    file_path = os.path.join(FULLPATH, NEW_FILE_NAME)
-    with open(file_path, "w") as f:
-        f.write(tag_list)
+import argparse
+from sys import stdout
+import argcomplete
 
 
 def regex_replacer(file):
@@ -79,14 +67,19 @@ def regex_replacer(file):
 
 
 def main():
-    file_stream = open_file()
-    file_text = file_stream.read()
-    altered_text = regex_replacer(file_text)
-    # text_split = altered_text.split('\n')
+    parser = argparse.ArgumentParser(description='Modification script for tagged corpora', add_help=True)
+    parser.add_argument('--input', '-i', required=True, help='Path to input corpora')
+    parser.add_argument('--output', '-o', help='Output path')
 
-    save_file(altered_text)
+    args = parser.parse_args()
+    in_file = args.input
+    
+    with open(in_file, 'r') as f:
+        file_text = f.read()
+        altered_text = regex_replacer(file_text)
 
-    file_stream.close()
+    with open(args.output, 'w') if args.output else stdout as output:
+        output.write(altered_text)
 
 
 
