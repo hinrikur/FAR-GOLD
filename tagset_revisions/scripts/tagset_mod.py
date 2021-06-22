@@ -1,7 +1,6 @@
-import os, re
+import re
 import argparse
 from sys import stdout
-import argcomplete
 
 
 def regex_replacer(file):
