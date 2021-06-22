@@ -17223,8 +17223,7 @@ heilt	DN
 fram	DN
 til	DG
 teir	RMPAD
-allar	X
-nýggjastu	ASWMPA
+allarnýggjastu	ASWMPA
 bilarnar	SMPAA
 .	KE
 
@@ -30793,8 +30792,9 @@ sum	C
 solistar	SMPN
 .	KE
 
-Nýggi	APSNSN
-rútmubólkurinvið	X
+Nýggi	APSMSN
+rútmubólkurin   SMSNA
+við	DN
 8.	NO
 floks	SMSG
 næmingum	SMPD
@@ -37670,7 +37670,8 @@ bygninginum	SMSDA
 verður	VNAPS3
 íløgan	SFSNA
 í	DG
-hettafyrsta	X
+hetta   PDNSA
+fyrsta	ASWNSA
 stigið	SNSAA
 onkustaðni	DN
 ímillum	DG
@@ -42256,7 +42257,8 @@ sum	CR
 so	DN
 vøkur	APSFSN
 rennur	VNAPS3
-omangjøgnum	X
+oman    DN
+gjøgnum	DG
 bygdina	SFSAA
 .	KE
 
@@ -44370,7 +44372,8 @@ av	DG
 at	CI
 halda	VIA
 hann	PPMSA
-viðlíka	X
+við DN
+líka	DN
 .	KE
 
 Hetta	PDNSN
@@ -46412,7 +46415,8 @@ fer	VNAPS3
 longu	DN
 í	DG
 hesum	PDMSD
-mánaðinumat	X
+mánaðinum   SMSDA
+at	CI
 senda	VIA
 bræv	SNSA
 til	DG
@@ -65509,7 +65513,7 @@ projekterað	VAANSN
 
 Høvuðsarbeiðið	SNSNA
 hevur	VNAPS3
-Byggitek	X
+Byggitek	S----P
 gjørt	VAANSN
 og	C
 Guttesen	S----P
@@ -74276,9 +74280,7 @@ føroyingum	SMPD
 Á	DG
 samkomu	SFSD
 í	DG
-3	NO
-'	KQ
-aranum	X
+3'aranum	SMSDA
 í	DG
 gjár	SXSD
 mátti	VNAAS3
@@ -74325,9 +74327,7 @@ Kr	TS
 
 Vang	S----P
 
-3	NO
-'	KQ
-arin	X
+3'arin	SMSNA
 í	DG
 SMS	TS
 hevur	VNAPS3
@@ -74354,9 +74354,7 @@ sambandi	SNSD
 var	VNAAS3
 móttøka	SFSN
 í	DG
-3	NO
-'	KQ
-aranum	X
+3'aranum	SMSDA
 í	DG
 gjár	SXSD
 ,	KC
@@ -74383,9 +74381,7 @@ ein	PBMSN
 kemur	VNAPS3
 inn	DN
 í	DG
-3	NO
-'	KQ
-aran	X
+3'aran	SMSA
 ,	KC
 men	C
 í	DG
@@ -74883,9 +74879,7 @@ Sound	F
 í	DG
 Keypmannahavn	SFSD-P
 og	C
-3	NO
-'	KQ
-arin	X
+3'arin	SMSNA
 í	DG
 SMS	TS
 gevur	VNAPS3
@@ -91070,7 +91064,8 @@ fyritøka	SFSN
 ,	KC
 av	DG
 tveimum	NCFPD
-stórumdonskum	X
+stórum  APSFPD
+donskum	APSFPD
 myllufyritøkum	SFPD
 .	KE
 
@@ -91855,7 +91850,8 @@ lagnum	SNSDA
 ,	KC
 at	C
 tað	PPNSN
-verðafærri	X
+verða   VNAPP3
+færri	DNC
 ferðir	SFPN
 ímillum	DN
 Suðuroynna	SFSAAP
@@ -92476,7 +92472,8 @@ Allan	SMSN-P
 Müller	S----P
 verður	VNAPS3
 við	DN
-ídag	X
+í   DG
+dag	SMSA
 .	KE
 
 Rógvi	SMSN-P
@@ -92931,7 +92928,8 @@ Stradivarius	F
 ,	KC
 í	DG
 Cremona-dalinum	SMSDA
-í1695	X
+í   DG
+1695	NO
 .	KE
 
 Nógvar	APSFPN
@@ -102169,7 +102167,8 @@ fingið	VAANSN
 rættiliga	DN
 nógv	DN
 av	DG
-rættiligadjúpum	X
+rættiliga   DN
+djúpum	APSNSD
 atløguplássi	SNSD
 .	KE
 
@@ -102243,7 +102242,8 @@ varð	VNAAS3
 undir	DG
 djúphavnina	SFSAA
 ,	KC
-havafleiri	X
+hava    VNAPP3
+fleiri	ACSMPN
 virki	SNPN
 lagt	VAANSN
 stilt	APSNSA
@@ -105235,9 +105235,7 @@ staðfestir	VNAPS3
 at	C
 tey	PPNPN
 í	DG
-20	NO
-'	KQ
-unum	X
+20'unum	SMPDA
 eru	VNAPP3
 ein	RMSNI
 eftirbátur	SMSN
@@ -107071,7 +107069,8 @@ og	C
 hvar	C
 landsins	SNSGA
 leiðsla	SFSN
-næstuferð	X
+næstu   ASSFSA
+ferð	NFSA
 fer	VNAPS3
 at	CI
 leggja	VIA
@@ -107443,7 +107442,8 @@ havn	SFSA
 tá	C
 farið	VAANSN
 verður	VNAPS3
-úrFøroyum	X
+úr  DG
+Føroyum	SFPD-P
 .	KE
 
 Síðan	DN
@@ -111300,7 +111300,8 @@ Minan	SFSNA
 varð	VNAAS3
 sprongd	VAAFSN
 í	DG
-grótbrotinumí	X
+grótbrotinum    SNSDA
+í	DG
 Porkeri	SFSD-P
 hóskvøldið	SNSAA
 
@@ -111959,7 +111960,8 @@ ella	C
 sínari	PPFSD
 tíð	SFSD
 vóru	VNAAP3
-ádreingjafundum	X
+á   DG
+dreingjafundum	SMPD
 hjá	DG
 Álvheygg	SMSD
 í	DG
@@ -114138,7 +114140,8 @@ hent	VAANSN
 ,	KC
 kunnu	VNAPP1
 vit	PP1PN
-baravænta	X
+bara    DN
+vænta	VIA
 tað	PDNSA
 ringasta	ASWNSA
 og	C
@@ -116457,7 +116460,8 @@ til	DG
 tað	PDNSA
 hon	PPFSN
 er	VNAPS3
-ídag	X
+í   DG
+dag	SMSA
 .	KE
 
 Men	C
@@ -116790,7 +116794,7 @@ vit	PP1PN
 nakrantíð	DN
 fóru	VNAAP3
 í	DG
-holt	X
+holt	SNSA
 við	DN
 ,	KC
 -	KO
@@ -117033,9 +117037,7 @@ og	C
 á	DG
 útvarpstólinum	SNSDA
 (	KO
-RDS	TS
-'	KQ
-inum	X
+RDS'inum	SNSDA
 )	KO
 hvat	PQNSN
 verður	VNAPS3
