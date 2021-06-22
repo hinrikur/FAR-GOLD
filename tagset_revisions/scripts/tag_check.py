@@ -2,13 +2,16 @@ import json
 import os
 
 
-TAGSETS_SCEMA = "tagsets"
-PROJECT_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..',TAGSETS_SCEMA))
-schema_file = f'{PROJECT_PATH}/fo_tagset-revised_isl.json'
+TAGSETS_DIR = 'tagsets'
+CORPUS_DIR = 'corpus'
+SCHEMA_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', TAGSETS_DIR))
+CORPUS_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', CORPUS_DIR))
+
+schema_file =  os.path.join(SCHEMA_PATH, 'fo_tagset-revised_isl.json')
+taglist_file = os.path.join(CORPUS_PATH, 'sosialurin-unique_tags.txt')
 
 with open(schema_file) as j_file:
     tag_dict = json.load(j_file)
-
 
 def extend_tag(tag:str, tag_set:dict):
 
@@ -34,19 +37,20 @@ def extend_tag(tag:str, tag_set:dict):
     
     return expanded_tag
 
-
-
     
 if __name__ == '__main__': 
-    test_tag = ''
-
-    ex_tag = extend_tag(test_tag, tag_dict)
-
-    print(ex_tag)
-
-    # try:
-    #     option = show_option(test_tag, tag_dict)
-    # except IndexError:
-    #     option = ERROR
-
-    # print(option)
+    illegal_tags = []
+    with open(taglist_file, 'r') as tag_file:
+        for line in tag_file.readlines():
+            tag = line.strip('\n')
+            try:
+                extend_tag(tag, tag_dict)
+            except:
+                illegal_tags.append(tag)
+    
+    if illegal_tags:
+        print(f'The following {len(illegal_tags)} tag(s) are not permitted:')
+        for tag in illegal_tags:
+            print(tag)
+    else:
+        print("All tags are legal")
