@@ -1,0 +1,11210 @@
+Føroyar	SFPN-P
+eru	VNAPP3
+ikki	DN
+limur	SMSN
+í	DG
+ES	TS
+,	KC
+hóast	C
+Danmark	SNSD-P
+er	VNAPS3
+.	KE
+
+Avhaldsrørslan	SFSNA
+byrjar	VNAPS3
+.	KE
+
+Í	DG
+1957	NO
+verður	VNAPS3
+Útvarp	SNSN-P
+Føroya	SFPG-P
+stovnað	VAANSN
+.	KE
+
+Hetta	PDNSN
+var	VNAAS3
+ein	RMSNI
+lítil	APSMSN
+meiriluti	SMSN
+,	KC
+sum	CR
+kom	VNAAS3
+at	CI
+merkja	VIA
+samstarvið	SNSAA
+ímillum	DG
+flokkarnar	SMPAA
+.	KE
+
+Frálæra	SFSN
+fæst	VNMPS3
+í	DG
+fólkaskúlanum	SMSDA
+ella	C
+á	DG
+frískúla	SMSD
+.	KE
+
+Í	DG
+frískúlum	SMPD
+/	KO
+privatskúlum	SMPD
+fæst	VNMPS3
+frálæra	SFSN
+,	KC
+á	DG
+sama	PBMSA
+hátt	SMSA
+sum	C
+í	DG
+fólkaskúlanum	SMSDA
+.	KE
+
+Einans	DN
+seyður	SMSN
+og	C
+fuglur	SMSN
+býr	VNAPS3
+á	DG
+oynni	SFSDA
+.	KE
+
+Sjógvurin	SMSNA
+frystir	VNAPS3
+ongantíð	DN
+.	KE
+
+Í	DG
+2005	NO
+vóru	VNAAP3
+tølini	SNPNA
+73	NP
+%	M
+av	DG
+mannfólkunum	SNPDA
+og	C
+74	NP
+%	M
+av	DG
+konufólkunum	SNPDA
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+eisini	DN
+størsta	ASWFSN
+fiskivinnuhavnin	SFSNA
+í	DG
+landinum	SNSDA
+.	KE
+
+Forsíða	SFSN
+:	KE
+Løgmenn	SMPN
+í	DG
+Føroyum	SFPD-P
+:	KE
+Hetta	PDNSN
+er	VNAPS3
+ein	RMSNI
+listi	SMSN
+av	DG
+Løgmonnum	SMSDA
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Størsti	APWMSN
+býurin	SMSNA
+og	C
+høvuðsstaðurin	SMSNA
+er	VNAPS3
+Keypmannahavn	SFSN-P
+.	KE
+
+Føroyar	SFPN-P
+og	C
+Grønland	SNSN-P
+eru	VNAPP3
+sjálvstýrandi	VPA
+lond	SNPN
+í	DG
+danska	APWNSD
+kongaríkinum	SNSDA
+.	KE
+
+Útbúgvingar	SFPN
+í	DG
+Danmark	SNSD-P
+eru	VNAPP3
+atkomuligar	APSFPN
+fyri	DG
+allir	PIMPA
+borgarar	SMPA
+í	DG
+ríkinum	SNSDA
+.	KE
+
+Oyggin	SFSNA
+er	VNAPS3
+vøkur	APSFSN
+og	C
+har	DN
+er	VNAPS3
+nógvur	APSMSN
+heiðafuglur	SMSN
+.	KE
+
+Í	DG
+bygdini	SFSDA
+hoyrist	VNMPS3
+songurin	SMSNA
+frá	DG
+heiðafuglinum	SMSDA
+sjáldsama	APWNSD
+væl	DN
+.	KE
+
+Øll	PIFSN
+vestursíðan	SFSNA
+er	VNAPS3
+høgur	APSMSN
+bakki	SMSN
+.	KE
+
+Nógv	APSNSN
+seyðahald	SNSN
+er	VNAPS3
+í	DG
+oynni	SFSDA
+,	KC
+og	C
+í	DG
+Mikladals	SMSG-P
+kommunu	SFSD
+er	VNAPS3
+eisini	DN
+nógv	APSNSN
+neytahald	SNSN
+.	KE
+
+Flogskiparin	SMSNA
+og	C
+7	NO
+ferðafólk	SNPN
+doyðu	VNAAP3
+.	KE
+
+Hetta	PDNSN
+er	VNAPS3
+eitt	RNSNI
+tiltak	SNSN
+,	KC
+ið	CR
+er	VNAPS3
+málrættað	APSNSN
+ferðavinnuni	SFSNA
+.	KE
+
+Í	DG
+dag	SMSA
+er	VNAPS3
+fótbóltsvøllur	SMSN
+,	KC
+har	DN
+Holið	SNSNAP
+var	VNAAS3
+.	KE
+
+Ferðasamband	SNSN
+er	VNAPS3
+3	NRFPA
+ferðir	SFPA
+um	DG
+vikuna	SFSAA
+,	KC
+mikudag	SMSA
+,	KC
+fríggjadag	SMSA
+og	C
+sunnudag	SMSA
+.	KE
+
+Nógv	APSNSN
+virksemi	SNSN
+er	VNAPS3
+í	DG
+Dímun	SFSD-P
+.	KE
+
+Ein	RMSNI
+lastbilur	SMSN
+førir	VNAPS3
+farm	SMSA
+og	C
+ferðagóðs	SNSA
+ímillum	DG
+lendingina	SFSAA
+og	C
+bygdina	SFSAA
+.	KE
+
+Súgvin	SFSNA
+fór	VNAAS3
+á	DG
+sjógvin	SMSAA
+og	C
+svam	VNAAS3
+frá	DG
+landi	SNSD
+.	KE
+
+Og	C
+har	DN
+hevur	VNAPS3
+hon	PPFSN
+ligið	VAANSN
+síðani	DN
+.	KE
+
+Allar	PIFPN
+plantur	SFPN
+og	C
+øll	PINPN
+dýr	APSNPN
+í	DG
+sama	PBNSD
+øki	SNSD
+eru	VNAPP3
+eitt	RNSNI
+samfelag	SNSN
+.	KE
+
+Føroyskt	APSNSN
+mál	SNSN
+:	KE
+Føroyskt	SFSN
+er	VNAPS3
+høvuðsmálið	SNSNA
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Tey	PPNPN
+eru	VNAPP3
+til	DG
+dømis	SNSG
+nær	DN
+,	KC
+hví	DN
+,	KC
+hvaðan	DN
+,	KC
+hvussu	DN
+.	KE
+
+18	NO
+oyggjar	SFPN
+eru	VNAPP3
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Í	DG
+2011	NO
+varð	VNAAS3
+hann	PPMSN
+útbúgvin	VAAMSN
+sum	C
+lærari	SMSN
+.	KE
+
+Mánadagur	SMSN
+:	KE
+Mánadagur	SMSN
+er	VNAPS3
+ein	RMSNI
+vikudagur	SMSN
+.	KE
+
+Fríggjadagur	SMSN
+:	KE
+Fríggjadagur	SMSN
+er	VNAPS3
+ein	RMSNI
+vikudagur	SMSN
+.	KE
+
+Leygardagur	SMSN
+:	KE
+Leygardagur	SMSN
+er	VNAPS3
+ein	RMSNI
+vikudagur	SMSN
+.	KE
+
+Sunnudagur	SMSN
+:	KE
+Sunnudagur	SMSN
+er	VNAPS3
+ein	RMSNI
+vikudagur	SMSN
+.	KE
+
+Slovakia	S----P
+:	KE
+Slovakia	S----P
+er	VNAPS3
+eitt	RNSNI
+lýðveldi	SNSN
+í	DG
+Miðevropa	SNSD-P
+.	KE
+
+Funningur	SMSN-P
+var	VNAAS3
+nýggjársbygd	SFSN
+.	KE
+
+Í	DG
+fyrstuni	SFSDA
+var	VNAAS3
+Jóannes	SMSN-P
+hóvligur	APSMSN
+sjálvstýrismaður	SMSN
+,	KC
+men	C
+til	DG
+endans	SMSAA
+var	VNAAS3
+hann	PPMSN
+víðgongdur	VAAMSN
+loysingarmaður	SMSN
+.	KE
+
+Hetta	PDNSN
+er	VNAPS3
+nesið	SNSNA
+,	KC
+sum	CR
+býtir	VNAPS3
+sjálva	PBFSA
+havnina	SFSAA
+sundur	DN
+.	KE
+
+Tað	PPNSN
+er	VNAPS3
+ókeypis	DN
+at	CI
+brúka	VIA
+fótbóltsvøllirnar	SMPAA
+hjá	DG
+Tórshavnar	SFSG-P
+kommunu	SFSD
+.	KE
+
+Fimm	NC
+svimjihyljar	SMPN
+eru	VNAPP3
+í	DG
+kommununi	SFSDA
+.	KE
+
+Starvið	SNSNA
+sum	CR
+borgarstjóri	SMSN
+er	VNAPS3
+fulltíðarstarv	SNSN
+.	KE
+
+Limirnir	SMPNA
+í	DG
+føstu	APWFPD
+nevndunum	SFPDA
+skulu	VNAPP3
+vera	VIA
+býráðslimir	SMPN
+.	KE
+
+Nú	DN
+á	DG
+døgum	SMPD
+er	VNAPS3
+stórur	APSMSN
+búskaparvøkstur	SMSN
+í	DG
+Estlandi	SNSD-P
+.	KE
+
+Frá	DG
+gamlari	APSFSD
+tíð	SFSD
+er	VNAPS3
+nógv	APSNSN
+kol	SNSN
+høgt	DN
+í	DG
+Ruhr	S----P
+.	KE
+
+Ungarnir	SMPNA
+klekjast	VNMPP3
+eftir	DG
+25	NO
+døgum	SMPD
+.	KE
+
+Faðirin	SMSNA
+var	VNAAS3
+útróðrarmaður	SMSN
+,	KC
+meðan	C
+móðirin	SFSNA
+var	VNAAS3
+húsmóðir	SFPA
+.	KE
+
+Høvuðsstaðurin	SMSNA
+í	DG
+Noregi	SNSD-P
+er	VNAPS3
+Oslo	S----P
+.	KE
+
+Aðrir	PIMPN
+partar	SMPN
+eru	VNAPP3
+undir	DG
+náttúruvernd	SFSA
+.	KE
+
+Og	C
+so	DN
+dregur	VNAPS3
+landslagið	SNSNA
+nógv	APSNPN
+ferðafólk	SNPA
+til	DG
+Noregs	SNSG-P
+at	CI
+síggja	VIA
+órørda	APSFSA
+og	C
+stórfingna	APSFSA
+náttúru	SFSA
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Oslo	S----P
+.	KE
+
+Arendal	S----P
+og	C
+Kristiansand	S----P
+eru	VNAPP3
+fiskivinnubýir	SMPN
+.	KE
+
+Størstu	ASWMSN
+býirnar	SMPAA
+á	DG
+Norðlandinum	SNSDA
+eru	VNAPP3
+Narvik	S----P
+og	C
+Bodø	S----P
+.	KE
+
+Norra	SNSN
+er	VNAPS3
+heimsmeistari	SMSN
+í	DG
+javnstøðu	SFSD
+.	KE
+
+Skøkjulevnaður	SMSN
+er	VNAPS3
+ólógligur	APSMSN
+í	DG
+Norra	SNSD-P
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+2,9	NP
+%	M
+.	KE
+
+Meginparturin	SMSNA
+verður	VNAPS3
+tískil	DN
+fluttur	VAAMSN
+út	DN
+.	KE
+
+Arbeiðaraflokkurin	SMSNAP
+,	KC
+Høgra	SFSN-P
+og	C
+Framburðsflokkurin	SMSNAP
+eru	VNAPP3
+fyri	DG
+leiting	SFSA
+.	KE
+
+Tað	PPNSN
+er	VNAPS3
+aling	SFSN
+.	KE
+
+Umleið	DN
+40	NP
+%	M
+av	DG
+Noregi	SNSD-P
+eru	VNAPP3
+skógvaksin	APSNPN
+.	KE
+
+Í	DG
+2010	NO
+vóru	VNAAP3
+166	NO
+bjarnir	SFPNA
+í	DG
+Norra	SNSD-P
+.	KE
+
+Seyður	SMSN
+hevur	VNAPS3
+altíð	DN
+havt	VAANSN
+ómetaligan	APSMSA
+týdning	SMSA
+fyri	DG
+Ísland	SNSA-P
+.	KE
+
+Leikluturin	SMSNA
+hjá	DG
+íslendska	APWMSD
+forsetanum	SMSDA
+er	VNAPS3
+symbolskur	VAAMSN
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+í	DG
+Keflavík	S----P
+,	KC
+og	C
+er	VNAPS3
+ein	RMSNI
+heimur	SMSN
+fyri	DG
+seg	PPMSA
+.	KE
+
+Í	DG
+2014	NO
+eru	VNAPP3
+164	NO
+130	NO
+menn	SMPN
+og	C
+162	NO
+920	NO
+kvinnur	SFPN
+.	KE
+
+Í	DG
+2010	NO
+spældi	VNAAS3
+Royn	S----P
+í	DG
+3.	NO
+deild	SFSD
+.	KE
+
+Eitt	RNSNI
+valskeið	SNSN
+er	VNAPS3
+fýra	NC
+ár	SNPN
+.	KE
+
+At	CI
+skipa	VIA
+løgtingið	SNSAA
+.	KE
+
+Hatta	PDNSN
+er	VNAPS3
+mín	PE1SN
+veruleiki	SMSN
+.	KE
+
+Hettar	SMPN
+tosar	VNAPS3
+til	DG
+ungdómin	SMSAA
+og	C
+aðrar	PIMPA
+áhoyrarar	SMPA
+.	KE
+
+Amtmenn	SMPN
+í	DG
+Føroyum	SFPD-P
+:	KE
+Hetta	PDNSN
+er	VNAPS3
+ein	RMSNI
+listi	SMSN
+yvir	DG
+amtmenn	SMSA
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Amtmaðurin	SMSNA
+er	VNAPS3
+ovasti	ASSMSN
+embætismaður	SMSN
+í	DG
+amti	SNSD
+.	KE
+
+Felagsskapurin	SMSNA
+sigur	VNAPS3
+,	KC
+at	C
+umstøðurnar	SFPNA
+eru	VNAPP3
+vanlukkuligar	APSFPN
+í	DG
+Norðurkorea	SNSD-P
+.	KE
+
+Deyðadagur	SMSN
+hansara	PPMSG
+gjørdist	VNMAS3
+tingdagur	SMSN
+føroyinga	SMPA
+.	KE
+
+Í	DG
+2000	NO
+var	VNAAS3
+býurin	SMSNA
+Evropiskur	APSMSN
+mentanarhøvuðsstaður	SMSN
+.	KE
+
+Hann	PPMSN
+var	VNAAS3
+lærari	SMSN
+og	C
+stjóri	SMSN
+á	DG
+Føroya	SFPG-P
+Fólkaháskúla	SMSD
+.	KE
+
+Í	DG
+lógini	SFSDA
+verður	VNAPS3
+eisini	DN
+ásett	VAANSN
+,	KC
+at	C
+serligir	APSMPN
+føroyskir	APSMPN
+seðlar	SMPN
+verða	VNAPP3
+prentaðir	VAAMPN
+til	DG
+nýtslu	SFSA
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Størsta	ASWFSN
+oyggin	SFSNA
+er	VNAPS3
+Mainland	S----P
+.	KE
+
+Í	DG
+1900	NO
+var	VNAAS3
+bert	DN
+ein	RMSNI
+katolikkur	SMSN
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Hetta	PDNSN
+var	VNAAS3
+ein	RFSNI
+kona	SFSN
+,	KC
+sum	CR
+búði	VNAAS3
+á	DG
+Hvítanesi	SNSD-P
+.	KE
+
+Í	DG
+1931	NO
+varð	VNAAS3
+katólska	APWNSN
+kirkjuliðið	SNSNA
+endurreist	VIM
+.	KE
+
+Lívsneyðugur	APSMSN
+heilivágur	SMSN
+verður	VNAPS3
+ókeypis	DN
+.	KE
+
+Við	DG
+tíðini	SFSDA
+settust	VNMAP3
+nógvir	APSMPN
+norðbúgvar	SMPN
+í	DG
+Grønlandi	SNSD-P
+.	KE
+
+Bráðnaði	APWMSN
+grønlendski	APWMSN
+ísurin	SMSNA
+,	KC
+hevði	VNAAS3
+Grønland	SNSN
+helst	DNS
+verið	VAANSN
+eitt	PBNSN
+oyggjaland	SNSN
+.	KE
+
+Høvuðsstaðurin	SMSNA
+og	C
+størsti	ASSMSN
+býurin	SMSNA
+er	VNAPS3
+Nuuk	S----P
+.	KE
+
+Hann	PPMSN
+var	VNAAS3
+danskur	APSMSN
+løgfrøðingur	SMSN
+og	C
+embætismaður	SMSN
+.	KE
+
+Bóndagarðurin	SMSNA
+gjørdist	VNMAS3
+ein	RMSNI
+mentanarligur	APSMSN
+miðdepil	SMSN
+í	DG
+bygdini	SFSDA
+.	KE
+
+Eisini	DN
+staðfestir	VNAPS3
+heimastýrislógin	SFSNA
+hvat	PQNSN
+ein	RMSNI
+føroyingur	SMSN
+er	VNAPS3
+.	KE
+
+Nógv	APSNSN
+stríð	SNSN
+er	VNAPS3
+staðist	VIM
+av	DG
+orðingunum	SFPDA
+í	DG
+Heimastýrislógini	SFSDAP
+,	KC
+og	C
+orðingunum	SFPDA
+í	DG
+henni	PPFSD
+.	KE
+
+Ætlanin	SFSNA
+er	VNAPS3
+at	CI
+venda	VIA
+lítlu	APWFSD
+støddini	SFSDA
+á	DG
+Føroyalandi	SNSD-P
+til	DG
+fyrimun	SMSA
+.	KE
+
+end	X
+.	KE
+
+Pávin	SFSNA
+er	VNAPS3
+hægsti	ASWMSN
+myndugleiki	SMSN
+fyri	DG
+róma-	TT
+kirkjuni	SFSDA
+.	KE
+
+Svarið	SNSNA
+er	VNAPS3
+ein	RFSNI
+kúgv	SFSN
+.	KE
+
+Tórshavnar	SFSG-P
+kommuna	SFSN
+:	KE
+Tórshavnar	SFSG-P
+Kommuna	SFSN
+er	VNAPS3
+størsta	ASWFSN
+kommuna	SFSN
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Upprunin	SMSNA
+av	DG
+orðinum	SNSDA
+""""	KQ
+víkingur	SMSN
+""""	KQ
+er	VNAPS3
+ikki	DN
+greiður	APSMSN
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+sjálvlærdur	APSMSN
+listamaður	SMSN
+.	KE
+
+Tróndur	SMSN-P
+lovar	VNAPS3
+at	CI
+royna	VIA
+.	KE
+
+Buktin	SFSNA
+liggur	VNAPS3
+á	DG
+gullinum	SNSDA
+undir	DG
+Gullheyginum	SNSDAP
+.	KE
+
+Ferðavinnan	SFSNA
+hevur	VNAPS3
+stóran	APSMSA
+týdning	SMSA
+fyri	DG
+Áland	SNSA-P
+.	KE
+
+Áland	SNSN-P
+er	VNAPS3
+gomul	APSFSN
+sjóvinnutjóð	SFSN
+.	KE
+
+Áland	SNSN-P
+er	VNAPS3
+eisini	DN
+limur	SMSN
+í	DG
+ES	TS
+sum	CR
+partur	SMSN
+av	DG
+finska	APWNSD
+ríkinum	SNSDA
+.	KE
+
+30	NO
+landsstýrismenn	SMPN
+eru	VNAPP3
+.	KE
+
+Í	DG
+Mariehamn	S----P
+er	VNAPS3
+landsstýrishúsið	SNSNA
+.	KE
+
+Høvuðsstaður	SMSN
+er	VNAPS3
+Mariehamn	S----P
+.	KE
+
+Størsta	ASWFSN
+oyggin	SFSNA
+er	VNAPS3
+Áland	SNSN-P
+.	KE
+
+Stór	APSNPN
+fjallalendi	SNPN
+eru	VNAPP3
+í	DG
+Svøríki	SNSD-P
+.	KE
+
+Nú	DN
+á	DG
+døgum	SMPD
+er	VNAPS3
+6,1	NP
+%	M
+av	DG
+fólkinum	SNSDA
+arbeiðsleys	APSFSN
+.	KE
+
+Mann	S----P
+er	VNAPS3
+eitt	PBNSN
+sjálvstøðugt	APSNSN
+ríki	SNSN
+í	DG
+kongsfelagsskapi	SNSD
+við	DG
+Ongland	SNSA-P
+.	KE
+
+Írland	SNSN-P
+var	VNAAS3
+leingi	DN
+undir	DG
+bretskum	APSNSD
+yvirvaldi	SNSD
+.	KE
+
+Nú	DN
+á	DG
+døgum	SMPD
+er	VNAPS3
+tungídnaðurin	SMSNA
+,	KC
+sum	CR
+áður	DN
+var	VNAAS3
+álitið	VAANSN
+,	KC
+ikki	DN
+so	DN
+týdningarmikil	SMSN
+longur	DN
+.	KE
+
+Berlin	S----P
+:	KE
+Berlin	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+Týsklands	SNSG-P
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+og	C
+handilsmiðdepil	SMSN
+í	DG
+Danmark	SNSD-P
+.	KE
+
+Býurin	SMSNA
+er	VNAPS3
+eisini	DN
+høvuðsstaður	SMSN
+,	KC
+har	DN
+býr	VNAPS3
+drotningin	SFSNA
+,	KC
+og	C
+har	DN
+eru	VNAPP3
+Fólkatingið	SNSNA
+og	C
+stjórnin	SFSNA
+.	KE
+
+Í	DG
+stórbýum	SFPD
+sum	C
+Keypmannahavn	SFSD-P
+er	VNAPS3
+nógv	DN
+fartan	SFSN
+aftur	DN
+og	C
+fram	DN
+.	KE
+
+Flogvøllurin	SMSNA
+í	DG
+Keypmannahavn	SFSD-P
+er	VNAPS3
+Kastrup	S----P
+Flogvøllur	SMPN
+.	KE
+
+Tróndur	SMSN-P
+var	VNAAS3
+reyðhærdur	APSMSN
+,	KC
+frøknutur	APSMSN
+og	C
+grefligur	APSMSN
+í	DG
+ásjón	SFSD
+.	KE
+
+Aðra	PIFSA
+helvtina	SFSAA
+skulu	VNAPP3
+mínir	APSMPN
+menn	SMPN
+hava	VNAPP3
+.	KE
+
+Hann	PPMSN
+var	VNAAS3
+mikil	APSMSN
+maður	SMSN
+,	KC
+ríkur	APSMSN
+og	C
+harðvunnin	APSMSN
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+av	DG
+minstu	ASSMSD
+falkum	SMPD
+.	KE
+
+Smyril	SMSN
+er	VNAPS3
+minsti	ASSMSN
+falkur	SMSN
+í	DG
+Evropa	SNSD-P
+.	KE
+
+Stórur	APSMSN
+munur	SMSN
+er	VNAPS3
+á	DG
+steggja	SMSD
+og	C
+bøgu	SFSD
+.	KE
+
+Í	DG
+dølunum	SMPDA
+er	VNAPS3
+veðurgott	APSNSN
+og	C
+góður	APSMSN
+bøur	SMSN
+.	KE
+
+Um	DG
+veturin	SMSAA
+legst	VIM
+ofta	DN
+nógvur	APSMSN
+kavi	SMSN
+niður	DN
+í	DG
+fjøllunum	SNPDA
+.	KE
+
+Luzern	S----P
+og	C
+Lugano	S----P
+eru	VNAPP3
+viðgitnir	APSMPN
+ferðamannabýir	SMPN
+.	KE
+
+-	KO
+At	C
+stovnseta	VIA
+føroyskan	APSMSA
+háskúla	SMSA
+.	KE
+
+Størstu	APWNPN
+stórstaðarøkini	SNPNA
+eru	VNAPP3
+í	DG
+Ruhr	S----P
+í	DG
+Týsklandi	SNSD-P
+.	KE
+
+Dagurin	SMSNA
+nevnist	VNMPS3
+eisini	DN
+kyndilsmessa	SFSN
+.	KE
+
+Dagurin	SMSNA
+nevnist	VNMPS3
+eisini	DN
+kongadagur	SMSN
+.	KE
+
+Dagurin	SMSNA
+er	VNAPS3
+2.	NO
+jóladagur	SMSN
+.	KE
+
+Dansitíðin	SFSNA
+er	VNAPS3
+frá	DG
+2.	NO
+jóladegi	SMSD
+til	DG
+føstuinngang	SMSA
+.	KE
+
+Hvannasund	SNSN-P
+er	VNAPS3
+fyrndarbygd	VAAFSN
+.	KE
+
+Sum	C
+ungur	APSMSN
+var	VNAAS3
+hann	PPMSN
+fiskimaður	SMSN
+og	C
+útróðrarmaður	SMSN
+.	KE
+
+Tvøroyrar	SFSG-P
+kommuna	SFSN
+:	KE
+Tvøroyrar	SFSG-P
+kommuna	SFSN
+er	VNAPS3
+kommuna	SFSN
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Dagurin	SMSNA
+í	DG
+dag	SMSA
+er	VNAPS3
+tjóðardagur	VAAMSN
+Noregs	SNSG-P
+.	KE
+
+Steðgurin	SMSNA
+er	VNAPS3
+10-15	NO
+minuttir	SMPN
+.	KE
+
+Í	DG
+1928	NO
+fór	VNAAS3
+aftur	DN
+at	CI
+goysa	VIA
+í	DG
+somu	PIFSD
+oyggj	SFSD
+.	KE
+
+Torkil	SMSN-P
+er	VNAPS3
+eisini	DN
+telvari	SMSN
+.	KE
+
+Báturin	SMSNA
+er	VNAPS3
+hvítur	APSMSN
+og	C
+hevur	VNAPS3
+bláar	APSMPA
+listar	SMPA
+.	KE
+
+Niels	SMSN-P
+Finsens	S----P
+gøta	SFSN
+:	KE
+Niels	SMSN-P
+Finsens	S----P
+gøta	SFSN
+í	DG
+Tórshavn	SFSD-P
+er	VNAPS3
+einasta	ASWFSN
+gongugøta	SFSN
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Í	DG
+Tinganesi	SNSD-P
+eru	VNAPP3
+gamlir	APSMPN
+bygningar	SMPN
+.	KE
+
+Hetta	PDNSN
+merkir	VNAPS3
+ikki	DN
+,	KC
+at	C
+yrkingarnar	SFPNA
+ikki	DN
+eru	VNAPP3
+góðar	APSFPN
+.	KE
+
+Móti	DG
+endanum	SMSDA
+verður	VNAPS3
+tó	DN
+vent	VAANSN
+í	DG
+holuni	SFSDA
+.	KE
+
+Sí	VMAPP2
+eisini	DN
+.	KE
+
+Í	DG
+333	NO
+á.Kr.	TT
+tók	VNAAS3
+Aleksandur	SMSN-P
+Mikli	APSMSA
+ræði	SNSA
+á	DG
+oynni	SFSDA
+.	KE
+
+Meginparturin	SMSNA
+av	DG
+fólkinum	SNSDA
+eru	VNAPP3
+grikkar	SMPN
+,	KC
+bara	DN
+fimtingurin	SMSNA
+turkar	SMSA
+.	KE
+
+Sí	VMAPP2
+dømini	SNPNA
+fyri	DN
+at	CI
+síggja	VIA
+gongdina	SFSAA
+.	KE
+
+Grundtøl	SFSN
+eru	VNAPP3
+talorð	SNPN
+í	DG
+hvørfalli	SNSD
+.	KE
+
+Skiftitøl	SNPN
+eru	VNAPP3
+talorð	SNPN
+í	DG
+fleirtali	SNSD
+.	KE
+
+Landbúnaðurin	SMSNA
+hevur	VNAPS3
+stóran	APSMSA
+týdning	SMSA
+fyri	DG
+litavska	APWMSA
+búskapin	SMSAA
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Athen	S----P
+,	KC
+sum	CR
+eisini	DN
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+.	KE
+
+Grikkaland	SNSN-P
+er	VNAPS3
+limur	SMSN
+í	DG
+ES	TS
+.	KE
+
+Summir	PIMPN
+býir	SMPN
+vóru	VNAAP3
+ovurríkir	APSMPN
+.	KE
+
+Ferðavinnan	SFSNA
+hevur	VNAPS3
+ovurstóran	APSMSA
+týdning	SMSA
+fyri	DG
+grikska	APWMSA
+búskapin	SMSAA
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+átta	NC
+býir	SMPN
+og	C
+bygdir	SFPN
+í	DG
+Hultsfreds	S----P
+kommunu	SFSD
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+10	NO
+býir	SMPN
+í	DG
+Oskarshamns	SNSD-P
+kommunu	SFSD
+.	KE
+
+Stórt	APSNSN
+universitet	SNSN
+er	VNAPS3
+í	DG
+býnum	SMSDA
+.	KE
+
+Umsitingin	SFSNA
+hjá	DG
+kommununi	SFSDA
+liggur	VNAPS3
+í	DG
+býnum	SMSDA
+Umeå	S----P
+.	KE
+
+Í	DG
+895	NO
+var	VNAAS3
+ungarskt	APSNSN
+landnám	SNSN
+.	KE
+
+Um	C
+96	NO
+fólk	SNPN
+búgva	VNAPP3
+á	DG
+Hvítanesi	SNSD-P
+.	KE
+
+Tveir	NCMPN
+seyðabøndur	SMPN
+eru	VNAPP3
+eisini	DN
+í	DG
+bygdini	SFSDA
+.	KE
+
+Í	DG
+Syðradali	SMSD
+eru	VNAPP3
+tvey	NCNPN
+festi	SNPN
+.	KE
+
+Velbastaður	SMSN
+er	VNAPS3
+av	DG
+elstu	APSFPD
+bygdum	SFPD
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Velbastaður	SMSN
+hevur	VNAPS3
+verið	VAANSN
+,	KC
+og	C
+er	VNAPS3
+framvegis	DN
+,	KC
+eyðkend	APSFSN
+landbúnaðarbygd	SFSN
+.	KE
+
+Í	DG
+bygdini	SFSDA
+eru	VNAPP3
+26	NO
+hús	SNPN
+.	KE
+
+Men	C
+í	DG
+bygdini	SFSDA
+er	VNAPS3
+eisini	DN
+ein	PBFSN
+nýggj	APSFSN
+útstykking	SFSN
+.	KE
+
+Hon	PPFSN
+liggur	VNAPS3
+nær	DN
+við	DG
+vatni	SNSD
+,	KC
+í	DG
+einum	RMSDI
+dali	SMSD
+.	KE
+
+Tað	PPNSN
+var	VNAAS3
+missur	SMSN
+í	DG
+einum	PBNSD
+slíkum	PINSD
+menni	SNSD
+!	KE
+
+Eitt	PINSN
+fjølbroytt	APSNSN
+vinnulív	SNSN
+er	VNAPS3
+grundarlagið	SNSNA
+fyri	DG
+framburði	SNSD
+og	C
+trivnaði	SMSD
+.	KE
+
+Vestmanna	SFSG-P
+er	VNAPS3
+eisini	DN
+ein	RFSNI
+kommuna	SFSN
+.	KE
+
+Miðvágur	SMSN-P
+er	VNAPS3
+søgulig	APSFSN
+bygd	SFSN
+.	KE
+
+Stórur	APSMSN
+partur	SMSN
+av	DG
+leirvíkingum	SMPD
+doyði	VNAAS3
+.	KE
+
+Meginparturin	SMSNA
+av	DG
+jørðini	SFSDA
+í	DG
+Leirvík	SFSD-P
+er	VNAPS3
+kongsjørð	SFSN
+.	KE
+
+Rúnasteinurin	SMSNAP
+stendur	VNAPS3
+nú	DN
+í	DG
+Sandavágs	SMSD-P
+kirkju	SFSD
+.	KE
+
+Hetta	PDNSN
+kom	VNAAS3
+í	DG
+lag	SNSA
+við	DG
+kongsbrævi	SNSD
+,	KC
+dagfest	VAMNSN
+19.	NO
+mars	SMSN
+.	KE
+
+Hetta	PDNSN
+hevði	VNAAS3
+týdning	SMSA
+fyri	DG
+bygdarlívið	SNSAA
+og	C
+eisini	DN
+búskaparligan	APSMSA
+týdning	SMSA
+.	KE
+
+Eitt	RNSNI
+vanligt	APSNSN
+fiskavirki	SNSN
+er	VNAPS3
+í	DG
+kommununi	SFSDA
+og	C
+somuleiðis	DN
+er	VNAPS3
+eitt	RNSNI
+kryvjingarvirki	SMSN
+.	KE
+
+Í	DG
+kommununi	SFSDA
+eru	VNAPP3
+tveir	NCMPN
+bóndagarðar	SMPN
+.	KE
+
+Áhugavert	APSNSN
+at	CI
+vitja	VIA
+.	KE
+
+Kommunulækni	SMSN
+er	VNAPS3
+eisini	DN
+í	DG
+bygdini	SFSDA
+.	KE
+
+Lamba	X
+var	VNAAS3
+nýggjársbygd	SFSN
+.	KE
+
+Á	DG
+sandi	SMSD
+er	VNAPS3
+sandur	SMSN
+við	DG
+einastu	APSMPD
+mølheyggjum	SMPD
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Men	C
+her	DN
+er	VNAPS3
+annað	PINSN
+enn	DN
+fiskur	SMSN
+.	KE
+
+Gásadalur	SMSN-P
+er	VNAPS3
+partur	SMSN
+av	DG
+Sørvágs	SMSG-P
+Kommunu	SFSD
+.	KE
+
+Í	DG
+Gásadali	SMSD-P
+er	VNAPS3
+ongin	PIFSN
+kirkja	SFSN
+.	KE
+
+Gudstænasta	SMSGA
+og	C
+lestur	SMSN
+eru	VNAPP3
+tískil	DN
+í	DG
+skúlanum	SMSDA
+.	KE
+
+At	CI
+stjala	VIA
+eld	SMSA
+.	KE
+
+Aalborg	S----P
+er	VNAPS3
+vinarbýur	VAAMSN
+hjá	DG
+Fuglafirði	SMSD-P
+.	KE
+
+Størsti	ASWMSN
+býurin	SMSNA
+í	DG
+kommununi	SFSDA
+er	VNAPS3
+Frederikshavn	SFSN-P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Kiev	S----P
+við	DG
+2,6	NO
+milliónum	SFPD
+.	KE
+
+Sunnanmenninir	SFPNA
+vóru	VNAAP3
+við	DG
+undirlutan	SMSAA
+og	C
+máttu	VNAAP3
+víkja	VIA
+.	KE
+
+Bispurin	SMSNA
+flýggjaði	VNAAS3
+og	C
+slapp	VNAAS3
+heilskapaður	APSMSN
+til	DG
+Kirkjubøar	SMSG-P
+og	C
+sunnanmenninir	SMPNA
+aftaná	DN
+.	KE
+
+Í	DG
+2005	NO
+varð	VNAAS3
+kappingin	SFSNA
+enn	DN
+einaferð	DN
+umskipað	VAANSN
+.	KE
+
+Men	C
+soleiðis	DN
+hevur	VNAPS3
+ikki	DN
+altíð	DN
+verið	VAANSN
+.	KE
+
+Um	DG
+navnið	SNSAA
+.	KE
+
+Í	DG
+Kvívík	SFSD-P
+er	VNAPS3
+ein	RFSNI
+krambúð	SFSN
+.	KE
+
+Høvuðsvinnan	SFSNA
+í	DG
+kommununi	SFSDA
+er	VNAPS3
+útróður	SMSN
+.	KE
+
+Kongsjørðin	SFSNA
+liggur	VNAPS3
+hjá	DG
+einum	RNSDI
+festi	SNSD
+.	KE
+
+Røktarheim	SMSN
+er	VNAPS3
+bygt	VAANSN
+á	DG
+Mørkini	SFSDA
+við	DG
+plássi	SNSD
+fyri	DG
+32	NO
+búfólkum	SNPD
+.	KE
+
+Sí	VMAPP2
+eisini	DN
+.	KE
+
+Har	DN
+er	VNAPS3
+nógvur	APSMSN
+og	C
+góður	APSMSN
+slættur	APSMSN
+bøur	SMSN
+,	KC
+ið	CR
+hevur	VNAPS3
+verið	VAANSN
+grundarlagið	SNSNA
+undir	DG
+góðum	APSMSD
+landbúnaði	SMSD
+.	KE
+
+Sí	VMAPP2
+eisini	DN
+.	KE
+
+Grótgarðurin	SMSNAP
+,	KC
+hon	PPFSN
+læt	VNAAS3
+gera	VIA
+um	DG
+kirkjugarðin	SMSAA
+,	KC
+stendur	VNAPS3
+enn	DN
+.	KE
+
+Hanus	SMSN-P
+var	VNAAS3
+av	DG
+bestu	ASSMSD
+seyðamonnum	SMPD
+.	KE
+
+Á	DG
+norðursíðuni	SFSDA
+er	VNAPS3
+bygdin	SFSNA
+Kollafjørður	SMSN-P
+.	KE
+
+Fólkatalið	SNSNA
+er	VNAPS3
+í	DG
+dag	SMSA
+102	NO
+.	KE
+
+Býlingurin	SMSNA
+liggur	VNAPS3
+omanfyri	DN
+og	C
+sunnanfyri	DN
+gomlu	APWFSD
+bygdina	SFSAA
+.	KE
+
+Um	DG
+orðið	SNSAA
+.	KE
+
+Danskt	APSNSN
+mál	SNSN
+:	KE
+Danskt	APSNSN
+mál	SNSN
+er	VNAPS3
+málið	SNSNA
+í	DG
+Danmark	SNSD-P
+.	KE
+
+Hellurnar	SFPNA
+eru	VNAPP3
+partur	SMSN
+av	DG
+Fuglafjarðar	SMSG-P
+kommunu	SFSD
+.	KE
+
+Eitt	RNSNI
+bønhús	SNSN
+er	VNAPS3
+í	DG
+bygdini	SFSDA
+.	KE
+
+Men	C
+hetta	PDNSN
+var	VNAAS3
+honum	PPMSD
+ikki	DN
+nokk	DN
+.	KE
+
+Norskt	APSNSN
+mál	SNSN
+:	KE
+Norskt	APSNSN
+mál	SNSN
+er	VNAPS3
+málið	SNSNA
+í	DG
+Noregi	SNSD-P
+.	KE
+
+Eitt	RNSNI
+kelvi	SNSN
+er	VNAPS3
+eitt	RNSNI
+runt	APSNSN
+træpetti	SNSN
+.	KE
+
+Nógvar	APSFPN
+oyggjar	SFPN
+eru	VNAPP3
+enn	DN
+undir	DN
+til	DG
+dømis	SNSG
+Nýsælandi	SNSD-P
+,	KC
+Fraklandi	SNSD-P
+og	C
+Bretlandi	SNSD-P
+.	KE
+
+Kyrrahavsoyggjarnar	SFPNA
+eru	VNAPP3
+av	DG
+ymsum	APWMSD
+uppruna	SMSD
+og	C
+skapi	SNSD
+.	KE
+
+Menninir	SMPNA
+búsettust	VNMAP3
+eina	PBFSA
+tíð	SFSA
+í	DG
+Indonesia	S----P
+.	KE
+
+Sum	C
+tíðin	SFSNA
+leið	SFSN
+,	KC
+løgdu	VNAAP3
+ymisk	APSFSN
+long	APSFSN
+oyggjarnar	SFPAA
+undir	DG
+seg	PPNPA
+.	KE
+
+Har	DN
+eru	VNAPP3
+eisini	DN
+stórir	APSMPN
+garðar	SMPN
+við	DG
+sukurrørum	SNPD
+og	C
+gummitrøum	SNPD
+.	KE
+
+Føroyskan	APSFSA
+mentan	SFSA
+skal	VNAPS3
+skjalprógvast	VIM
+í	DG
+tilfarinum	SNSDA
+hjá	DG
+Kringvarpinum	SNSDAP
+.	KE
+
+Átrúnaður	SMSN
+skal	VNAPS3
+miðlast	VIM
+við	DG
+gudstænastum	SFPD
+og	C
+møtum	SNPD
+.	KE
+
+Strandferðslan	SFSNA
+er	VNAPS3
+stovnur	SMSN
+undir	DG
+Vinnumálaráðnum	SNSDA
+.	KE
+
+”	NO
+Tá	C
+kom	VNAAS3
+ferð	SFSN
+á	DG
+Hanus	SMSD-P
+.	KE
+
+Tey	PPNPN
+vóru	VNAAP3
+9	NO
+systkin	SNPNA
+,	KC
+men	C
+mamman	SFSNA
+og	C
+4	NO
+systkin	SNPN
+doyðu	VNAAP3
+sum	CR
+smá	APSNPN
+av	DG
+tuberklum	SMPD
+.	KE
+
+,	KC
+táið	C
+Victor	SMSN-P
+doyði	VNAAS3
+.	KE
+
+Stakkurin	SMSNA
+hevur	VNAPS3
+verið	VAANSN
+veitslubúni	SMSN
+,	KC
+serstakliga	SMSD
+brúðarkjóli	SMSN
+,	KC
+í	DG
+øldir	SFPA
+.	KE
+
+Miðskeiðis	SNSNA
+í	DG
+19.	NO
+øld	SFSD
+varð	VNAAS3
+sjóstúkan	SFSNA
+stásbúni	SMSN
+.	KE
+
+Sí	VMAPP2
+eisini	DN
+.	KE
+
+""""	KQ
+Sí	VMAPP2
+eisini	DN
+:	KE
+""""	KQ
+Tónleikur	SMSN
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Tá	C
+ið	C
+kommunisman	SFSNA
+kom	VNAAS3
+til	DG
+Russlands	SNSG-P
+.	KE
+
+1917	NO
+–	NO
+kollveltingin	SFSNA
+eydnast	VIM
+.	KE
+
+Ístaðin	DN
+skutu	VNAAP3
+hermenninir	SMPNA
+yvirmenninar	SMPAA
+og	C
+fóru	VNAAP3
+uppí	DG
+uppreisturin	SMSAA
+.	KE
+
+Nógv	APSNPN
+steinsløg	SNPN
+eru	VNAPP3
+í	DG
+undirgrundini	SFSDA
+.	KE
+
+Á	DG
+triðja	APWNSD
+plássi	SNSD
+kom	VNAAS3
+makrelur	SMSN
+við	DG
+61	NO
+milliónum	SFPD
+krónum	SFPD
+.	KE
+
+""""	KQ
+Sendistovan	SFSNA
+í	DG
+Russlandi	SNSD-P
+verður	VNAPS3
+eitt	RNSNI
+týdningarmikið	APSNSN
+amboð	SNSN
+hjá	DG
+Føroyum	SFPD-P
+at	CI
+styrkja	VIA
+handilsviðurskiftini	SNPAA
+við	DG
+Russland	SNSA-P
+og	C
+onnur	PBNPA
+eystanlond	SNPA
+""""	KQ
+,	KC
+segði	VNAAS3
+Johannesen	S----P
+.	KE
+
+Sendistovan	SFSN
+í	DG
+Russlandi	SNSD-P
+verður	VNAPS3
+eitt	RNSNI
+týdningarmikið	APSNSN
+amboð	SNSN
+hjá	DG
+okkum	PP1PD
+at	CI
+styrkja	VIA
+handilsviðurskiftini	SNPAA
+við	DG
+Russland	SNSA-P
+og	C
+onnur	PBNPA
+eystanlond	SNPA
+.	KE
+
+Heiðursgáva	SFSN
+landsins	SNSGA
+er	VNAPS3
+75.000	NO
+kr	TS
+.	KE
+
+Triðja	APWFSN
+stongin	SFSNA
+er	VNAPS3
+á	DG
+nakkanum	SMSDA
+.	KE
+
+Gráhvít	APSFSN
+er	VNAPS3
+hon	PPFSN
+undir	DG
+búkinum	SMSDA
+.	KE
+
+Nógv	DN
+verður	VNAPS3
+eisini	DN
+dyrkað	VAANSN
+av	DG
+oljuberum	SNPD
+og	C
+fikum	SFPD
+.	KE
+
+Í	DG
+lofthavinum	SNSDA
+eru	VNAPP3
+eisini	DN
+saltsýra	SFSN
+,	KC
+svávulsýra	SFSN
+og	C
+flusssýra	SFSN
+.	KE
+
+Undir	DG
+skorpuni	SFSDA
+er	VNAPS3
+kápan	SFSNA
+.	KE
+
+Umleið	DN
+29	NP
+%	M
+av	DG
+jarðarflatanum	SMSDAP
+eru	VNAPP3
+land	SNSN
+.	KE
+
+Blágrøni	APWMSN
+liturin	SMSNA
+í	DG
+lofthavinum	SNSDA
+kemst	VNMPS3
+av	DG
+metani	SNSD
+,	KC
+sum	CR
+sýgur	VNAPS3
+í	DG
+seg	PPMSA
+reyðu	APWMPA
+litirnar	SMPAA
+.	KE
+
+Tá	DN
+er	VNAPS3
+sólarmyrking	SFSN
+.	KE
+
+Við	DN
+í	DG
+leikinum	SMSDA
+eru	VNAPP3
+bara	DN
+kongurin	SMSNA
+og	C
+annar	PIMSN
+rókurin	SMSNA
+.	KE
+
+Svartur	APSMSN
+kongur	SMSN
+stendur	VNAPS3
+í	DG
+skáki	SNSD
+.	KE
+
+Leggurin	SMSNA
+er	VNAPS3
+stívur	APSMSN
+og	C
+óslættur	APSMSN
+-	KO
+gamal	APSMSN
+tari	SMSN
+er	VNAPS3
+ikki	DN
+sørt	DN
+trækendur	APSMSN
+.	KE
+
+Summir	PIMPN
+soppar	SMPN
+liva	VNAPP3
+sum	C
+snultarar	SMPN
+á	DG
+dýrum	SNPD
+og	C
+plantum	SFPD
+.	KE
+
+Tí	C
+er	VNAPS3
+umráðandi	VPA
+ikki	DN
+at	CI
+taka	VIA
+hann	PPMSA
+.	KE
+
+Framleiðsla	SFSN
+av	DG
+alkoholum	SNPD
+kann	VNAPS3
+gerast	VIM
+á	DG
+nógvar	APSMPA
+ymiskar	APSMPA
+mátar	SMPA
+.	KE
+
+Sí	VMAPP2
+eisini	DN
+.	KE
+
+Føðingardagur	SMSN
+hansara	PPMSG
+er	VNAPS3
+ókendur	VAAMSN
+.	KE
+
+Nepal	S----P
+:	KE
+Nepal	S----P
+er	VNAPS3
+eitt	RNSNI
+lýðveldi	SNSN
+í	DG
+Asia	SNSD-P
+.	KE
+
+Høvuðsstaður	SMSN
+er	VNAPS3
+Kathmandu	S----P
+.	KE
+
+Kathmandu	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+í	DG
+Nepal	S----P
+og	C
+størsti	ASSMSN
+býur	SMSA
+.	KE
+
+Í	DG
+Nepal	S----P
+eru	VNAPP3
+mong	APSNPN
+fólkasløg	SNPN
+.	KE
+
+Viðurkenningar	SMPN
+frá	DG
+Kroatia	S----P
+,	KC
+Bosnia	S----P
+og	C
+Herzegovina	S----P
+og	C
+Slovenia	S----P
+vóru	VNAAP3
+skjótar	APSFPN
+.	KE
+
+Landbúnaður	SMSN
+og	C
+fiskivinna	SFSN
+vóru	VNAAP3
+grundarlagið	SNSNA
+undir	DG
+spanska	APWMSD
+búskapinum	SMSDA
+.	KE
+
+Føroyskur	APSMSN
+dansur	SMSN
+:	KE
+Føroyskur	APSMSN
+dansur	SMSN
+stavar	VNAPS3
+úr	DG
+miðøld	SFSD
+.	KE
+
+Helium	SNSN
+:	KE
+Helium	SNSN
+er	VNAPS3
+eitt	RNSNI
+frumevni	SNSN
+,	KC
+ið	CR
+hoyrir	VNAPS3
+til	DG
+bólkin	SMSAA
+óvirkin	APSNPA
+loftevni	SNPA
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+limur	SMSN
+í	DG
+bólkinum	SMSDA
+Harkaliðið	SNSAAP
+.	KE
+
+Yvir	SMPN
+11,3	NO
+mió	TS
+býr	VNAPS3
+í	DG
+Istanbul	S----P
+.	KE
+
+Istanbul	S----P
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Turkaland	SNSD-P
+.	KE
+
+Høvuðsstaður	SMSN
+er	VNAPS3
+Ankara	S----P
+við	DG
+3,9	NO
+mió.	TT
+íbúgvum	SMPD
+.	KE
+
+Tjóðardagur	SMSN
+er	VNAPS3
+29.	NO
+oktober	SMSN
+.	KE
+
+Restin	SFSNA
+liggur	VNAPS3
+í	DG
+Asia	SNSD-P
+.	KE
+
+Har	DN
+er	VNAPS3
+best	DNS
+at	CI
+koma	VIA
+niðan	DN
+á	DG
+tindin	SFSD
+.	KE
+
+Brøðramessa	SFSN
+:	KE
+Brøðramessa	SFSN
+er	VNAPS3
+20.	NO
+januar	SMSA
+.	KE
+
+Pálsmessa	SFSN
+:	KE
+Pálsmessa	SFSN
+er	VNAPS3
+25.	NO
+januar	SMSA
+.	KE
+
+Kyndilsmessuknútur	SMSN
+:	KE
+Kyndilsmessuknútur	SMSN
+er	VNAPS3
+19.	NO
+januar	SMSN
+.	KE
+
+Kyndilsmessa	SFSN
+:	KE
+Kyndilsmessa	SFSN
+er	VNAPS3
+2.	NO
+februar	SMSN
+.	KE
+
+Kyndilsmessa	SFSN
+er	VNAPS3
+sostatt	DN
+40.	NO
+dagurin	SMSNA
+eftir	DG
+jóladag	SMSA
+(	KO
+tá	C
+jóladagur	SMSN
+er	VNAPS3
+íroknaður	APSMSN
+)	KO
+.	KE
+
+Syftunsøka	SFSN
+:	KE
+Syftunsøka	SFSN
+er	VNAPS3
+2.	NO
+juli	SMSD
+.	KE
+
+Kongadagur	SMSN
+:	KE
+Kongadagur	SMSN
+er	VNAPS3
+11.	NO
+februar	SMSN
+.	KE
+
+Pætursmessa	SFSN
+:	KE
+Pætursmessa	SFSN
+er	VNAPS3
+22.	NO
+februar	SMSN
+.	KE
+
+Grækarismessa	SFSN
+:	KE
+Grækarismessa	SFSN
+er	VNAPS3
+12.	NO
+mars	SMSA
+.	KE
+
+Grækarismessudagur	SMSN
+er	VNAPS3
+almennur	APSMSN
+flaggdagur	SMSN
+.	KE
+
+Í	DG
+miðjuni	SFSDA
+er	VNAPS3
+vanliga	DN
+stórt	APSNSN
+tún	SNSN
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+næstformaður	SMSN
+í	DG
+Kyndli	SMSD-P
+.	KE
+
+Í	DG
+2012	NO
+er	VNAPS3
+hann	PPMSN
+venjari	SMSN
+hjá	DG
+B71	TS
+,	KC
+sum	CR
+spælir	VNAPS3
+í	DG
+1.	NO
+deild	SFSD
+.	KE
+
+Tað	PPNSN
+er	VNAPS3
+gamalt	APSNSN
+handverk	SNSN
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Brundtíðin	SFSNA
+endar	VNAPS3
+so	DN
+á	DG
+trettanda	X
+.	KE
+
+Vestmanna	SFSN-P
+er	VNAPS3
+egin	SMSA
+kommuna	SFSN
+.	KE
+
+Í	DG
+2015	NO
+eru	VNAPP3
+í	DG
+landsstýrinum	SNSDA
+umframt	DG
+løgmann	SMSA
+sjey	NC
+landsstýrismenn	SMPA
+.	KE
+
+Í	DG
+2013	NO
+eru	VNAPP3
+trý	NCNPN
+kór	SNPN
+:	KE
+
+Mikudagur	SMSN
+í	DG
+føstuinngangi	SMSD
+nevnist	VNMPS3
+øskudagur	SMSN
+,	KC
+og	C
+tá	DN
+byrjar	VNAPS3
+álvarsamari	ACSMSN
+parturin	SMSNA
+av	DG
+føstuni	SFSDA
+.	KE
+
+Pátriksmessa	SFSN
+:	KE
+Pátriksmessa	SFSN
+er	VNAPS3
+17.	NO
+mars	SMSA
+.	KE
+
+Fyri	DG
+ólavsøku	SFSD
+eru	VNAPP3
+pisurnar	SFPNA
+floygdar	APSFPN
+.	KE
+
+Umframt	DN
+við	DG
+fygling	SFSD
+og	C
+fleygi	SNSD
+verður	VNAPS3
+nógvur	APSMSN
+lomvigi	SMSN
+fingin	VAAMSN
+við	DG
+snaru	SFSD
+.	KE
+
+Høvuðsstaður	SMSN
+er	VNAPS3
+Santiago	S----P
+.	KE
+
+Landið	SNSNA
+var	VNAAS3
+fram	DN
+við	DG
+Kyrrahavi	SNSD-P
+.	KE
+
+Lítið	APSNSN
+fólk	SNSN
+býr	VNAPS3
+suðuri	DN
+í	DG
+landinum	SNSDA
+.	KE
+
+Einasti	APWMSN
+landbúnaður	SMSN
+har	DN
+suðuri	DN
+er	VNAPS3
+seyðahald	SNSN
+.	KE
+
+Valparaíso	S----P
+er	VNAPS3
+stór	APSFSN
+skipahavn	SFSN
+.	KE
+
+Um	C
+90%	NO
+av	DG
+landinum	SNSDA
+er	VNAPS3
+heit	APSFSN
+og	C
+turr	APSFSN
+sandoyðimørk	SFSN
+.	KE
+
+Ørindið	SNSNA
+og	C
+ein	RFSNI
+leyslig	APSFSN
+umseting	SFSN
+eru	VNAPP3
+at	CI
+lesa	VIA
+niðanfyri	DN
+.	KE
+
+Høvuðsstaður	SMSN
+er	VNAPS3
+Sevilla	S----P
+.	KE
+
+Ein	RFSNI
+onnur	PIFSN
+framtíðarhugsjón	SFSN
+er	VNAPS3
+ES	TS
+sum	C
+politiskt	APSNSN
+samveldi	SNSN
+.	KE
+
+Í	DG
+Føroyum	SFPD-P
+eru	VNAPP3
+14	NO
+prestagjøld	SNPN
+og	C
+20	NO
+prestar	SMPN
+.	KE
+
+Fólk	SNPN
+býr	VNAPS3
+á	DG
+umleið	DN
+20	NO
+oyggjum	SFPD
+.	KE
+
+Upprunafólkið	SNSNA
+í	DG
+Aruba	S----P
+eru	VNAPP3
+indiánar	SMPN
+.	KE
+
+Flestu	APWNPN
+ferðafólkini	SNPNA
+eru	VNAPP3
+úr	DG
+USA	TS
+.	KE
+
+Týskland	SNSN-P
+var	VNAAS3
+fallið	SNSNA
+.	KE
+
+Politiskar	APSFPN
+broytingar	SFPN
+vóru	VNAAP3
+neyðugar	APSFPN
+.	KE
+
+Búskaparligu	APWFPN
+broytingarnar	SFPNA
+vóru	VNAAP3
+eisini	DN
+stórar	APSFPN
+.	KE
+
+Sí	VMAPP2
+eisini	DN
+bretska	APWFSN
+hersetingin	SFSNA
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Pisufundur	SMSN
+plagar	VNAPS3
+eisini	DN
+at	CI
+vera	VIA
+fríggjadagin	SMSAA
+á	DG
+jóansøku	SFSD
+.	KE
+
+Í	DG
+Bíbliuni	SFSDA
+eru	VNAPP3
+66	NO
+bøkur	SFPN
+.	KE
+
+Býurin	SMSNA
+hevur	VNAPS3
+eina	RFSAI
+stóra	APSFSA
+havn	SFSA
+,	KC
+flogvøll	SMSA
+og	C
+tyrlupall	SMSA
+.	KE
+
+50.	NO
+útgávan	SFSNA
+var	VNAAS3
+ein	RFSNI
+fløga	SFSN
+við	DG
+Mariu	SFSG-P
+Guttesen	S----P
+.	KE
+
+Salmonella	SFSN
+kann	VNAPS3
+vera	VIA
+uttan	DN
+á	DG
+skalinum	SNSDA
+og	C
+inni	DN
+í	DG
+egginum	SNSDA
+.	KE
+
+Kostnaðurin	SMSNA
+var	VNAAS3
+28	NO
+281,14	NO
+krónur	SFPN
+.	KE
+
+Valborgarmessa	SFSN
+:	KE
+Valborgarmessa	SFSN
+er	VNAPS3
+1.	NO
+mai	SMSA
+.	KE
+
+Krossmessa	SFSN
+:	KE
+Krossmessa	SFSN
+er	VNAPS3
+3.	NO
+mai	SMSA
+.	KE
+
+Halvarðsøka	SFSN
+:	KE
+Halvarðsøka	SFSN
+er	VNAPS3
+15.	NO
+mai	SMSA
+.	KE
+
+Prestwick	S----P
+:	KE
+Prestwick	S----P
+er	VNAPS3
+býur	SMSN
+í	DG
+South	S----P
+Ayrshire	F
+,	KC
+Skotlandi	SNSD-P
+.	KE
+
+Sprotin	SMSNA
+:	KE
+Sprotin	SFSNA
+er	VNAPS3
+eitt	RNSNI
+bókaforlag	SNSN
+við	DG
+heimstaði	SMSD
+í	DG
+Vestmanna	SFSD-P
+.	KE
+
+Nú	DN
+fer	VNAPS3
+at	CI
+bragda	VIA
+.	KE
+
+Í	DG
+sjálvum	PINPD
+fjøllunum	SNPDA
+er	VNAPS3
+eisini	DN
+nógvur	APSMSN
+seyður	SMSN
+.	KE
+
+Asker	S----P
+og	C
+Tórshavn	SFSN-P
+eru	VNAPP3
+vinarbýir	SMPN
+.	KE
+
+Flestu	ASSNPN
+fólk	SNPN
+í	DG
+Italia	SNSD-P
+eru	VNAPP3
+katolikkar	SMPN
+.	KE
+
+Italia	SNSN-P
+er	VNAPS3
+kent	VAANSN
+fyri	DG
+sína	PPFSA
+list	SFSA
+og	C
+mentan	SFSA
+.	KE
+
+Afrikanski	APWMSN
+fílurin	SMSNA
+er	VNAPS3
+størsta	ASSNSN
+súgdjór	SNSN
+á	DG
+landi	SNSD
+.	KE
+
+Sambært	DG
+nýggjum	APSNPD
+hagtølum	SNPD
+eru	VNAPP3
+samkynd	APSNPN
+6,5	NP
+prosent	SNPN
+av	DG
+veljaraskaranum	SMSDA
+í	DG
+Fraklandi	SNSD-P
+.	KE
+
+Høgar	APSFPN
+brekkur	SFPN
+eru	VNAPP3
+fram	DN
+við	DG
+strondini	SFSDA
+,	KC
+og	C
+í	DG
+dølunum	SMPDA
+eru	VNAPP3
+umstøðurnar	SFPAA
+góðar	DNC
+til	DG
+landbúnað	SMSA
+.	KE
+
+Høvuðsvinnuvegurin	SMSNA
+i	X
+Fraklandi	SNSD-P
+er	VNAPS3
+landbúnaður	SMSN
+.	KE
+
+Fiskiveiðan	SFSNA
+í	DG
+Fraklandi	SNSD-P
+er	VNAPS3
+hópin	SMSAA
+stór	APSFSN
+.	KE
+
+Kann	VNAPS3
+man	SMSN
+til	DG
+dømis	SNSG
+tosa	VIA
+um	DG
+ymisk	APSNPA
+málføri	SNPA
+í	DG
+Sørvági	SMSD-P
+og	C
+í	DG
+Sandavági	SMSD-P
+?	KE
+
+Áttamannafarið	SNSN
+var	VNAAS3
+til	DG
+útróðrar	SMPA
+tiltikna	APWMSA
+óveðursdagin	SMSAA
+í	DG
+1913	NO
+,	KC
+tá	C
+skarðsbáturin	SMSNA
+fórst	VNMPS3
+.	KE
+
+Herðingin	SFSNA
+er	VNAPS3
+altíð	DN
+á	DG
+næstaftasta	ASSNSD
+stavilsi	SNSD
+.	KE
+
+Í	DG
+Kina	SNSD-P
+eru	VNAPP3
+mong	APSNPN
+mál	SNPN
+.	KE
+
+Kina	SNSN-P
+var	VNAAS3
+miðdepilin	SMSNA
+.	KE
+
+Iran	S----P
+:	KE
+Iran	S----P
+er	VNAPS3
+eitt	RNSNI
+land	SNSN
+í	DG
+Miðeystri	SMSD
+og	C
+Asia	SNSD-P
+.	KE
+
+Hetta	PDNSN
+er	VNAPS3
+áhugaverd	APSFSN
+samanseting	SFSN
+.	KE
+
+Verður	VNAPS3
+samanborið	VAANSN
+við	DG
+fýrakant	SNSA
+ella	C
+terning	SMSA
+.	KE
+
+Tað	PPNSN
+er	VNAPS3
+kjarnin	SMSNA
+.	KE
+
+Ein	RFSNI
+ørgrynna	SFSN
+av	DG
+møguleikum	SMPD
+og	C
+samansetingum	SFPD
+eru	VNAPP3
+.	KE
+
+Kelinøvn	SFSNA
+eru	VNAPP3
+eitt	RNSNI
+heilt	DN
+kapittul	SMSN
+fyri	DG
+seg	PPMSA
+.	KE
+
+Árarnar	SFPNA
+eru	VNAPP3
+festar	VAAFPN
+í	DG
+bátin	SMSAA
+,	KC
+ofta	DN
+við	DG
+bandi	SNSD
+.	KE
+
+Í	DG
+2011	NO
+vóru	VNAAP3
+14	NO
+nýggir	APSMPN
+bussar	SMPN
+keyptir	VAAMPN
+til	DG
+býbusskoyringini	SFSDA
+hjá	DG
+Tórshavnar	SFSG-P
+kommunu	SFSD
+.	KE
+
+Í	DG
+2008	NO
+var	VNAAS3
+ASFALT	TS
+tó	DN
+avlýst	VAMNSN
+.	KE
+
+Reykjavík	SFSN-P
+:	KE
+´	KO
+Reykjavík	SFSN-P
+er	VNAPS3
+høvuðsstaður	SMSN
+í	DG
+lýðveldinum	SNSDA
+Íslandi	SNSD-P
+.	KE
+
+Í	DG
+18.	NO
+øld	SFSD
+,	KC
+hevði	VNAAS3
+Danmark	SNSN-P
+hug	SMSA
+at	CI
+gera	VIA
+Reykjavík	SFSA-P
+til	DG
+ein	RMSAI
+stóran	APSMSA
+bý	SMSA
+.	KE
+
+Tað	PPNSN
+var	VNAAS3
+heimskreppa	SFSN
+í	DG
+Reykjavík	SFSD-P
+frá	DG
+1920	NO
+til	DG
+1930	NO
+.	KE
+
+Tá	DN
+var	VNAAS3
+stórt	APSNSN
+arbeiðsloysi	SNSN
+.	KE
+
+Bulgaria	S----P
+:	KE
+Bulgaria	S----P
+er	VNAPS3
+eitt	RNSNI
+lýðveldi	SNSN
+í	DG
+Evropa	SNSD-P
+.	KE
+
+Minsk	S----P
+er	VNAPS3
+miðskeiðis	DN
+í	DG
+landinum	SNSDA
+.	KE
+
+Hann	PPMSN
+var	VNAAS3
+eirindaleysur	APSMSN
+einaræðisharri	SMSN
+.	KE
+
+Veðið	SNSNA
+var	VNAAS3
+ongantíð	DN
+loyst	VAMNSN
+.	KE
+
+Oslo	S----P
+:	KE
+Oslo	S----P
+er	VNAPS3
+Noregs	SNSG-P
+høvuðsstaður	SMSN
+,	KC
+og	C
+uml.	TT
+10	NP
+%	M
+av	DG
+landsins	SNSGA
+fólki	SNSD
+býr	VNAPS3
+í	DG
+býnum	SMSDA
+.	KE
+
+Mitt	DN
+í	DG
+Moskva	S----P
+er	VNAPS3
+Kreml	S----P
+,	KC
+russiska	APWNSD
+tinginum	SNSDA
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+nú	DN
+mikil	APSMSN
+ídnaðar-	TT
+og	C
+handilsbýur	SMSN
+.	KE
+
+Nuuk	S----P
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Grønlandi	SNSD-P
+og	C
+høvuðsstaður	SMSN
+landsins	SNSGA
+.	KE
+
+Nuuk	S----P
+er	VNAPS3
+nútíðarbýur	SMSN
+í	DG
+menning	SFSD
+.	KE
+
+Nuuk	S----P
+er	VNAPS3
+í	DG
+støðugum	APSMSD
+vøkstri	SMSD
+.	KE
+
+Stiðin	SFSNAP
+:	KE
+Stiðin	SFSNAP
+er	VNAPS3
+eitt	RNSNI
+bókaforlag	SNSN
+við	DG
+heimstaði	SMSD
+í	DG
+Hoyvík	SFSD-P
+.	KE
+
+Tó	DN
+er	VNAPS3
+ósemja	SFSN
+ímillum	DG
+átrúnaðarligir	APSMPA
+bólkar	SMPA
+.	KE
+
+Lavrasmessa	SFSN
+:	KE
+Lavrasmessa	SFSN
+er	VNAPS3
+10.	NO
+august	SMSA
+.	KE
+
+Vánaligar	APSFPN
+venjingarumstøður	SFPN
+vóru	VNAAP3
+at	CI
+byrja	VIA
+við	DN
+-	KO
+bert	DN
+ein	RMSNI
+trongligur	APSMSN
+skúlagarður	SMSN
+.	KE
+
+Litirnir	SMPNA
+hjá	DG
+ÍF	TS
+eru	VNAPP3
+reyðir	APSMPN
+og	C
+hvítir	APSMPN
+.	KE
+
+Dagført	SNSN
+í	DG
+oktober	SMSD
+2013	NO
+.	KE
+
+Navnið	SNSNA
+er	VNAPS3
+bíbilskt	APSNSN
+staðarnavn	SNSN
+.	KE
+
+Bartalsmessa	SFSN
+:	KE
+Bartalsmessa	SFSN
+,	KC
+eisini	DN
+kallað	VAANSN
+bartalsøka	SFSN
+,	KC
+er	VNAPS3
+24.	NO
+august	SMSA
+.	KE
+
+Mikkjalsmessa	SFSN
+:	KE
+Mikkjalsmessa	SFSN
+er	VNAPS3
+29.	NO
+september	SMSA
+.	KE
+
+Í	DG
+Nýsælandi	SNSD-P
+eru	VNAPP3
+20	NO
+ferðir	SFPN
+so	DN
+nógvir	APSMPN
+seyðir	SMPN
+sum	C
+fólk	SNPN
+.	KE
+
+Soleiðis	DN
+gjørdist	VNMAS3
+bøndurnir	SMPNA
+sjálvbjargnir	VAAMPN
+við	DG
+mati	SMSD
+.	KE
+
+Sí	VMAPP2
+eisini	DN
+.	KE
+
+Fíggingargrunnurin	SMSNA
+gjørdist	VNMAS3
+tískil	DN
+størsti	ASSMSN
+eigarin	SMSNA
+í	DG
+Sjóvinnubankanum	SNSDA
+.	KE
+
+Vit	PP1PN
+gerast	VNMPP1
+sjálvstøðugur	APSMSN
+limur	SMSN
+í	DG
+Sameindu	SMPD-P
+Tjóðum	SNPD
+.	KE
+
+Borgarstjóri	SMSN
+er	VNAPS3
+Gunnar	SMSN-P
+Einarsson	S----P
+.	KE
+
+Í	DG
+býnum	SMSDA
+er	VNAPS3
+eitt	PBNSN
+fótbóltsfelag	SNSN
+sum	CR
+eitur	VNAPS3
+Stjarnan	SFSNAP
+.	KE
+
+Minsta	ASWFSN
+flogmúsin	SFSNA
+er	VNAPS3
+humlufluguflogmúsin	SMSNA
+.	KE
+
+Á	DG
+mongum	APSFPD
+oyggjum	SFPD
+eru	VNAPP3
+amerikanskar	APSFPN
+hernaðarstøðir	SFPN
+.	KE
+
+Upprunaliga	APSFSN
+politiska	APWFSN
+skipanin	SFSNA
+var	VNAAS3
+eitt	RNSNI
+samveldi	SNSN
+millum	DG
+statirnar	SMPAA
+.	KE
+
+Upprunafólkið	SNSNA
+í	DG
+USA	TS
+vóru	VNAAP3
+indiánar	SMPN
+.	KE
+
+""""	KQ
+Einasti	APWMSN
+góði	SMSN
+indiánin	SMSNA
+er	VNAPS3
+ein	RMSNI
+deyður	APSMSN
+indiáni	SMSN
+""""	KQ
+.	KE
+
+Tollurin	SMSNA
+fór	VNAAS3
+til	DG
+Bretlands	SNSG-P
+.	KE
+
+Ein	RMSNI
+triðingur	SMSN
+av	DG
+fólkinum	SNSDA
+stuðlaði	VNAAS3
+bretum	SMPD
+,	KC
+ein	RMSNI
+triðingur	SMSN
+var	VNAAS3
+uttanveltaður	APSMSN
+,	KC
+og	C
+ein	RMSNI
+triðingur	SMSN
+var	VNAAS3
+beinleiðis	DN
+við	DN
+í	DG
+stríðnum	SNSDA
+fyri	DG
+loysing	SFSD
+.	KE
+
+Lutirnir	SMPNA
+vóru	VNAAP3
+so	DN
+meinlíkir	APSMPN
+í	DG
+útsjónd	SFSD
+og	C
+sniði	SNSD
+.	KE
+
+Virðisbrævamarknaðurin	SMSNA
+í	DG
+New	S----P
+York	F
+rapaði	VNAAS3
+í	DG
+1929	NO
+,	KC
+og	C
+tað	PPNSN
+elvdi	VNAAS3
+til	DG
+eina	RFSAI
+búskaparkreppu	SFSA
+,	KC
+sum	CR
+breiddi	VNAAS3
+seg	PPMSA
+um	DG
+allan	PIMSA
+heimin	SMSAA
+.	KE
+
+Mangir	APSMPN
+bøndur	SMSN
+máttu	VNAAP3
+rýma	VIA
+av	DG
+garði	SMSD
+.	KE
+
+Bøndurnir	SMPNA
+fingu	VNAAP3
+fíggjarligan	APSMSA
+stuðul	SMSA
+at	CI
+minka	VIA
+framleiðsluna	SFSAA
+.	KE
+
+Í	DG
+so	DN
+stórum	APSNSD
+landi	SNSD
+er	VNAPS3
+stórur	APSMSN
+munur	SMSN
+á	DG
+veðurlagnum	SNSDA
+.	KE
+
+20.000	NO
+kvinnur	SFPN
+eru	VNAPP3
+í	DG
+amerikanska	APWMSD
+herinum	SMSDA
+,	KC
+og	C
+tað	PPNSN
+er	VNAPS3
+umleið	DN
+15	NP
+%	M
+av	DG
+samlaða	APWNSD
+talinum	SNSD
+.	KE
+
+Ferðavinna	SFSAA
+hevur	VNAPS3
+stóran	APSMSA
+týdning	SMSA
+í	DG
+Malta	S----P
+.	KE
+
+Meginparturin	SMSNA
+av	DG
+fólkinum	SNSDA
+er	VNAPS3
+muslimar	SMPN
+.	KE
+
+Myndugleikarnir	SMPNA
+eggjaðu	VNAAP3
+fólki	SNSD
+at	CI
+flyta	VIA
+.	KE
+
+Tørvur	SNSN
+var	VNAAS3
+á	DG
+bóndum	SMPD
+norðanfyri	DN
+.	KE
+
+Maðurin	SMSNA
+var	VNAAS3
+kvikur	APSMSN
+og	C
+kreyp	VNAAS3
+sær	PPMSD
+inn	DN
+í	DG
+holuna	SFSAA
+.	KE
+
+Her	DN
+eru	VNAPP3
+høg	APSNPN
+fjøll	SNPN
+og	C
+fruktagóðar	APSFPN
+fløtur	SFPN
+.	KE
+
+Meksiko	S----P
+var	VNAAS3
+ímóti	DG
+trælahaldi	SNSD
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+vakur	APSMSN
+býur	SMSN
+við	DG
+prýðiligum	APSMPD
+bygningum	SMPD
+og	C
+vakstrargørðum	SMPD
+.	KE
+
+Vegirnir	SMPNA
+eru	VNAPP3
+breiðir	APWMPN
+og	C
+beinir	APWMPN
+.	KE
+
+Sandefjord	SMSN-P
+kommuna	SFSN
+er	VNAPS3
+størsta	ASWFSN
+kommunan	SFSNA
+í	DG
+Vestfold	SFSD-P
+.	KE
+
+Nú	DN
+á	DG
+døgum	SMPD
+eru	VNAPP3
+teir	PPMPN
+bara	DN
+elalítil	APSNPN
+partur	SMSN
+av	DG
+fólkinum	SNSDA
+í	DG
+Kanada	SNSD-P
+.	KE
+
+Aðrastaðni	DN
+verður	VNAPS3
+nógv	DN
+frukt	SFSN
+og	C
+grønmeti	SNSN
+dyrkað	VAANSN
+.	KE
+
+Flestu	ASSNPN
+skriðdýr	SNPN
+eru	VNAPP3
+í	DG
+hitalondum	SNPD
+.	KE
+
+Tronga	APWNSN
+sundið	SNSNA
+við	DG
+Gibraltar	S----P
+er	VNAPS3
+einasta	ASWFSN
+farleið	SFSN
+úr	DG
+Miðjarðarhavi	SNSD-P
+í	DG
+Atlantshav	SNSA-P
+.	KE
+
+Meginparturin	SMSNA
+av	DG
+fólkinum	SNSDA
+býr	VNAPS3
+í	DG
+stórum	APSMPD
+býum	SMPD
+við	DG
+strondina	SFSAA
+.	KE
+
+Í	DG
+avstralskum	APSMSD
+fótbólti	SMSD
+kunnu	VNAPP3
+spælararnir	SMPNA
+sparka	VNAPP3
+ella	C
+sláa	VIA
+bóltin	SMSAA
+,	KC
+men	C
+ikki	DN
+er	VNAPS3
+loyvt	VAANSN
+at	CI
+kasta	VIA
+hann	PPMSA
+.	KE
+
+Teir	PPMPN
+vóru	VNAAP3
+í	DG
+Sydney	S----P
+.	KE
+
+Kenguran	SFSNA
+heldur	VNAPS3
+til	DN
+á	DG
+vallfløtunum	SFPDA
+.	KE
+
+Í	DG
+2011	NO
+var	VNAAS3
+fólkatalið	SNSNA
+í	DG
+kommununi	SFSDA
+57	NO
+.	KE
+
+Kommunan	SFSNA
+liggur	VNAPS3
+á	DG
+Norðurlandinum	SNSDA
+.	KE
+
+Inntil	SNPN
+1990-	NO
+árini	SNPAA
+vóru	VNAAP3
+barnagarðar	SMPN
+óvanligir	APSMPN
+á	DG
+bygd	SFSD
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Keypstaður	SMSN
+:	KE
+Keypstaður	SMSN
+er	VNAPS3
+eitt	RNSNI
+annað	PBNSN
+orð	SNSN
+fyri	DG
+bygd	SFSD
+ella	C
+bý	SMSA
+.	KE
+
+Pápin	SFSNA
+arbeiddi	VNAAS3
+í	DG
+kolanámi	SNSD
+.	KE
+
+Tó	DN
+eru	VNAPP3
+ofta	DN
+smáir	APSMPN
+skjálvtar	SMPN
+undan	DG
+einum	RMSDI
+stórum	APSMSD
+skjálvta	SMSD
+.	KE
+
+Grannalond	SFSN
+eru	VNAPP3
+Argentina	S----P
+,	KC
+Bolivia	S----P
+og	C
+Brasil	S----P
+.	KE
+
+Einskildur	APWMSN
+ognarrættur	SMSN
+,	KC
+lágur	APSMSN
+skattur	SMSN
+og	C
+ein	RMSNI
+veikur	APSMSN
+statur	SMSN
+eru	VNAPP3
+umráðandi	VPA
+í	DG
+kapitalistiskum	APSNPD
+samfeløgum	SNPD
+.	KE
+
+Hetta	PDNSN
+er	VNAPS3
+liberalistiskur	APSMSN
+vinnupolitikkur	SMSN
+.	KE
+
+Klukkurnar	SMPAA
+eru	VNAPP3
+størsti	ASWMSN
+bólkurin	SMSNA
+.	KE
+
+Men	C
+tað	PPNSN
+er	VNAPS3
+eisini	DN
+í	DG
+einum	RMSDI
+undirbólki	SMSD
+av	DG
+súgdýrum	SNPD
+innan	DG
+súgdýraflokkin	SMSAA
+.	KE
+
+Heimshav	SFSN
+:	KE
+Eitt	RNSNI
+heimshav	SNSN
+er	VNAPS3
+eitt	RNSNI
+størri	ACSNSN
+saltvatnsøki	SNSN
+.	KE
+
+Áður	SFPNA
+var	VNAAS3
+tað	PPNSN
+undir	DG
+sponskum	APSNSD
+yvirræði	SNSD
+.	KE
+
+Í	DG
+Egyptalandi	SNSD-P
+eru	VNAPP3
+mong	APSNPN
+fornminni	SNPN
+.	KE
+
+Har	DN
+áin	SFSNA
+rennur	VNAPS3
+í	DG
+havið	SNSAA
+,	KC
+eru	VNAPP3
+stórar	APSFPN
+fruktagóðar	APSFPN
+oyrar	SMPN
+.	KE
+
+Býtti	VNAAS3
+fólk	SNPN
+sundur	DN
+eftir	DG
+húðarliti	SMSD
+.	KE
+
+NATO-Ráðið	SNSNAP
+í	DG
+Brússel	S----P
+er	VNAPS3
+hægsta	ASWNSA
+ráð	SNSN
+í	DG
+NATO	TS
+.	KE
+
+Tey	PPNPN
+eru	VNAPP3
+Kroatia	S----P
+og	C
+Albania	S----P
+.	KE
+
+Størsti	ASSMSN
+býur	SMSN
+og	C
+høvuðsstaður	SMSN
+er	VNAPS3
+Honolulu	S----P
+.	KE
+
+Eisini	DN
+sigst	VIM
+,	KC
+at	C
+gudurin	SMSNA
+legði	VNAAS3
+seg	PPMSA
+hjá	DG
+henni	PPFSD
+meðan	C
+hon	PPFSN
+svav	VNAAS3
+.	KE
+
+Ein	RMSNI
+spæta	SFSN
+(	KO
+heilagi	APWMSN
+fuglurin	SMSNA
+hjá	DG
+Marsi	SMSD-P
+)	KO
+hjálpti	VNAAS3
+úlvinum	SMSDA
+at	CI
+geva	VIA
+børnunum	SNPDA
+at	CI
+eta	VIA
+.	KE
+
+Hetta	PDNSN
+varð	VNAAS3
+gjørt	VAANSN
+.	KE
+
+Tróndur	SMSN-P
+var	VNAAS3
+stórskorin	APSMSN
+.	KE
+
+Um	C
+várið	SNSNA
+fer	VNAPS3
+Sigmundur	SMSN-P
+aftur	DN
+til	DG
+Føroya	SFPG-P
+.	KE
+
+Eftir	DG
+hetta	PDNSA
+eru	VNAPP3
+teir	PPMPN
+minni	ACSMPN
+vinir	SMPN
+enn	DN
+áður	DN
+.	KE
+
+Nú	DN
+líður	VNAPS3
+summarið	SNSNA
+.	KE
+
+Sigmundur	SMSN-P
+kom	VNAAS3
+upp	DN
+og	C
+sovnaði	VNAAS3
+í	DG
+fjøruni	SFSDA
+.	KE
+
+Synirnir	SMPNA
+muta	VNAPP3
+tó	DN
+ímóti	DN
+í	DG
+fyrstuni	SFSDA
+.	KE
+
+Tórhallur	SMSN-P
+játtar	VNAPS3
+.	KE
+
+Upprunafólkið	SNSNA
+í	DG
+Kalifornia	S----P
+er	VNAPS3
+indiánar	SMPN
+.	KE
+
+Spaniólar	SMPN
+vóru	VNAAP3
+fyrstir	APSMPN
+úr	DG
+Evropa	SNSD-P
+,	KC
+sum	CR
+búsettust	SMSN
+í	DG
+Kalifornia	S----P
+.	KE
+
+Hjá	DG
+nógvum	APSMSD
+ungdómi	SMSD
+fer	VNAPS3
+øll	PIFSN
+frítíðin	SFSNA
+at	CI
+standa	VIA
+á	DG
+brimfjøl	SFSA
+.	KE
+
+Í	DG
+Kalifornia	S----P
+er	VNAPS3
+landbúnaður	SMSN
+stór	APSFSN
+vinnugrein	SFSN
+.	KE
+
+Ferðavinnan	SFSNA
+hevur	VNAPS3
+búskaparligan	APSMSA
+týdning	SMSA
+.	KE
+
+Í	DG
+Kalifornia	S----P
+er	VNAPS3
+deyðarevsing	SFSN
+.	KE
+
+Hegri	SMSN
+stendur	VNAPS3
+í	DG
+kjallara	SMSD
+.	KE
+
+Dúgva	SFSN
+situr	VNAPS3
+á	DG
+miðjum	APSMSD
+bekki	SMSD
+.	KE
+
+""""	KQ
+Revur	SMSN
+spreingir	VNAPS3
+Gásina	SFSAA
+.	KE
+
+Tá	C
+kom	VNAAS3
+Jói	SMSN-P
+,	KC
+fríði	APWMSN
+fuglur	SMSN
+.	KE
+
+Hani	SMSN
+og	C
+høna	SFSN
+sita	VNAPP3
+sær	PPNPA
+.	KE
+
+Honolulu	S----P
+:	KE
+Honolulu	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+á	DG
+Hawaii	S----P
+.	KE
+
+Innsett	VAANSN
+!	KE
+
+Fór	VNAAS3
+frá	DN
+!	KE
+
+Italia	S----P
+var	VNAAS3
+størsti	ASWMSN
+marknaðurin	SMSNA
+fyri	DG
+føroyskan	APSMSA
+saltfisk	SMSA
+.	KE
+
+Niðurlond	SNPN-P
+:	KE
+Niðurlond	SNPN-P
+ella	C
+Háland	SNSN-P
+ella	C
+Holland	SNSN-P
+er	VNAPS3
+eitt	RNSNI
+kongaríki	SNSN
+í	DG
+Evropa	SNSD-P
+.	KE
+
+Kristus	SMSN-P
+er	VNAPS3
+eitt	RNSNI
+grikskt	APSNSN
+orð	SNSN
+.	KE
+
+Kristni	ASWMSN
+siðurin	SMSNA
+at	CI
+fara	VIA
+til	DG
+altars	SNSG
+í	DG
+kirkjuni	SFSDA
+er	VNAPS3
+til	DG
+minnis	SNSG
+um	DG
+heilagu	APWFSA
+kvøldmáltíðina	SFSAA
+.	KE
+
+Ólavur	SMSN-P
+fór	VNAAS3
+sum	CR
+smádrongur	SMSN
+at	CI
+spæla	VIA
+gittara	SMSA
+.	KE
+
+Høvuðsstaður	SMSN
+er	VNAPS3
+Kinshasa	S----P
+.	KE
+
+Tollaksmessa	SFSN
+:	KE
+Tollaksmessa	SFSN
+er	VNAPS3
+23.	NO
+desember	SMSA
+.	KE
+
+Ovurstórur	APSMSN
+munur	SMSN
+er	VNAPS3
+á	DG
+vælferð	SFSD
+og	C
+lívskorum	SNPD
+fólksins	SNSGA
+.	KE
+
+Men	C
+búskapar-	TT
+og	C
+ídnaðarmiðdepilin	SMSNA
+í	DG
+landinum	SNSDA
+er	VNAPS3
+Johannesburg	S----P
+,	KC
+eisini	DN
+nevndur	VAAMSN
+""""	KQ
+Gullbýurin	SMSNA
+""""	KQ
+.	KE
+
+Hetta	PDNSN
+er	VNAPS3
+størsti	ASSMSN
+halgidómur	SMSN
+hjá	DG
+muslimum	SMSD
+.	KE
+
+Um	C
+3000	NO
+oljuboripallar	SMPN
+eru	VNAPP3
+nú	DN
+í	DG
+flógvanum	SMSDA
+.	KE
+
+Utah	S----P
+:	KE
+Utah	S----P
+er	VNAPS3
+ein	RMSNI
+lutstatur	SMSN
+í	DG
+USA	TS
+við	DG
+2,7	NO
+mió	TS
+íbúgvar	SMPA
+.	KE
+
+Nógvir	APSMPN
+indiánar	SMPN
+í	DG
+Utah	S----P
+vóru	VNAAP3
+eisini	DN
+dugnaligir	APSMPN
+handverkarar	SMPN
+.	KE
+
+Ferðavinnan	SFSNA
+hevur	VNAPS3
+stóran	APSMSA
+búskaparligan	APSMSA
+týdning	SMSA
+.	KE
+
+Helvtin	SFSNA
+av	DG
+útflutningum	SMPD
+úr	DG
+Amerika	S----P
+verður	VNAPS3
+framdur	VAAMSN
+í	DG
+New	S----P
+York	F
+.	KE
+
+Peningurin	SMSNA
+stendur	VNAPS3
+á	DG
+konto	SFSD
+uttanlands	DN
+.	KE
+
+Québec	S----P
+:	KE
+Quebec	S----P
+(	KO
+franskt	APSNSN
+:	KE
+""""	KQ
+Québec	S----P
+""""	KQ
+,	KC
+enskt	APSNSN
+:	KE
+""""	KQ
+Quebec	S----P
+""""	KQ
+)	KO
+er	VNAPS3
+ein	RMSNI
+landslutur	SMSN
+í	DG
+Kanada	S----P
+við	DG
+8,0	NO
+mió	TS
+íbúgvum	SMPD
+.	KE
+
+Býurin	SMSNA
+er	VNAPS3
+eisini	DN
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Kanada	S----P
+og	C
+høvuðsstaðurin	SMSNA
+í	DG
+Ontario	S----P
+.	KE
+
+Kabul	S----P
+er	VNAPS3
+høvuðsstaðurin	SMSNA
+.	KE
+
+Nógv	APSNSN
+náttúruríkidømi	SNSN
+er	VNAPS3
+í	DG
+oynni	SFSDA
+.	KE
+
+Størsta	ASWFSN
+áin	SFSNA
+eitur	VNAPS3
+Yukon	S----P
+,	KC
+og	C
+høvuðsstaðurin	SMSNA
+er	VNAPS3
+Juneau	S----P
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+størsta	ASWFSN
+oyggin	SFSNA
+í	DG
+Mikronesia	S----P
+.	KE
+
+Allir	PBMPN
+á	DG
+Guam	S----P
+eru	VNAPP3
+amerikanskir	APSMPN
+ríkisborgarar	SMPN
+.	KE
+
+Sum	C
+tíðin	SFSNA
+leið	SFSN
+,	KC
+vórðu	VNAAP3
+tey	PPNPN
+til	DG
+olju	SFSA
+.	KE
+
+Samferðslan	SFSNA
+gjørdi	VNAAS3
+eisini	DN
+,	KC
+at	C
+útsjóndin	SFSNA
+á	DG
+býinum	SNSDA
+broyttist	VNMAS3
+.	KE
+
+Maðurin	SMSNA
+leyp	VNAAS3
+síðani	DN
+niður	DN
+á	DG
+leikpallin	SMSAA
+og	C
+hvarv	VNAAS3
+.	KE
+
+Meginparturin	SMSNA
+av	DG
+landinum	SNSDA
+er	VNAPS3
+turr	APSFSN
+oyðimørk	SFSN
+.	KE
+
+48	NO
+landslutir	SMPN
+eru	VNAPP3
+í	DG
+Algeria	S----P
+.	KE
+
+Um	C
+60	NP
+prosent	SNPN
+av	DG
+fólkinum	SNSDA
+í	DG
+Algeria	S----P
+býr	VNAPS3
+nú	DN
+í	DG
+býum	SMPD
+.	KE
+
+Sýslumaður	SMSN
+stjórnar	VNAPS3
+oyggjalandinum	SNSDA
+.	KE
+
+Liberia	S----P
+hevur	VNAPS3
+enn	DN
+nógv	APSNSA
+samband	SNSA
+við	DG
+USA	TS
+.	KE
+
+Ímóti	DN
+kvøldi	SNSN
+slítur	VNAPS3
+í	DN
+,	KC
+og	C
+luftin	SFSNA
+kólnar	VNAPS3
+.	KE
+
+Súla	SFSN
+er	VNAPS3
+størsti	ASSMSN
+byggingarfuglur	SMSN
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Í	DG
+Føroyum	SFPD-P
+er	VNAPS3
+ein	RMSNI
+felagsskapur	SMSN
+til	DG
+fyri	DG
+gudloysingar	SMPA
+,	KC
+sum	CR
+eitur	VNAPS3
+""""	KQ
+Gudloysi	SNSN
+""""	KQ
+.	KE
+
+Hon	PPFSN
+játtaði	VNAAS3
+seg	PPMSA
+at	CI
+giftast	VIM
+við	DG
+honum	PPMSD
+,	KC
+og	C
+so	DN
+varð	VNAAS3
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+ein	RFSNI
+gáva	SFSN
+úr	DG
+Sambandsríki	S----P
+Amerika	S----P
+.	KE
+
+Útferðarmøguleikar	SMPN
+á	DG
+Akureyri	S----P
+eru	VNAPP3
+stak	DN
+góðir	APSMPN
+.	KE
+
+Høvuðsstaðurin	SMSNA
+á	DG
+Kuba	S----P
+er	VNAPS3
+Havanna	S----P
+.	KE
+
+Portugisar	SMPN
+vóru	VNAAP3
+fyrstir	APSMPN
+á	DG
+nýggja	APWNSD
+trælamarknaðinum	SNSDA
+,	KC
+men	C
+aðrir	PIMPN
+evropearar	SMPN
+vóru	VNAAP3
+ikki	DN
+seinir	APSMPN
+at	CI
+gera	VIA
+sum	C
+teir	PPMPN
+.	KE
+
+Tað	PPNSN
+er	VNAPS3
+nú	DN
+Kanada	S----P
+.	KE
+
+Í	DG
+1815	NO
+varð	VNAAS3
+landið	SNSNA
+sameint	VAANSN
+við	DG
+Niðurlond	SNPA-P
+.	KE
+
+Amsterdam	S----P
+:	KE
+Amsterdam	S----P
+er	VNAPS3
+ein	RFSNI
+kommuna	SFSN
+og	C
+høvuðsstaður	SMSN
+í	DG
+Niðurlondum	SNPD-P
+.	KE
+
+Amsterdam	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+og	C
+landsins	SNSGA
+størsti	ASSMSN
+býur	SMSN
+.	KE
+
+Høvuðsstaður	SMSN
+er	VNAPS3
+Luxembourg	S----P
+.	KE
+
+Í	DG
+Íslandi	SNSD-P
+er	VNAPS3
+stovnurin	SMSNA
+fleiri	ACSFPN
+ferðir	SFPA
+so	DN
+stórur	APSMSN
+.	KE
+
+Veitin	SFSNA
+skal	VNAPS3
+kappast	VIM
+við	DG
+Panama	S----P
+-	KO
+veitina	SFSAA
+.	KE
+
+Í	DG
+Kansas	S----P
+er	VNAPS3
+deyðadómur	SMSN
+.	KE
+
+Tjóðardagur	SMSN
+er	VNAPS3
+28.	NO
+juli	SMSD
+.	KE
+
+Endamálið	SNSNA
+var	VNAAS3
+at	CI
+seta	VIA
+á	DG
+stovn	SMSA
+kommunistiskt	APSNSA
+stýri	SNSA
+í	DG
+landinum	SNSDA
+.	KE
+
+Fiskamjøl	SNPN
+úr	DG
+ansjósum	SFPD
+er	VNAPS3
+stór	APSFSN
+útflutningsvøra	SMSN
+hjá	DG
+Peru	S----P
+.	KE
+
+Býurin	SMSNA
+er	VNAPS3
+mitt	DN
+í	DG
+stórum	APSNSD
+ídnaðarøki	SNSD
+.	KE
+
+Sí	VMAPP2
+eisini	DN
+.	KE
+
+Í	DG
+1492	NO
+varð	VNAAS3
+Amerika	S----P
+funnið	VAANSN
+og	C
+ein	RMSNI
+nýggjur	APSMSN
+heimur	SMSN
+letur	VNAPS3
+seg	PPMSA
+upp	DN
+.	KE
+
+Teknaði	APWMSN
+Sjónleikarhúsið	SNSNA
+.	KE
+
+Barnablaðið	SNSNA
+:	KE
+Barnablaðið	SNSNA
+er	VNAPS3
+eitt	RNSNI
+føroyskt	APSNSN
+tíðarrit	SNSN
+fyri	DG
+børn	SNPA
+.	KE
+
+T.d.	TS
+kunnu	VNAPP3
+nýføðingar	SMPN
+í	DG
+Føroyum	SFPD-P
+í	DG
+2014	NO
+vænta	VNAPP3
+at	CI
+liva	VIA
+í	DG
+80,11	NO
+ár	SNPA
+.	KE
+
+Landið	SNSNA
+er	VNAPS3
+limur	SMSN
+í	DG
+Bretska	APWNSD
+Samveldinum	SNSDA
+.	KE
+
+Har	DN
+er	VNAPS3
+nógv	DN
+gull	SNSN
+og	C
+kopar	SNSN
+.	KE
+
+24,7	NP
+prosent	SNPN
+av	DG
+fólkinum	SNSDA
+eru	VNAPP3
+afroamerikanarar	SMPN
+.	KE
+
+Belmopan	S----P
+:	KE
+Belmopan	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+í	DG
+Belis	S----P
+.	KE
+
+—	KO
+Í	DG
+Føroyum	SFPD-P
+sæst	VNMPS3
+hon	PPFSN
+sjaldan	DN
+;	KC
+minst	DNS
+tvær	NCFPA
+ferðir	SFPA
+er	VNAPS3
+hon	PPFSN
+tó	DN
+skotin	VAAMSN
+.	KE
+
+Hvalur	SMSN
+er	VNAPS3
+størsti	ASSMSN
+skapningur	SMSN
+í	DG
+havinum	SNSDA
+.	KE
+
+Vit	PP1PN
+skifta	VNAPP1
+hval	SMSA-P
+í	DG
+barduhval	SMSA
+og	C
+tannhval	SMSA
+.	KE
+
+Sí	VMAPP2
+eisini	DN
+.	KE
+
+Á	DG
+afturlabbunum	SMPDA
+eru	VNAPP3
+fitjur	SFPN
+.	KE
+
+Hetta	PDNSN
+forðar	VNAPS3
+ránsdýrum	SNPD
+at	CI
+koma	VIA
+inn	DN
+í	DG
+smáttuna	SFSAA
+.	KE
+
+Hetta	PDNSN
+eru	VNAPP3
+spølin	SNPNA
+dýr	APSNPN
+,	KC
+og	C
+teir	PPMPN
+kava	VNAPP3
+eftir	DG
+steinum	SMPDA
+og	C
+skeljadýrum	SNPD
+.	KE
+
+Um	C
+heystið	SNSNA
+verður	VNAPS3
+nógvur	APSMSN
+seyður	SMSN
+flettir	VNAPS3
+.	KE
+
+Seyður	SMSN
+á	DG
+vegnum	SMSDA
+er	VNAPS3
+ein	RMSNI
+stórur	APSMSN
+trupulleiki	SMSN
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Harufrensarnir	SMPNA
+boksast	VNMPS3
+um	DG
+løgurnar	SFPAA
+.	KE
+
+Í	DG
+dag	SMSA
+er	VNAPS3
+ferðavinna	APWFSN
+høvuðsvinnan	SFSNA
+.	KE
+
+Í	DG
+Manilla	S----P
+er	VNAPS3
+stórt	APSNSN
+fjall	SNSN
+.	KE
+
+Býurin	SMSNA
+er	VNAPS3
+í	DG
+blóðinum	SNSDA
+.	KE
+
+Norðmenn	SMPN
+eru	VNAPP3
+stoltir	APSMPN
+av	DG
+sínum	PPMSD
+tjóðardegi	SNSD
+.	KE
+
+Býurin	SMSNA
+er	VNAPS3
+ein	RMSNI
+týdningarmikil	SMSN
+handils	SMSN
+og	C
+ídnaðarbýur	SMSN
+og	C
+fleiri	ACSFPN
+jarnbreytir	SFPN
+og	C
+høvuðsvegir	SMPN
+møtast	VNMPP3
+har	DN
+.	KE
+
+Endamálið	SNSNA
+var	VNAAS3
+at	CI
+hjálpa	VIA
+stovnunum	SMPDA
+við	DG
+KT-tænastum	SNPD
+.	KE
+
+Springfield	S----P
+er	VNAPS3
+høvuðsstaðurin	SMSNA
+,	KC
+og	C
+størsti	ASSMSN
+býurin	SMSNA
+er	VNAPS3
+Chicago	S----P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Tallahassee	S----P
+.	KE
+
+Ferðafólkavinnan	SFSNA
+hevur	VNAPS3
+stóran	APSMSA
+týdning	SMSA
+í	DG
+Florida	S----P
+.	KE
+
+Fleiri	ACSFPN
+kirkjur	SFPN
+í	DG
+Føroyum	SFPD-P
+eru	VNAPP3
+gamlar	APSFPN
+,	KC
+og	C
+bygdar	VAAFPN
+í	DG
+serstøkum	APSNSD
+sniði	SNSD
+.	KE
+
+Størsti	APWMSN
+býur	SMSN
+og	C
+høvuðsstaður	SMSN
+er	VNAPS3
+Phoenix	S----P
+.	KE
+
+Um	C
+90	NP
+%	M
+av	DG
+statinum	SMSDA
+er	VNAPS3
+heit	APSFSN
+og	C
+turr	APSFSN
+sandoyðimørk	SFSN
+.	KE
+
+Í	DG
+Arizona	S----P
+vóru	VNAAP3
+fleiri	ACSMPN
+ættarbólkar	SMPN
+,	KC
+sum	CR
+dyrkaðu	VNAAP3
+jørðina	SFSAA
+.	KE
+
+Høvuðsstaðurin	SMSNA
+og	C
+størsti	ASWMSN
+býurin	SMSNA
+er	VNAPS3
+Indianapolis	S----P
+.	KE
+
+Hagstova	SFSN
+Føroya	SFPG-P
+:	KE
+Hagstova	SFSN
+Føroya	SFPG-P
+er	VNAPS3
+almenni	SNSN
+hagtalsmyndugleikin	SMSAA
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Madison	S----P
+og	C
+Milwaukee	S----P
+er	VNAPS3
+størsti	ASWMSN
+býurin	SMSNA
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Frankfort	S----P
+og	C
+størsti	ASSMSN
+býurin	SMSNA
+er	VNAPS3
+Louisville	S----P
+.	KE
+
+Eldstaðurin	SMSNA
+var	VNAAS3
+á	DG
+miðjum	APSMSD
+gólvi	SNSD
+.	KE
+
+Um	C
+somu	PIFSA
+tíð	SFSA
+kríggjaðist	VNMAS3
+Etiopia	S----P
+við	DG
+Eritrea	S----P
+.	KE
+
+Indiánarnir	SMPNA
+í	DG
+Oklahoma	S----P
+vóru	VNAAP3
+ofta	DN
+í	DG
+bardaga	SMSD
+við	DG
+niðursetumenninar	SMPAA
+.	KE
+
+Selfoss	S----P
+:	KE
+Selfoss	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+á	DG
+Suðurlandinum	SNSDA
+í	DG
+Íslandi	SNSD-P
+við	DG
+6512	NO
+íbúgvum	SMPD
+.	KE
+
+Grundarlagið	SNSNA
+undir	DG
+búskapinum	SMSDA
+er	VNAPS3
+ferðavinna	SFSN
+.	KE
+
+Størsta	ASWNSN
+vatnið	SNSNA
+í	DG
+Arkansas	S----P
+er	VNAPS3
+í	DG
+Hot	S----P
+Springs	F
+.	KE
+
+Atlanta	S----P
+er	VNAPS3
+høvuðsstaðurin	SMSNA
+og	C
+størsti	ASWMSN
+býurin	SMSNA
+.	KE
+
+Eftir	DG
+hetta	PDNSA
+búsetti	VNAAS3
+hon	PPFSN
+seg	PPMSA
+í	DG
+Edinburgh	S----P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Augusta	S----P
+og	C
+størsti	ASSMSN
+býurin	SMSNA
+er	VNAPS3
+Portland	S----P
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+eisini	DN
+dansari	SMSN
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+filmsleikari	SMSN
+.	KE
+
+Endamál	SNSN
+felagsins	SNSGA
+er	VNAPS3
+at	CI
+varðveita	VIA
+gomlu	APWFSA
+føroysku	APWFSA
+bátamentanina	SFSAA
+.	KE
+
+Montpelier	S----P
+er	VNAPS3
+høvuðsstaðurin	SMSNA
+og	C
+størsti	ASSMSN
+býurin	SMSNA
+er	VNAPS3
+Burlington	S----P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+í	DG
+Vermont	S----P
+er	VNAPS3
+Montpelier	S----P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Harrisburg	S----P
+og	C
+størsti	ASWMSN
+býurin	SMSNA
+er	VNAPS3
+Philadelphia	S----P
+.	KE
+
+Í	DG
+1787	NO
+bleiv	VNAAS3
+Pennsylvania	S----P
+lutstatur	VAAMSN
+í	DG
+USA	TS
+.	KE
+
+Høvuðsstaðurin	SMSNA
+og	C
+størsti	ASWMSN
+býurin	SMSNA
+er	VNAPS3
+Columbus	S----P
+.	KE
+
+Denver	S----P
+er	VNAPS3
+høvuðsstaðurin	SMSNA
+og	C
+størsti	ASWMSN
+býurin	SMSNA
+.	KE
+
+Í	DG
+Colorado	S----P
+eru	VNAPP3
+veldiga	DN
+stór	APSNPN
+fjøll	SNPN
+,	KC
+og	C
+eisini	DN
+stórir	APSMPN
+,	KC
+fruktagóðir	APSMPN
+slættar	APSFPN
+.	KE
+
+Niðri	DN
+í	DG
+dalinum	SMSDA
+kann	VNAPS3
+vera	VIA
+skógarveðurlag	APSNSN
+.	KE
+
+Soleiðis	DN
+sigur	VNAPS3
+amerikanska	APWFSN
+grundlógin	SFSNA
+.	KE
+
+Ferðavinna	SFSAA
+hevur	VNAPS3
+eisini	DG
+stóran	APSMSA
+týdning	SMSA
+í	DG
+Grenada	S----P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Montgomery	S----P
+og	C
+størsti	ASSMSN
+býur	SMSN
+er	VNAPS3
+Birmingham	S----P
+.	KE
+
+Stórir	APSMPN
+partar	SMPN
+av	DG
+Minnesota	S----P
+eru	VNAPP3
+skógvaksnir	APSMPN
+-	KO
+uml.	TT
+32	NP
+%	M
+,	KC
+og	C
+har	DN
+eru	VNAPP3
+mong	APSNPN
+vøtn	SNPN
+.	KE
+
+Nógvur	APSMSN
+fiskur	SMSN
+er	VNAPS3
+í	DG
+vøtnunum	SNPDA
+í	DG
+Minnesota	S----P
+.	KE
+
+Charleston	S----P
+er	VNAPS3
+høvuðsstaðurin	SMSNA
+og	C
+størsti	ASSMSN
+býurin	SMSNA
+.	KE
+
+Bjørnin	SFSNA
+er	VNAPS3
+størsta	ASWNSN
+rovdýrið	SNSNA
+í	DG
+West	S----P
+Virginia	F
+.	KE
+
+Í	DG
+2009	NO
+vóru	VNAAP3
+8000	NO
+bjarnir	SFPN
+í	DG
+West	S----P
+Virginia	F
+.	KE
+
+Bjørnin	SFSNA
+er	VNAPS3
+ikki	DN
+friðað	VAANSN
+í	DG
+West	S----P
+Virginia	F
+.	KE
+
+Lansing	S----P
+er	VNAPS3
+høvuðsstaðurin	SMSNA
+og	C
+Detroit	S----P
+er	VNAPS3
+størsti	ASWMSN
+býurin	SMSNA
+.	KE
+
+Fá	APSNPN
+fólk	SNPN
+búgva	VIA
+í	DG
+oyðimørkunum	SFPDA
+.	KE
+
+Fleiri	ACSMPN
+løntakarar	SMPN
+eru	VNAPP3
+í	DG
+privata	APWNSD
+vinnulívinum	SNSD
+,	KC
+og	C
+samlaðu	VNAAP3
+lønargjaldingarnar	SFPNA
+vaksa	VIA
+.	KE
+
+Cheyenne	S----P
+er	VNAPS3
+høvuðsstaðurin	SMSNA
+og	C
+størsti	ASWMSN
+býurin	SMSNA
+.	KE
+
+Føroyar	SFPN-P
+og	C
+Grønland	SNSN-P
+eru	VNAPP3
+í	DG
+ríkisfelagsskapi	SMSD
+við	DG
+Danmørk	SFSD-P
+.	KE
+
+Flestu	ASSMPN
+býir	SMPN
+eru	VNAPP3
+smáir	APSMPN
+.	KE
+
+Ein	RMSNI
+stórur	APSMSN
+partur	SMSN
+av	DG
+Montana	S----P
+er	VNAPS3
+fjallaland	SNSN
+.	KE
+
+Álopslinjan	SFSNA
+er	VNAPS3
+ein	RMSNI
+partur	SMSN
+av	DG
+økinum	SNSDA
+framman	DN
+.	KE
+
+Reglar	SMPN
+.	KE
+
+Les	VNAPS3
+meira	DNC
+á	DG
+USA	TS
+.	KE
+
+Høvuðsstaðurin	SMSNA
+og	C
+størsti	ASWMSN
+býurin	SMSNA
+er	VNAPS3
+Boise	S----P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+og	C
+størsti	ASWMSN
+býurin	SMSNA
+er	VNAPS3
+Boston	S----P
+.	KE
+
+Upprunafólkið	SNSNA
+í	DG
+Massachusetts	S----P
+eru	VNAPP3
+indiánar	SMPN
+.	KE
+
+Frá	DG
+sama	PBMSD
+degi	SMSD
+varð	VNAAS3
+floghavnin	SFSNA
+landsstovnur	SMSN
+undir	DG
+Vinnumálaráðnum	SNSDA
+.	KE
+
+Høvuðsstaðurin	SMSNA
+og	C
+størsti	ASSMSN
+býurin	SMSNA
+er	VNAPS3
+Providence	S----P
+.	KE
+
+27	NP
+prosent	SNPN
+eru	VNAPP3
+protestantar	SMPN
+.	KE
+
+Nógvar	APSFPN
+oyggjar	SFPN
+eru	VNAPP3
+í	DG
+Rhode	S----P
+Island	F
+.	KE
+
+Gott	APSNSN
+buss	SNSN
+og	C
+ferjusamband	SNSN
+er	VNAPS3
+millum	DG
+oyggjarnar	SFPAA
+.	KE
+
+Jackson	S----P
+er	VNAPS3
+høvuðsstaðurin	SMSNA
+og	C
+størsti	ASWMSN
+býurin	SMSNA
+.	KE
+
+Jackson	S----P
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Mississippi	S----P
+,	KC
+og	C
+fyrisitingarligur	APSMSN
+høvuðsstaður	SMSN
+fyri	DG
+lutstatin	SMSAA
+.	KE
+
+Í	DG
+Mississippi	S----P
+eru	VNAPP3
+nógvar	APSFPN
+áir	SFPN
+.	KE
+
+Í	DG
+1812	NO
+bleiv	VNAAS3
+Louisiana	S----P
+lutstatur	VAAMSN
+í	DG
+USA	TS
+.	KE
+
+Skipasmiðjurnar	SFPNA
+eru	VNAPP3
+nógvar	APSFPN
+.	KE
+
+Olympia	S----P
+er	VNAPS3
+høvuðsstaðurin	SMSNA
+og	C
+Seattle	S----P
+er	VNAPS3
+størsti	ASWMSN
+býurin	SMSNA
+.	KE
+
+Phoenix	S----P
+er	VNAPS3
+eisini	DN
+høvuðsstaður	SMSN
+og	C
+størsti	ASWMSN
+býurin	SMSNA
+í	DG
+Arizona	S----P
+.	KE
+
+Philadelphia	S----P
+er	VNAPS3
+eisini	DN
+størsti	ASWMSN
+býurin	SMSNA
+í	DG
+Pennsylvania	S----P
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+eisini	DN
+tvíburi	SMSN
+staður	VAAMSN
+við	DG
+Minneapolis	S----P
+.	KE
+
+Vatntrot	SNSN
+og	C
+kørg	APSFSN
+jørð	SFSN
+eru	VNAPP3
+bóndunum	SMPDA
+mikil	NC
+meinbogi	SMSN
+.	KE
+
+Pál	SMSN-P
+var	VNAAS3
+einasti	APWMSN
+norðurlendingurin	SMSNA
+,	KC
+sum	CR
+svam	VNAAS3
+í	DG
+finaluni	SFSDA
+,	KC
+sum	CR
+varð	VNAAS3
+11.	NO
+august	SMSA
+.	KE
+
+Meginparturin	SMSNA
+av	DG
+landinum	SNSDA
+er	VNAPS3
+turr	APSFSN
+oyðimørk	SFSN
+og	C
+berligt	APSNSN
+fjallalendi	SNSN
+.	KE
+
+Meginparturin	SMSNA
+av	DG
+fólkinum	SNSDA
+eru	VNAPP3
+muslimar	SMPN
+og	CI
+tala	VIA
+arábiskt	SNSN
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Irak	S----P
+og	C
+miðdepil	SMSN
+í	DG
+fyrisiting	SFSD
+og	C
+handli	SMSD
+.	KE
+
+Størsti	ASSMSN
+býur	SMSN
+er	VNAPS3
+Rangoon	S----P
+.	KE
+
+Í	DG
+16.	NO
+øld	SFSD
+royndu	VNAAP3
+tveir	NCMPN
+sterkir	APSMPN
+valdsharrar	SMPN
+at	CI
+byggja	VIA
+eitt	RNSAI
+stórt	APSNSA
+ríki	SNSA
+í	DG
+Burma	S----P
+.	KE
+
+Hernaðarstýrið	SNSNA
+var	VNAAS3
+frá	DG
+1962	NO
+til	DG
+2011	NO
+.	KE
+
+Dóttir	SFSN
+hansara	PPMSG
+átti	VNAAS3
+ein	PBMSA
+son	SMSAA
+.	KE
+
+Malaria	F
+:	KE
+Malaria	F
+ella	C
+kaldsótt	SFSN
+er	VNAPS3
+ring	DN
+hitabeltissjúka	SFSN
+.	KE
+
+Sí	VMAPP2
+eisini	DN
+.	KE
+
+Í	DG
+trúarmálum	SNPD
+er	VNAPS3
+hann	PPMSN
+hægsti	ASWMSN
+myndugleiki	SMSN
+.	KE
+
+Bisparnir	SMPNA
+hava	VNAPP3
+lærumyndugleika	SMSA
+.	KE
+
+Uppgávan	SFSNA
+hjá	DG
+kirkjuni	SFSDA
+er	VNAPS3
+at	CI
+boða	VIA
+boðskapin	SMSAA
+.	KE
+
+Skrivliga	APWFSN
+keldan	SFSNA
+er	VNAPS3
+Bíblian	SFSNA
+.	KE
+
+Ídnaðarøkið	SNSNA
+er	VNAPS3
+eystanfyri	DN
+miðbýin	SMSAA
+.	KE
+
+Fløgan	SFSNA
+fæst	VNMPS3
+ókeypis	DN
+hjá	DG
+Gelluni	SFSDAP
+í	DG
+SMS	TS
+.	KE
+
+Amarillo	S----P
+:	KE
+Amarillo	S----P
+er	VNAPS3
+14.	NO
+størsti	ASSMSN
+býur	SMSN
+í	DG
+amerikanska	APWNSD
+lutstatinum	SNSDA
+Texas	S----P
+.	KE
+
+Jackson	S----P
+:	KE
+Jackson	S----P
+er	VNAPS3
+høvuðsstaðurin	SMSNA
+og	C
+størsti	ASWMSN
+býurin	SMSNA
+í	DG
+Mississippi	S----P
+í	DG
+USA	TS
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Louisiana	S----P
+.	KE
+
+67,3	NP
+prosent	SNPN
+av	DG
+fólkinum	SNSDA
+eru	VNAPP3
+afroamerikanarar	SMPN
+.	KE
+
+Harafturat	DN
+eru	VNAPP3
+umleið	DN
+1000	NO
+bretskir	APSMPN
+hermenn	SMPN
+har	DN
+.	KE
+
+Thimphu	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+í	DG
+Butan	S----P
+.	KE
+
+Meginparturin	SMSNA
+av	DG
+fólkinum	SNSDA
+í	DG
+Butan	S----P
+býr	VNAPS3
+á	DG
+bygd	SFSD
+og	C
+livir	VNAPS3
+av	DG
+landbúnaði	SMSD
+.	KE
+
+A	SNSN
+vitaminir	SFPN
+eru	VNAPP3
+týdningarmiklar	APSFPN
+fyri	DG
+sjónina	SFSAA
+.	KE
+
+Eisini	DN
+aðrir	PBMPN
+felagsskapir	SMPN
+hjálpa	VNAPP3
+menningarlondunum	SNPDA
+.	KE
+
+Høvuðsstaður	SMSN
+er	VNAPS3
+Lilongwe	S----P
+.	KE
+
+Børn	SNPN
+og	C
+kvinnur	SFPN
+við	DG
+barn	SNSD
+eru	VNAPP3
+í	DG
+størsta	ASWMSD
+vandabólkinum	SMSDA
+at	CI
+fáa	VIA
+malaria	F
+.	KE
+
+Og	C
+soleiðis	DN
+bleiv	VNAAS3
+tað	PPNSN
+eisini	DN
+.	KE
+
+Kular	X
+Røtur	SMSN
+:	KE
+Kular	X
+Røtur	SMSN
+er	VNAPS3
+ein	RMSNI
+føroyskur	APSMSN
+tónleikabólkur	SMSN
+.	KE
+
+Norðdepil	SMSN-P
+er	VNAPS3
+partur	SMSN
+av	DG
+Hvannasunds	SNSG-P
+kommunu	SFSD
+.	KE
+
+Umleið	DN
+550	NO
+á.Kr.	TS
+varð	VNAAS3
+ein	RFSNI
+búseting	SFSN
+í	DG
+Odessa	S----P
+av	DG
+grikkum	SMPD
+.	KE
+
+Tama	S----P
+áin	SFSNA
+skilir	VNAPS3
+býin	SMSAA
+frá	DG
+høvuðsstaðnum	SMSDA
+.	KE
+
+Edmonton	S----P
+:	KE
+Edmonton	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+í	DG
+Kanada	S----P
+.	KE
+
+Winnipeg	S----P
+:	KE
+Winnipeg	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+í	DG
+Kanada	S----P
+.	KE
+
+Buffalo	S----P
+:	KE
+Buffalo	S----P
+er	VNAPS3
+býur	SMSN
+í	DG
+New	S----P
+York	F
+í	DG
+Sambandsríkinum	SNSDA
+Amerika	SNSD-P
+.	KE
+
+Denver	S----P
+:	KE
+Denver	S----P
+er	VNAPS3
+býur	SMSN
+í	DG
+Colorado	S----P
+.	KE
+
+Portland	S----P
+:	KE
+Portland	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+í	DG
+Oregon	S----P
+í	DG
+Sambandsríkinum	SMSDA
+Amerika	SNSD-P
+.	KE
+
+Brisbane	S----P
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+og	C
+høvuðsstaður	SMSN
+í	DG
+Queenslandi	SFSDAP
+.	KE
+
+Brisbane	S----P
+er	VNAPS3
+góður	APSMSN
+havnarbýur	SMSN
+og	C
+stórur	APSMSN
+ídnaðarbýur	SMSN
+.	KE
+
+Dallas	S----P
+:	KE
+Dallas	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+í	DG
+lutstatinum	SMSDA
+Texas	S----P
+í	DG
+USA	TS
+.	KE
+
+Wichita	S----P
+:	KE
+Wichita	S----P
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Kansas	S----P
+í	DG
+Sambandsríkinum	SNSDA
+Amerika	SNSD-P
+.	KE
+
+Jacksonville	S----P
+:	KE
+Jacksonville	S----P
+er	VNAPS3
+stórbýur	VAAMSN
+í	DG
+Florida	S----P
+í	DG
+Sambandsríkinum	SNSDA
+Amerika	SNSD-P
+.	KE
+
+Tallahassee	S----P
+:	KE
+Tallahassee	S----P
+er	VNAPS3
+høvuðsstaðurin	SMSNA
+í	DG
+Florida	S----P
+.	KE
+
+Lansing	S----P
+:	KE
+Lansing	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+í	DG
+lutstatinum	SMSDA
+Michigan	S----P
+í	DG
+USA	TS
+.	KE
+
+Atlanta	S----P
+:	KE
+Atlanta	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+Georgia	S----P
+í	DG
+USA	TS
+.	KE
+
+Richmond	S----P
+:	KE
+Richmond	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+amerikanska	APWNSD
+lutastatinum	SMSDA
+Virginia	S----P
+.	KE
+
+Boston	S----P
+:	KE
+Boston	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+og	C
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Massachusetts	S----P
+.	KE
+
+Indianapolis	S----P
+:	KE
+Indianapolis	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+Indiana	S----P
+í	DG
+USA	TS
+.	KE
+
+Fólkatalið	SNSNA
+í	DG
+landinum	SNSDA
+er	VNAPS3
+11,7	NO
+milliónir	SFPN
+.	KE
+
+Málið	SNSNA
+er	VNAPS3
+nú	DN
+at	CI
+nýta	VNAPP3
+miðlarnar	SMPAA
+positivt	APSNSN
+.	KE
+
+Námsvinna	SFSAA
+og	C
+smáir	APSMPN
+bóndagarðar	SMPN
+hava	VNAPP3
+altíð	DN
+havt	VAANSN
+stóran	APSMSA
+týdning	SMSA
+,	KC
+og	C
+aðrar	PBFPA
+vinnur	SFPA
+taka	VIA
+seg	PPMSA
+upp	DN
+nú	DN
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+eisini	DN
+størsti	ASWMSN
+býurin	SMSNA
+.	KE
+
+Oljuídnaðurin	SMSNA
+í	DG
+landinum	SNSDA
+er	VNAPS3
+við	DN
+til	DN
+at	CI
+skapa	VIA
+búskaparliga	DN
+vøksturin	SMSAA
+.	KE
+
+Men	C
+enn	DN
+er	VNAPS3
+Lagos	S----P
+størsti	ASSMSN
+býur	SMSN
+.	KE
+
+Í	DG
+Nigeria	S----P
+eru	VNAPP3
+mangir	APSMPN
+átrúnaðir	SMPN
+.	KE
+
+Lutherska	APWFSN
+kirkjan	SFSNA
+í	DG
+Nigeria	S----P
+er	VNAPS3
+í	DG
+stórum	APSMSD
+vøkstri	SMSD
+.	KE
+
+Afrikanskir	APSMPN
+átrúnaðir	SMPN
+eru	VNAPP3
+eisini	DN
+vanligir	APSMPN
+í	DG
+Nigeria	S----P
+.	KE
+
+Føroyskir	APSMPN
+lutir	SMPN
+eru	VNAPP3
+frá	DG
+Føroyum	SFPD-P
+.	KE
+
+Men	C
+tó	DN
+eru	VNAPP3
+undantøk	SNPN
+.	KE
+
+Hon	PPFSN
+hevur	VNAPS3
+verið	VAANSN
+í	DG
+gerð	SFSD
+í	DG
+125	NO
+ár	SNPA
+.	KE
+
+Montpelier	S----P
+er	VNAPS3
+eisini	DN
+minsti	ASWMSN
+høvuðsstaðurin	SMSNA
+í	DG
+USA	TS
+.	KE
+
+Landsstýrið	SNSNA
+er	VNAPS3
+hægsti	ASSMSD
+umsitingarligi	APSMSD
+myndugleiki	SMSN
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Til	DG
+hetta	PDNSA
+var	VNAAS3
+tónleikurin	SMSNA
+ov	DN
+sýrutur	VAAMSN
+.	KE
+
+Onki	ACSNSN
+fólk	SNSN
+býr	VNAPS3
+har	DN
+.	KE
+
+Høvuðspersónurin	SMSNA
+í	DG
+teknirøðini	SFSDA
+er	VNAPS3
+ungi	APWMSN
+tíðindamaðurin	SMSNA
+Tintin	S----P
+.	KE
+
+Konservatisman	SFSNA
+kom	VNAAS3
+at	CI
+viga	VIA
+upp	DN
+ímóti	DG
+frælsishugsjónunum	SFPDA
+í	DG
+fronsku	APWFSD
+kollveltingini	SFSDA
+.	KE
+
+Konservatisma	SMSN
+er	VNAPS3
+í	DG
+stóran	APSMSA
+mun	SMSA
+grundað	VAANSN
+á	DG
+liberalismu	SFSD
+.	KE
+
+Frá	DG
+1997-2002	NO
+var	VNAAS3
+hann	PPMSN
+varastjóri	SMSN
+í	DG
+Royal	SMSD-P
+Greenland	F
+.	KE
+
+Í	DG
+1991	NO
+vóru	VNAAP3
+somu	PINPN
+viðurskifti	SNPN
+staðfest	VAMNPN
+í	DG
+Russlandi	SNSD-P
+.	KE
+
+Í	DG
+Føroyum	SFPD-P
+og	C
+í	DG
+Grønlandi	SNSD-P
+eru	VNAPP3
+fólkaræðisligu	APWNPN
+rættindi	SNPN
+borgaranna	SFPNA
+tryggjað	VAANPN
+í	DG
+donsku	APWFSD
+grundlógini	SFSDA
+.	KE
+
+Men	C
+Friedrich	S----P
+var	VNAAS3
+heilsuveikur	APSMSN
+.	KE
+
+Loðsurin	SMSNA
+er	VNAPS3
+Bismarck	S----P
+.	KE
+
+Í	DG
+Karibia	S----P
+eru	VNAPP3
+25	NO
+ymisk	APSNPN
+lond	SNPN
+.	KE
+
+Ferðafólkavinnan	SFSNA
+er	VNAPS3
+størsta	ASWFSN
+inntøkan	SFSNA
+á	DG
+nógvum	APSFPD
+oyggjum	SFPD
+har	DN
+.	KE
+
+Nakin?	X
+úr	DG
+1999	NO
+er	VNAPS3
+onnur	PIFSN
+útgávan	SFSNA
+hjá	DG
+tónleikabólkinum	SMSDA
+.	KE
+
+Garðarnir	SMPNA
+eru	VNAPP3
+stórir	APSMPN
+og	C
+fullir	APSMPN
+av	DG
+kokuspálmum	SMPD
+,	KC
+gummitrøum	SNPD
+og	C
+grønmeti	SNSD
+.	KE
+
+Verkætlanin	SFSNA
+skuldi	VNAAS3
+føra	VIA
+til	DG
+ein	RMSAI
+film	SMSA
+og	C
+enda	SMSA
+við	DG
+eini	RFSDI
+konsert	SFSD
+.	KE
+
+Í	DG
+1.	NO
+Krýn.	TT
+28,2-6	NO
+sigur	VNAPS3
+Dávid	SMSN-P
+:	KE
+
+„	KQ
+Sátan	SMSN-P
+“	KQ
+merkir	VNAPS3
+fíggindi	SMSN
+ella	C
+mótstøðumaður	SMSN
+.	KE
+
+Tinganest	SFSN
+:	KE
+Tinganest	SFSN
+er	VNAPS3
+ein	RMSNI
+føroyskur	APSMSN
+tónleikabólkur	SMSN
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+tónleikari	SMSN
+og	C
+onnur	PIFSN
+helvtin	SFSNA
+í	DG
+tónleikabólkinum	SMSDA
+.	KE
+
+Hetta	PDNSN
+kann	VNAPS3
+vera	VIA
+orsøkin	SFSNA
+til	DG
+,	KC
+at	C
+hann	PPMSN
+drap	VNAAS3
+egyptan	SMSAA
+,	KC
+sum	CR
+bardi	VNAAS3
+hebraiskan	APSMSA
+mann	SMSA
+.	KE
+
+Blóðið	SNSNA
+av	DG
+lambinum	SNSDA
+var	VNAAS3
+bjargingin	SFSNA
+.	KE
+
+Um	DG
+dagin	SMSAA
+gingu	VNAAP3
+tey	PPNPN
+eftir	DG
+skýstólpa	SMSA
+og	C
+um	DG
+náttina	SFSAA
+eftir	DG
+eldstólpa	SMSD
+.	KE
+
+Bíblian	SFSNA
+sigur	VNAPS3
+,	KC
+at	C
+allur	PIMSN
+herurin	SMSNA
+druknaði	VNAAS3
+.	KE
+
+Harumframt	DN
+fekk	VNAAS3
+Móses	SMSN-P
+nógvar	APSFPA
+aðrar	PBFPA
+lógir	SFPA
+,	KC
+sum	CR
+eru	VNAPP3
+nevndar	VAAFPN
+sáttmálabókin	SFSNA
+.	KE
+
+Eisini	DN
+fer	VNAPS3
+fram	DN
+dópur	SMSN
+og	C
+tann	RFSND
+heilaga	ASWFSN
+kvøldmáltíð	SFSN
+(	KO
+altargangur	SMSN
+)	KO
+.	KE
+
+Sjókýr	SFPN
+kunnu	VNAPP3
+gerast	VIM
+60	NO
+ára	SNPG
+gamlar	APSFPA
+.	KE
+
+Betesda	SFSN-P
+:	KE
+Betesda	SFSN-P
+er	VNAPS3
+brøðrasamkoma	SFSN
+í	DG
+Klaksvík	SFSD-P
+.	KE
+
+Likka	SFSN
+sæst	VNMPS3
+allastaðni	DN
+við	DG
+føroysku	APWFSA
+strondina	SFSAA
+.	KE
+
+Jomfrúhummarin	SMSNA
+er	VNAPS3
+reydligur	APSMSN
+.	KE
+
+Á	DG
+framkroppinum	SMSDA
+eru	VNAPP3
+10	NO
+bein	SNPN
+.	KE
+
+Undir	DG
+skelini	SFSDA
+báðumegin	DN
+eru	VNAPP3
+táknur	SFPN
+.	KE
+
+Manchester	S----P
+:	KE
+Manchester	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+í	DG
+Onglandi	SNSD-P
+.	KE
+
+Har	DN
+eru	VNAPP3
+eisini	DN
+stór	APSNPN
+margarin-	TT
+og	C
+sápuvirki	SNSN
+.	KE
+
+Belfast	S----P
+:	KE
+Belfast	S----P
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+og	C
+høvuðsstaður	SMSN
+í	DG
+Norðurírlandi	SNSD-P
+.	KE
+
+Eisini	DN
+hevur	VNAPS3
+hon	PPFSN
+sitið	VAANSN
+í	DG
+javnstøðunevndini	SFSDA
+.	KE
+
+Í	DG
+1995	NO
+luttók	APSFSN
+Bergtóra	SFSN-P
+á	DG
+Kvinnuráðstevnuni	SFSDA
+í	DG
+Peking	S----P
+og	C
+í	DG
+2000	NO
+í	DG
+New	S----P
+York	F
+.	KE
+
+Hon	PPFSN
+varð	VNAAS3
+62	NO
+ár	SNPN
+.	KE
+
+Úr	DG
+kirkjutorninum	SNSDA
+sæst	VNMPS3
+út	DN
+yvir	DG
+allan	PIMSA
+býin	SMSA
+og	C
+yvir	DN
+í	DG
+Donau	S----P
+.	KE
+
+Og	C
+at	CI
+drekka	VIA
+vín	SMSA
+er	VNAPS3
+eitt	RNSNI
+ritual	SNSN
+,	KC
+ein	RMSNI
+halgisiður	SMSN
+,	KC
+fyri	DG
+samfelagsliga	APSFSA
+innliman	SFSA
+.	KE
+
+Hildesheim	SNSN-P
+er	VNAPS3
+katólskt	APSNSN
+biskupssetur	SNSN
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+fleiri	ACSNPN
+sløg	SNPN
+av	DG
+kappróðrarbátum	SMPD
+.	KE
+
+Kvinnurnar	SFPNA
+eru	VNAPP3
+yvir	DG
+18	NO
+ár	SNPN
+.	KE
+
+Róðrarbátur	SMSN
+:	KE
+Róðrarbátur	SMSN
+er	VNAPS3
+far	SNSN
+til	DG
+at	CI
+rógva	VIA
+við	DN
+.	KE
+
+Blóðið	SNSNA
+er	VNAPS3
+mannablóð	SNSN
+.	KE
+
+Filmurin	SMSNA
+varar	VNAPS3
+í	DG
+75	NO
+minuttir	SMPA
+.	KE
+
+Hetta	PDNSN
+var	VNAAS3
+ein	RFSNI
+góð	APSFSN
+avgerð	SFSN
+.	KE
+
+Á	DG
+kápuni	SFSDA
+er	VNAPS3
+hann	PPMSN
+dimmgráur	APSMSN
+.	KE
+
+Klekingartíðin	SFSNA
+er	VNAPS3
+28	NO
+dagar	SMPN
+.	KE
+
+Høvdið	SNSNA
+er	VNAPS3
+um	DG
+23	NP
+%	M
+av	DG
+heildarlongdini	SFSDA
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+smidligur	APSMSN
+fiskur	SMSN
+.	KE
+
+Uggafjaðrarnar	SFPNA
+eru	VNAPP3
+stórar	APSFPN
+og	C
+tríkantaðar	APSFPN
+.	KE
+
+Nú	DN
+berjast	VIM
+India	S----P
+og	C
+Albania	S----P
+um	DG
+beinagrindina	SFSAA
+hjá	DG
+henni	PPFSD
+.	KE
+
+Móðir	SFSN
+Teresa	SFSN-P
+var	VNAAS3
+indiskur	APSMSN
+statsborgari	SMSN
+.	KE
+
+Herurin	SMSNA
+í	DG
+Burma	S----P
+traðkaði	VNAAS3
+til	DN
+og	C
+forbjóðaði	VNAAS3
+henni	PPFSD
+at	CI
+taka	VIA
+við	DG
+valdið	SNSAA
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+fyrsta	ASWFSN
+kvinna	SFSN
+,	KC
+sum	CR
+er	VNAPS3
+stjórnarleiðari	SMSN
+í	DG
+Íslandi	SNSD-P
+.	KE
+
+Í	DG
+2005	NO
+bleiv	VNAAS3
+hon	PPFSN
+uttanríkisráðharri	SMSN
+.	KE
+
+Tað	PPNSN
+var	VNAAS3
+í	DG
+1897	NO
+.	KE
+
+Í	DG
+1892	NO
+/	KO
+93	NO
+og	C
+aftur	DN
+í	DG
+1898	NO
+var	VNAAS3
+hann	PPMSN
+í	DG
+Føroyum	SFPD-P
+sum	CR
+granskari	SMSN
+.	KE
+
+Sameindu	APWFPN
+Tjóðir	SFPN
+.	KE
+
+Ikki	DN
+allir	PIMPN
+palestinar	SMPN
+eru	VNAPP3
+muslimar	SMPN
+.	KE
+
+Nakrir	PBMPN
+eru	VNAPP3
+kristnir	APSMPN
+(	KO
+umleið	DN
+1,1	NP
+-	KO
+2,4	NP
+%	M
+)	KO
+.	KE
+
+Oljuvinnan	SFSNA
+er	VNAPS3
+høvuðsvinnan	SFSNA
+.	KE
+
+Perlutíðin	SFSNA
+er	VNAPS3
+frá	DG
+juni	SMSA
+til	DG
+september	SMSA
+.	KE
+
+Sí	VMAPP2
+Norðurlendsk	APSNPA
+met	SNPA
+í	DG
+svimjing	SFSA
+.	KE
+
+Pól	SMSN-P
+spældi	VNAAS3
+sum	CR
+verjuleikari	SMSN
+á	DG
+A	SNSN
+-	KO
+landsliðnum	SNSDA
+.	KE
+
+Óli	SMSN-P
+spældi	VNAAS3
+í	DG
+verjuni	SFSDA
+.	KE
+
+Kári	SMSN-P
+á	DG
+Rógvi	SMSD-P
+hevur	VNAPS3
+verið	VAANSN
+skrivari	SMSN
+í	DG
+Grundlógarnevndini	SFSDA
+og	C
+næstformaður	SMSN
+í	DG
+Stýrisskipanarnevndini	SFSDA
+.	KE
+
+Høvuðsstaður	SMSN
+er	VNAPS3
+Kiel	S----P
+.	KE
+
+Filmurin	SMSNA
+kostaði	VNAAS3
+yvir	DG
+tvær	NCFPA
+milliardir	SFPA
+dollarar	SMPA
+.	KE
+
+Bóghvítuhvalurin	SMSNA
+kom	VNAAS3
+eftir	DG
+henni	PPFSD
+og	C
+dró	VNAAS3
+hana	PPFSA
+til	DG
+botns	SMSA
+.	KE
+
+Tað	PPNSN
+er	VNAPS3
+í	DG
+Nýggja	APWNSD
+Testamenti	SNSD
+,	KC
+vit	PP1PN
+lesa	VNAPP1
+um	DG
+Jesus	SMSA-P
+.	KE
+
+Uml.	TS
+78%	NP
+av	DG
+lindýrum	SNPD
+eru	VNAPP3
+sniglar	SMPN
+.	KE
+
+Nógvir	APSMPN
+sniglar	SMPN
+eru	VNAPP3
+tvíkynjaðir	APSMPN
+.	KE
+
+Á	DG
+høvdinum	SNSDA
+eru	VNAPP3
+4	NO
+liðilig	APSNPN
+horn	SNPN
+.	KE
+
+Svarti	APSMSN
+snigil	SMSN
+er	VNAPS3
+vanligur	APSMSN
+á	DG
+graslendi	SNSD
+í	DG
+bø	SMSD
+og	C
+haga	SMSD
+,	KC
+har	DN
+skuggi	SMSN
+er	VNAPS3
+.	KE
+
+Meginparturin	SMSNA
+av	DG
+fólkinum	SNSDA
+er	VNAPS3
+katolikkar	SMPA
+.	KE
+
+Hetta	PDNSN
+er	VNAPS3
+tó	DN
+ikki	DN
+prógvað	VAANSN
+.	KE
+
+Í	DG
+1960	NO
+var	VNAAS3
+talið	SNSNA
+3	NP
+%	M
+.	KE
+
+Head	SMSN-P
+er	VNAPS3
+júst	DN
+liðugur	APSMSN
+við	DG
+sína	PPMSA
+triðju	APWFSA
+bók	SFSA
+.	KE
+
+Har	DN
+eru	VNAPP3
+32	NO
+lið	SNPN
+við	DN
+í	DG
+NFL	TS
+.	KE
+
+Á	DG
+tunguni	SFSDA
+eru	VNAPP3
+smáar	APSFPN
+tenn	SFPN
+.	KE
+
+Lættisoppar	SMPN
+eru	VNAPP3
+vanligir	APSMPN
+at	CI
+síggja	VIA
+í	DG
+fjøruni	SFSDA
+.	KE
+
+Kræklingur	SMSN
+gýtir	VNAPS3
+um	DG
+summarið	SNSAA
+.	KE
+
+Flestu	ASSMPN
+sýrar	SMPN
+eru	VNAPP3
+muslimar	SMPN
+og	CI
+tala	VNAPP3
+arábiskt	APSNSN
+.	KE
+
+Libanon	S----P
+var	VNAAS3
+einaferð	DN
+mentanar-	TT
+,	KC
+fíggjar-	TT
+og	C
+handilsmiðdepilin	SMSAA
+í	DG
+Miðeystri	SMSD
+.	KE
+
+Stórt	APWNSN
+vatntrot	SNSN
+er	VNAPS3
+í	DG
+Miðeystri	SMSD
+.	KE
+
+Føroyar	SFPN-P
+kom	VNAAS3
+í	DG
+hálvfinaluna	SFSAA
+,	KC
+sum	CR
+var	VNAAS3
+móti	DG
+Hetlandi	SNSD-P
+.	KE
+
+Føroyar	SFPN-P
+vann	VNAAS3
+allir	PIMPN
+dystirnir	SMPNA
+.	KE
+
+Føturnir	SMPNA
+eru	VNAPP3
+so	DN
+aftarlaga	DN
+,	KC
+at	C
+hann	PPMSN
+er	VNAPS3
+ikki	DN
+gonguførur	APSMSN
+.	KE
+
+Dúnungarnir	SMPNA
+eru	VNAPP3
+svartir	APSMPN
+.	KE
+
+Á	DG
+veingjunum	SMPDA
+er	VNAPS3
+hann	PPMSN
+meira	DNC
+gráligur	APSMSN
+.	KE
+
+Hetta	PDNSN
+er	VNAPS3
+storkapápin	SFSNA
+.	KE
+
+Føturnir	SMPNA
+eru	VNAPP3
+reyðir	APSMPN
+.	KE
+
+Føturnir	SMPNA
+eru	VNAPP3
+gulir	APSMPN
+.	KE
+
+Æða	SFSN
+er	VNAPS3
+sjaldsama	DN
+spakur	APSMSN
+fuglur	SMSN
+.	KE
+
+Floygdir	SMSN
+ungar	APSFPN
+eru	VNAPP3
+littir	APSMPN
+sum	C
+bøgan	SFSNA
+.	KE
+
+Falkur	SMSN
+livir	VNAPS3
+í	DG
+einbýli	SNSD
+og	C
+tolir	VNAPS3
+ikki	DN
+aðrar	PBMPA
+falkar	SMPA
+nær	DN
+hjá	DG
+sær	PPMSD
+.	KE
+
+Miðskeiðis	SFSN
+á	DG
+oynni	SFSDA
+er	VNAPS3
+flogvøllur	SMSN
+.	KE
+
+Í	DG
+2005	NO
+var	VNAAS3
+Torkil	SMSN-P
+so	DN
+ungur	APSMSN
+,	KC
+at	C
+hann	PPMSN
+súkklaði	VNAAS3
+í	DG
+kappingunum	SFPDA
+fyri	DG
+unglingar	SMPA
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+limur	SMSN
+í	DG
+Felagið	SNSAA
+Føroysk	SMSA
+Tónaskøld	SNSA
+.	KE
+
+Hon	PPFSN
+vann	VNAAS3
+gullnál	SMSA
+.	KE
+
+Mamma	SFSN
+hansara	PPMSG
+er	VNAPS3
+amerikanari	SMSN
+meðan	C
+pápin	SMSNA
+er	VNAPS3
+dani	SMSN
+.	KE
+
+Helgi	SMSN-P
+byrjaði	VNAAS3
+at	CI
+telva	VIA
+sum	C
+smádrongur	SMSN
+.	KE
+
+Armenia	S----P
+vann	VNAAS3
+kappingina	SFSAA
+.	KE
+
+Vinnararnir	SMPNA
+av	DG
+kappingini	SFSDA
+vóru	VNAAP3
+hesir	PDMPN
+:	KE
+
+Støddin	SFSNA
+er	VNAPS3
+sum	C
+á	DG
+dúgvu	SFSD
+.	KE
+
+Luttók	SNSN
+í	DG
+UEFA	TS
+2011	NO
+undankappingini	SFSDA
+fyri	DG
+U17	TS
+lið	SNSA
+.	KE
+
+Bøgan	SFSNA
+vermir	VNAPS3
+.	KE
+
+Men	C
+teir	PPMPN
+eru	VNAPP3
+sjaldsamir	APSMPN
+at	CI
+síggja	VIA
+.	KE
+
+Í	DG
+kjallaranum	SMSDA
+er	VNAPS3
+barnagarður	SMSN
+og	C
+frítíðarskúli	SMSN
+.	KE
+
+Dúnungin	SFSNA
+er	VNAPS3
+dimmur	APSMSN
+við	DG
+hvítum	APSMPD
+prikkum	SMPD
+.	KE
+
+Á	DG
+kápuni	SFSDA
+er	VNAPS3
+hann	PPMSN
+grábláur	APSMSN
+.	KE
+
+Um	DG
+strendur	APSMSA
+og	C
+firðir	SMPA
+okkara	PP1PG
+er	VNAPS3
+hann	PPMSN
+allan	PIMSA
+veturin	SMSAA
+at	CI
+síggja	VIA
+.	KE
+
+Føturnir	SMPNA
+eru	VNAPP3
+gulir	APSMPN
+.	KE
+
+Føturnir	SMPNA
+eru	VNAPP3
+blóðreyðir	APSMPN
+.	KE
+
+Málið	SNSNA
+er	VNAPS3
+eitt	RNSNI
+mjúkt	APSNSN
+hvin	SNSN
+.	KE
+
+Um	DG
+veturin	SMSAA
+heldur	VNAPS3
+fjøldin	SFSNA
+til	DG
+havs	SNSG
+,	KC
+men	C
+nakrir	PIMPN
+verða	VNAPP3
+eftir	DN
+við	DG
+landið	SNSAA
+.	KE
+
+Bládúgvan	SFSNA
+kurrar	VNAPS3
+eisini	DN
+sum	C
+tama	APWFSN
+dúgvan	SFSNA
+.	KE
+
+Dagin	SMSAA
+eftir	DN
+fer	VNAPS3
+hon	PPFSN
+í	DG
+eitt	RNSAI
+annað	PINSA
+reiður	SNSA
+;	KC
+upp	DN
+til	DG
+tjúgu	NCNPA
+egg	SNPA
+kann	VNAPS3
+hon	PPFSN
+verpa	VIA
+.	KE
+
+Kuldin	SFSNA
+sýnist	VNMPS3
+ikki	DN
+at	CI
+rína	VIA
+á	DG
+honum	PPMSD
+.	KE
+
+Eitt	PBNSN
+heystið	SNSNA
+var	VNAAS3
+ein	RMSNI
+flokkur	SMSN
+í	DG
+Gásadali	SMSD-P
+.	KE
+
+Oftast	DN
+eru	VNAPP3
+5	NO
+egg	SNPN
+.	KE
+
+Í	DG
+Føroyum	SFPD-P
+er	VNAPS3
+hann	PPMSN
+nýkomin	APSMSN
+.	KE
+
+Í	DG
+Føroyum	SFPD-P
+sæst	VNMPS3
+hon	PPFSN
+eisini	DN
+sjáldan	DN
+.	KE
+
+Har	DN
+eru	VNAPP3
+mangir	APSMPN
+býir	SMPN
+og	C
+nógv	APSNPN
+gistingarhús	SNPN
+.	KE
+
+Á	DG
+savninum	SNSDA
+eru	VNAPP3
+oljumálningar	SMPN
+og	C
+blýantstekningar	SFPN
+eftir	DG
+Ruth	S----P
+Smith	S----P
+.	KE
+
+Har	DN
+eru	VNAPP3
+62	NO
+fólkasløg	SNPN
+.	KE
+
+Býurin	SMSNA
+er	VNAPS3
+eisini	DN
+høvuðsstaður	SMSN
+.	KE
+
+Mangir	PIMPN
+doyðu	VNAAP3
+av	DG
+ræðuligu	APWFPD
+arbeiðsumstøðunum	SFPDA
+,	KC
+vánaliga	APWMSD
+kostinum	SMSDA
+og	C
+ringu	APWNPD
+bústaðarviðurskiftunum	SMPDA
+.	KE
+
+Miðaltalið	SNSNA
+í	DG
+USA	TS
+er	VNAPS3
+4,7	NO
+morð	SNSN
+fyri	DG
+100	NO
+000	NO
+íbúgvar	SMPA
+.	KE
+
+Trondheim	S----P
+:	KE
+Trondheim	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+og	C
+kommuna	SFSN
+í	DG
+Sør-Trøndelag	S----P
+í	DG
+Noregi	SNSD-P
+.	KE
+
+Aldubáran	SFSNA
+:	KE
+Aldubáran	SFSNA
+er	VNAPS3
+ein	RMSNI
+føroyskur	APSMSN
+tónleikabólkur	SMSN
+.	KE
+
+Fruktagóða	APWFSN
+jørðin	SFSNA
+og	C
+tropiska	APWNSN
+veðurlagið	SNSAA
+gjørdu	VNAAP3
+,	KC
+at	C
+væl	DN
+fruktaði	VNAAS3
+á	DG
+Tonga	S----P
+.	KE
+
+Concepción	S----P
+er	VNAPS3
+eisini	DN
+ein	RFSNI
+kommuna	SFSN
+við	DG
+umleið	DN
+890.000	NO
+íbúgvum	SMPD
+.	KE
+
+Pápi	SMSN
+hansara	PPMSG
+var	VNAAS3
+bretskur	APSMSN
+hermaður	SMSN
+í	DG
+Føroyum	SFPD-P
+undir	DG
+seinna	ACWMSA
+Heimsbardaga	SMSD
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+limur	SMSN
+í	DG
+GOP	TS
+.	KE
+
+Guantánamo	S----P
+:	KE
+Guantánamo	S----P
+er	VNAPS3
+fangalegur	SFPN
+á	DG
+Kuba	S----P
+.	KE
+
+Fleiri	ACSNPN
+sløg	SNPN
+av	DG
+bjargafugli	SMSD
+eru	VNAPP3
+eisini	DN
+vanligir	APSMPN
+at	CI
+eta	VIA
+í	DG
+Føroyum	SFPD-P
+,	KC
+t.d.	TS
+havhestur	SMSN-P
+,	KC
+lomvigi	SMSN
+og	C
+lundi	SMSN
+.	KE
+
+Á	DG
+fólkaatkvøðuni	SFSDA
+í	DG
+1946	NO
+talaði	VNAAS3
+hon	PPFSN
+fyri	DG
+loysing	SFSA
+frá	DG
+Danmark	SNSD-P
+.	KE
+
+Hon	PPFSN
+var	VNAAS3
+lærari	SMSN
+.	KE
+
+Blómurnar	SFPNA
+eru	VNAPP3
+langir	APSMPN
+,	KC
+ljósagulir	APSMPN
+reklar	SMPN
+.	KE
+
+Einans	NR
+greinarendarnir	SMPNA
+eru	VNAPP3
+yvir	DG
+jørð	SFSA
+.	KE
+
+Í	DG
+Føroyum	SFPD-P
+,	KC
+Skotlandi	SNSD-P
+og	C
+Írlandi	SNSD-P
+er	VNAPS3
+hann	PPMSN
+sjáldsamur	APSMSN
+nú	DN
+,	KC
+orsakað	VAANSN
+av	DG
+seyðabiti	SNSD
+.	KE
+
+Fjølbroytt	APSNSN
+fuglalív	SNSN
+er	VNAPS3
+kring	DG
+Vatnið	SNSAAP
+og	C
+á	DG
+Vatninum	SNSDAP
+.	KE
+
+Jóhan	SMSN-P
+er	VNAPS3
+triðja	APWNSN
+ættarlið	SNSN
+av	DG
+bátasmiðum	SMPD
+á	DG
+Tvøroyri	SFSD-P
+.	KE
+
+Landslutahøvuðsstaður	SMSN
+er	VNAPS3
+Rennes	S----P
+.	KE
+
+Størsti	APWMSN
+býur	SMSN
+í	DG
+Sælandi	SNSD-P
+er	VNAPS3
+Keypmannahavn	SFSN-P
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+sum	C
+nógvar	APSFPN
+aðrar	PBMPA
+Kyrrahavsoyggjar	SMPA
+undir	DG
+USA	TS
+.	KE
+
+Grundarlagið	SNSNA
+undir	DG
+búskapinum	SMSDA
+er	VNAPS3
+ferðavinna	SFSAA
+.	KE
+
+Laos	S----P
+:	KE
+Laos	S----P
+er	VNAPS3
+eitt	RNSNI
+lýðveldi	SNSN
+í	DG
+Asia	SNSD-P
+.	KE
+
+Høvuðsstaður	SMSN
+er	VNAPS3
+Vientiane	S----P
+.	KE
+
+Høvuðsstaður	SMSN
+er	VNAPS3
+Tasjkent	S----P
+.	KE
+
+Tað	PPNSN
+er	VNAPS3
+eitt	RNSNI
+land	SNSN
+við	DG
+høgum	APSNPD
+fjøllum	SNPD
+.	KE
+
+Landbúnaður	SMSN
+er	VNAPS3
+høvuðsvinna	SFSAA
+í	DG
+Armenia	S----P
+.	KE
+
+Bøndurnir	SMPNA
+fara	VNAPP3
+tíðliga	DN
+á	DG
+morgni	SMSDA
+til	DG
+arbeiðis	SNSG
+,	KC
+antin	X
+á	DG
+óðalsjørðina	SFSAA
+ella	C
+á	DG
+leigujørðina	SFSAA
+hjá	DG
+stórbóndanum	SMSDA
+.	KE
+
+Umleið	DN
+ein	RMSNI
+triðingur	SMSN
+(	KO
+37.1	NP
+%	M
+í	DG
+2008	NO
+)	KO
+av	DG
+fólkinum	SNSDA
+í	DG
+Mississippi	S----P
+eru	VNAPP3
+eftirkomarar	SMPN
+av	DG
+svørtum	APSMPD
+trælum	SMPD
+.	KE
+
+Meginparturin	SMSNA
+eru	VNAPP3
+baptistar	SMPN
+.	KE
+
+Nú	DN
+á	DG
+døgum	SMPD
+eru	VNAPP3
+indiánarnir	SMPNA
+í	DG
+minniluta	SMSD
+allastaðni	DN
+í	DG
+USA	TS
+.	KE
+
+Partur	SMSN
+av	DG
+fjøllunum	SNPDA
+liggur	VNAPS3
+eisini	DN
+í	DG
+Póllandi	SNSD-P
+.	KE
+
+Á	DG
+fólkaatkvøðu	SFSD
+í	DG
+1993	NO
+var	VNAAS3
+eisini	DN
+stórur	APSMSN
+meiriluti	SMSN
+fyri	DG
+loysing	SFSA
+.	KE
+
+At	CI
+prógva	VIA
+hetta	PDNSA
+,	KC
+leggja	VNAPP1
+vit	PP1PN
+sannleikan	SMSAA
+fram	DN
+fyri	DG
+ein	RMSAI
+uttanveltaðan	APSMSA
+heim	SMSA
+""""	KQ
+.	KE
+
+Oyggin	SFSNA
+hevur	VNAPS3
+við	DG
+uml.	TT
+400	NO
+íbúgvar	SMPA
+.	KE
+
+Leopardurin	SMSNA
+klívur	VNAPS3
+ofta	DN
+í	DG
+trøum	SNPD
+.	KE
+
+Protestantisma	SFSN
+:	KE
+Protestantiska	APWFSN
+læran	SFSNA
+tók	VNAAS3
+seg	PPFSA
+upp	DN
+í	DG
+Týsklandi	SNSD-P
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+gudstænastubókin	SFSNA
+í	DG
+gamla	APWMSD
+sáttmálanum	SMSDA
+.	KE
+
+Mannfólkini	SNPNA
+eru	VNAPP3
+í	DG
+hvítum	APSNPD
+klæðum	SNPD
+.	KE
+
+Tí	C
+heittu	VNAAP3
+teir	PPMPN
+á	DG
+føroyingar	SMPA
+um	DN
+at	CI
+skriva	VIA
+tey	PPNPA
+niður	DN
+.	KE
+
+Tað	PPNSN
+er	VNAPS3
+ikki	DN
+sum	C
+fyrr	DNC
+.	KE
+
+Barbara	SFSN-P
+byggir	VNAPS3
+á	DG
+skaldsøgu	SFSD
+eftir	DG
+Jørgen	SMSA-P
+-	KO
+Frantz	S----P
+Jacobsen	S----P
+.	KE
+
+Lítil	APSMSN
+partur	SMSN
+av	DG
+fjøllunum	SNPDA
+liggur	VNAPS3
+eisini	DN
+í	DG
+Póllandi	SNSD-P
+.	KE
+
+Detroit	S----P
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+í	DG
+statinum	SMSDA
+Michigan	S----P
+.	KE
+
+Akførini	SNPNA
+hjá	DG
+sløkkiliðnum	SNSDA
+eru	VNAPP3
+somuleiðis	DN
+í	DG
+ringum	APSMSD
+standi	SMSD
+.	KE
+
+Menn	SMPN
+eru	VNAPP3
+ymiskir	APSMPN
+á	DG
+máli	SNSD
+um	DG
+tíðarfestingina	SFSAA
+,	KC
+um	C
+tað	PPNSN
+var	VNAAS3
+fyri	DN
+ella	C
+eftir	DG
+pínsludeyða	SFSD
+Pæturs	SMSG-P
+og	C
+Paulusar	SMSG-P
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+fjølbroyttur	APSMSN
+yrkjari	SMSN
+.	KE
+
+Meginparturin	SMSNA
+av	DG
+fólkinum	SNSDA
+eru	VNAPP3
+lutherskar	APSFPN
+.	KE
+
+Umleið	DN
+90	NP
+%	M
+av	DG
+eini	RFSDI
+øl	SNSN
+er	VNAPS3
+vatn	SNSN
+.	KE
+
+Summir	PBMPN
+doyggja	VNAPP3
+av	DG
+eyðkvæmi	SNSD
+.	KE
+
+Sjey	NC
+oyggjar	SFPN
+eru	VNAPP3
+í	DG
+landinum	SNSDA
+.	KE
+
+Føroyar	SFPN-P
+eru	VNAPP3
+eisini	DN
+partur	SMSN
+í	DG
+danska	APWNSD
+kongsríkinum	SNSDA
+.	KE
+
+18	NO
+oyggjar	SFPN
+eru	VNAPP3
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Ein	RMSNI
+kaldur	APSMSN
+streymur	SMSN
+kemur	VNAPS3
+suðureftir	DN
+fram	DN
+við	DG
+Íslandi	SNSD-P
+.	KE
+
+Ymsu	APWMPN
+partarnir	SMPNA
+í	DG
+ríkinum	SNSDA
+gjørdust	VNMAP3
+,	KC
+sum	C
+tíðin	SFSNA
+leið	SFSN
+,	KC
+sjálvstøðugir	APSMPN
+.	KE
+
+Og	C
+har	DN
+er	VNAPS3
+eisini	DN
+ein	RFSNI
+stór	APSFSN
+oyðimørk	SFSN
+,	KC
+sum	CR
+eitur	VNAPS3
+Gobi	S----P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+nýggjur	APSMSN
+býur	SMSN
+;	KC
+farið	VAANSN
+varð	VNAAS3
+at	CI
+byggja	VIA
+hann	PPMSA
+í	DG
+1961	NO
+.	KE
+
+Navnið	SNSNA
+Islamabad	S----P
+merkir	VNAPS3
+""""	KQ
+staður	SMSN
+Islams	SMSG-P
+""""	KQ
+.	KE
+
+Landbúnaður	SMSN
+er	VNAPS3
+høvuðsvinnan	SFSNA
+í	DG
+Pakistan	S----P
+.	KE
+
+Fruktagóða	APWNSN
+slættlendið	SNSNA
+í	DG
+Punjab	S----P
+er	VNAPS3
+besta	ASWNSN
+landbúnaðarlendið	SNSNA
+í	DG
+Pakistan	S----P
+.	KE
+
+Um	C
+triðingurin	SMSNA
+av	DG
+fólkinum	SNSDA
+í	DG
+Pakistan	S----P
+býr	VNAPS3
+í	DG
+býum	SMPD
+.	KE
+
+Stórir	APSMPN
+partar	SMPN
+av	DG
+lendinum	SNSDA
+uppi	DN
+á	DG
+oynni	SFSDA
+eru	VNAPP3
+avvaksnir	APSMPN
+við	DG
+terunnum	SMPDA
+.	KE
+
+30	NP
+%	M
+av	DG
+útflutninginum	SMSDA
+í	DG
+Sri	S----P
+Lanka	F
+er	VNAPS3
+te	SNSN
+.	KE
+
+Hann	PPMSN
+var	VNAAS3
+eisini	DN
+verjumálaráðharri	SMSN
+í	DG
+Bush	S----P
+-	KO
+stjórnini	SFSDA
+.	KE
+
+Nashville	S----P
+:	KE
+Nashville	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+í	DG
+Tennessee	S----P
+.	KE
+
+Gott	APSNSN
+ferðasamband	SNSN
+er	VNAPS3
+av	DG
+Manhattan	S----P
+.	KE
+
+Í	DG
+16.	NO
+øld	SFSD
+vórðu	VNAAP3
+stívarar	SMPN
+settir	VAAMPN
+í	DG
+konufólkakjólar	SFPA-P
+.	KE
+
+Í	DG
+tveir	NCMPA
+dagar	SMPA
+tóku	VNAAP3
+tær	PPFPN
+móti	DG
+bretskum	APSMPD
+fjølmiðlum	SMPD
+og	C
+innkeyparum	SMPD
+.	KE
+
+Labbarnir	SMPNA
+eru	VNAPP3
+stórir	APSMPN
+,	KC
+breiðir	VNAPS3
+og	C
+førligir	APSMPN
+.	KE
+
+Elgurin	SMSNA
+heldur	VNAPS3
+til	DN
+í	DG
+stórum	APSFPD
+skógum	SFPD
+í	DG
+Suðuralaska	SNSD-P
+.	KE
+
+Um	DG
+summarið	SNSAA
+,	KC
+tá	C
+ið	C
+ísurin	SMSNA
+tánar	VNAPS3
+á	DG
+vøtnum	SNPD
+og	C
+í	DG
+áum	SFPD
+,	KC
+fer	VNAPS3
+elgurin	SMSNA
+úti	DN
+at	CI
+eta	VIA
+vatnplantur	SFPA
+.	KE
+
+Elgur	SMSN
+reikar	VNAPS3
+helst	DNS
+einsamallur	APWMSN
+,	KC
+tó	DN
+ikki	DN
+í	DG
+brundtíðini	SFSDA
+.	KE
+
+Flytifuglurin	SMSNA
+fer	VNAPS3
+suðureftir	DN
+.	KE
+
+Øll	PINPN
+sløgini	SNPNA
+eru	VNAPP3
+í	DG
+USA	TS
+.	KE
+
+Í	DG
+so	DN
+stórum	APSNPD
+landi	SNSD
+sum	C
+USA	TS
+er	VNAPS3
+stórur	APSMSN
+munur	SMSN
+á	DG
+veðurlagnum	SNSDA
+.	KE
+
+Á	DG
+mongum	APSFPD
+oyggjum	SFPD
+eru	VNAPP3
+amerikanskar	APSFPN
+hernaðarstøðir	SFPN
+.	KE
+
+Har	DN
+eru	VNAPP3
+heilt	DN
+djúpir	APSMPN
+áarósar	SMPN
+sum	C
+firðir	SMPN
+.	KE
+
+Tá	DN
+hækkaði	VNAAS3
+vatnflóðin	SFSNA
+og	C
+floymdi	VNAAS3
+inn	DN
+yvir	DG
+landið	SNSAA
+.	KE
+
+Í	DG
+bókini	SFSDA
+Eyguni	SFSDA
+-	KO
+Søgur	SFPN
+og	C
+yrkingar	SFPN
+eru	VNAPP3
+13	NO
+stuttsøgur	SFPN
+og	C
+42	NO
+yrkingar	SFPN
+.	KE
+
+Fyrr	DNC
+var	VNAAS3
+nógvur	APSMSN
+ídnaður	SMSN
+í	DG
+Hongkong	S----P
+.	KE
+
+Tá	DN
+vóru	VNAAP3
+teldurnar	SFPNA
+ovurstórar	APSFPN
+.	KE
+
+Í	DG
+t.d.	TS
+Nevada	S----P
+eru	VNAPP3
+23	NO
+ymisk	APSNPN
+sløg	SNPN
+av	DG
+sporðdrekum	SMPD
+.	KE
+
+Í	DG
+býnum	SMSDA
+er	VNAPS3
+eisini	DN
+skipasmiðja	SFSN
+.	KE
+
+Flogvøllurin	SMSNA
+er	VNAPS3
+á	DG
+oynni	SFSDA
+Amager	S----P
+.	KE
+
+Tá	DN
+eru	VNAPP3
+tey	PPNPN
+ikki	DN
+til	DN
+so	DN
+stóran	APSMSA
+ampa	SMSA
+fyri	DG
+fólkið	SNSAA
+,	KC
+sum	CR
+býr	VNAPS3
+í	DG
+Keypmannahavn	SFSD-P
+.	KE
+
+Kastrup	S----P
+Flogvøllur	SMSN
+er	VNAPS3
+av	DG
+størstu	ASSMSD
+flogvøllum	SMPD
+í	DG
+Evropa	SNSD-P
+.	KE
+
+Ein	RMSNI
+flogvøllur	SMSN
+er	VNAPS3
+stórt	APSNSN
+arbeiðspláss	SNSN
+.	KE
+
+Størsta	ASWFSN
+fyritøkan	SFSNA
+á	DG
+Kastrup	S----P
+Flogvølli	SMSN
+er	VNAPS3
+SAS	TS
+.	KE
+
+Fyri	DN
+at	CI
+orka	VIA
+tað	PPNSA
+,	KC
+er	VNAPS3
+ætlanin	SFSNA
+at	CI
+byggja	VIA
+fleiri	ACSFPA
+farstøðir	SFPA
+í	DG
+Kastrup	S----P
+.	KE
+
+Kongarnir	SMPNA
+búðu	VNAAP3
+á	DG
+einari	RFSDI
+borg	SFSD
+.	KE
+
+Nú	DN
+eru	VNAPP3
+tó	DN
+nógv	DN
+øki	SNPN
+friðað	VAANPN
+sum	C
+dýraverndargarðar	SMPN
+at	CI
+verja	VIA
+dýralívið	SNSAA
+.	KE
+
+Greinarnar	SFPNA
+eru	VNAPP3
+taktar	APSFPN
+uttan	DN
+við	DG
+grasi	SNSD
+og	C
+leyvi	SNSD
+.	KE
+
+Í	DG
+alt	APSNSD
+telur	VNAPS3
+kirkjan	SFSNA
+í	DG
+dag	SMSA
+1	NO
+500	NO
+kirkjulið	SNPA
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+nú	DN
+alfriðað	VAANSN
+.	KE
+
+Fyrr	DNC
+kallaðist	APSNSN
+landi	SNSN
+Rhodesia	S----P
+.	KE
+
+Summir	PIMPN
+afrikanarar	SMPN
+nýttu	VNAAP3
+postalínskúvingin	SMSAA
+sum	C
+gjaldoyra	SNSA
+.	KE
+
+Tó	DN
+er	VNAPS3
+ikki	DN
+allur	PIMSN
+kappróður	SMSN
+við	DG
+í	DG
+Føroyameistara	SMPD
+kappingini	SFSDA
+.	KE
+
+Djóralæknar	SMPN
+eru	VNAPP3
+alneyðugir	APSMPN
+í	DG
+landbúnaðinum	SMSDA
+.	KE
+
+Eisini	DN
+aðrir	PBMPN
+felagsskapir	SMPN
+hjálpa	VNAPP3
+menningarlondunum	SNPDA
+.	KE
+
+Magnus	SMSN-P
+Jákupsson	S----P
+:	KE
+Magnus	SMSN-P
+Jákupsson	S----P
+er	VNAPS3
+føroyskur	APSMSN
+danskur	APSMSN
+svimjari	SMSN
+.	KE
+
+So	DN
+á	DG
+ein	PBMSA
+hátt	SMSA
+sært	VNAPS2
+tú	PP2SN
+aftur	DN
+í	DG
+tíðina	SFSAA
+.	KE
+
+Nú	DN
+koyrir	VNAPS3
+bóndin	SMSNA
+sjálvur	PBMSN
+traktorin	SMSAA
+.	KE
+
+Men	C
+enn	DN
+er	VNAPS3
+ikki	DN
+friður	SMSN
+.	KE
+
+Hvalspýggjur	SMSN
+eru	VNAPP3
+bleytar	APSFPN
+.	KE
+
+Sýnagogur	SFPN
+:	KE
+Ein	RFSNI
+sýnagoga	SFSN
+er	VNAPS3
+eitt	RNSNI
+hús	SNSN
+til	DG
+jødiska	APSFSA
+gudstænastu	SFSA
+og	C
+halgigerðir	SFPA
+.	KE
+
+Í	DG
+miðøld	SFSD
+hevði	VNAAS3
+kirkjan	SFSNA
+mikið	APSNSA
+vald	SNSA
+í	DG
+samfelagnum	SNSDA
+.	KE
+
+Men	C
+undantøk	SNPN
+eru	VNAPP3
+.	KE
+
+Neyvan	DN
+nakar	PBMSN
+av	DG
+biskupunum	SMPDA
+var	VNAAS3
+føroyingur	SMSN
+.	KE
+
+Frá	DG
+gamlari	APSFSD
+tíð	SFSD
+hava	VNAPP3
+verið	VAANSN
+39	NO
+kirkjur	SFPN
+í	DG
+Føroyum	SFPD-P
+og	C
+7	NO
+prestar	SMPN
+.	KE
+
+Í	DG
+1931	NO
+varð	VNAAS3
+katólska	APWFSN
+kirkjan	SFSNA
+í	DG
+Føroyum	SFPD-P
+endurreist	VIM
+.	KE
+
+Og	C
+hon	PPFSN
+kom	VNAAS3
+at	CI
+virka	VIA
+í	DG
+bestu	ASSFSD
+semju	SFSD
+við	DG
+fólkakirkjuna	SFSAA
+.	KE
+
+Í	DG
+Føroyum	SFPD-P
+eru	VNAPP3
+fleiri	ACSNPN
+trúarsamfeløg	SNPN
+og	C
+fríkirkjur	SFPN
+.	KE
+
+Adventistarnir	SMPNA
+hava	VNAPP3
+verið	VAANSN
+í	DG
+Føroyum	SFPD-P
+í	DG
+mong	APSNPA
+ár	SNPA
+.	KE
+
+Aðrir	PIMPN
+trúarbólkar	SMPN
+í	DG
+Føroyum	SFPD-P
+eru	VNAPP3
+t.d.	TS
+islam	SNSN
+.	KE
+
+Í	DG
+Føroyum	SFPD-P
+eru	VNAPP3
+í	DG
+dag	SMSA
+70	NO
+kirkjur	SFPN
+.	KE
+
+Turkað	VAANSN
+varð	VNAAS3
+úti	DN
+og	C
+í	DG
+hjalli	SMSD-P
+.	KE
+
+At	CI
+koyra	VIA
+rosinur	SFPA
+og	C
+sukur	SNSA
+í	DG
+blóðpylsu	SFSD
+er	VNAPS3
+nýggjari	APSNSN
+fyribrigdi	SNSN
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+olympiskur	APSMSN
+bronsuvinnari	SMSN
+.	KE
+
+Aðrastaðni	DN
+í	DG
+Bíbliuni	SFSDA
+eru	VNAPP3
+profetaorðini	SNPNA
+.	KE
+
+Formaður	SMSN
+og	C
+kassameistari	SMSN
+felagsins	SNSGA
+er	VNAPS3
+Mikala	SFSN-P
+í	DG
+Trøðini	SFSDAP
+.	KE
+
+Ovasti	ASWMSN
+dómstólur	SMSN
+í	DG
+rættarskipanini	SFSDA
+nevnist	VNMPS3
+""""	KQ
+Hægstirættur	SMSN
+""""	KQ
+.	KE
+
+Heiðursmerkir	SMPN
+.	KE
+
+Tilkrav	SFSN
+er	VNAPS3
+at	CI
+hava	VIA
+hug	SMSA
+til	DG
+ella	C
+at	CI
+tørva	VIA
+.	KE
+
+Í	DG
+Panama	S----P
+eru	VNAPP3
+nógvar	APSFPN
+áir	SFPN
+.	KE
+
+Høvuðsvinnan	SFSNA
+í	DG
+Føroyum	SFPD-P
+,	KC
+fiskivinnan	SFSNA
+,	KC
+er	VNAPS3
+í	DG
+miðdeplinum	SMSDA
+.	KE
+
+Zhengzhou	S----P
+:	KE
+Zhengzhou	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+í	DG
+Kina	SNSD-P
+og	C
+høvuðsstaður	SMSN
+í	DG
+Henan	S----P
+landslutinum	SMSDA
+.	KE
+
+Í	DG
+Ulster	S----P
+eru	VNAPP3
+nýggju	APWFPN
+sýslur	SFPN
+.	KE
+
+Bókin	SFSNA
+lýsir	VNAPS3
+søguna	SFSAA
+hjá	DG
+føroysku	APWFSD
+alivinnuni	SFSDA
+.	KE
+
+Stjórin	SMSNA
+í	DG
+mentamálaráðnum	SNSDA
+verður	VNAPS3
+nevndur	VAAMSN
+aðalstjóri	SMSN
+.	KE
+
+Tíðin	SFSNA
+hjá	DG
+henni	PPFSD
+var	VNAAS3
+6:58.9	NO
+minuttir	SMPN
+.	KE
+
+Landsstýrismaðurin	SMSNA
+velur	VNAPS3
+formann	SMSA
+og	C
+næstformann	SMSA
+millum	DG
+limirnar	SMPAA
+í	DG
+ráðnum	SNSDA
+.	KE
+
+Saratov	S----P
+:	KE
+Saratov	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+í	DG
+Russlandi	SNSD-P
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+tveir	NCMPN
+lærdir	APSMPN
+háskúlar	SMPN
+í	DG
+Thessaloniki	S----P
+.	KE
+
+Listasavn	SFSN
+Føroya	SFPG-P
+er	VNAPS3
+eisini	DN
+partur	SMSN
+av	DG
+tilgongdini	SFSDA
+.	KE
+
+Stovnurin	SMSNA
+er	VNAPS3
+eisini	DN
+fakligur	APSMSN
+myndugleiki	SMSN
+í	DG
+sambandi	SNSD
+við	DG
+fornlutir	SMPA
+í	DG
+havinum	SNSDA
+.	KE
+
+Snákurin	SMSNA
+er	VNAPS3
+vanligur	APSMSN
+í	DG
+Danmark	SNSD-P
+og	C
+í	DG
+meginpartinum	SMSDA
+av	DG
+Europa	SNSD-P
+.	KE
+
+Kumpassin	SMSNA
+vísir	VNAPS3
+so	DN
+allir	PIMPN
+ættirnar	SFPNA
+.	KE
+
+Undir	DG
+ABC-samgonguni	SFSDA
+varð	VNAAS3
+Samvit	SNSN
+í	DG
+2009	NO
+lagt	VAANSN
+undir	DG
+Uttanríkisráðið	SNSAA
+.	KE
+
+Johanna	SFSN-P
+sigldi	VNAAS3
+til	DG
+Íslands	SNSG-P
+,	KC
+har	DN
+hon	PPFSN
+fekk	VNAAS3
+ísaðan	APSMSA
+fisk	SMSA
+í	DG
+lastina	SFSAA
+,	KC
+sum	C
+hon	PPFSN
+so	DN
+førdi	VNAAS3
+til	DG
+Skotlands	SNSG-P
+.	KE
+
+Har	DN
+er	VNAPS3
+eisini	DN
+frítíðarskúli	SMSN
+.	KE
+
+Lærararnir	SMPNA
+eru	VNAPP3
+31.	NO
+Ráðgevararnir	SMPNA
+.	KE
+
+Bussurin	SMSNA
+kom	VNAAS3
+,	KC
+og	C
+hon	PPFSN
+fór	VNAAS3
+uppí	DN
+.	KE
+
+Dávid	SMSN-P
+var	VNAAS3
+kongur	SMSN
+í	DG
+Ísrael	S----P
+í	DG
+mong	APSNPA
+ár	SNPA
+.	KE
+
+Tubbak	SNSA
+:	KE
+Tubbaksplantan	SFSNA
+er	VNAPS3
+ársplanta	VIA
+.	KE
+
+Bløðini	SNPNA
+vóru	VNAAP3
+av	DG
+tubbaksplantuni	SFSDA
+.	KE
+
+Sum	CR
+frá	DN
+líður	VNAPS3
+,	KC
+venur	VNAPS3
+heilin	SMSNA
+seg	PPMSA
+við	DG
+nikotinið	SNSAA
+.	KE
+
+Í	DG
+tubbaksroyki	SMSD
+eru	VNAPP3
+4000	NO
+ymisk	APSNPN
+evni	SNPN
+.	KE
+
+Heilsumyndugleikarnir	SMPNA
+royna	VNAPP3
+at	CI
+fáa	VIA
+fólk	SNPA
+at	CI
+leggja	VIA
+av	DN
+.	KE
+
+Myndugleikarnir	SMPNA
+hava	VNAPP3
+tó	DN
+ikki	DN
+enn	DN
+syrgt	VAANSN
+fyri	DG
+hóskandi	VPA
+verju	SFSD
+.	KE
+
+Stórur	APSMSN
+partur	SMSN
+av	DG
+ólógliga	APWMSD
+handlinum	SMSDA
+hjá	DG
+RUF	TS
+gongur	VNAPS3
+ígjøgnum	DG
+grannalandið	SNSAA
+Liberia	S----P
+.	KE
+
+Oljuvinnan	SFSNA
+er	VNAPS3
+høvuðsvinnan	SFSNA
+.	KE
+
+Hetta	PDNSN
+er	VNAPS3
+ein	RMSNI
+óheftur	APSMSN
+felagsskapur	SMSN
+av	DG
+dómarum	SMPD
+,	KC
+sakførarum	SMPD
+og	C
+løgfrøðiligum	APSMPD
+serfrøðingum	SMPD
+.	KE
+
+Fram	DN
+við	DG
+strondini	SFSDA
+eru	VNAPP3
+mong	APSNPN
+stór	APSNPN
+oljureinsiverk	SNPN
+.	KE
+
+Tveir	NCMPN
+tímar	SMPN
+vóru	VNAAP3
+teir	PPMPN
+um	DN
+at	CI
+sløkkja	VIA
+eldin	SMSAA
+.	KE
+
+Tað	PPNSN
+var	VNAAS3
+í	DG
+1991	NO
+.	KE
+
+Deyðarevsing	SFSN
+.	KE
+
+Í	DG
+Benin	S----P
+er	VNAPS3
+deyðadómur	SMSN
+.	KE
+
+Indonesia	S----P
+er	VNAPS3
+eitt	RNSNI
+lýðveldi	SNSN
+við	DG
+forseta	SMSA
+.	KE
+
+Badminton	SNSN
+og	C
+fótbóltur	SMSN
+er	VNAPS3
+best	DNS
+dámdi	VNAAS3
+ítróttur	SMSN
+í	DG
+Indonesia	S----P
+.	KE
+
+Etna	S----P
+:	KE
+Etna	S----P
+er	VNAPS3
+eitt	RNSNI
+gosfjall	SNSN
+í	DG
+lýðveldinum	SNSDA
+Italia	S----P
+.	KE
+
+Í	DG
+Namibia	S----P
+eru	VNAPP3
+nógv	APSNPN
+steinsløg	SNPN
+,	KC
+og	C
+nógvur	APSMSN
+fiskur	SMSN
+er	VNAPS3
+fram	DN
+við	DG
+strondini	SFSDA
+.	KE
+
+Diamantar	SMPN
+eru	VNAPP3
+eisini	DN
+.	KE
+
+Nú	DN
+á	DG
+døgum	SMPD
+er	VNAPS3
+eisini	DN
+51,2	NP
+%	M
+av	DG
+fólkinum	SNSDA
+arbeiðsleys	APSNPA
+.	KE
+
+Hon	PPFSN
+var	VNAAS3
+limur	SMSN
+í	DG
+bólkinum	SMSDA
+í	DG
+4	NO
+ár	SNPA
+.	KE
+
+Rektarin	SMSNA
+á	DG
+Fróðskaparsetrinum	SNSDA
+er	VNAPS3
+nevndarformaður	SMSN
+.	KE
+
+Ikki	DN
+er	VNAPS3
+loyvt	VAANSN
+at	CI
+atkvøða	VIA
+fyri	DG
+sínum	PPMSD
+egna	APSNPA
+landi	SNSD
+.	KE
+
+Kapitalisman	SMSN
+skal	VNAPS3
+burtur	DN
+.	KE
+
+Hann	PPMSN
+var	VNAAS3
+ein	RMSNI
+eldhugaður	APSMSN
+kollveltingarmaður	SMSN
+.	KE
+
+1917	NO
+–	NO
+Kollveltingin	SFSNA
+eydnast	VIM
+.	KE
+
+Men	C
+friðurin	SMSNA
+kom	VNAAS3
+ikki	DN
+.	KE
+
+Avleiðingar	SMPN
+av	DG
+ídnaðarkollveltingini	SFSDA
+eru	VNAPP3
+at	CI
+síggja	VIA
+allastaðni	DN
+í	DG
+dag	SMSA
+.	KE
+
+Kommuna	SFSN
+:	KE
+Ein	RFSNI
+kommuna	SFSN
+er	VNAPS3
+ei	DN
+eind	SFSN
+,	KC
+sum	CR
+stýrir	VNAPS3
+einum	RNSDI
+øki	SNSD
+í	DG
+einum	RNSDI
+landi	SNSD
+.	KE
+
+Allar	PIFPN
+kommunur	SFPN
+í	DG
+Føroyum	SFPD-P
+eru	VNAPP3
+limir	SMPN
+.	KE
+
+Býurin	SMSNA
+liggur	VNAPS3
+í	DG
+týska	APWMSD
+statinum	SMSDA
+Baden-Württemberg	S----P
+.	KE
+
+Plantan	SFSN
+kemur	VNAPS3
+úr	DG
+Kina	SNSD-P
+.	KE
+
+Ídnaðarkollveltingin	SFSNA
+byrjaði	VNAAS3
+í	DG
+Onglandi	SNSD-P
+mitt	DN
+í	DG
+18.	NO
+øld	SFSD
+.	KE
+
+Í	DG
+18.	NO
+øld	SFSD
+vóru	VNAAP3
+10%	NP
+av	DG
+fólkinum	SNSDA
+í	DG
+Evropa	SNSD-P
+biddarar	SMPA
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+trý	NCNPN
+sløg	SNPN
+av	DG
+veljarum	SMPD
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+45	NO
+fastir	APSMPN
+nevndarsessir	SMPN
+sum	C
+skulu	VNAPP3
+mannast	VIM
+.	KE
+
+Ein	RMSNI
+trummuspælari	SMSN
+við	DG
+navnið	SNSAA
+Chad	S----P
+Smith	S----P
+kom	VNAAS3
+við	DN
+í	DG
+tónleikabólkinum	SMSDA
+.	KE
+
+Her	DN
+byrjar	VNAPS3
+at	CI
+henda	VIA
+okkurt	PBNSN
+.	KE
+
+Fyrr	DNC
+vóru	VNAAP3
+stórir	APSMPN
+skógir	SFPN
+á	DG
+Fílabeinsstrondini	SFSDAP
+.	KE
+
+Eitri	SMSN
+kann	VNAPS3
+eisini	DN
+gera	VIA
+av	DN
+við	DG
+fólk	SNPA
+.	KE
+
+Landið	SNSNA
+er	VNAPS3
+94	NP
+%	M
+muslimskt	APSNSN
+.	KE
+
+14,5	NP
+%	M
+av	DG
+fólkinum	SNSDA
+er	VNAPS3
+arbeiðsleys	APSFSN
+.	KE
+
+Hann	PPMSN
+var	VNAAS3
+burtur	DN
+í	DG
+mong	APSNPA
+ár	SNPA
+.	KE
+
+Styrkin	SFSNA
+liggur	VNAPS3
+ímillum	DG
+37,5	NP
+%	M
+og	C
+47,3	NP
+%	M
+.	KE
+
+Styrkin	SFSNA
+er	VNAPS3
+40	NP
+%	M
+.	KE
+
+Rannsóknin	SFSNA
+vísti	VNAAS3
+,	KC
+at	C
+kirkjustaðurin	SMSNA
+er	VNAPS3
+fornur	APSMSN
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+óreinur	APSMSN
+og	C
+streymharður	APSMSN
+.	KE
+
+Oyggjarnar	SFPNA
+eru	VNAPP3
+fátækar	APSFPN
+.	KE
+
+Endamálið	SNSNA
+við	DG
+Fólkafundinum	SNSDA
+er	VNAPS3
+at	CI
+fáa	VIA
+politikkin	SMSAA
+út	DN
+til	DG
+vanliga	APWMSA
+borgaran	SMSAA
+.	KE
+
+um	DG
+árið	SNSAA
+ella	C
+meira	DNC
+.	KE
+
+Onkustaðni	SNSNA
+í	DG
+Niger	S----P
+mugu	VNAPP3
+kvinnurnar	SFPNA
+ganga	VNAPP3
+upp	DN
+í	DG
+50	NO
+km.	TS
+eftir	DG
+brenni	SNSD
+.	KE
+
+Naksos	S----P
+er	VNAPS3
+kent	VAANSN
+fyri	DG
+síni	PPNPG
+eplir	SNPA
+í	DG
+restini	SFSDA
+av	DG
+Grikkalandi	SNSD-P
+.	KE
+
+Mismunur	SMSN
+verður	VNAPS3
+í	DG
+stóran	APSMSA
+mun	SMSA
+gjørdur	VAAMSN
+mótvegis	DG
+kvinnum	SFPD
+.	KE
+
+Um	C
+84	NP
+%	M
+av	DG
+fólkinum	SNSDA
+í	DG
+Libya	S----P
+býr	VNAPS3
+nú	DN
+í	DG
+býum	SMPD
+.	KE
+
+Flestu	ASSNPN
+fólk	SNPN
+eru	VNAPP3
+muslimar	SMPN
+.	KE
+
+Hann	PPMSN
+var	VNAAS3
+eisini	DN
+ímóti	DG
+kongaveldinum	SNSDA
+.	KE
+
+Hansara	PPMSG
+stóri	APWMSN
+áhugi	SMSN
+er	VNAPS3
+tónleikur	SMSN
+.	KE
+
+Hann	PPMSN
+var	VNAAS3
+frálíkur	APSMSN
+sjómaður	SMSN
+,	KC
+rannsóknarfari	SMSN
+og	C
+oddamaður	SMSN
+.	KE
+
+Í	DG
+2007	NO
+varð	VNAAS3
+eitt	RNSNI
+álit	SNSN
+skrivað	VAANSN
+og	C
+handað	VAANSN
+landsstýrismanninum	SMSDA
+í	DG
+mentamálum	SNPD
+.	KE
+
+Grundarlagið	SNSNA
+undir	DG
+búskapinum	SMSDA
+er	VNAPS3
+ferðavinna	SFSN
+.	KE
+
+Í	DG
+symfoniorkestri	SNSD
+eru	VNAPP3
+vanliga	DN
+90	NO
+tónleikarar	SMPN
+.	KE
+
+Orkesturleiðarin	SMSNA
+stjórnar	VNAPS3
+orkestrinum	SNSDA
+øðrvísi	DN
+,	KC
+enn	DN
+til	DG
+dømis	SNSG
+løgreglan	SFSNA
+stýrir	VNAPS3
+ferðsluni	SFSDA
+.	KE
+
+Hon	PPFSN
+var	VNAAS3
+fyrsta	ASWFSN
+kvinna	SFSN
+í	DG
+Landsstýrinum	SNSDA
+.	KE
+
+Fyrr	DNC
+sigldi	VNAAS3
+skipið	SNSNA
+eisini	DN
+til	DG
+Noregs	SNSG-P
+og	C
+Hetlands	SNSG-P
+.	KE
+
+Makrelurin	SMSNA
+kann	VNAPS3
+halda	VIA
+sær	PPMSD
+í	DG
+trý	NCNPA
+ár	SNPA
+.	KE
+
+Sandavágssteinurin	SMSNA
+kann	VNAPS3
+í	DG
+dag	SMSA
+síggjast	VNMPS3
+í	DG
+Sandavágs	SMSG-P
+kirkju	SFSD
+.	KE
+
+Rogaland	SNSN-P
+:	KE
+Rogaland	SNSN-P
+er	VNAPS3
+eitt	RNSNI
+fylki	SNSN
+í	DG
+Noregi	SNSD-P
+.	KE
+
+26	NO
+kommunur	SFPN
+eru	VNAPP3
+í	DG
+Rogaland	SNSD-P
+og	C
+Stavanger	S----P
+er	VNAPS3
+fyrisitingarbýur	SMSN
+í	DG
+fylkinum	SNSDA
+.	KE
+
+Um	C
+416.000	NO
+fólk	SNPN
+búgva	VNAPP3
+í	DG
+Rogalandi	SNSD-P
+.	KE
+
+Eisini	DN
+kann	VNAPS3
+bakterian	SFSNA
+koma	VIA
+frá	DG
+t.d.	TS
+mold	SFSD
+í	DG
+eitt	RNSAI
+opið	APSNSA
+sár	SNSA
+,	KC
+og	C
+kann	VNAPS3
+síðan	DN
+mennast	VIM
+í	DG
+sárinum	SNSDA
+.	KE
+
+Fyritøkan	SFSNA
+fæst	VNMPS3
+við	DG
+tónleikaframleiðslu	SFSD
+.	KE
+
+Politikararnir	SMPNA
+veita	VNAPP3
+eina	RFSAI
+tænastu	SFSA
+til	DG
+brúkaran	SMSAA
+.	KE
+
+Føroyar	SFPN-P
+er	VNAPS3
+limur	SMSN
+í	DG
+NAFO	TS
+.	KE
+
+Føroyar	SFPN-P
+er	VNAPS3
+limur	SMSN
+í	DG
+NEAFC	TS
+.	KE
+
+Í	DG
+kistuni	SFSDA
+lá	VNAAS3
+beinagrindin	SFSNA
+av	DG
+einum	RMSDI
+manni	SMSD
+.	KE
+
+Uttan	DN
+um	DG
+býirnar	SMPAA
+búðu	VNAAP3
+mangir	APSMPN
+bøndur	SMPN
+.	KE
+
+Í	DG
+trongum	APSFPD
+tíðum	SFPD
+hevur	VNAPS3
+hvalur	SMSN
+verið	VAANSN
+bjargingin	SFSNA
+hjá	DG
+mongum	APSNSD
+húsarhaldi	SNSD
+.	KE
+
+Virðingin	SFSNA
+fyri	DG
+honum	PPMSD
+tók	VNAAS3
+at	CI
+vaksa	VIA
+.	KE
+
+Skriftið	SNSNA
+er	VNAPS3
+sent	VAANSN
+við	DG
+heilsan	SFSDA
+.	KE
+
+Søgurnar	SFPNA
+eru	VNAPP3
+ellivu	NC
+í	DG
+tali	SNSD
+.	KE
+
+Eitt	PBNSN
+tíðarskeið	SNSA
+var	VNAAS3
+hon	PPFSN
+varalimur	VNAPS3
+Rithøvundafelagsins	SNSGA
+í	DG
+Málnevndini	SFSDA
+.	KE
+
+Í	DG
+fótbólti	SMSD
+spælir	VNAPS3
+hon	PPFSN
+sum	CR
+málmaður	SMSN
+.	KE
+
+Hon	PPFSN
+hevur	VNAPS3
+spælt	VAANSN
+við	DG
+fleiri	ACSNPD
+sjónvarpsframleiðslum	SNPD
+og	C
+á	DG
+palli	SMSD
+.	KE
+
+Jon	SMSN-P
+var	VNAAS3
+besti	ASWMSN
+føroyski	APWMSN
+svimjarin	SMSNA
+,	KC
+tá	C
+hann	PPMSN
+svam	VNAAS3
+sum	C
+ungur	APSMSN
+.	KE
+
+Halvorsen	S----P
+var	VNAAS3
+dani	SMSN
+.	KE
+
+Bara	DN
+Dracula	S----P
+veit	VNAPS3
+,	KC
+at	C
+eitt	RNSNI
+menniskja	SNSN
+er	VNAPS3
+á	DG
+hotellinum	SNSDA
+.	KE
+
+49.2	NP
+%	M
+av	DG
+fólkinum	SNSDA
+í	DG
+St.	TS
+Louis	S----P
+eru	VNAPP3
+afroamerikanarar	SMPN
+.	KE
+
+Størsti	ASSMSN
+býur	SMSN
+og	C
+høvuðsstaður	SMSN
+er	VNAPS3
+Whitehorse	S----P
+.	KE
+
+Stórur	APSMSN
+tørvur	SMSN
+er	VNAPS3
+á	DG
+útbúgving	SFSD
+og	C
+heilsuhjálp	SNSN
+.	KE
+
+Uml.	TS
+23	NP
+%	M
+av	DG
+fólkinum	SNSDA
+eru	VNAPP3
+analfabetar	SMPN
+.	KE
+
+Felagið	SNSNA
+er	VNAPS3
+ongantíð	DN
+enn	DN
+flutt	VAANSN
+niður	DN
+í	DG
+lægri	APSFSD
+deild	SFSD
+.	KE
+
+Býurin	SMSNA
+liggur	VNAPS3
+í	DG
+landslutinum	SMSDA
+São	S----P
+Paulo	F
+,	KC
+og	C
+hevði	VNAAS3
+718.646	NO
+íbúgvar	SMPA
+í	DG
+2008	NO
+.	KE
+
+Egina	S----P
+er	VNAPS3
+ein	RFSNI
+kommuna	SFSN
+í	DG
+Attika	S----P
+landslutinum	SMSDA
+.	KE
+
+Hon	PPFSN
+hevur	VNAPS3
+fyrr	DNC
+svomið	VAANSN
+fyri	DG
+FLOT	TS
+.	KE
+
+Vänersborg	S----P
+:	KE
+Vänersborg	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+í	DG
+Vänersborgs	S----P
+kommunu	SFSD
+í	DG
+Svøríki	SNSD-P
+.	KE
+
+Føroyar	SFPN-P
+hevði	VNAAS3
+heimavøll	SMSA
+í	DG
+Landskrona	SFSD
+.	KE
+
+Í	DG
+býnum	SMSDA
+er	VNAPS3
+ein	RMSNI
+stórur	APSMSN
+flogvøllur	SMSN
+.	KE
+
+Í	DG
+2010	NO
+var	VNAAS3
+fólkatalið	SNSNA
+í	DG
+býnum	SMSDA
+9.065	NO
+.	KE
+
+Í	DG
+miðøldini	SFSDA
+var	VNAAS3
+býurin	SMSNA
+ein	RMSNI
+tingstaður	SMSN
+og	C
+marknaðarbýur	SMSN
+.	KE
+
+Í	DG
+2010	NO
+var	VNAAS3
+fólkatalið	SNSNA
+í	DG
+býnum	SMSDA
+19.075	NO
+.	KE
+
+Enn	DN
+hevur	VNAPS3
+hon	PPFSN
+tó	DN
+ikki	DN
+vunnið	VAANSN
+.	KE
+
+Andaðist	VNMAS3
+í	DG
+arbeiðsvanlukku	SFSD
+.	KE
+
+Virðislønin	SFSNA
+er	VNAPS3
+á	DG
+10	NO
+milliónir	SFPA
+svenskar	APSFPA
+krónur	SFPA
+.	KE
+
+Í	DG
+trygdarráðnum	SNSDA
+eru	VNAPP3
+fimtan	NC
+limir	SMPN
+.	KE
+
+Jarn	SNSN
+er	VNAPS3
+eitt	RNSNI
+metal	SNSN
+.	KE
+
+Leggurin	SMSNA
+er	VNAPS3
+snøggur	APSMSN
+,	KC
+og	C
+blaðleggurin	SMSNA
+hevur	VNAPS3
+onga	PBFSA
+ella	C
+bara	DN
+eina	PBFSA
+grunna	APSFSA
+foyru	SFSA
+.	KE
+
+Í	DG
+bakkanum	SMSDA
+eru	VNAPP3
+9	NO
+byrgingar	SFPN
+.	KE
+
+Serlæknar	SMPN
+eru	VNAPP3
+serfrøðingar	SMPN
+í	DG
+ávísum	APSNPD
+sjúkum	SNPD
+.	KE
+
+Virðislønin	SFSNA
+er	VNAPS3
+á	DG
+350	NO
+000	NO
+krónur	SFPA
+.	KE
+
+Sum	C
+ungur	APSMSN
+var	VNAAS3
+Jógvan	SMSN-P
+Fríðriksson	S----P
+sjómaður	SMSN
+.	KE
+
+Hann	PPMSN
+var	VNAAS3
+statsleiðari	VAAMSN
+í	DG
+30	NO
+ár	SNPA
+.	KE
+
+Frá	DG
+1941-1960	NO
+var	VNAAS3
+hann	PPMSN
+formaður	SMSN
+í	DG
+Listafelag	SNSD
+Føroya	SFPG-P
+.	KE
+
+Tekjan	SFSN
+var	VNAAS3
+upprunaliga	DN
+nævur	SMSN
+og	C
+flag	SNSN
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+nevndarlimur	SMSN
+í	DG
+Føroysk	SFPG-P
+Filmsfólk	SNSD
+.	KE
+
+Ymsir	APSMPN
+hættir	SMPN
+eru	VNAPP3
+at	CI
+vísa	VIA
+hæddarmun	SMSAA
+.	KE
+
+Tróndur	SMSN-P
+gjørdi	VNAAS3
+tónleikin	SMSAA
+til	DG
+leikin	SMSAA
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Luleå	S----P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Växjö	S----P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Härnösand	S----P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+er	VNAPS3
+Malmö	S----P
+.	KE
+
+Leeuwarden	S----P
+:	KE
+Leeuwarden	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+í	DG
+Niðurlondum	SNPD-P
+.	KE
+
+Býurin	SMSNA
+er	VNAPS3
+høvuðsstaður	SMSN
+í	DG
+landslutinum	SMSDA
+Friesland	S----P
+.	KE
+
+Haarlem	S----P
+:	KE
+Haarlem	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+og	C
+ein	RFSNI
+kommuna	SFSN
+í	DG
+Niðurlondum	SNPD-P
+.	KE
+
+Zwolle	S----P
+:	KE
+Zwolle	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+og	C
+ein	RFSNI
+kommuna	SFSN
+í	DG
+Niðurlondum	SNPD-P
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+6	NO
+kommunur	SFPN
+í	DG
+landslutinum	SMSDA
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+13	NO
+kommunur	SFPN
+í	DG
+landslutinum	SMSDA
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+65	NO
+kommunur	SFPN
+í	DG
+landslutinum	SMSDA
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+12	NO
+kommunur	SFPN
+í	DG
+landslutinum	SMSDA
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+24	NO
+kommunur	SFPN
+í	DG
+landslutinum	SMSDA
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+29	NO
+kommunur	SFPN
+í	DG
+landslutinum	SMSDA
+.	KE
+
+Hon	PPFSN
+býr	VNAPS3
+í	DG
+Stockholm	S----P
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+56	NO
+kommunur	SFPN
+í	DG
+landslutinum	SMSDA
+.	KE
+
+Hon	PPFSN
+spældi	VNAAS3
+leiklutin	SMSAA
+sum	C
+Birita	S----P
+.	KE
+
+Filmurin	SMSNA
+er	VNAPS3
+17	NO
+minuttir	SMPN
+langur	APSMSN
+.	KE
+
+Drívið	VMAPP2
+á	DN
+!	KE
+
+Hon	PPFSN
+umboðar	VNAPS3
+Framburðsflokkin	SMSAA
+.	KE
+
+Laksur	SMSN
+hevur	VNAPS3
+stóran	APSMSA
+vinnuligan	APSMSA
+týdning	SMSA
+.	KE
+
+Bólkurin	SMSNA
+vann	VNAAS3
+FM08	TS
+tónleikakappingina	SFSAA
+.	KE
+
+Tað	PPNSN
+er	VNAPS3
+2,6	NO
+milliónir	SFPN
+km²	TT
+í	DG
+vídd	SFSD
+.	KE
+
+Hann	PPMSN
+var	VNAAS3
+eisini	DN
+stjóri	SMSN
+á	DG
+einum	RMSDI
+arkitektaskúla	SMSD
+.	KE
+
+Føroyar	SFPN-P
+eru	VNAPP3
+eitt	RNSNI
+tílíkt	PINSN
+umveldi	SNSN
+.	KE
+
+26	NO
+onnur	PBNPN
+lond	SNPN
+eru	VNAPP3
+í	DG
+samráðingum	SFPD
+um	DG
+limaskap	SMSA
+í	DG
+løtuni	SFSDA
+.	KE
+
+Stjórnin	SFSNA
+stendur	VNAPS3
+sostatt	DN
+til	DG
+svars	SNSG
+fyri	DG
+tinginum	SNSDA
+.	KE
+
+Hon	PPFSN
+megnaði	VNAAS3
+at	CI
+koma	VIA
+til	DG
+hálvfinaluna	SFSAA
+í	DG
+kappingini	SFSDA
+.	KE
+
+Lagos	S----P
+:	KE
+Lagos	S----P
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Nigeria	S----P
+,	KC
+og	C
+fyrisitingarligur	APSMSN
+høvuðsstaður	SMSN
+fyri	DG
+lutstatin	SMSA-P
+við	DG
+sama	PINSD
+navni	SNSD
+.	KE
+
+Bergur	SMSN-P
+tók	VNAAS3
+í	DG
+1996	NO
+prógv	SNPA
+á	DG
+Føroya	SFPG-P
+Læraraskúla	SMSD
+.	KE
+
+Bergur	SMSN-P
+er	VNAPS3
+nevndarlimur	SMSN
+í	DG
+Rithøvundafelag	SNSD
+Føroya	SFPG-P
+.	KE
+
+Høvuðsstaðurin	SMSNA
+í	DG
+Burundi	S----P
+er	VNAPS3
+Bujumbura	S----P
+.	KE
+
+Stjórnin	SFSNA
+hevur	VNAPS3
+gjørt	VAANSN
+av	DG
+,	KC
+at	C
+skúlagongd	SFSN
+skal	VNAPS3
+vera	VIA
+ókeypis	DN
+.	KE
+
+Kolding	S----P
+:	KE
+Kolding	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+í	DG
+Suðurjútlandi	SNSD-P
+í	DG
+Danmark	SNSD-P
+.	KE
+
+Høgni	SMSN-P
+spælir	VNAPS3
+eisini	DN
+fótbólt	SMSA
+.	KE
+
+Fruktin	SFSNA
+er	VNAPS3
+nøt	SFSN
+.	KE
+
+Í	DG
+Føroyum	SFPD-P
+varð	VNAAS3
+navnið	SNSNA
+Jákupsson	S----P
+skrivað	VAANSN
+sum	CR
+Jacobsen	S----P
+av	DG
+donskum	APSMPD
+prestum	SMPD
+.	KE
+
+Libreville	S----P
+er	VNAPS3
+bæði	DN
+høvuðsstaður	SMSN
+og	C
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Gabon	S----P
+.	KE
+
+Tað	PPNSN
+er	VNAPS3
+lagt	VAANSN
+í	DG
+oyði	SNSD
+.	KE
+
+Brazzaville	S----P
+er	VNAPS3
+bæði	DN
+høvuðsstaður	SMSN
+og	C
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Kongo	S----P
+.	KE
+
+Utrecht	S----P
+(	KO
+landslutur	SMSN
+)	KO
+:	KE
+Utrecht	S----P
+er	VNAPS3
+ein	RMSNI
+landslutur	SMSN
+í	DG
+Niðurlondum	SNPD-P
+.	KE
+
+Bisjkek	S----P
+er	VNAPS3
+bæði	DN
+høvuðsstaður	SMSN
+og	C
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Kirgisistan	S----P
+.	KE
+
+Flestu	ASSNPN
+fólk	SNPN
+eru	VNAPP3
+bøndur	SMPN
+.	KE
+
+Maja	SFSN-P
+býr	VNAPS3
+nú	DN
+í	DG
+Malmø	S----P
+.	KE
+
+Mamma	SFSN
+hennara	PPFSG
+er	VNAPS3
+finsk	APSFSN
+og	C
+pápi	SMSN
+hennara	PPFSG
+er	VNAPS3
+eysturríkari	SMSN
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+aðalstjórnarforkvinna	SFSAA
+í	DG
+starvsnevndini	SFSDA
+hjá	DG
+Tjóðveldi	SNSD
+.	KE
+
+Eftir	DG
+tað	PPNSA
+flutti	VNAAS3
+hon	PPFSN
+til	DG
+Bergens	S----P
+,	KC
+og	C
+tók	VNAAS3
+cand.	TT
+polit	TS
+.	KE
+
+Tók	VNAAS3
+dr.	TT
+polit	TT
+.	KE
+
+Størsti	APSNSN
+býur	SMSN
+er	VNAPS3
+Ulsteinvik	S----P
+.	KE
+
+Bergtóra	SFSN-P
+býr	VNAPS3
+í	DG
+Hoyvík	SFSD-P
+við	DG
+manni	SMSD
+og	C
+børnum	SNPD
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+36	NO
+kommunur	SFPN
+í	DG
+Møre	S----P
+og	C
+Romsdal	SMSN-P
+.	KE
+
+Býurin	SMSNA
+var	VNAAS3
+norskur	APSMSN
+til	DG
+mitt	DN
+í	DG
+17.	NO
+øld	SFSD
+.	KE
+
+Býurin	SMSNA
+liggur	VNAPS3
+í	DG
+landslutinum	SMSDA
+Lappland	S----P
+.	KE
+
+Hiðani	DN
+hiðani	DN
+fylgdu	VNAAP3
+teir	PPMPN
+eisini	DN
+við	DG
+allari	PBFSD
+skipaferðsluni	SFSDA
+norðanfyri	DN
+.	KE
+
+Býurin	SMSNA
+liggur	VNAPS3
+norðan	DN
+fyri	DG
+Uppsala	S----P
+.	KE
+
+Tindar	VAAFPN
+eru	VNAPP3
+á	DG
+kroppinum	SMSDA
+og	C
+ørmunum	SMPDA
+.	KE
+
+Hetta	PDNSN
+verður	VNAPS3
+ofta	DN
+nevnt	VAANSN
+at	CI
+hava	VIA
+“	NO
+formansskapin	SMSAA
+í	DG
+ES	TS
+”	X
+.	KE
+
+Hernaðarliga	APWFSN
+verjan	SFSNA
+er	VNAPS3
+í	DG
+trimum	NCFPD
+deildum	SFPD
+:	KE
+herurin	SMSNA
+,	KC
+loftverjan	SFSNA
+og	C
+sjóverjan	SFSNA
+.	KE
+
+Hernaðarliga	APWFSN
+verjan	SFSNA
+er	VNAPS3
+undir	DG
+verjumálaráðharranum	SMSDA
+og	C
+verjumálaráðnum	SNSDA
+.	KE
+
+Fólkið	SNSNA
+er	VNAPS3
+í	DG
+myrkabláum	APSMSD
+eyðkennisbúna	SMSD
+.	KE
+
+Tey	PPNPN
+eru	VNAPP3
+eisini	DN
+undir	DG
+Grønlandi	SNSD-P
+og	C
+Føroyum	SFPD-P
+.	KE
+
+Fólkið	SNSNA
+er	VNAPS3
+í	DG
+ljósabláum	APSMSD
+eyðkennisbúna	SMSD
+.	KE
+
+Undirgrundin	SMSNA
+á	DG
+oynni	SFSDA
+er	VNAPS3
+granitt	SNSN
+,	KC
+og	C
+bakkin	SMSNA
+er	VNAPS3
+ofta	DN
+høgur	APSMSN
+fram	DN
+við	DG
+strondini	SFSDA
+.	KE
+
+Til	DG
+tíðir	SFPA
+er	VNAPS3
+hon	PPFSN
+eisini	DN
+upplesari	SMSN
+í	DG
+útvarpinum	SNSDA
+.	KE
+
+Í	DG
+motorinum	SMSDA
+er	VNAPS3
+ein	RFSNI
+snælda	SFSN
+,	KC
+sum	CR
+situr	VNAPS3
+í	DG
+einum	RMSDI
+sigulsøki	SMSD
+.	KE
+
+Myndugleikarnir	SMPNA
+kravdu	VNAAP3
+,	KC
+at	C
+maður	SMSN
+skuldi	VNAAS3
+ganga	VIA
+við	DG
+reyðum	APSNSD
+flaggi	SNSD
+framman	DN
+fyri	DG
+bilin	SMSAA
+.	KE
+
+Báðir	PBMPN
+eru	VNAPP3
+morreyðir	APSMPN
+.	KE
+
+Minkur	SMSN
+lagar	VNAPS3
+seg	PPMSA
+yvirhøvur	DN
+eftir	DG
+umstøðunum	SFPDA
+.	KE
+
+Eitt	RNSNI
+korn	SNSN
+er	VNAPS3
+eitt	RNSNI
+fræ	SNSN
+.	KE
+
+Útvinningin	SFSNA
+er	VNAPS3
+í	DG
+tveimum	NCNPD
+umførum	SNPD
+.	KE
+
+Foreldur	SNPN
+hansara	PPMSG
+vóru	VNAAP3
+jødar	SMPN
+.	KE
+
+Paulus	S----P
+var	VNAAS3
+eisini	DN
+fariseari	SMSN
+.	KE
+
+Paulus	S----P
+var	VNAAS3
+ein	RMSNI
+rætttrúgvandi	APIMSN
+fariseari	SMSN
+.	KE
+
+Síðani	DN
+skuldi	VNAAS3
+uppskotið	SNSNA
+berast	VIM
+fram	DN
+fyri	DG
+almenninginum	SMSDA
+.	KE
+
+Felagsnevndin	SFSNA
+skal	VNAPS3
+tryggja	VIA
+,	KC
+at	C
+sáttmálin	SMSNA
+virkar	VNAPS3
+á	DG
+munadyggan	APSMSA
+hátt	SMSA
+.	KE
+
+So	DN
+kemur	VNAPS3
+kall	SNSN
+lærisveinanna	SMSGA
+.	KE
+
+Tað	PPNSN
+var	VNAAS3
+í	DG
+Tjernobyl	S----P
+í	DG
+Ukraina	S----P
+.	KE
+
+Summi	X
+orkuverk	SNSN
+eru	VNAPP3
+í	DG
+høgum	APSNSD
+fjallalendi	SNSD
+.	KE
+
+Nú	DN
+á	DG
+døgum	SMPD
+verður	VNAPS3
+ravmagn	SNSN
+gjørt	VAANSN
+í	DG
+stóru	APSNPD
+vatnorkuverkum	SNPD
+.	KE
+
+Meðan	C
+hon	PPFSN
+gjørdi	VNAAS3
+heilivágin	SMSAA
+,	KC
+læt	VNAAS3
+hon	PPFSN
+duldarfull	APSNSN
+gandaorð	SNSN
+.	KE
+
+Eitt	PBNSN
+annað	PBNSN
+prógv	SNSN
+var	VNAAS3
+at	CI
+kasta	VIA
+kvinnuna	SFSAA
+á	DG
+sjógv	SMSA
+.	KE
+
+Kvam	S----P
+:	KE
+Kvam	S----P
+er	VNAPS3
+ein	RFSNI
+kommuna	SFSN
+í	DG
+Hordalandi	SNSD-P
+í	DG
+Noregi	SNSD-P
+.	KE
+
+Jondal	S----P
+:	KE
+Jondal	S----P
+er	VNAPS3
+ein	RFSNI
+kommuna	SFSN
+í	DG
+Hordalandi	SNSD-P
+í	DG
+Noregi	SNSD-P
+.	KE
+
+Fyrisitingin	SFSNA
+hjá	DG
+Odda	SMSD-P
+kommunu	SFSD
+er	VNAPS3
+í	DG
+býnum	SMSDA
+við	DG
+sama	PINSD
+navni	SNSD
+.	KE
+
+Ullensvang	S----P
+:	KE
+Ullensvang	S----P
+er	VNAPS3
+ein	RFSNI
+kommuna	SFSN
+í	DG
+Hordalandi	SNSD-P
+í	DG
+Noregi	SNSD-P
+.	KE
+
+Granvin	S----P
+(	KO
+kommuna	SFSN
+)	KO
+:	KE
+Granvin	S----P
+er	VNAPS3
+ein	RFSNI
+kommuna	SFSN
+í	DG
+Hordalandi	SNSD-P
+í	DG
+Noregi	SNSD-P
+.	KE
+
+Tokelau	S----P
+:	KE
+Tokelau	S----P
+er	VNAPS3
+ein	RFSNI
+lítil	APSFSN
+oyggj	SFSN
+í	DG
+Kyrrahavi	SNSD-P
+,	KC
+sum	CR
+hoyrir	VNAPS3
+til	DG
+Nýsæland	SNSA-P
+.	KE
+
+Heine	SMSN-P
+og	C
+Martin	SMSN-P
+vóru	VNAAP3
+systkinabørn	SMPN
+og	C
+tiltiknir	VAAMPN
+smiðir	SMPN
+.	KE
+
+Takið	SNSNA
+er	VNAPS3
+lagt	VAANSN
+við	DG
+fløgugróti	SNSD
+.	KE
+
+So	DN
+varð	VNAAS3
+.	KE
+
+Flokkurin	SMSNA
+er	VNAPS3
+Noregs	SFSG-P
+elsti	ASWMSN
+politiski	APWMSN
+flokkur	SMSN
+.	KE
+
+Býurin	SMSNA
+er	VNAPS3
+handils-	TT
+og	C
+samferðslumiðdepilin	SMSNA
+landinum	SNSDA
+og	C
+hevur	VNAPS3
+gott	APSMSA
+buss	SMSA
+og	C
+ferjusamband	SMSA
+.	KE
+
+Endamálið	SNSNA
+hjá	DG
+FUR	TS
+er	VNAPS3
+:	KE
+Um	C
+Føroya	SFPG-P
+Ungdómsráð	SNSN
+.	KE
+
+Umboðsstjórnin	SMSNA
+hevur	VNAPS3
+í	DG
+minsta	ASSNSD
+lagi	SNSD
+2	NO
+fundir	SMPA
+árliga	DN
+.	KE
+
+Í	DG
+12.	NO
+øld	SFSD
+var	VNAAS3
+Konstantinopel	S----P
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Europa	SNSD-P
+.	KE
+
+Hetta	PDNSN
+skal	VNAPS3
+sipa	VIA
+til	DN
+at	CI
+hetta	PDNSN
+var	VNAAS3
+einasti	APWMSN
+stórbýur	SMSN
+í	DG
+økinum	SNSDA
+.	KE
+
+Hann	PPMSN
+var	VNAAS3
+fleiri	ACSFPA
+ferðir	SFPA
+til	DG
+avvenjingar	SFPA
+.	KE
+
+Avgerðin	SFSNA
+um	DN
+at	CI
+gevast	VIM
+í	DG
+filmsídnaðinum	SNSDA
+.	KE
+
+Hon	PPFSN
+hevur	VNAPS3
+eisini	DN
+teknað	VAANSN
+nógv	APSNPA
+frímerki	SNPA
+og	C
+jólamerki	SNSA
+.	KE
+
+Vinnuháskúlin	SFSNA
+:	KE
+Vinnuháskúlin	SFSNA
+er	VNAPS3
+ein	RMSNI
+skúli	SMSN
+í	DG
+Tórshavn	SFSD-P
+.	KE
+
+Samanleggingin	SFSNA
+fór	VNAAS3
+fram	DN
+í	DG
+2005	NO
+.	KE
+
+Høvuðsstaðurin	SMSNA
+í	DG
+Lombardia	S----P
+er	VNAPS3
+Milano	S----P
+.	KE
+
+Abuja	S----P
+:	KE
+Abuja	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+í	DG
+Nigeria	S----P
+.	KE
+
+Býlingurin	SMSNA
+er	VNAPS3
+gamal	APSMSN
+,	KC
+men	C
+fyrr	DNC
+í	DG
+tíðini	SFSDA
+vóru	VNAAP3
+bert	DN
+fá	APSNPN
+hús	SNSN
+har	DN
+.	KE
+
+Nú	DN
+er	VNAPS3
+landið	SNSNA
+betur	DNC
+kent	VAANSN
+fyri	DN
+at	CI
+vera	VIA
+miðstøð	SFSN
+fyri	DG
+evropeiskar	APSFPA
+rúmdarverkætlanir	SFPA
+.	KE
+
+Býurin	SMSNA
+var	VNAAS3
+høvuðsstaður	SMSN
+í	DG
+ríkinum	SNSDA
+leingi	DN
+.	KE
+
+Søgan	SFSNA
+gongur	VNAPS3
+fyri	DG
+seg	PPFSA
+í	DG
+víkingatíðini	SFSDA
+.	KE
+
+Hon	PPFSN
+flýggjaði	VNAAS3
+undan	DG
+sínum	PPMSD
+harðliga	APSMSD
+manni	SMSD
+,	KC
+ið	CR
+var	VNAAS3
+kongur	SMSN
+á	DG
+oyggjunum	SFPDA
+.	KE
+
+Jóannes	SMSN-P
+var	VNAAS3
+elstur	APSMSN
+at	C
+9	NO
+brøðrum	SMPD
+.	KE
+
+Tíðin	SFSNA
+gekk	VNAAS3
+so	DN
+.	KE
+
+Ein	PBMSN
+slíkur	PIMSN
+pollur	SMSN
+verður	VNAPS3
+eisini	DN
+nevndur	VAAMSN
+laguna	SFSA
+.	KE
+
+Changsha	S----P
+:	KE
+Changsha	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+í	DG
+Kina	SNSD-P
+og	C
+høvuðsstaður	SMSN
+í	DG
+Hunan	S----P
+landslutinum	SMSDA
+.	KE
+
+Pertti	S----P
+dugir	VNAPS3
+eisini	DN
+at	CI
+leika	VIA
+á	DG
+urgu	SFSD
+.	KE
+
+Orlando	S----P
+:	KE
+Orlando	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+í	DG
+amerikanska	APWMSD
+statinum	SMSDA
+Florida	S----P
+.	KE
+
+Soleiðis	DN
+hevur	VNAPS3
+ikki	DN
+altíð	DN
+verið	VAANSN
+.	KE
+
+Landslutirnir	SMPNA
+hava	VNAPP3
+eisini	DN
+mentanarligan	APSMSA
+týdning	SMSA
+.	KE
+
+Vøtn	SFSN
+eru	VNAPP3
+ikki	DN
+íroknað	PBFSN
+víddina	SFSAA
+av	DG
+landslutunum	SMPDA
+.	KE
+
+Ein	RMSNI
+meiriluti	SMSN
+av	DG
+flokkunum	SMPDA
+í	DG
+Fólkatinginum	SNSDA
+peikaðu	VNAAP3
+aftur	DN
+á	DG
+Lars	SMSA-P
+Løkke	S----P
+Rasmussen	S----P
+sum	CR
+kongaligur	APSMSN
+kanningarleiðari	SMSN
+.	KE
+
+Heimsmeistari	SMSN
+gjørdist	VNMAS3
+Italia	S----P
+,	KC
+ið	CR
+vann	VNAAS3
+á	DG
+Fraklandi	SNSD-P
+í	DG
+finaluni	SFSDA
+.	KE
+
+Foreldur	SMSN
+hansara	PPMSG
+eru	VNAPP3
+Jógvan	SMSN-P
+og	C
+Elsuba	SFSN-P
+á	DG
+Høvdanum	SNSDAP
+.	KE
+
+Eg	PP1SN
+taki	VNAPS1
+sjálvsagt	APSNSN
+átaluna	SFSAA
+til	DG
+eftirtektar	SFSG
+.	KE
+
+Endaliga	APWFSN
+støðan	SFSNA
+sæst	VNMPS3
+í	DG
+klombrunum	SNPDA
+.	KE
+
+Hon	PPFSN
+varð	VNAAS3
+vald	VAANSN
+við	DG
+396	NO
+persónligum	APSFPD
+atkvøðum	SFPD
+.	KE
+
+Fløgan	SFSNA
+er	VNAPS3
+ognað	VAANSN
+pápanum	SMSDA
+,	KC
+Birgir	SMSN-P
+Nónsgjógv	S----P
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+vanligur	APSMSN
+á	DG
+vátlendi	SNSA
+í	DG
+undirhaganum	SMSDA
+.	KE
+
+Streymgágga	SFSN
+er	VNAPS3
+smidligari	ACSFSN
+enn	DN
+agngággan	SFSNA
+.	KE
+
+Hetta	PDNSN
+er	VNAPS3
+í	DG
+brundtíðini	SFSDA
+.	KE
+
+Hon	PPFSN
+er	VNAPS3
+størsta	ASWFSN
+oyggin	SFSNA
+í	DG
+Kodiak	S----P
+-	KO
+bólkinum	SMSDA
+í	DG
+Alaska	S----P
+.	KE
+
+Juneau	S----P
+er	VNAPS3
+eisini	DN
+ein	RMSNI
+sjálvstýrandi	VPA
+landslutur	SMSN
+.	KE
+
+Anchorage	S----P
+:	KE
+Anchorage	S----P
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Alaska	S----P
+.	KE
+
+Býurin	SMSNA
+er	VNAPS3
+handils-	TT
+og	C
+samferðslumiðdepilin	SMSNA
+í	DG
+lutstatinum	SNSDA
+.	KE
+
+Gáta	SFSN
+:	KE
+Ein	RFSNI
+gáta	SFSN
+er	VNAPS3
+ein	RFSNI
+stutt	APSFSN
+søga	SFSN
+,	KC
+sum	CR
+endar	VNAPS3
+við	DG
+einum	RMSDI
+spurningi	SMSD
+.	KE
+
+Og	C
+lendið	SNSNA
+var	VNAAS3
+eisini	DN
+ein	RFSNI
+stór	APSFSN
+plága	SFSN
+í	DG
+nógvar	APSMPA
+aðrar	PBMPA
+mátar	SMPA
+.	KE
+
+Endamálið	SNSNA
+var	VNAAS3
+at	CI
+verja	VIA
+Kina	SNSA
+ímóti	DG
+álopum	SNPD
+frá	DG
+mongolskum	APSMPD
+og	C
+turkiskum	APSMPD
+ættarbólkum	SMPD
+.	KE
+
+Hon	PPFSN
+fer	VNAPS3
+aftan	DN
+á	DG
+djóraætinum	SNSDA
+,	KC
+ið	CR
+eisini	DN
+fer	VNAPS3
+uppeftir	DN
+um	DG
+náttina	SFSAA
+.	KE
+
+Lendið	SNSNA
+er	VNAPS3
+kargt	APSNSN
+og	C
+oyði	SNSN
+.	KE
+
+Ofta	DN
+eru	VNAPP3
+fleiri	ACSFPN
+legur	SFPN
+í	DG
+sama	PBNSA
+rottureiðrið	SNSAA
+,	KC
+soleiðis	DN
+eru	VNAPP3
+fleiri	ACSMPN
+rottur	SMPN
+um	DG
+somu	PBFSA
+holu	SFSA
+.	KE
+
+Hon	PPFSN
+gnagar	VNAPS3
+allastaðni	DN
+,	KC
+og	C
+er	VNAPS3
+hon	PPFSN
+til	DG
+miklan	APSMSA
+ampa	SMSA
+.	KE
+
+Í	DG
+Føroyum	SFPD-P
+hevur	VNAPS3
+hon	PPFSN
+nærum	DN
+forkomið	VAANSN
+einstøkum	APSMPD
+bjargafuglum	SMPD
+.	KE
+
+Brugdan	SFSNA
+livir	VNAPS3
+av	DN
+at	CI
+síla	VIA
+æti	SNSD
+.	KE
+
+Providence	S----P
+:	KE
+Providence	S----P
+er	VNAPS3
+høvuðsstaður	SMSN
+og	C
+størsti	ASSMSN
+býur	SMSN
+í	DG
+Rhode	S----P
+Island	F
+.	KE
+
+Størsti	ASSMSN
+býur	SMSN
+og	C
+høvuðsstaður	SMSN
+er	VNAPS3
+Yellowknife	S----P
+.	KE
+
+Jamestown	S----P
+er	VNAPS3
+størsti	ASSMSN
+býur	SMSN
+og	C
+handilsmiðdepil	SMSN
+.	KE
+
+64,9	NP
+%	M
+av	DG
+turkunum	SMPDA
+atkvøddu	VNAAP3
+ja	DI
+fyri	DG
+samanlegging	SFSD
+.	KE
+
+Ontario	S----P
+:	KE
+Ontario	S----P
+er	VNAPS3
+ein	RMSNI
+landslutur	SMSN
+í	DG
+Kanada	S----P
+.	KE
+
+Manitoba	S----P
+:	KE
+Manitoba	S----P
+er	VNAPS3
+ein	RMSNI
+landslutur	SMSN
+í	DG
+Kanada	S----P
+.	KE
+
+Oyggin	SFSNA
+hoyrir	VNAPS3
+til	DG
+Norra	SNSA-P
+.	KE
+
+Long	S----P
+Island	F
+:	KE
+Long	S----P
+Island	F
+er	VNAPS3
+størsta	ASWFSN
+oyggj	SFSN
+í	DG
+New	S----P
+York	F
+.	KE
+
+skapaðu	VNAAP3
+.	KE
+
+Umframt	DG
+frískúlan	SMSAA
+er	VNAPS3
+frítíðarstova	VIA
+og	C
+forskúli	SMSN
+í	DG
+Kelduni	SFSDAP
+.	KE
+
+Keldan	SFSNAP
+er	VNAPS3
+sjálvstøðug	APSFSN
+og	C
+ikki	DN
+formliga	APWMSN
+partur	SMSN
+av	DG
+einum	RMSDI
+ávísum	APSMSD
+trúarbólki	SMSD
+.	KE
+
+Pentagon	S----P
+:	KE
+Pentagon	S----P
+er	VNAPS3
+miðdepil	SMSN
+fyri	DG
+Verjumálaráðið	SNSAA
+í	DG
+USA	TS
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+kendastur	VAAMSN
+sum	C
+forsætisráðharri	SMSN
+í	DG
+Stórabretlandi	SFSDA
+undir	DG
+2.	NO
+heimsbardaga	SMSD
+.	KE
+
+Tvær	NCFPA
+ferðir	SFPN
+varð	VNAAS3
+hann	PPMSN
+útnevndur	VAAMSN
+Ársins	NR
+evropeiski	APSMSD
+fótbóltsleikari	SMSN
+.	KE
+
+Kankaanpää	S----P
+:	KE
+Kankaanpää	S----P
+er	VNAPS3
+ein	RMSNI
+býur	SMSN
+og	C
+ein	RFSNI
+kommuna	SFSN
+í	DG
+Finnlandi	SNSD-P
+.	KE
+
+Framsóknarflokkurin	SMSNA
+:	KE
+Framsóknarflokkurin	SMSNA
+var	VNAAS3
+ein	RMSNI
+politiskur	APSMSN
+flokkur	SMSN
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Framsøkin	SFSNA
+Ung	APSFSN
+:	KE
+Framsøkin	SFSNA
+Ung	APSFSN
+(	KO
+fyrr	DNC
+Framsøkin	SFSNA
+Ungdómur	SMSN
+,	KC
+stytt	VAAFSN
+FU	TS
+)	KO
+er	VNAPS3
+eitt	RNSNI
+politiskt	APSNSN
+ungmannafelag	SNSN
+í	DG
+Føroyum	SFPD-P
+.	KE
+
+Eyðkendur	APSMSN
+roykur	SMSN
+gongur	VNAPS3
+av	DG
+henni	PPFSD
+.	KE
+
+Her	DN
+er	VNAPS3
+ein	RFSNI
+sperra	SFSN
+,	KC
+sum	CR
+eg	PP1SN
+havi	VNAPS1
+funnið	VAANSN
+.	KE
+
+Hiiumaa	S----P
+(	KO
+landslutur	SMSN
+)	KO
+:	KE
+Hiiumaa	S----P
+er	VNAPS3
+ein	RMSNI
+landslutur	SMSN
+í	DG
+Estlandi	SNSD-P
+.	KE
+
+Tað	PPNSN
+eru	VNAPP3
+4	NO
+kommunur	SFPN
+í	DG
+landslutinum	SMSDA
+.	KE
+
+Saaremaa	S----P
+(	KO
+landslutur	SMSN
+)	KO
+:	KE
+Saaremaa	S----P
+er	VNAPS3
+ein	RMSNI
+landslutur	SMSN
+í	DG
+Estlandi	SNSD-P
+.	KE
+
+Í	DG
+dag	SMSA
+varir	VNAPS3
+kappingin	SFSNA
+í	DG
+tríggjar	NCFPA
+vikur	SFPA
+.	KE
+
+Kappingin	SFSNA
+byrjaði	VNAAS3
+í	DG
+Napoli	S----P
+og	C
+endaði	VNAAS3
+í	DG
+Brescia	S----P
+.	KE
+
+Sigrar	SMPN
+eftir	DG
+landi	SNSD
+.	KE
+
+Hann	PPMSN
+er	VNAPS3
+eisini	DN
+ríkisborgari	SMSN
+í	DG
+Liechtenstein	S----P
+.	KE
+
+Franska	APWNSN
+fótbóltslandsliðið	SNSNA
+:	KE
+Franska	APWNSN
+fótbóltslandsliðið	SNSNA
+er	VNAPS3
+fótbóltslandslið	X
+Fraklands	SNSG-P
+.	KE
+
+Í	DG
+2016	NO
+væntar	VNAPS3
+oyggin	SFSNA
+at	CI
+fáa	VIA
+yvir	DG
+tíggju	NC
+milliónir	SFPA
+ferðafólk	SNPA
+á	DG
+vitjan	SFSA
+.	KE
+
+Kappingin	SFSNA
+var	VNAAS3
+merkt	VAANSN
+av	DG
+vánaligum	APSNPD
+veðurlíkindum	SNPD
+.	KE
+
+""""	KQ
+Súkklarar	SMPN
+við	DG
+skráskrift	SFSD
+eru	VNAPP3
+virknir	APSMPN
+súkklarar	SMPN
+.	KE
+
+Filmurin	SMSNA
+er	VNAPS3
+gott	APSNSN
+2	NO
+tímar	SMPA
+langur	APSMSN
+og	C
+harav	DN
+eru	VNAPP3
+10	NO
+minuttir	SMPN
+tikið	VAANSN
+upp	DN
+í	DG
+Føroyum	SFPD-P
+.	KE
+
